@@ -1,0 +1,30 @@
+[
+  {
+    "path": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/DecShadow.shader",
+    "sha256": "adb83d4848a0c986942a00f0d50abe99d929daa67c1f057208afce3590b24e36",
+    "bytes": 28756,
+    "sourcePackage": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-10\\PVE混剪.unitypackage",
+    "packageMember": "6e46eb022277fe44eb5eeb162a4551b4/asset"
+  },
+  {
+    "path": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/DecShadow.shader.meta",
+    "sha256": "982f43f037d117c1117ed64ac1967e06a010f7cf4c7b356db29c71421257ee0b",
+    "bytes": 381,
+    "sourcePackage": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-10\\PVE混剪.unitypackage",
+    "packageMember": "6e46eb022277fe44eb5eeb162a4551b4/asset.meta"
+  },
+  {
+    "path": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/Grid.shader",
+    "sha256": "8b34b19fbf135802f4e749f232dd0829c000b9808119d43f7934ac6e0957e61a",
+    "bytes": 4980,
+    "sourcePackage": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-10\\PVE混剪.unitypackage",
+    "packageMember": "736974b9f28792b4a8cbc2a70e792395/asset"
+  },
+  {
+    "path": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/Grid.shader.meta",
+    "sha256": "ab31a676bf537e1edc20d3af1d8b1dc6d888321ad15f4ec1d6f2782315fd277d",
+    "bytes": 289,
+    "sourcePackage": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-10\\PVE混剪.unitypackage",
+    "packageMember": "736974b9f28792b4a8cbc2a70e792395/asset.meta"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "source": "C:\\Users\\89trillion\\Downloads\\pve pvp真实感混剪.pdf",
+  "repositoryPath": "docs/requirements/original/pve pvp真实感混剪.pdf",
+  "bytes": 26895055,
+  "sha256": "ecb52eeaf5891655c699a30ba20ee487c81e432e012c314965fd9f6bee4561a0",
+  "pages": 16,
+  "extraction": "PyMuPDF text and link extraction; original PDF is authoritative for all tables and images",
+  "sections": [
+    {
+      "id": 1,
+      "pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": 2,
+      "pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": 3,
+      "pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": 4,
+      "pages": [
+        11
+      ]
+    }
+  ]
+}

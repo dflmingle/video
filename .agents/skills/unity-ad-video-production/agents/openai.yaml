@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity 投放视频制作"
+  short_description: "先拆解需求、核对参考并输出制作方案，核实后再开展 Unity 投放视频制作与验收"
+  default_prompt: "使用 $unity-ad-video-production 拆解需求并仔细核对各项参考，输出含逐项实现与验收条件的制作方案，提交核实确认后再开始 Unity 制作。"

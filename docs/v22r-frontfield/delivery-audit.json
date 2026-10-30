@@ -1,0 +1,43 @@
+{
+  "firstRedMovement": 0.016666666666666666,
+  "firstBlueMovement": 0.016666666666666666,
+  "openingRootVisible": 1224,
+  "minimumAllFrameRootVisible": 1123,
+  "flash": {
+    "evidence": {
+      "onlyActualDamagedMembers": true,
+      "invalid": [],
+      "peak": 0.98,
+      "preHitZero": true,
+      "endedAt150ms": true
+    },
+    "flash-only-evidence": {
+      "onlyActualDamagedMembers": true,
+      "invalid": [],
+      "peak": 0.98,
+      "preHitZero": true,
+      "endedAt150ms": true
+    }
+  },
+  "camera": {
+    "layout-preview": {
+      "frames": 455,
+      "constant": true,
+      "errors": []
+    },
+    "flash-only": {
+      "frames": 795,
+      "constant": true,
+      "errors": []
+    }
+  },
+  "comparisonIsNormalSpeed": true,
+  "formalRender": false,
+  "unresolved": "Compact layout materially shortens archery window; retained accepted battle plus flash is the conservative usable result",
+  "sourceHashes": {
+    "src\\main-v22.js": "c97e0f2f465136b57c8b6f7654aa4237b71ed5e35bef3a97fe5fd9eee0342deb",
+    "src\\assets-v22.js": "a2575c64b0034a236a1c240d363d6a16c7335480a28a8c5bb5e8988413fcbb09",
+    "src\\castle-approved-v22r.js": "c3be4aaf41f0d8bd2f1b9a76b96cfcd705300323f436badfe3033432b28493b6",
+    "public\\native-scenes\\CastleExterior-scene\\manifest.json": "631e222361b70bf4948ce54deae556ae1f480365e8e7165493c24161e386e833"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-melee\\C1-plus-continuation-joined-720x1080-60fps.mp4",
+  "prefixFrames": 159,
+  "continuationFrames": 636,
+  "totalFrames": 795,
+  "fps": 60.0,
+  "width": 720,
+  "height": 1080,
+  "duration": 13.25,
+  "joinFrame": "C1 F158 (2.633333s) -> continuation F159 (2.650000s), no overlap",
+  "sha256": "52a364a61a436922f8d2e895e15671d5d3af9b9d1770b18bd3aa2e493888bab0",
+  "sourcePrefix": "output/v22r-burst/C1-preview/frames",
+  "sourceContinuation": "output/v22r-melee/preview/frames/F0159..F0794",
+  "normalSpeed": true,
+  "noLoop": true,
+  "noRetime": true
+}

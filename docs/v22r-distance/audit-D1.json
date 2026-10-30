@@ -1,0 +1,138 @@
+{
+  "baseline": {
+    "firstRelease": 0.43333333333333335,
+    "firstArrowHit": 0.6166666666666667,
+    "firstMeleeHit": 0.6166666666666667,
+    "duration": 7.583333333333333,
+    "arrows": 270,
+    "arrowHits": 117
+  },
+  "protectedSourcesUnchanged": {
+    "src/main-v22.js": true,
+    "src/assets-v22.js": true,
+    "src/castle-approved-v22r.js": true,
+    "src/environment-native-v22.js": true,
+    "tools/build_simulation_v22.py": true,
+    "tools/build_melee_continuation_v22r.py": true,
+    "tools/melee_continuation_v22r.py": true,
+    "tools/archers_v22.py": true,
+    "tools/archers_burst_v22r.py": true,
+    "public/native-scenes/CastleExterior-scene/manifest.json": true
+  },
+  "candidates": [
+    {
+      "label": "D1",
+      "configChanges": {
+        "duration": {
+          "baseline": 7.583333333333333,
+          "candidate": 9.85
+        },
+        "redArmyTranslations": {
+          "baseline": null,
+          "candidate": {
+            "red": [
+              -0.0009465402543201406,
+              -0.4923753739409097
+            ],
+            "orange": [
+              -0.0009465402543201406,
+              -0.4923753739409097
+            ],
+            "yellow": [
+              -0.0009465402543201406,
+              -0.4923753739409097
+            ]
+          }
+        }
+      },
+      "memberRulesUnchanged": {
+        "speed": true,
+        "maxAcceleration": true,
+        "aimSeconds": true,
+        "drawSeconds": true,
+        "recoverSeconds": true,
+        "cycle": true,
+        "color": true,
+        "platoon": true,
+        "id": true,
+        "team": true
+      },
+      "maximumInitialRigidTranslationError": 9.537748940635637e-07,
+      "frontNetGap": 5.416140074813713,
+      "actualIncreaseRatio": 0.1000001936601036,
+      "nearestInitialBodyNetDistance": 7.074018775416749,
+      "minimumWallFrontDistance": 2.59033226547907,
+      "obstacleBodyViolations": [],
+      "sweptObstacleViolations": [],
+      "invalidArrowEvents": [],
+      "invalidMeleeEvents": [],
+      "firstRedMovement": 0.016666666666666666,
+      "firstBlueMovement": 0.016666666666666666,
+      "firstRelease": 0.43333333333333335,
+      "firstArrowHit": 0.6166666666666667,
+      "firstMeleeRangeContact": 0.35,
+      "firstMeleeHit": 0.6333333333333333,
+      "openingRootVisible": 1224,
+      "minimumAllFrameRootVisible": 796,
+      "totalMembers": 1224,
+      "maximumDeadRootDrift": 0.0,
+      "openingChargeWorldSpeeds": {
+        "0.1": {
+          "redMedianLivingSpeed": 9.840727806091309,
+          "redMoving": 972
+        },
+        "0.3": {
+          "redMedianLivingSpeed": 21.679058074951172,
+          "redMoving": 972
+        },
+        "0.5": {
+          "redMedianLivingSpeed": 21.585224151611328,
+          "redMoving": 972
+        }
+      },
+      "battle": {
+        "prefixArraysEqual": {
+          "trajectories": true,
+          "gait-distance": true,
+          "hit-times": true,
+          "red-control": true,
+          "gait-cycles": true,
+          "blue-control": true
+        },
+        "prefixEventsFrozen": true,
+        "winner": "red",
+        "wonAt": 9.133333333333333,
+        "duration": 9.85,
+        "aliveRed": 964,
+        "aliveBlue": 0,
+        "meleeAttempts": 1239,
+        "meleeHits": 756,
+        "meleeKills": 252,
+        "arrowReleases": 284,
+        "arrowHits": 126,
+        "arrowKills": 8,
+        "minimumBodyCenter": 0.6144868165011892,
+        "minimumSweptBodyCenter": 0.6144868165011892,
+        "physicalBodyDiameter": 0.58,
+        "meleeRules": {
+          "blueHP": 3,
+          "redDamage": 1,
+          "attackDuration": 0.466667,
+          "impactPhase": 0.55,
+          "reach": 1.5
+        },
+        "termination": "SIDE_ELIMINATED"
+      },
+      "firstRootOutsideFrame": 6.55,
+      "rootVisibleAtSeconds": {
+        "0": 1224,
+        "1": 1224,
+        "2": 1224,
+        "4": 1224,
+        "6": 1224,
+        "7": 1174
+      }
+    }
+  ],
+  "formalRender": false
+}

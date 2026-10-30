@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools==80.9.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "watchvideo"
+dynamic = ["version"]
+description = "Analyze local or remote videos with yt-dlp, ffmpeg, subtitles, transcription hooks, and keyframes."
+requires-python = ">=3.11"
+classifiers = [
+  "Operating System :: MacOS",
+  "Operating System :: POSIX :: Linux",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3.14",
+]
+
+[project.scripts]
+watchvideo = "watchvideo.cli:main"
+
+[tool.setuptools]
+packages = ["watchvideo"]
+
+[tool.setuptools.dynamic]
+version = {attr = "watchvideo.__version__"}
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

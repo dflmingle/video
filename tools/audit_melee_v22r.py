@@ -41,6 +41,8 @@ for e,old in zip(S['events'],frozen['events']):
 report=dict(A,prefixEventViewExact=prefixEvents,deadShooterReleases=badShot,invalidMeleeHits=badMelee,firstMeleeAttempt=min(e['time'] for e in S['meleeEvents']),firstMeleeHit=min(e['time'] for e in S['meleeEvents'] if e['damage']),firstBlueDeath=min(deaths[:nb]),no4UnitTermination=True,bodyModel='2D ground discs radius .29, fixed corpse roots, velocity projection and swept segment checks; not full animated mesh collision',legacySceneIssue='Original C1 castle crossing and opening off-screen units retained; no army or scenery moved',timeline=rows,sourceHashes={str(p.relative_to(P)):hashlib.sha256(p.read_bytes()).hexdigest() for p in [P/'tools/melee_continuation_v22r.py',P/'tools/build_melee_continuation_v22r.py',P/'src/main-v22.js']})
 report['invalidArrowEndpoints']=badArrowEndpoints
 report['midSwingTargetChanges']=swappedAttackTargets
+report['maximumDeadRootDrift']=max(float(np.linalg.norm(pos[round(t*60):,i]-pos[round(t*60),i],axis=1).max()) for i,t in enumerate(deaths) if t<1e5)
+report['prefixDeathTimesExact']=all((u.get('deathTime') if u.get('deathTime') is not None and u['deathTime']<=2.65 else None)==(v.get('deathTime') if v.get('deathTime') is not None and v['deathTime']<=2.65 else None) for u,v in zip(units,frozen['units']))
 (D/'data-audit.json').write_text(json.dumps(report,indent=2),encoding='utf8')
 print(json.dumps({k:v for k,v in report.items() if k not in ['timeline','sourceHashes']},indent=2))
-assert prefixEvents and not badShot and not badMelee and not badArrowEndpoints and not swappedAttackTargets
+assert prefixEvents and report['prefixDeathTimesExact'] and report['maximumDeadRootDrift']==0 and not badShot and not badMelee and not badArrowEndpoints and not swappedAttackTargets

@@ -1,0 +1,136 @@
+{
+  "baseline": "V22R-frontfield",
+  "baselineCommit": "a64a654",
+  "normal": [
+    0.0019223920516772271,
+    0.9999981522026926
+  ],
+  "maximumCastleTranslation": 4.55,
+  "searchStep": 0.025,
+  "castleStep": 0.01,
+  "screenMarginPixels": 8,
+  "fullActorEnvelope": {
+    "radius": 0.45,
+    "height": 1.8
+  },
+  "buildingOriginalSideCroppingRetained": true,
+  "candidates": [
+    {
+      "label": "E1",
+      "variant": "V22R-depth-E1",
+      "seed": "V22R-depth-E1-seed",
+      "baselineFrontNetGap": 4.92376283752481,
+      "actualFrontNetGap": 7.3856442562872155,
+      "actualIncreaseRatio": 0.5,
+      "redRigidTranslation": [
+        -0.004732701271600703,
+        -2.4618768697045486
+      ],
+      "blueRigidTranslation": [
+        0.0,
+        0.0
+      ],
+      "castleBackDistance": 3.0,
+      "sceneLayout": {
+        "objectPaths": [
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/polySurface18",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/rock.016",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (3)/CastleExterior_Stakes_01",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (2)/CastleExterior_Stakes_01",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (3)/CastleExterior_Stakes_02",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (2)/CastleExterior_Stakes_02"
+        ],
+        "previewTranslation": [
+          -0.005767176155031682,
+          0.0,
+          -2.9999944566080776
+        ],
+        "castleBackDistance": 3.0,
+        "source": "Unity CastleExterior original meshes; same rigid delta for building and four immediately adjoining stakes"
+      }
+    },
+    {
+      "label": "E2",
+      "variant": "V22R-depth-E2",
+      "seed": "V22R-depth-E2-seed",
+      "baselineFrontNetGap": 4.92376283752481,
+      "actualFrontNetGap": 9.84752567504962,
+      "actualIncreaseRatio": 1.0,
+      "redRigidTranslation": [
+        -0.009465402543201405,
+        -4.923753739409097
+      ],
+      "blueRigidTranslation": [
+        0.0,
+        0.0
+      ],
+      "castleBackDistance": 4.55,
+      "sceneLayout": {
+        "objectPaths": [
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/polySurface18",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/rock.016",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (3)/CastleExterior_Stakes_01",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (2)/CastleExterior_Stakes_01",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (3)/CastleExterior_Stakes_02",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (2)/CastleExterior_Stakes_02"
+        ],
+        "previewTranslation": [
+          -0.008746883835131383,
+          0.0,
+          -4.549991592522251
+        ],
+        "castleBackDistance": 4.55,
+        "source": "Unity CastleExterior original meshes; same rigid delta for building and four immediately adjoining stakes"
+      }
+    },
+    {
+      "label": "E3",
+      "variant": "V22R-depth-E3",
+      "seed": "V22R-depth-E3-seed",
+      "baselineFrontNetGap": 4.92376283752481,
+      "actualFrontNetGap": 12.19876283752481,
+      "actualIncreaseRatio": 1.4775285163119602,
+      "redRigidTranslation": [
+        -0.011005694495852127,
+        -5.724989421360416
+      ],
+      "blueRigidTranslation": [
+        0.002979707680099702,
+        1.5499971359141735
+      ],
+      "castleBackDistance": 4.55,
+      "sceneLayout": {
+        "objectPaths": [
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/polySurface18",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/rock.016",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (3)/CastleExterior_Stakes_01",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (2)/CastleExterior_Stakes_01",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (3)/CastleExterior_Stakes_02",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (2)/CastleExterior_Stakes_02"
+        ],
+        "previewTranslation": [
+          -0.008746883835131383,
+          0.0,
+          -4.549991592522251
+        ],
+        "castleBackDistance": 4.55,
+        "source": "Unity CastleExterior original meshes; same rigid delta for building and four immediately adjoining stakes"
+      }
+    }
+  ],
+  "protectedSourceHashes": {
+    "src/main-v22.js": "c97e0f2f465136b57c8b6f7654aa4237b71ed5e35bef3a97fe5fd9eee0342deb",
+    "src/assets-v22.js": "a2575c64b0034a236a1c240d363d6a16c7335480a28a8c5bb5e8988413fcbb09",
+    "src/camera-v22.js": "abf94d551f62daf8c331a4bb5f49b2ef34aafae35b0a8956713ee5c9e4e9306a",
+    "src/castle-approved-v22r.js": "c3be4aaf41f0d8bd2f1b9a76b96cfcd705300323f436badfe3033432b28493b6",
+    "tools/build_simulation_v22.py": "de4f7ef3f219247d30f4bd22fb7ef6a42a2d28afcb3d52bc7b2c8a8332aee6aa",
+    "tools/build_melee_continuation_v22r.py": "27264e9dbfd50316e01f853157ba793ec73d6418f0a0557fe4077be4ce1c667e",
+    "tools/melee_continuation_v22r.py": "e9ebbef9fadf226f257c12bead449d2f534a7946d54f7a0e31b11ce85fa532a7",
+    "tools/archers_v22.py": "3cb3004a1be5c72a4732ffe9b4b967772d7c3226c43fe1266d275c7e382b9c94",
+    "tools/archers_burst_v22r.py": "a5a144057d5a0e0cacc235c5806a30d98eb672388fd01882c900e1e58d43eb85",
+    "public/native-scenes/CastleExterior-scene/manifest.json": "631e222361b70bf4948ce54deae556ae1f480365e8e7165493c24161e386e833",
+    "tools/motion_v22.py": "dba45120d48a892f0625d510a1870db9dc804878a202dfc31e5d4e5ccba264cf",
+    "tools/combat_response_v22.py": "e6d0f7e35a458540a9cf5db52c9835b94712624d8a125e3ec3e225de3fd68aec",
+    "src/archer-pose-v22.js": "b5cc11438372267e793e5e4f22349501a6fd7c4b81879705ca5802fb5a9a9760"
+  }
+}

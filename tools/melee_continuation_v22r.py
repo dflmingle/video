@@ -54,6 +54,9 @@ class MeleeContinuation:
   m.bluePositions=a.position[living];m.update_formation_pressure()
   speed=np.array([m.compute_desired_speed(i,t,1.) if not m.dead[i] else 0. for i in range(m.n)])
   desired=np.column_stack([np.clip((m.initial[:,0]-m.position[:,0])*1.5,-1.,1.),speed])
+  if m.config.get('freshLayoutContinuation'):
+   for i,u in enumerate(m.units):
+    if t<u['delay']:desired[i]=0.
   near=dist<10.
   localSpeed=np.minimum(speed,np.sqrt(2*65.*np.maximum(0.,dist-1.05)))
   desired[near]=direction[near]*localSpeed[near,None]

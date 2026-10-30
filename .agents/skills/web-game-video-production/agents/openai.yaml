@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web 游戏演示与视频制作"
+  short_description: "先拆解需求与参考、确认方案，再制作并验收浏览器游戏演示和视频"
+  default_prompt: "使用 $web-game-video-production 核对需求与参考，先整理制作和技术方案，再按已确认范围完成 Web 游戏演示及所需录制。"

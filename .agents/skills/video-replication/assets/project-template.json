@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "mode": "FAITHFUL",
+  "source": {"path": null, "sha256": null, "fps": null, "frames_reported": null, "time_basis": "UNKNOWN"},
+  "analysis": {"start": 0, "end": null, "coordinate_space": "analysis_px", "camera": "UNKNOWN", "config": {}},
+  "objects": [],
+  "groups": [],
+  "memberships": [],
+  "events": [],
+  "effect_observations": [],
+  "asset_map": [],
+  "validation": [],
+  "project_controls": {"protected_inputs": [], "final_layer_order": [], "time_alignment": null, "render_engine": null, "acceptance_thresholds": {}, "unknowns": []}
+}

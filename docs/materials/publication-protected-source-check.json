@@ -1,0 +1,84 @@
+{
+  "sourceHead": "1a6f431db9040d8de3f93273a4169d4de32e9d5e",
+  "method": "Compare actual publication files to source Git blobs, ignoring only CRLF/LF checkout normalization; no semantic source changes allowed.",
+  "files": [
+    {
+      "path": "src/main-v22.js",
+      "sourceGitBlobSHA256": "4f04bf343fac217605829455fa2ce911fb205488bbd5f0ed3125715509e6e62c",
+      "publishedFileSHA256": "c97e0f2f465136b57c8b6f7654aa4237b71ed5e35bef3a97fe5fd9eee0342deb",
+      "equalAfterGitLineEndingNormalization": true
+    },
+    {
+      "path": "src/assets-v22.js",
+      "sourceGitBlobSHA256": "b88083544991fd964c8652416e68d14e4b5b2f4dc8b94a469298fb2d3d130aa5",
+      "publishedFileSHA256": "a2575c64b0034a236a1c240d363d6a16c7335480a28a8c5bb5e8988413fcbb09",
+      "equalAfterGitLineEndingNormalization": true
+    },
+    {
+      "path": "src/camera-v22.js",
+      "sourceGitBlobSHA256": "5a12fec2be1dbc380b0ea40f02d68ee24b272f1c725969db7fb4226165202ed5",
+      "publishedFileSHA256": "abf94d551f62daf8c331a4bb5f49b2ef34aafae35b0a8956713ee5c9e4e9306a",
+      "equalAfterGitLineEndingNormalization": true
+    },
+    {
+      "path": "src/castle-approved-v22r.js",
+      "sourceGitBlobSHA256": "c3be4aaf41f0d8bd2f1b9a76b96cfcd705300323f436badfe3033432b28493b6",
+      "publishedFileSHA256": "771024e137de37cbfd1982bdc0d28839f3d0ac7bcb6dac013bd5a24ea7476dde",
+      "equalAfterGitLineEndingNormalization": true
+    },
+    {
+      "path": "tools/build_simulation_v22.py",
+      "sourceGitBlobSHA256": "c4d3a51185edf2bbb7b81750b4f1925790343a04ed33f14e27044d98748d242f",
+      "publishedFileSHA256": "de4f7ef3f219247d30f4bd22fb7ef6a42a2d28afcb3d52bc7b2c8a8332aee6aa",
+      "equalAfterGitLineEndingNormalization": true
+    },
+    {
+      "path": "tools/build_melee_continuation_v22r.py",
+      "sourceGitBlobSHA256": "27264e9dbfd50316e01f853157ba793ec73d6418f0a0557fe4077be4ce1c667e",
+      "publishedFileSHA256": "e88485572bc22124c052fdaaac01a045d9773c99569a526da2dcb889ab99a513",
+      "equalAfterGitLineEndingNormalization": true
+    },
+    {
+      "path": "tools/melee_continuation_v22r.py",
+      "sourceGitBlobSHA256": "e9ebbef9fadf226f257c12bead449d2f534a7946d54f7a0e31b11ce85fa532a7",
+      "publishedFileSHA256": "9c49b01b4e00e00a6deaaca41b37da2bf6eff0b338a89629a0ce8d1c7121409f",
+      "equalAfterGitLineEndingNormalization": true
+    },
+    {
+      "path": "tools/archers_v22.py",
+      "sourceGitBlobSHA256": "13c7cfcd5343ec094d8b87486963608aade52c35fce48b1d51f9ed8805930028",
+      "publishedFileSHA256": "3cb3004a1be5c72a4732ffe9b4b967772d7c3226c43fe1266d275c7e382b9c94",
+      "equalAfterGitLineEndingNormalization": true
+    },
+    {
+      "path": "tools/archers_burst_v22r.py",
+      "sourceGitBlobSHA256": "a5a144057d5a0e0cacc235c5806a30d98eb672388fd01882c900e1e58d43eb85",
+      "publishedFileSHA256": "a6041554a3de3712d287958bfde479d290cced6ba3a86e1673f657074c02f6b8",
+      "equalAfterGitLineEndingNormalization": true
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-scene/manifest.json",
+      "sourceGitBlobSHA256": "631e222361b70bf4948ce54deae556ae1f480365e8e7165493c24161e386e833",
+      "publishedFileSHA256": "631e222361b70bf4948ce54deae556ae1f480365e8e7165493c24161e386e833",
+      "equalAfterGitLineEndingNormalization": true
+    },
+    {
+      "path": "tools/motion_v22.py",
+      "sourceGitBlobSHA256": "36f3358ef1c455ac6d4ee266237d68197f906a94875aa14cd825a64d9d027bb2",
+      "publishedFileSHA256": "dba45120d48a892f0625d510a1870db9dc804878a202dfc31e5d4e5ccba264cf",
+      "equalAfterGitLineEndingNormalization": true
+    },
+    {
+      "path": "tools/combat_response_v22.py",
+      "sourceGitBlobSHA256": "93e396199a882b737ab924c72590698d2ea74ad4569125510614338f3c70e9b6",
+      "publishedFileSHA256": "e6d0f7e35a458540a9cf5db52c9835b94712624d8a125e3ec3e225de3fd68aec",
+      "equalAfterGitLineEndingNormalization": true
+    },
+    {
+      "path": "src/archer-pose-v22.js",
+      "sourceGitBlobSHA256": "8b60cba255b7a71cf198f8dbd737eb4f190cf02c75442d50f8333f291626f742",
+      "publishedFileSHA256": "b5cc11438372267e793e5e4f22349501a6fd7c4b81879705ca5802fb5a9a9760",
+      "equalAfterGitLineEndingNormalization": true
+    }
+  ]
+}

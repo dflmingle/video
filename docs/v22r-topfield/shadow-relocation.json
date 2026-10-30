@@ -1,0 +1,38 @@
+{
+  "originalPath": "C:\\Users\\89trillion\\PveMontageShot01V22R\\assets\\imported\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Land_C.png",
+  "originalSHA256": "a32e7e935c32d55e982dafdd86d1d0d37220fd960eaaf5cf260bbf09a8fef466",
+  "derivedPath": "C:\\Users\\89trillion\\PveMontageShot01V22R\\public\\native-scenes\\layout-derived\\topfield\\CastleExterior_Land_C-shadow-moved.png",
+  "derivedSHA256": "c316685fc0747b92f15bd2c921e1bdbc2d9fdb6d70bfd2e3397ad87e2032e0d8",
+  "method": "Original baked castle shadow connected components; harmonic terrain repair from original unshadowed boundary; relocate shadow ratio through native ground UV affine map",
+  "terrainRepairUVPixelBounds": [
+    210,
+    325,
+    440,
+    960
+  ],
+  "originalUnchanged": true,
+  "worldTranslation": [
+    -0.03444926556605592,
+    0.0,
+    -17.919966887472253
+  ],
+  "uvTranslation": [
+    -0.09676755561844089,
+    -0.00018602553660930718
+  ],
+  "pixelTranslation": [
+    -99.08997695328347,
+    0.19049014948793055
+  ],
+  "shadowMaskPixels": 55586,
+  "components": [
+    1
+  ],
+  "limitation": "Original texture has no unshadowed layer. Ground directly beneath the old baked castle shadow is locally approximated by harmonic interpolation; other source texture regions remain unchanged.",
+  "measuredShadowCentroidPixelTranslation": [
+    -99.09374770664789,
+    0.1875487280200332
+  ],
+  "maximumTranslationPixelError": 0.003770753364420898,
+  "shadowOpacityMassRatio": 0.9999999403953552
+}

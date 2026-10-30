@@ -1,0 +1,65 @@
+{
+  "baseline": "V22R-frontfield",
+  "baselineCommit": "dad41db",
+  "normal": [
+    0.0019223920516772271,
+    0.9999981522026926
+  ],
+  "centralWallTopPixels": 8.035130288322534,
+  "centralWallBottomPixels": 92.23506675586617,
+  "redMaximumMeasured": 19.1,
+  "redReservedCastleMargin": 1.5,
+  "peripheralTowerTopCroppingAllowed": true,
+  "candidates": [
+    {
+      "label": "T1",
+      "variant": "V22R-topfield-T1",
+      "seed": "V22R-topfield-T1-seed",
+      "baselineFrontNetGap": 4.92376283752481,
+      "actualFrontNetGap": 22.523762837524814,
+      "actualIncreaseRatio": 3.5745019776069418,
+      "redRigidTranslation": [
+        -0.0338341001095192,
+        -17.59996747876739
+      ],
+      "blueRigidTranslation": [
+        0.0,
+        0.0
+      ],
+      "castleBackDistance": 17.92,
+      "sceneLayout": {
+        "objectPaths": [
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/polySurface18",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/rock.016",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (3)/CastleExterior_Stakes_01",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (2)/CastleExterior_Stakes_01",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (3)/CastleExterior_Stakes_02",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (2)/CastleExterior_Stakes_02"
+        ],
+        "previewTranslation": [
+          -0.03444926556605592,
+          0.0,
+          -17.919966887472253
+        ],
+        "castleBackDistance": 17.92,
+        "source": "Unity CastleExterior original meshes; same rigid delta for building and four immediately adjoining stakes",
+        "groundTextureOverride": "/native-scenes/layout-derived/topfield/CastleExterior_Land_C-shadow-moved.png"
+      }
+    }
+  ],
+  "protectedSourceHashes": {
+    "src/main-v22.js": "c97e0f2f465136b57c8b6f7654aa4237b71ed5e35bef3a97fe5fd9eee0342deb",
+    "src/assets-v22.js": "a2575c64b0034a236a1c240d363d6a16c7335480a28a8c5bb5e8988413fcbb09",
+    "src/camera-v22.js": "abf94d551f62daf8c331a4bb5f49b2ef34aafae35b0a8956713ee5c9e4e9306a",
+    "src/castle-approved-v22r.js": "c3be4aaf41f0d8bd2f1b9a76b96cfcd705300323f436badfe3033432b28493b6",
+    "tools/build_simulation_v22.py": "de4f7ef3f219247d30f4bd22fb7ef6a42a2d28afcb3d52bc7b2c8a8332aee6aa",
+    "tools/build_melee_continuation_v22r.py": "27264e9dbfd50316e01f853157ba793ec73d6418f0a0557fe4077be4ce1c667e",
+    "tools/melee_continuation_v22r.py": "e9ebbef9fadf226f257c12bead449d2f534a7946d54f7a0e31b11ce85fa532a7",
+    "tools/archers_v22.py": "3cb3004a1be5c72a4732ffe9b4b967772d7c3226c43fe1266d275c7e382b9c94",
+    "tools/archers_burst_v22r.py": "a5a144057d5a0e0cacc235c5806a30d98eb672388fd01882c900e1e58d43eb85",
+    "public/native-scenes/CastleExterior-scene/manifest.json": "631e222361b70bf4948ce54deae556ae1f480365e8e7165493c24161e386e833",
+    "tools/motion_v22.py": "dba45120d48a892f0625d510a1870db9dc804878a202dfc31e5d4e5ccba264cf",
+    "tools/combat_response_v22.py": "e6d0f7e35a458540a9cf5db52c9835b94712624d8a125e3ec3e225de3fd68aec",
+    "src/archer-pose-v22.js": "b5cc11438372267e793e5e4f22349501a6fd7c4b81879705ca5802fb5a9a9760"
+  }
+}

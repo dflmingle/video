@@ -1,0 +1,21 @@
+{
+  "combatArraysIdentical": {
+    "blue-control.f32": true,
+    "blue-hit-times.f32": true,
+    "gait-cycles.f32": true,
+    "gait-distance.f32": true,
+    "hit-times.f32": true,
+    "melee-control.f32": true,
+    "red-control.f32": true,
+    "trajectories.f32": true,
+    "velocities.f32": true,
+    "blue-control.npy": true,
+    "gait-cycles.npy": true,
+    "gait-distance.npy": true,
+    "hit-times.npy": true,
+    "red-control.npy": true,
+    "trajectories.npy": true,
+    "velocities.npy": true
+  },
+  "originalTextureUnchanged": true
+}

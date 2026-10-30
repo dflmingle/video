@@ -1,0 +1,57 @@
+{
+  "outputs": [
+    {
+      "label": "E1",
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-depth\\E1-battlefield-depth-preview-720x1080-60fps.mp4",
+      "frames": 587,
+      "fps": 60,
+      "duration": 9.783333333333333,
+      "width": 720,
+      "height": 1080,
+      "sha256": "3f18569837201745ad95e02e21e1d67c66f02e95e32975d37e7ee1fe99b70ecb"
+    },
+    {
+      "label": "E2",
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-depth\\E2-battlefield-depth-preview-720x1080-60fps.mp4",
+      "frames": 470,
+      "fps": 60,
+      "duration": 7.833333333333333,
+      "width": 720,
+      "height": 1080,
+      "sha256": "170bfb3f545515d9ff7b518f76890edc36dca5de26a04b0cb08aec9ac2b7569a"
+    },
+    {
+      "label": "E3",
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-depth\\E3-battlefield-depth-FAILED-incomplete-safe-prefix-preview-720x1080-60fps.mp4",
+      "frames": 481,
+      "fps": 60,
+      "duration": 8.016666666666667,
+      "width": 720,
+      "height": 1080,
+      "sha256": "80c2f3da8fc0aef042e705bf142274ee8bdc8d9fdad806fc9b35e3ce386897a4"
+    }
+  ],
+  "camera": {
+    "E1": {
+      "constant": true,
+      "errors": [],
+      "frames": 587
+    },
+    "E2": {
+      "constant": true,
+      "errors": [],
+      "frames": 470
+    },
+    "E3": {
+      "constant": true,
+      "errors": [],
+      "frames": 481
+    }
+  },
+  "noRetime": true,
+  "noLoop": true,
+  "noFrozenTail": true,
+  "formalRender": false,
+  "fullNormalSpeedVisualViewing": false,
+  "E3CompleteBattle": false
+}

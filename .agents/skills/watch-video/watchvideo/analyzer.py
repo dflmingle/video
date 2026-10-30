@@ -1,0 +1,376 @@
+from __future__ import annotations
+
+from pathlib import Path
+import tempfile
+
+from .commands import CommandError
+from .downloader import YtDlpClient
+from .keyframes import DEFAULT_MAX_KEYFRAMES
+from .media import FfmpegClient
+from .models import (
+    AnalysisReport,
+    CleanupRecord,
+    DownloadAttempt,
+    Source,
+    SubtitleCue,
+    TranscriptionInfo,
+)
+from .ocr import TesseractOcr
+from .sources import classify_source
+from .subtitles import collect_subtitle_files, cues_to_plain_text, load_subtitle_file
+from .transcription import WhisperCppAutoSetup, WhisperCppTranscriber, WhisperTranscriber
+
+
+class VideoAnalyzer:
+    def __init__(
+        self,
+        downloader: YtDlpClient | None = None,
+        media_client: FfmpegClient | None = None,
+        transcriber: WhisperTranscriber | None = None,
+        whisper_cpp_transcriber: WhisperCppTranscriber | None = None,
+        whisper_cpp_setup: WhisperCppAutoSetup | None = None,
+        ocr_engine: TesseractOcr | None = None,
+        auto_transcribe_setup: bool = True,
+    ):
+        self.downloader = downloader or YtDlpClient()
+        self.media_client = media_client or FfmpegClient()
+        self.transcriber = transcriber or WhisperTranscriber()
+        self.whisper_cpp_transcriber = whisper_cpp_transcriber or WhisperCppTranscriber()
+        self.whisper_cpp_setup = whisper_cpp_setup or WhisperCppAutoSetup()
+        self.ocr_engine = ocr_engine or TesseractOcr(enabled=True)
+        self.auto_transcribe_setup = auto_transcribe_setup
+
+    def analyze(
+        self,
+        source_value: str,
+        output_dir: Path,
+        subtitle_languages: list[str] | None = None,
+        max_height: int | None = 1080,
+        keyframe_interval: float = 10.0,
+        max_keyframes: int | None = DEFAULT_MAX_KEYFRAMES,
+        language: str | None = None,
+        enable_ocr: bool = False,
+        cleanup_downloaded_video: bool = True,
+    ) -> AnalysisReport:
+        # 编排边界：这里负责调度各阶段，不把下载/转写/抽帧细节写在一起。
+        source = classify_source(source_value)
+        output_dir = output_dir.resolve()
+        output_dir.mkdir(parents=True, exist_ok=True)
+        runs_dir = output_dir / ".runs"
+        runs_dir.mkdir(parents=True, exist_ok=True)
+        run_dir = Path(tempfile.mkdtemp(prefix="run-", dir=runs_dir)).resolve()
+        warnings: list[str] = []
+        video_path: Path | None = None
+        try:
+            video_path, subtitle_files = self._prepare_source(
+                source=source,
+                output_dir=run_dir,
+                subtitle_languages=subtitle_languages or ["zh.*", "en.*"],
+                max_height=max_height,
+                warnings=warnings,
+            )
+
+            media = self.media_client.probe(video_path)
+            if (
+                source.kind != "file"
+                and max_height is not None
+                and media.height is not None
+                and media.height > max_height
+            ):
+                raise ValueError(
+                    f"下载视频高度 {media.height} 超过 --max-height 上限 {max_height}"
+                )
+            transcript_cues, transcription_info = self._load_or_transcribe(
+                video_path=video_path,
+                output_dir=run_dir,
+                subtitle_files=subtitle_files,
+                language=language,
+                warnings=warnings,
+            )
+            try:
+                keyframes = self.media_client.extract_keyframes(
+                    video_path=video_path,
+                    output_dir=run_dir / "keyframes",
+                    duration_seconds=media.duration_seconds,
+                    interval_seconds=keyframe_interval,
+                    max_keyframes=max_keyframes,
+                )
+            except (CommandError, FileNotFoundError, OSError, ValueError) as exc:
+                warnings.append(f"关键帧提取失败，保留其他可用证据: {exc}")
+                keyframes = []
+
+            ocr_results = []
+            if enable_ocr:
+                try:
+                    ocr_results = self.ocr_engine.extract(keyframes, warnings)
+                except (CommandError, FileNotFoundError, OSError, ValueError) as exc:
+                    warnings.append(f"OCR 提取失败，保留其他可用证据: {exc}")
+            if source.kind != "file" and not self._has_derived_evidence(
+                transcript_cues,
+                keyframes,
+                ocr_results,
+            ):
+                raise ValueError("远程视频分析没有生成可用的派生证据")
+
+            cleanup_records = self._cleanup_downloaded_video(
+                source=source,
+                output_dir=run_dir,
+                video_path=video_path,
+                enabled=cleanup_downloaded_video,
+                warnings=warnings,
+            )
+
+            return AnalysisReport(
+                source=source,
+                work_dir=run_dir,
+                video_path=video_path,
+                media=media,
+                transcript_cues=transcript_cues,
+                transcript_text=cues_to_plain_text(transcript_cues),
+                keyframes=keyframes,
+                ocr_results=ocr_results,
+                subtitle_files=subtitle_files,
+                download_attempts=self._download_attempts_for_report(source),
+                transcription_info=transcription_info,
+                cleanup_records=cleanup_records,
+                warnings=warnings,
+            )
+        except BaseException:
+            # 异常清理边界：只处理本次 run 内已完成的远程下载，不覆盖原始异常。
+            if source.kind != "file" and video_path is not None:
+                self._cleanup_downloaded_video(
+                    source=source,
+                    output_dir=run_dir,
+                    video_path=video_path,
+                    enabled=True,
+                    warnings=warnings,
+                )
+            raise
+
+    def _prepare_source(
+        self,
+        source: Source,
+        output_dir: Path,
+        subtitle_languages: list[str],
+        max_height: int | None,
+        warnings: list[str],
+    ) -> tuple[Path, list[Path]]:
+        if source.kind == "file":
+            assert source.path is not None
+            return source.path, collect_subtitle_files(
+                source.path.parent,
+                stem=source.path.stem,
+                languages=subtitle_languages,
+            )
+
+        subtitle_files: list[Path] = []
+        subtitles_dir = output_dir / "subtitles"
+        subtitles_dir.mkdir(parents=True, exist_ok=True)
+        try:
+            subtitle_files = self.downloader.fetch_subtitles(
+                source.value,
+                subtitles_dir,
+                subtitle_languages,
+            )
+        except (CommandError, FileNotFoundError, OSError) as exc:
+            warnings.append(f"字幕下载失败，后续会尝试语音转写: {exc}")
+
+        video_path = self.downloader.fetch_remote(
+            source.value,
+            output_dir / "video",
+            max_height=max_height,
+        )
+        return video_path, subtitle_files
+
+    def _load_or_transcribe(
+        self,
+        video_path: Path,
+        output_dir: Path,
+        subtitle_files: list[Path],
+        language: str | None,
+        warnings: list[str],
+    ) -> tuple[list[SubtitleCue], TranscriptionInfo | None]:
+        for subtitle_file in subtitle_files:
+            try:
+                cues = load_subtitle_file(subtitle_file)
+            except (OSError, ValueError) as exc:
+                warnings.append(f"字幕读取失败，已跳过 {subtitle_file}: {exc}")
+                continue
+            if cues:
+                return cues, TranscriptionInfo(
+                    source="subtitle",
+                    model=None,
+                    language=language,
+                    prompt_used=False,
+                    transcript_files=subtitle_files,
+                )
+
+        try:
+            cues = self.transcriber.transcribe(
+                video_path=video_path,
+                output_dir=output_dir / "transcript",
+                language=language,
+            )
+        except (CommandError, FileNotFoundError, OSError) as exc:
+            warnings.append(f"语音转写失败: {exc}")
+            cues = []
+
+        if cues:
+            return cues, self._transcription_info(
+                self.transcriber,
+                default_source="system whisper",
+                language=language,
+            )
+
+        unavailable_reason = getattr(self.whisper_cpp_transcriber, "unavailable_reason", lambda: None)
+        reason = unavailable_reason()
+        has_config = getattr(self.whisper_cpp_transcriber, "has_config", lambda: True)
+        if reason and self.auto_transcribe_setup and not has_config():
+            try:
+                setup_transcriber = self.whisper_cpp_setup.ensure_transcriber(
+                    prompt=getattr(self.whisper_cpp_transcriber, "prompt", None)
+                )
+                cues = setup_transcriber.transcribe(
+                    video_path=video_path,
+                    output_dir=output_dir / "transcript",
+                    language=language,
+                )
+                if cues:
+                    return cues, self._transcription_info(
+                        setup_transcriber,
+                        default_source="whisper.cpp",
+                        language=language,
+                    )
+            except (CommandError, FileNotFoundError, OSError) as exc:
+                warnings.append(f"自动准备 whisper.cpp 失败: {exc}")
+                cues = []
+        elif reason:
+            warnings.append(reason)
+            cues = []
+        else:
+            try:
+                cues = self.whisper_cpp_transcriber.transcribe(
+                    video_path=video_path,
+                    output_dir=output_dir / "transcript",
+                    language=language,
+                )
+                if cues:
+                    return cues, self._transcription_info(
+                        self.whisper_cpp_transcriber,
+                        default_source="whisper.cpp",
+                        language=language,
+                    )
+            except (CommandError, FileNotFoundError, OSError) as exc:
+                warnings.append(f"whisper.cpp 转写失败: {exc}")
+                cues = []
+
+        if not cues:
+            warnings.append("没有可用字幕，且本机未检测到可用 Whisper 转写结果")
+        return cues, None
+
+    def _download_attempts_for_report(self, source: Source) -> list[DownloadAttempt]:
+        if source.kind == "file":
+            return []
+        return list(getattr(self.downloader, "download_attempts", []))
+
+    def _cleanup_downloaded_video(
+        self,
+        source: Source,
+        output_dir: Path,
+        video_path: Path,
+        enabled: bool,
+        warnings: list[str],
+    ) -> list[CleanupRecord]:
+        # 函数职责和边界：只清理本次运行目录内的远程下载 MP4，
+        # 不触碰用户本地源文件。
+        if source.kind == "file" or not enabled:
+            return []
+        if not video_path.exists():
+            return []
+
+        try:
+            resolved_video = video_path.resolve()
+            resolved_output = output_dir.resolve()
+            resolved_video.relative_to(resolved_output)
+        except ValueError:
+            detail = "跳过下载视频清理：视频路径不在本次输出目录内"
+            warnings.append(f"{detail}: {video_path}")
+            return [
+                CleanupRecord(
+                    target="downloaded_video",
+                    path=video_path,
+                    status="skipped",
+                    detail=detail,
+                )
+            ]
+
+        if not video_path.is_file():
+            detail = "跳过下载视频清理：目标不是普通文件"
+            warnings.append(f"{detail}: {video_path}")
+            return [
+                CleanupRecord(
+                    target="downloaded_video",
+                    path=video_path,
+                    status="skipped",
+                    detail=detail,
+                )
+            ]
+
+        try:
+            video_path.unlink()
+        except OSError as exc:
+            detail = f"下载视频清理失败: {exc}"
+            warnings.append(detail)
+            return [
+                CleanupRecord(
+                    target="downloaded_video",
+                    path=video_path,
+                    status="failed",
+                    detail=detail,
+                )
+            ]
+
+        return [
+            CleanupRecord(
+                target="downloaded_video",
+                path=video_path,
+                status="deleted",
+                detail="分析完成后删除远程下载视频",
+            )
+        ]
+
+    def _transcription_info(
+        self,
+        transcriber: object,
+        default_source: str,
+        language: str | None,
+    ) -> TranscriptionInfo:
+        info = getattr(transcriber, "last_info", None)
+        if isinstance(info, TranscriptionInfo):
+            return info
+        return TranscriptionInfo(
+            source=default_source,
+            model=None,
+            language=language,
+            prompt_used=bool(getattr(transcriber, "prompt", None)),
+            transcript_files=[],
+        )
+
+    def _has_derived_evidence(
+        self,
+        transcript_cues: list[SubtitleCue],
+        keyframes: list[object],
+        ocr_results: list[object],
+    ) -> bool:
+        if any(cue.text.strip() for cue in transcript_cues):
+            return True
+        if any(str(getattr(result, "text", "")).strip() for result in ocr_results):
+            return True
+        for frame in keyframes:
+            path = Path(getattr(frame, "path", ""))
+            try:
+                if path.is_file() and path.stat().st_size > 0:
+                    return True
+            except OSError:
+                continue
+        return False

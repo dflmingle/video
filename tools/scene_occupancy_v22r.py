@@ -4,13 +4,15 @@ from pathlib import Path
 import numpy as np
 from scipy.spatial import ConvexHull
 
-def load_obstacles():
+def load_obstacles(scene_layout=None):
  root=Path(__file__).resolve().parents[1]/'public/native-scenes/CastleExterior-scene'
  manifest=json.loads((root/'manifest.json').read_text());result=[]
  for obj in manifest['objects']:
   if not any(k in obj['path'] for k in ['Tree','Stakes','Building']):continue
   mesh=manifest['meshes'][obj['mesh']];data=(root/mesh['file']).read_bytes();v=np.frombuffer(data,dtype='<f4',count=mesh['vertexCount']*3,offset=mesh['positionOffset']).reshape(-1,3)
   matrix=np.array(obj['matrix']).reshape(4,4,order='F');world=np.column_stack([v,np.ones(len(v))])@matrix.T;world[:,2]*=-1
+  if scene_layout and obj['path'] in scene_layout['objectPaths']:
+   world[:,:3]+=scene_layout['previewTranslation']
   # Actual model section overlapping a living soldier, rather than the full
   # treetop/castle roof bounding rectangle. Convex hull conservatively closes
   # concavities; no hand-placed scenery substitutes are used.

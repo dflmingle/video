@@ -10,4 +10,4 @@ export function pythonCommand(){
 export function browserOptions(executablePath=process.env.VIDEO_CHROME){
  return {headless:true,...(executablePath?{executablePath}:{channel:process.env.VIDEO_BROWSER||'chrome'}),args:['--use-angle=swiftshader','--enable-unsafe-swiftshader']};
 }
-export const battleURL=()=>process.env.VIDEO_URL||'http://127.0.0.1:5267';
+export const battleURL=()=>process.env.VIDEO_URL||'http://127.0.0.1:5257';

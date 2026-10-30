@@ -9,9 +9,11 @@ def serial(value):
  if isinstance(value,np.generic):return value.item()
  if isinstance(value,np.ndarray):return value.tolist()
  raise TypeError(type(value).__name__)
-source=P/'variants/V22R-C1';out=P/'variants/V22R-C1-melee';out.mkdir(exist_ok=True)
+source=P/'variants'/(sys.argv[sys.argv.index('--source')+1] if '--source' in sys.argv else 'V22R-C1')
+out=P/'variants'/(sys.argv[sys.argv.index('--out')+1] if '--out' in sys.argv else 'V22R-C1-melee');out.mkdir(exist_ok=True)
 S=json.loads((source/'simulation.json').read_text(encoding='utf8'))
-with (P/'variants/V22R-C1-checkpoint/continuation-checkpoint.pkl').open('rb') as f: ck=pickle.load(f)
+checkpoint=P/'variants'/(sys.argv[sys.argv.index('--checkpoint')+1] if '--checkpoint' in sys.argv else 'V22R-C1-checkpoint')/'continuation-checkpoint.pkl'
+with checkpoint.open('rb') as f: ck=pickle.load(f)
 C=copy.deepcopy(S['config']);C.update(meleeContinuation=True,autoCut=False)
 m,a,response=ck['motion'],ck['archers'],ck['blueResponse']
 nb,nr=a.n,m.n;n=nb+nr;dt=1/C['simulationFps'];cut=ck['frame'];cutTime=cut*dt

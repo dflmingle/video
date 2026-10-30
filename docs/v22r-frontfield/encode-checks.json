@@ -1,0 +1,47 @@
+{
+  "outputs": [
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-frontfield\\C1-frontfield-layout-candidate-720x1080-60fps.mp4",
+      "frames": 455,
+      "fps": 60.0,
+      "width": 720,
+      "height": 1080,
+      "duration": 7.583333333333333,
+      "sha256": "03d23efe960c80567d3d7435ced555864c034e16d85680f722def7017c4f9a2d"
+    },
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-frontfield\\C1-preserved-battle-hitflash-720x1080-60fps.mp4",
+      "frames": 795,
+      "fps": 60.0,
+      "width": 720,
+      "height": 1080,
+      "duration": 13.25,
+      "sha256": "b088cab299b783c266758dd590a6016990c9e70d3d714d7127770f67304f322f"
+    },
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-frontfield\\BEFORE-vs-frontfield-common-time-60fps.mp4",
+      "frames": 455,
+      "fps": 60.0,
+      "width": 960,
+      "height": 752,
+      "duration": 7.583333333333333,
+      "sha256": "27651520a73db51e4d03b52d8d86adfa5466392e48cfa8078602db138701af4f"
+    },
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-frontfield\\BEFORE-vs-hitflash-same-battle-60fps.mp4",
+      "frames": 795,
+      "fps": 60.0,
+      "width": 960,
+      "height": 752,
+      "duration": 13.25,
+      "sha256": "71c026abfc0aa72e3de1c61da47349105c1c1adcd8be42dfa2044daf77b65e5c"
+    }
+  ],
+  "noRetime": true,
+  "noLoop": true,
+  "noFrozenComparisonTail": true,
+  "cameraConstant": true,
+  "formalRender": false,
+  "fullNormalSpeedVisualViewing": false,
+  "comparisonNote": "Accepted before source is 480x720; comparison panes are equally resized. Candidate and flash-only standalone previews are native720x1080."
+}

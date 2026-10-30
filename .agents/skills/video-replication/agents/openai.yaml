@@ -1,0 +1,3 @@
+interface:
+  display_name: "视频高精度复刻"
+  short_description: "Evidence-led video reconstruction with regional QA"

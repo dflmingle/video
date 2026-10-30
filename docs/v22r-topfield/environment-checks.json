@@ -1,0 +1,52 @@
+[
+  {
+    "label": "T1",
+    "all34RuntimeMatricesCorrect": true,
+    "movedObjects": [
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (3)/CastleExterior_Stakes_01",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (2)/CastleExterior_Stakes_01",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (3)/CastleExterior_Stakes_02",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (2)/CastleExterior_Stakes_02",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/polySurface18",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/rock.016"
+    ],
+    "staticGroundTreesIndependentFencesUnchanged": true,
+    "materialsUnchanged": false,
+    "materialNamesUnchanged": true,
+    "onlyGroundTextureOverridden": true,
+    "groundTextureOverride": "/native-scenes/layout-derived/topfield/CastleExterior_Land_C-shadow-moved.png",
+    "modelScaleUnchanged": true,
+    "oldD2SceneRegressionUnchanged": true,
+    "collisionFootprints": 29,
+    "camera": {
+      "mode": "APPROVED_FIXED",
+      "position": [
+        0,
+        98,
+        65
+      ],
+      "target": [
+        0,
+        0,
+        5
+      ],
+      "fov": 42,
+      "zoom": 1
+    },
+    "buildingScreenBounds": [
+      {
+        "path": "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/polySurface18",
+        "minPixelY": 8.035130288322534,
+        "maxPixelY": 92.23506675586617,
+        "vertexFractionWithinFrame": 1.0
+      },
+      {
+        "path": "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/rock.016",
+        "minPixelY": -78.42578544580545,
+        "maxPixelY": 141.31739337669484,
+        "vertexFractionWithinFrame": 0.2289855072463768
+      }
+    ],
+    "originalSceneManifestSHA256": "631e222361b70bf4948ce54deae556ae1f480365e8e7165493c24161e386e833"
+  }
+]

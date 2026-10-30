@@ -1,0 +1,20 @@
+{
+  "sourceHead": "1a6f431db9040d8de3f93273a4169d4de32e9d5e",
+  "sourceBranch": "v22-reference-revision",
+  "destination": "https://github.com/dflmingle/video",
+  "destinationBranch": "v22-reference-revision",
+  "remoteBase": "979dec8017506c11be4a1472a34d1df860832e60",
+  "strategy": "New commit on remote main ancestry, overlay latest local tracked project snapshot; preserve existing remote evidence and portable host wrappers. Local original history unchanged.",
+  "snapshotFileCount": 1471,
+  "retainedPortableWrappers": [
+    "tools/capture_melee_v22r.mjs",
+    "tools/compare_melee_prefix_v22r.mjs",
+    "tools/encode_melee_v22r.py"
+  ],
+  "addedCurrentPreviewFiles": [
+    "T1-battlefield-depth-preview-720x1080-60fps.mp4",
+    "T1-opening.jpg",
+    "castle-shadow-before-after.jpg"
+  ],
+  "pushStatus": "PREPARED_NOT_YET_PUSHED"
+}

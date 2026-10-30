@@ -1,3 +1,15 @@
-* -text
+* -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+# Supplied native assets are immutable source evidence. Preserve their bytes,
+# including the authors' original whitespace and line endings.
+/assets/imported/** -text -whitespace
+/assets/runtime/** -text -whitespace
+/assets/references/** -text
+/assets/source-packages/** -text
+/public/native-scenes/** -text -whitespace
+/variants/V22R-topfield-T1/** -text -whitespace
+/variants/V22R-topfield-T1-seed/params.json -text -whitespace
+# Preserve existing remote large-file routing and store every supplied package in LFS.
 *.unitypackage filter=lfs diff=lfs merge=lfs -text
 reference/*.zip filter=lfs diff=lfs merge=lfs -text
+# Unity scene source evidence retains its original YAML formatting.
+/scenes/** -text -whitespace

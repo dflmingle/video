@@ -1,0 +1,272 @@
+{
+  "duration": 9.883333333333333,
+  "fps": 60,
+  "simulationFps": 60,
+  "width": 1440,
+  "height": 2160,
+  "seed": 71423,
+  "blueAdvance": 7.5,
+  "blueMoveSeconds": 1.62,
+  "blueStartSpread": 0.32,
+  "blueGroups": 7,
+  "groupSide": 6,
+  "blueSpacing": 0.94,
+  "uHalfWidth": 17,
+  "uDepth": 15,
+  "uArmsStartZ": 24,
+  "redRows": 18,
+  "redColumns": 18,
+  "redSpeed": 21.75,
+  "redSpeedVariation": 0.025,
+  "redStartSpread": 0.18,
+  "redStopZ": 5,
+  "redSlowDistance": 0,
+  "minimumEnemyClearance": 4,
+  "archerCycle": 0.61,
+  "archerCycleVariation": 0.12,
+  "drawSeconds": 0.38,
+  "arrowSpeed": 72,
+  "arrowArcHeight": 7,
+  "arrowTailSeconds": 0.028,
+  "redHitPoints": 3,
+  "bodyRadius": 0.29,
+  "weaponEnvelopeRadius": 3.1,
+  "deathSeconds": 0.7,
+  "showEndpoints": true,
+  "redFrontZ": -43,
+  "accelerationSeconds": 0.24,
+  "chargeSpread": 0,
+  "aimSeconds": 0.1,
+  "targetFrontCount": 100,
+  "arrowOriginHeight": 0.95,
+  "arrowOriginForward": 0.38,
+  "runStride": 4.5,
+  "blueStride": 1.5,
+  "redMemberSpacingX": 0.96,
+  "redMemberSpacingZ": 0.8,
+  "redSquadPitchX": 7.7,
+  "redSquadPitchZ": 6.8,
+  "redArmyPitch": 26,
+  "armyMemberRows": [
+    6,
+    8,
+    4
+  ],
+  "redSquadGapZ": 2.3,
+  "redArmyGap": 4.6,
+  "redMemberColumns": 6,
+  "frontScallop": 0.16,
+  "squadFrontSpread": 0.28,
+  "depthVariation": 0.035,
+  "cameraPosition": [
+    0,
+    240,
+    95
+  ],
+  "cameraTarget": [
+    0,
+    0,
+    -5
+  ],
+  "cameraFov": 42,
+  "variant": "FINAL",
+  "runMode": "grounded",
+  "hitStaggerSeconds": 0.12,
+  "hitRecoverySeconds": 0.2,
+  "woundedSpeedFactor": 0.95,
+  "runStance": 0.09,
+  "cameraDynamic": false,
+  "minHitInterval": 0.45,
+  "hitWoundSpeed": 0.82,
+  "hitSeriousSpeed": 0.6,
+  "cameraMode": "FIXED",
+  "hitPoseSeconds": 0.24,
+  "flashSeconds": 0.04,
+  "cameraZoom": 1.5,
+  "cameraShiftY": 0,
+  "cameraShiftX": 0,
+  "runLean": 0.25,
+  "previewOnly": false,
+  "disableCombat": false,
+  "cameraTravelZ": 0,
+  "version": "V22",
+  "speedMultiplier": 1.5,
+  "archerRange": 34.0,
+  "paceAmplitude": 0.075,
+  "pacePeriodMin": 0.83,
+  "pacePeriodMax": 1.38,
+  "dynamicStrideAmplitude": 0.045,
+  "autoCut": false,
+  "chargeMultiplier": 1.25,
+  "cameraFixedCenterZ": -29,
+  "cameraFollowSmoothTime": 0.8,
+  "cameraFollowMaxSpeed": 2.0,
+  "formationFarDistance": 52.0,
+  "formationNearDistance": 18.0,
+  "cameraPushZoom": 2.2,
+  "cameraPushCenterZ": -13,
+  "redChargeStart": 0,
+  "preAim": true,
+  "openingRedStartWindow": 0.04,
+  "openingBlueStartWindow": 0.09,
+  "parallelAssemblyFire": true,
+  "openingBurst": true,
+  "openingPendingArrowCap": 2,
+  "openingDrawStagger": 0.09,
+  "openingFinishWoundedWeight": 0.7,
+  "impactPoseScale": 1.2,
+  "meleeContinuation": true,
+  "continuationPolicy": "C1_PREFIX_LOCKED_THEN_LOCAL_MELEE",
+  "checkpointFrame": 0,
+  "eventHitFlash": {
+    "duration": 0.09,
+    "strength": 0.98
+  },
+  "redPlatoonTranslations": {
+    "6": [
+      0.0,
+      74.9842944260661
+    ],
+    "7": [
+      0.0,
+      74.9842944260661
+    ],
+    "8": [
+      0.0,
+      74.9842944260661
+    ],
+    "3": [
+      0.0,
+      74.2178960158708
+    ],
+    "4": [
+      0.0,
+      74.2178960158708
+    ],
+    "5": [
+      0.0,
+      74.2178960158708
+    ],
+    "0": [
+      0.0,
+      72.8949893681864
+    ],
+    "1": [
+      0.0,
+      72.8949893681864
+    ],
+    "2": [
+      0.0,
+      72.8949893681864
+    ],
+    "15": [
+      0.0,
+      69.51371235357803
+    ],
+    "16": [
+      0.0,
+      69.51371235357803
+    ],
+    "17": [
+      0.0,
+      69.51371235357803
+    ],
+    "12": [
+      0.0,
+      68.58241377307789
+    ],
+    "13": [
+      0.0,
+      68.58241377307789
+    ],
+    "14": [
+      0.0,
+      68.58241377307789
+    ],
+    "9": [
+      0.0,
+      67.39824221988854
+    ],
+    "10": [
+      0.0,
+      67.39824221988854
+    ],
+    "11": [
+      0.0,
+      67.39824221988854
+    ],
+    "24": [
+      0.0,
+      64.03849688784412
+    ],
+    "25": [
+      0.0,
+      64.03849688784412
+    ],
+    "26": [
+      0.0,
+      64.03849688784412
+    ],
+    "21": [
+      0.0,
+      62.933778623847665
+    ],
+    "22": [
+      0.0,
+      62.933778623847665
+    ],
+    "23": [
+      0.0,
+      62.933778623847665
+    ],
+    "18": [
+      0.0,
+      62.0797814874751
+    ],
+    "19": [
+      0.0,
+      62.0797814874751
+    ],
+    "20": [
+      0.0,
+      62.0797814874751
+    ]
+  },
+  "blueArmyTranslation": [
+    0.0,
+    3.0
+  ],
+  "freshLayoutContinuation": true,
+  "sceneLayout": {
+    "objectPaths": [
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/polySurface18",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/rock.016",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (3)/CastleExterior_Stakes_01",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (2)/CastleExterior_Stakes_01",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (3)/CastleExterior_Stakes_02",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (2)/CastleExterior_Stakes_02"
+    ],
+    "previewTranslation": [
+      -0.03444926556605592,
+      0.0,
+      -17.919966887472253
+    ],
+    "castleBackDistance": 17.92,
+    "source": "Unity CastleExterior original meshes; same rigid delta for building and four immediately adjoining stakes",
+    "groundTextureOverride": "/native-scenes/layout-derived/topfield/CastleExterior_Land_C-shadow-moved.png"
+  },
+  "redArmyTranslations": {
+    "red": [
+      -0.0338341001095192,
+      -17.59996747876739
+    ],
+    "orange": [
+      -0.0338341001095192,
+      -17.59996747876739
+    ],
+    "yellow": [
+      -0.0338341001095192,
+      -17.59996747876739
+    ]
+  }
+}

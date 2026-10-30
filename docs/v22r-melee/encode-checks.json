@@ -1,0 +1,39 @@
+{
+  "outputs": [
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-melee\\C1-continued-full-preview-480x720-60fps.mp4",
+      "frames": 795,
+      "fps": 60.0,
+      "width": 480.0,
+      "height": 720.0,
+      "duration": 13.25,
+      "sha256": "09026080dc64a717cae9160d5878ae436f12e9374c8758a0b0b084486d3cc61e"
+    },
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-melee\\C1-continued-from-2.3s-preview-480x720-60fps.mp4",
+      "frames": 657,
+      "fps": 60.0,
+      "width": 480.0,
+      "height": 720.0,
+      "duration": 10.95,
+      "sha256": "f7d5c393b2384409eda002558d6b69f6ecf884807c3011d333e3f0e51c730968"
+    },
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-melee\\C1-original-vs-continued-opening-2.65s-60fps.mp4",
+      "frames": 159,
+      "fps": 60.0,
+      "width": 960.0,
+      "height": 752.0,
+      "duration": 2.65,
+      "sha256": "c8e5b347d2039e3ef532f2622242c0f1bd382a7ad16ad71c759dd51f6ce678a1"
+    }
+  ],
+  "cameraConstant": true,
+  "browserErrors": [],
+  "normalSpeed": true,
+  "noLoop": true,
+  "noRetime": true,
+  "noAddedStillFrames": true,
+  "formalRender": false,
+  "fullNormalSpeedVisualViewing": false
+}

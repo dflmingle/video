@@ -1,0 +1,27 @@
+{
+  "outputs": [
+    {
+      "label": "T1",
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-topfield\\T1-battlefield-depth-preview-720x1080-60fps.mp4",
+      "frames": 593,
+      "fps": 60,
+      "duration": 9.883333333333333,
+      "width": 720,
+      "height": 1080,
+      "sha256": "d773b55824e76f4bf365e1668cd0cd9bd22d8cd6a34575197b329578d6fb3ce9"
+    }
+  ],
+  "camera": {
+    "T1": {
+      "constant": true,
+      "errors": [],
+      "frames": 593
+    }
+  },
+  "noRetime": true,
+  "noLoop": true,
+  "noFrozenTail": true,
+  "formalRender": false,
+  "fullNormalSpeedVisualViewing": false,
+  "visualReview": "Encoded key frames and contact continuous-frame strips; not a claim of full normal-speed perceptual viewing."
+}

@@ -1,0 +1,27 @@
+{
+  "outputs": [
+    {
+      "label": "D2",
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-distance\\D2-distance-plus20-preview-720x1080-60fps.mp4",
+      "frames": 460,
+      "fps": 60,
+      "duration": 7.666666666666667,
+      "width": 720,
+      "height": 1080,
+      "sha256": "8219e3a19eb269fdd47ec56e51a720feddce387ccadbf74ae87f5fd0c8132042"
+    }
+  ],
+  "camera": {
+    "D2": {
+      "constant": true,
+      "errors": [],
+      "frames": 460
+    }
+  },
+  "noRetime": true,
+  "noLoop": true,
+  "noFrozenTail": true,
+  "formalRender": false,
+  "fullNormalSpeedVisualViewing": false,
+  "visualReview": "Encoded key frames and contact continuous-frame strips; not a claim of full normal-speed perceptual viewing."
+}

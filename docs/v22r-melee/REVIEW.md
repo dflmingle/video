@@ -31,3 +31,24 @@
 ## 证据与查看范围
 
 最终有效数字见 `data-audit.json`，每0.1秒统计见 `timeline-every-0.1s.csv`。相机和浏览器错误见预览 `audit.json`，视频编码检查见 `encode-checks.json`。只报告实际查看的抽样与连续帧，不声称已完整正常速度观看所有视频。低成本片等待用户视觉评价后再决定是否正式渲染。
+
+## 本轮有效结果
+
+- 从检查点使用最终源码完整重跑：首次近战伤害3.583333秒，首次蓝兵死亡3.85秒，12.533333秒最后蓝兵失去生命，留0.7秒倒地过程，总795帧/13.25秒。
+- 红方胜，存活868/972；蓝方存活0/252。1038支真实箭、529次箭命中、104次红方箭伤死亡；1298次近战尝试、756次合法伤害、252次蓝兵死亡。未预设某方胜负。
+- 无死亡后放箭、无越界箭端命中、无挥砍中换靶、无非法近战命中。死亡root全段最大漂移0。前段死亡时间一致。
+- 最小中心间距/扫掠中心间距0.61390998；按身体直径0.58，最小身体余量约0.03391。旧4.0武器包络净距不再作为近战结束条件。
+- 前段六组数组与事件视图完全一致。159帧图像结果仍是相同12个环境像素差，未出现士兵/箭区域差异。
+- 完整低成本片480×720、795帧、60fps、13.25秒；2.3秒起续战657帧、10.95秒；同步对照960×752、159帧、2.65秒。均已实际解码核对帧数、画幅和帧率，没有循环、补帧或变速。全795帧相机不变，浏览器pageerror为空。
+- 实际目视查看：最终编码时间线0/2.3/2.65/3/3.5/4/5/6/8/10/13.233秒；运行帧序列3.5–4.083、6.5–7.083、12.167–12.75秒以5帧间隔核对，并查看4秒完整画幅。不是完整正常速度观看，也不是逐帧看完。
+- 视觉判断：原前段保持；两翼先接战，后续向U型各段推进，没有所有人追同一中心点的旧漏斗规则。接触区仍很密，后段三色转为局部混战，存在后期下沿出画；不把中心间距通过等同完整动画网格无交叠，不宣布全部视觉验收通过。
+
+## 交付入口
+
+1. `output/v22r-melee/C1-original-vs-continued-opening-2.65s-60fps.mp4`
+2. `output/v22r-melee/C1-continued-from-2.3s-preview-480x720-60fps.mp4`
+3. `output/v22r-melee/C1-continued-full-preview-480x720-60fps.mp4`
+4. 原C1：`output/v22r-burst/V22R-C1-2.650s-preview-720x1080-60fps.mp4`
+5. 时间线截图：`output/v22r-melee/encoded-timeline.jpg`
+
+重建顺序：以C1参数复制生成`V22R-C1-checkpoint`，只增加`checkpointFrame=159`并将requested duration设为3.5，运行原builder仍按安全规则截回C1。再运行`python tools/build_melee_continuation_v22r.py`、`python tools/audit_melee_v22r.py`、`node tools/compare_melee_prefix_v22r.mjs`、`node tools/capture_melee_v22r.mjs`、`python tools/encode_melee_v22r.py`。浏览器入口 `http://127.0.0.1:5267/v22.html?variant=V22R-C1-melee&presentation=approved-castle`。

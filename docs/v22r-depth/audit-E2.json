@@ -1,0 +1,179 @@
+{
+  "baseline": {
+    "firstRelease": 0.43333333333333335,
+    "firstArrowHit": 0.6166666666666667,
+    "firstMeleeHit": 0.6166666666666667,
+    "duration": 7.583333333333333,
+    "arrows": 270,
+    "arrowHits": 117
+  },
+  "protectedSourcesUnchanged": {
+    "src/main-v22.js": true,
+    "src/assets-v22.js": true,
+    "src/camera-v22.js": true,
+    "src/castle-approved-v22r.js": true,
+    "tools/build_simulation_v22.py": true,
+    "tools/build_melee_continuation_v22r.py": true,
+    "tools/melee_continuation_v22r.py": true,
+    "tools/archers_v22.py": true,
+    "tools/archers_burst_v22r.py": true,
+    "public/native-scenes/CastleExterior-scene/manifest.json": true,
+    "tools/motion_v22.py": true,
+    "tools/combat_response_v22.py": true,
+    "src/archer-pose-v22.js": true
+  },
+  "candidates": [
+    {
+      "label": "E2",
+      "configChanges": {
+        "duration": {
+          "baseline": 7.583333333333333,
+          "candidate": 7.833333333333333
+        },
+        "redArmyTranslations": {
+          "baseline": null,
+          "candidate": {
+            "red": [
+              -0.009465402543201405,
+              -4.923753739409097
+            ],
+            "orange": [
+              -0.009465402543201405,
+              -4.923753739409097
+            ],
+            "yellow": [
+              -0.009465402543201405,
+              -4.923753739409097
+            ]
+          }
+        },
+        "sceneLayout": {
+          "baseline": null,
+          "candidate": {
+            "objectPaths": [
+              "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/polySurface18",
+              "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/rock.016",
+              "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (3)/CastleExterior_Stakes_01",
+              "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (2)/CastleExterior_Stakes_01",
+              "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (3)/CastleExterior_Stakes_02",
+              "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (2)/CastleExterior_Stakes_02"
+            ],
+            "previewTranslation": [
+              -0.008746883835131383,
+              0.0,
+              -4.549991592522251
+            ],
+            "castleBackDistance": 4.55,
+            "source": "Unity CastleExterior original meshes; same rigid delta for building and four immediately adjoining stakes"
+          }
+        }
+      },
+      "memberRulesUnchanged": {
+        "speed": true,
+        "maxAcceleration": true,
+        "aimSeconds": true,
+        "drawSeconds": true,
+        "recoverSeconds": true,
+        "cycle": true,
+        "color": true,
+        "platoon": true,
+        "id": true,
+        "team": true
+      },
+      "maximumInitialRigidTranslationError": 1.908354409607682e-06,
+      "frontNetGap": 9.847526627360846,
+      "actualIncreaseRatio": 1.0000001934112706,
+      "nearestInitialBodyNetDistance": 10.922711216587354,
+      "minimumWallFrontDistance": 2.7089466662607364,
+      "obstacleBodyViolations": [],
+      "sweptObstacleViolations": [],
+      "invalidArrowEvents": [],
+      "invalidMeleeEvents": [],
+      "firstRedMovement": 0.016666666666666666,
+      "firstBlueMovement": 0.016666666666666666,
+      "firstRelease": 0.4166666666666667,
+      "firstArrowHit": 0.6166666666666667,
+      "firstMeleeRangeContact": 0.5166666666666667,
+      "firstMeleeHit": 0.8,
+      "openingRootVisible": 1224,
+      "minimumAllFrameRootVisible": 1158,
+      "totalMembers": 1224,
+      "maximumDeadRootDrift": 0.0,
+      "openingChargeWorldSpeeds": {
+        "0.1": {
+          "redMedianLivingSpeed": 9.828482627868652,
+          "redMoving": 972
+        },
+        "0.3": {
+          "redMedianLivingSpeed": 21.694313049316406,
+          "redMoving": 972
+        },
+        "0.5": {
+          "redMedianLivingSpeed": 21.625530242919922,
+          "redMoving": 972
+        }
+      },
+      "battle": {
+        "prefixArraysEqual": {
+          "trajectories": true,
+          "gait-distance": true,
+          "hit-times": true,
+          "red-control": true,
+          "gait-cycles": true,
+          "blue-control": true
+        },
+        "prefixEventsFrozen": true,
+        "winner": "red",
+        "wonAt": 7.116666666666666,
+        "duration": 7.833333333333333,
+        "aliveRed": 964,
+        "aliveBlue": 0,
+        "meleeAttempts": 1204,
+        "meleeHits": 756,
+        "meleeKills": 252,
+        "arrowReleases": 346,
+        "arrowHits": 167,
+        "arrowKills": 8,
+        "minimumBodyCenter": 0.6147077333860934,
+        "minimumSweptBodyCenter": 0.6147077333860934,
+        "physicalBodyDiameter": 0.58,
+        "meleeRules": {
+          "blueHP": 3,
+          "redDamage": 1,
+          "attackDuration": 0.466667,
+          "impactPhase": 0.55,
+          "reach": 1.5
+        },
+        "termination": "SIDE_ELIMINATED"
+      },
+      "firstRootOutsideFrame": 6.816666666666666,
+      "rootVisibleAtSeconds": {
+        "0": 1224,
+        "1": 1224,
+        "2": 1224,
+        "4": 1224,
+        "6": 1224,
+        "7": 1223
+      },
+      "sceneLayout": {
+        "objectPaths": [
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/polySurface18",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/rock.016",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (3)/CastleExterior_Stakes_01",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (2)/CastleExterior_Stakes_01",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (3)/CastleExterior_Stakes_02",
+          "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (2)/CastleExterior_Stakes_02"
+        ],
+        "previewTranslation": [
+          -0.008746883835131383,
+          0.0,
+          -4.549991592522251
+        ],
+        "castleBackDistance": 4.55,
+        "source": "Unity CastleExterior original meshes; same rigid delta for building and four immediately adjoining stakes"
+      },
+      "terminationSucceeded": true
+    }
+  ],
+  "formalRender": false
+}

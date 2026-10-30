@@ -1,0 +1,27 @@
+{
+  "outputs": [
+    {
+      "label": "E2",
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-depth\\E2-battlefield-depth-preview-720x1080-60fps.mp4",
+      "frames": 470,
+      "fps": 60,
+      "duration": 7.833333333333333,
+      "width": 720,
+      "height": 1080,
+      "sha256": "170bfb3f545515d9ff7b518f76890edc36dca5de26a04b0cb08aec9ac2b7569a"
+    }
+  ],
+  "camera": {
+    "E2": {
+      "constant": true,
+      "errors": [],
+      "frames": 470
+    }
+  },
+  "noRetime": true,
+  "noLoop": true,
+  "noFrozenTail": true,
+  "formalRender": false,
+  "fullNormalSpeedVisualViewing": false,
+  "visualReview": "Encoded key frames and contact continuous-frame strips; not a claim of full normal-speed perceptual viewing."
+}

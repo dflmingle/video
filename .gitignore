@@ -1,18 +1,23 @@
+# Archive supplied native sources and the runtime model/animation bundle.
+assets/*
+!assets/imported/
+!assets/runtime/
+!assets/references/
+!assets/source-packages/
 node_modules/
+# Preserve the current complete preview's exact runtime data; historical
+# experiment caches and duplicated NumPy/checkpoint files stay local.
+variants/*
+!variants/V22R-topfield-T1/
+variants/V22R-topfield-T1/*
+!variants/V22R-topfield-T1/*.f32
+!variants/V22R-topfield-T1/*.json
+!variants/V22R-topfield-T1-seed/
+variants/V22R-topfield-T1-seed/*
+!variants/V22R-topfield-T1-seed/params.json
+output/
 dist/
 __pycache__/
 *.pyc
 .venv/
-unity-source/Library/
-unity-source/Temp/
-unity-source/Logs/
-unity-source/obj/
-variants/*/progress-checkpoint.pkl
-# Full raw render logs are losslessly archived as audit.json.gz.
-output/v22r-burst/C1-preview/audit.json
-output/v22r-burst/C2-preview/audit.json
-output/v22r-fast-charge/A-preview/audit.json
-SNAPSHOT-MANIFEST.json
-output/**/frames/
-output/v22r-melee/portable-probe/
-docs/repository-check/portable-*.json
+public/native-scenes/native-scenes/

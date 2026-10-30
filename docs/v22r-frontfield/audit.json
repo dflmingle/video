@@ -1,0 +1,96 @@
+{
+  "rulesUnchanged": {
+    "redSpeed": true,
+    "arrowSpeed": true,
+    "archerRange": true,
+    "redHitPoints": true,
+    "blueAdvance": true,
+    "minHitInterval": true,
+    "deathSeconds": true,
+    "hitStaggerSeconds": true,
+    "hitRecoverySeconds": true,
+    "hitWoundSpeed": true,
+    "hitSeriousSpeed": true
+  },
+  "memberRulesUnchanged": {
+    "speed": true,
+    "maxAcceleration": true,
+    "aimSeconds": true,
+    "drawSeconds": true,
+    "recoverSeconds": true,
+    "cycle": true
+  },
+  "platoonRigidTranslationsExact": true,
+  "flashOnlyBinaryDataIdentical": {
+    "trajectories.f32": true,
+    "red-control.f32": true,
+    "blue-control.f32": true,
+    "hit-times.f32": true,
+    "blue-hit-times.f32": true,
+    "melee-control.f32": true,
+    "gait-cycles.f32": true
+  },
+  "wallNormalTowardCamera": [
+    0.0019223920516772271,
+    0.9999981522026926
+  ],
+  "wallFrontProjection": -30.48344871082742,
+  "minimumSpawnFrontDistance": 3.0827095028252636,
+  "minimumAllFramesFrontDistance": 3.0827095028252636,
+  "spawnObstacleViolations": [],
+  "bodyFootprintViolations": [],
+  "sweptObstacleViolations": [],
+  "invalidArrows": [],
+  "invalidMeleeHits": [],
+  "originalTiming": {
+    "firstRelease": 1.4333333333333333,
+    "lastRelease": 7.0,
+    "firstArrowHit": 1.7166666666666666,
+    "firstMeleeHit": 3.5833333333333335,
+    "arrows": 1038,
+    "arrowHits": 529
+  },
+  "candidateTiming": {
+    "firstRelease": 0.43333333333333335,
+    "lastRelease": 1.7333333333333334,
+    "firstArrowHit": 0.6166666666666667,
+    "firstMeleeHit": 0.6166666666666667,
+    "arrows": 270,
+    "arrowHits": 117
+  },
+  "battleResult": {
+    "prefixArraysEqual": {
+      "trajectories": true,
+      "gait-distance": true,
+      "hit-times": true,
+      "red-control": true,
+      "gait-cycles": true,
+      "blue-control": true
+    },
+    "prefixEventsFrozen": true,
+    "winner": "red",
+    "wonAt": 6.866666666666666,
+    "duration": 7.583333333333333,
+    "aliveRed": 966,
+    "aliveBlue": 0,
+    "meleeAttempts": 1216,
+    "meleeHits": 756,
+    "meleeKills": 252,
+    "arrowReleases": 270,
+    "arrowHits": 117,
+    "arrowKills": 6,
+    "minimumBodyCenter": 0.6144926312445315,
+    "minimumSweptBodyCenter": 0.6144926312445308,
+    "physicalBodyDiameter": 0.58,
+    "meleeRules": {
+      "blueHP": 3,
+      "redDamage": 1,
+      "attackDuration": 0.466667,
+      "impactPhase": 0.55,
+      "reach": 1.5
+    },
+    "termination": "SIDE_ELIMINATED"
+  },
+  "visualVerdict": "CANDIDATE_ONLY: same-side layout fits but sustained archery/timing materially changed; do not replace accepted battle",
+  "formalRender": false
+}

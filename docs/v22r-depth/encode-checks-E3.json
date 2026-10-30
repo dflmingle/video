@@ -1,0 +1,27 @@
+{
+  "outputs": [
+    {
+      "label": "E3",
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-depth\\E3-battlefield-depth-FAILED-incomplete-safe-prefix-preview-720x1080-60fps.mp4",
+      "frames": 481,
+      "fps": 60,
+      "duration": 8.016666666666667,
+      "width": 720,
+      "height": 1080,
+      "sha256": "80c2f3da8fc0aef042e705bf142274ee8bdc8d9fdad806fc9b35e3ce386897a4"
+    }
+  ],
+  "camera": {
+    "E3": {
+      "constant": true,
+      "errors": [],
+      "frames": 481
+    }
+  },
+  "noRetime": true,
+  "noLoop": true,
+  "noFrozenTail": true,
+  "formalRender": false,
+  "fullNormalSpeedVisualViewing": false,
+  "visualReview": "Encoded key frames and contact continuous-frame strips; not a claim of full normal-speed perceptual viewing."
+}

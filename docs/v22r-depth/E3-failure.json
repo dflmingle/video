@@ -1,0 +1,37 @@
+{
+  "prefixArraysEqual": {
+    "trajectories": true,
+    "gait-distance": true,
+    "hit-times": true,
+    "red-control": true,
+    "gait-cycles": true,
+    "blue-control": true
+  },
+  "prefixEventsFrozen": true,
+  "winner": null,
+  "wonAt": null,
+  "duration": 8.016666666666667,
+  "aliveRed": 963,
+  "aliveBlue": 1,
+  "meleeAttempts": 1250,
+  "meleeHits": 755,
+  "meleeKills": 251,
+  "arrowReleases": 399,
+  "arrowHits": 163,
+  "arrowKills": 9,
+  "minimumBodyCenter": 0.6147246766982443,
+  "minimumSweptBodyCenter": 0.6147246766961845,
+  "physicalBodyDiameter": 0.58,
+  "meleeRules": {
+    "blueHP": 3,
+    "redDamage": 1,
+    "attackDuration": 0.466667,
+    "impactPhase": 0.55,
+    "reach": 1.5
+  },
+  "termination": "NUMERICAL_ABORT_SAFE_CHECKPOINT_PREFIX_ONLY",
+  "failedAt": 8.016666666666666,
+  "failure": "Body solver solved inaccurate residual 0.005025544127612719 exceeds existing 0.005 tolerance",
+  "lastVerifiedTime": 8.0,
+  "completeBattle": false
+}

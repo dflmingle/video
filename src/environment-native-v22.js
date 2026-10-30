@@ -7,6 +7,9 @@ export async function addNativeEnvironment(scene, { source = 'scene', environmen
   if (!['CastleExterior', 'ArenaScene', 'NewScene'].includes(environment)) throw Error('Unknown native environment');
   const base = environment === 'NewScene' ? '/native-scenes/NewScene/' : `/native-scenes/${environment}-${source}/`;
   const manifest = await fetch(`${base}manifest.json`).then(r => { if (!r.ok) throw Error(r.status); return r.json(); });
+  // Candidate-only rigid building-group placement. Original Unity data stays intact.
+  const variant = new URLSearchParams(location.search).get('variant');
+  const placement = variant ? (await fetch(`/variants/${encodeURIComponent(variant)}/params.json`).then(r => r.json())).sceneLayout : null;
   const audit = { source: manifest.source, unityVersion: manifest.unityVersion, nativeObjects: manifest.objects.length, objects: [], warnings: [...manifest.warnings], textureBindings: [] };
   const loader = new T.TextureLoader();
   const materials = await Promise.all(manifest.materials.map(async m => {
@@ -35,8 +38,9 @@ export async function addNativeEnvironment(scene, { source = 'scene', environmen
     }
     let map = null;
     const binding = m.textures.find(t => t.property === m.textureProperty);
+    const relocatedGround = placement?.groundTextureOverride && m.name === 'CastleExterior_Land_Mat';
     if (m.texturePath) {
-      map = await loader.loadAsync(`/assets/imported/${m.texturePath}`);
+      map = await loader.loadAsync(relocatedGround ? placement.groundTextureOverride : `/assets/imported/${m.texturePath}`);
       map.colorSpace = T.SRGBColorSpace; map.anisotropy = 8;
       // Mesh UVs are native Unity UVs; Three's default image flipY matches them.
       map.wrapS = map.wrapT = T.RepeatWrapping;
@@ -47,7 +51,7 @@ export async function addNativeEnvironment(scene, { source = 'scene', environmen
     mat.name = m.name;
     mat.userData.native = m;
     mat.userData.unsupported = !map;
-    audit.textureBindings.push({ material: m.name, property: m.textureProperty, texture: m.texturePath, missing: !map });
+    audit.textureBindings.push({ material: m.name, property: m.textureProperty, texture: relocatedGround ? placement.groundTextureOverride : m.texturePath, originalTexture: m.texturePath, missing: !map });
     if (!map) audit.warnings.push(`${m.name}: source shader/texture dependencies unresolved; overlay hidden unless debugMissing=1`);
     return mat;
   }));
@@ -72,11 +76,15 @@ export async function addNativeEnvironment(scene, { source = 'scene', environmen
     const mats = o.materials.map(i => materials[i] || new T.MeshBasicMaterial({ color: 0xff00ff, side: T.DoubleSide }));
     const mesh = new T.Mesh(geometries[o.mesh], mats);
     mesh.name = o.path; mesh.matrixAutoUpdate = false; mesh.matrix.fromArray(o.matrix);
+    if (placement?.objectPaths.includes(o.path)) {
+      const [x,y,z] = placement.previewTranslation;
+      mesh.matrix.premultiply(new T.Matrix4().makeTranslation(x,y,-z));
+    }
     mesh.visible = debugMissing || !mats.every(m => m.userData.unsupported);
     if (!showGrid && (/(^|\/)Gird$/.test(o.path) || mats.some(m => /Gird|Grid/i.test(m.name)))) mesh.visible = false;
     // A single native world matrix already includes all FBX and prefab factors.
     root.add(mesh);
-    audit.objects.push({ name: o.path, visible: mesh.visible, matrix: o.matrix, nativeBounds: { center: o.boundsCenter, size: o.boundsSize } });
+    audit.objects.push({ name: o.path, visible: mesh.visible, matrix: mesh.matrix.toArray(), nativeBounds: { center: o.boundsCenter, size: o.boundsSize } });
   }
   scene.add(root); root.updateMatrixWorld(true);
   return { root, manifest, audit };

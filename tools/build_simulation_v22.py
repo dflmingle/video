@@ -33,6 +33,8 @@ if 'blueArmyTranslation' in C:
  for u in blue:u['start']=(np.asarray(u['start'])+C['blueArmyTranslation']).tolist()
 if 'redArmyTranslations' in C:
  for u in red:u['start']=(np.asarray(u['start'])+C['redArmyTranslations'].get(u['color'],[0.,0.])).tolist()
+if 'redPlatoonTranslations' in C:
+ for u in red:u['start']=(np.asarray(u['start'])+C['redPlatoonTranslations'].get(str(u['platoon']),[0.,0.])).tolist()
 archers=Archers(blue,C)
 if C.get('openingBurst'):archers.redUnits=red
 # V22-R opt-in opening experiment. Only start delays change; original V22
@@ -163,6 +165,8 @@ np.save(O/'movement-reasons.npy',reason);np.save(O/'slow-causes.npy',slowCause);
 control.tofile(O/'red-control.f32');np.save(O/'red-control.npy',control);cycles.tofile(O/'gait-cycles.f32');np.save(O/'gait-cycles.npy',cycles)
 (O/'simulation.json').write_text(json.dumps(dict(version='V22-SPECIALIST-TEST',config=C,units=units,blueCount=nb,redCount=nr,frames=N,blueLastArrival=arrival,events=events,shooterEvents=fired,controlColumns=['state','timer','target','lastRelease','walkPhase','turnPhase','actionPhase','moveSpeed','facingYaw','targetYaw','stateProgress','releaseEventId']),separators=(',',':')),encoding='utf8')
 report=dict(status='PASS' if minimum-2*C['weaponEnvelopeRadius']>=C['minimumEnemyClearance'] else 'FAIL',framesChecked=N,minimumCenterDistance=minimum,minimumAtSeconds=minf*dt,envelopeRadiusPerUnit=C['weaponEnvelopeRadius'],minimumSurfaceClearance=minimum-2*C['weaponEnvelopeRadius'],requiredSurfaceClearance=C['minimumEnemyClearance'],blueCount=nb,redCounts={c:sum(u['color']==c for u in red) for c in ['red','orange','yellow']},arrows=len(events),causalKills=int((death<1e5).sum()),deadBodiesIncluded=True,noMeleeEvents=True,distanceByFrame=distanceByFrame)
+if C.get('freshLayoutContinuation'):
+ report.update(status='PASS' if minimum>2*C['bodyRadius'] else 'FAIL',envelopeRadiusPerUnit=C['bodyRadius'],minimumSurfaceClearance=minimum-2*C['bodyRadius'],requiredSurfaceClearance=0.,scope='INITIALIZATION_ONLY_PHYSICAL_BODIES; subsequent simulation checked by melee solver',supersededRule='Old 4-unit weapon-envelope video termination replaced by authorized melee')
 (O/'safety-and-causality.json').write_text(json.dumps(report,indent=2),encoding='utf8')
 with (O/'member-trajectories.csv').open('w',newline='',encoding='utf-8-sig') as f:
  w=csv.writer(f);w.writerow(['frame60','seconds','id','team','model','x','z','worldSpeed','cumulativePath','life'])
@@ -171,7 +175,12 @@ with (O/'member-trajectories.csv').open('w',newline='',encoding='utf-8-sig') as 
 (O/'simulation-performance.json').write_text(json.dumps(dict(wallSeconds=time.perf_counter()-simulationStart,steps=motion.metrics),indent=2));print({k:v for k,v in report.items() if k!='distanceByFrame'},flush=True)
 if C.get('safeFrontEngagement'):
  (O/'front-projection.json').write_text(json.dumps(dict(frames=motion.frontConstraintFrames,solver=motion.projectionStats),indent=2))
-assert report['status']=='PASS',report['minimumSurfaceClearance']
+if C.get('freshLayoutContinuation'):
+ # The single initialization state is for the already-authorized melee
+ # continuation, whose actual physical-body check replaces the old envelope.
+ assert N==1 and C.get('checkpointFrame')==0
+ assert minimum>2*C['bodyRadius']
+else:assert report['status']=='PASS',report['minimumSurfaceClearance']
 
 
 

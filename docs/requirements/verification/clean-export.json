@@ -1,0 +1,6 @@
+{
+  "testedCommit": "8ac78164841dbe858f3af03025d742d7241fac89",
+  "directory": "C:\\Users\\89TRIL~1\\AppData\\Local\\Temp\\pve-v22r-handoff-lzqrwq52",
+  "exportedFiles": 1452,
+  "method": "git archive into a temporary non-worktree directory; no original node_modules or ignored local caches copied"
+}

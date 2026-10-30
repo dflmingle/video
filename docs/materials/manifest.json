@@ -1,0 +1,3906 @@
+{
+  "variant": "V22R-topfield-T1",
+  "fileCount": 779,
+  "totalBytes": 995595315,
+  "requiredDependencyCount": 199,
+  "engineBuiltinIdentifiers": [
+    "Resources/unity_builtin_extra"
+  ],
+  "files": [
+    {
+      "path": "assets/imported/Assets/000/jingjichang/战场页_备战ui.png",
+      "bytes": 182340,
+      "sha256": "b9d485dede0d74bccda01eb4f137afb9279eef210108d09abe2aa5d539161051"
+    },
+    {
+      "path": "assets/imported/Assets/000/jingjichang/战场页_备战ui.png.meta",
+      "bytes": 3760,
+      "sha256": "8b6339c76eb0713ad0b6e09e089df725dbe014de1e306fd369ff407331f3414b"
+    },
+    {
+      "path": "assets/imported/Assets/000/素材/700_剑士/Blue_C.png",
+      "bytes": 14454,
+      "sha256": "f6d333297306f2921e6ab8afc0ad1abb299bd3b5ef3d4c9f3a5c4a44f2515093"
+    },
+    {
+      "path": "assets/imported/Assets/000/素材/700_剑士/Blue_C.png.meta",
+      "bytes": 3304,
+      "sha256": "218ceda921a11ac22a752b8a1b571fc0529594bbdac99a81cac87a3a9dc12995"
+    },
+    {
+      "path": "assets/imported/Assets/000/素材/700_剑士/Infantry.fbx",
+      "bytes": 1151808,
+      "sha256": "a81f2faedb51dd045b01ae0b594a39fa4b8768515e6ef2497184148b44e34c9f"
+    },
+    {
+      "path": "assets/imported/Assets/000/素材/700_剑士/Infantry.fbx.meta",
+      "bytes": 16207,
+      "sha256": "94dfdf3ddb5157878294c88f800433fcf79d76e6a5abaf7e564189de760edc5d"
+    },
+    {
+      "path": "assets/imported/Assets/000/素材/700_剑士/蓝色.mat",
+      "bytes": 5992,
+      "sha256": "7fd1b1e85459033103610bb5c4f99df7e360373aa04a7c2dd616b07e0654e8a5"
+    },
+    {
+      "path": "assets/imported/Assets/000/素材/700_剑士/蓝色.mat.meta",
+      "bytes": 188,
+      "sha256": "9ca5fe0c30dc4edebc8c5cc2f730fe89974afe33332c15a0d2f7b87199607335"
+    },
+    {
+      "path": "assets/imported/Assets/20250513-Rising-防御撤退-镜糕&Sherry/623_炸弹人/V1/Blue_C.png",
+      "bytes": 14454,
+      "sha256": "f6d333297306f2921e6ab8afc0ad1abb299bd3b5ef3d4c9f3a5c4a44f2515093"
+    },
+    {
+      "path": "assets/imported/Assets/20250513-Rising-防御撤退-镜糕&Sherry/623_炸弹人/V1/Blue_C.png.meta",
+      "bytes": 3304,
+      "sha256": "84a0709af5435dab986edef10ef4c151388dbf8542c2ebbf5a436c2a9db97b75"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/20261019-跨河强渡战役.unity",
+      "bytes": 30988,
+      "sha256": "6c4047aaf136ae288e9446b548c3d9bc582cc73d0a10cfd458e4906ba4c51d32"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/20261019-跨河强渡战役.unity.meta",
+      "bytes": 155,
+      "sha256": "bc1db5c8fcc4e22809f4191fa2324d3a0cbc4fe6da8ea94a54026a2506382877"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/V1/Shotgunner.fbx",
+      "bytes": 46560,
+      "sha256": "7f4ef3087a4efa96298b18ec394fa0631a276d4eb09381844756dc798327e308"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/V1/Shotgunner.fbx.meta",
+      "bytes": 2830,
+      "sha256": "1b05a773032e358133a33c4dc852f5f5044f607ea278e0296e66596e276800ac"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/V1/Shotgunner_A.png",
+      "bytes": 49201,
+      "sha256": "58d30332b1fd249b330e1741c570026365e522ee357080c6cd5e0deea8091ce2"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/V1/Shotgunner_A.png.meta",
+      "bytes": 2591,
+      "sha256": "295cc3a2e2a729d78f603c0c284bd8bda49092bc9b12896c28ef630e627e32c4"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/V1/Shotgunner_B.png",
+      "bytes": 47220,
+      "sha256": "1311e9cdbc1bc913b053104b046d3db7481d22bf785a4330c97958f4c1f552e6"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/V1/Shotgunner_B.png.meta",
+      "bytes": 2591,
+      "sha256": "c69839010540fc57519701d08f502478f4e5588feadf205f1db8c0797d6eb34b"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/Shotgunner.fbx",
+      "bytes": 1150448,
+      "sha256": "e5f50429d05851363224bed96129c014d93172590c4e7a5827a17863c4c3ce29"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/Shotgunner.fbx.meta",
+      "bytes": 2830,
+      "sha256": "482271e8d7ca2a76809da8075b0588067a844ae297a54f2af28bb808731a6440"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/旧/Shotgunner.fbx",
+      "bytes": 1229424,
+      "sha256": "f0eb9b6698a13ef353ce8b29979a0b786ff4d374081b892ac90ce16f6b10e2ff"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/旧/Shotgunner.fbx.meta",
+      "bytes": 6883,
+      "sha256": "05d792ba65c557bc22f11d2a0766af293ef74b852320c3462ae83c905efa9175"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/旧/Shotgunner_C.png",
+      "bytes": 96012,
+      "sha256": "b003ed4cae336143e5e038dc57957a66fc82076839b1b741b133f44d42c89cb2"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/旧/Shotgunner_C.png.meta",
+      "bytes": 2591,
+      "sha256": "a90552e9ea66ffe7673963c9f270e4b5d0e1073cddf42578cabd3801d298c009"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/效果图.png",
+      "bytes": 12911,
+      "sha256": "d9e0b90667667440c074ca2c55d3e26a737e9809c2c6bd73296081cda611367f"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/效果图.png.meta",
+      "bytes": 2591,
+      "sha256": "3095c73b30db56f6c86eaad4f2f0e7f018ddf9a1b5d0a46bfd2f455b6fd0b36c"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/V02/Shotgunner.fbx",
+      "bytes": 524432,
+      "sha256": "ce1132bb6d7019b34bcf57b93463e901dbce159c4e7d22a9484cbc3d43d0795a"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/V02/Shotgunner.fbx.meta",
+      "bytes": 2830,
+      "sha256": "57ae541985a19abf12ebbb50c072bb2f662617b608be62d938b949fc707bfc09"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/V02/Shotgunner_C.png",
+      "bytes": 116711,
+      "sha256": "30ec55aea6dee2fa53b77c5a60465adf509fceeb0e4d677a608c5622193b0ab2"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/V02/Shotgunner_C.png.meta",
+      "bytes": 2591,
+      "sha256": "7caa57c9bba8ba8ab6d6f99b7fbe32c4450d8715f20acbb66f59eedf5299d900"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/Shotgunner.fbx",
+      "bytes": 548880,
+      "sha256": "57fa30dd94945269bf646645bf1d09f3d0a0f55a0b7be9fafe486e11b492ac8a"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/Shotgunner.fbx.meta",
+      "bytes": 2864,
+      "sha256": "c5b0831004eff2af8935408ac4c4888dd2d390c2adfccb737521ba740dea286a"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/Shotgunner_C.png",
+      "bytes": 174283,
+      "sha256": "c20926fd646bc1b36f08f3d215686bc36971ff9723f172c88d34b8db31d16a4e"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/Shotgunner_C.png.meta",
+      "bytes": 2591,
+      "sha256": "ed80653f2911e3a9a8c485cb43db2ef7ba003ca93d21fcaf56d41091654ed35a"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/增加细节/Shotgunner.fbx",
+      "bytes": 69472,
+      "sha256": "97f28f38b0652aa75f721f1a6ee29764ac32b9bc0ee2618642e3ad2cca2d9fdd"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/增加细节/Shotgunner.fbx.meta",
+      "bytes": 2830,
+      "sha256": "8de1f27ff3553360ca13169463b53f39fcd8ce9aa6f25846337a6d2545eaa4aa"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/增加细节/Shotgunner_C.png",
+      "bytes": 174283,
+      "sha256": "c20926fd646bc1b36f08f3d215686bc36971ff9723f172c88d34b8db31d16a4e"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/增加细节/Shotgunner_C.png.meta",
+      "bytes": 2591,
+      "sha256": "bcae50c01f4ce0e4c7bee4de84b738d77173d2695b4c6effa6ca0c00b85df420"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/皇家猎手.png",
+      "bytes": 331160,
+      "sha256": "80be3b7f51d176216fa4e6542e896f333d1a5810ffc8c89a6aeafe2d04e5fe21"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/皇家猎手.png.meta",
+      "bytes": 2591,
+      "sha256": "ed5d0e64d18a43a576e03ffe5129056cba56327f98d28d621fd3da6806326975"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/V1/Flail.fbx",
+      "bytes": 56128,
+      "sha256": "64298a9585ca14ea701bf6c0b885dd806122de11af81bf5afc6099962d7ab60d"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/V1/Flail.fbx.meta",
+      "bytes": 2830,
+      "sha256": "23ba5373eaaccfa06edd6e0dfa70decc8996aa9ff6913d04de270ffd61481694"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/V1/Flail_A.png",
+      "bytes": 97113,
+      "sha256": "943567c84828dca38cf0e6c6f7c600ee3636456176cf1646ef50da878968bfe5"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/V1/Flail_A.png.meta",
+      "bytes": 2591,
+      "sha256": "01b87bb205d56513f870c4afdc88b31d4ddaf5ac3d34bd5ce7ff8a3a5e52807d"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/V1/Flail_B.png",
+      "bytes": 97033,
+      "sha256": "61310f5349ece1ec530a732227418325c20d5516ef0730e713a67dc500eb0e91"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/V1/Flail_B.png.meta",
+      "bytes": 2591,
+      "sha256": "8e35bf40fef98264ca49027dfe24d0839aab3824cc11f6f13a02cbe5efbbe38e"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/效果图.png",
+      "bytes": 26676,
+      "sha256": "8643616d3947e61210a1f7f8c742b15ebff90797ca6791fa7afeab64411296a3"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/效果图.png.meta",
+      "bytes": 2591,
+      "sha256": "3a9b2f8708b88bc783bcd804c2d6cc162a40d66f61db9ba048a84e8982cf327b"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/Flail.fbx",
+      "bytes": 1333184,
+      "sha256": "493820e57e417784b1ca1f4a8678b10808d29f9517988fca70f62b8b56d02440"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/Flail.fbx.meta",
+      "bytes": 7678,
+      "sha256": "bd360bf9353d6fa389010c83719978aba896203760127acfa7d3333b39ebac30"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail.fbx",
+      "bytes": 829952,
+      "sha256": "13509eb1337ff1df34dfc3fcd15b742c12206919b8bf7de3a9e2aa09c75b4da8"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail.fbx.meta",
+      "bytes": 2864,
+      "sha256": "dd700680a53cf2518652c638d0975819a1f0fd10a698976810878876c78204a7"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_C.png",
+      "bytes": 195940,
+      "sha256": "abcefbcb1e5997b373a2fba9182896d0b332f836e69c3daa423c340da5a619a3"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_C.png.meta",
+      "bytes": 2591,
+      "sha256": "554dee99d589502e6a86c336e7973fe1e936cdeee5e05860f41d5c919ff631bb"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_New.fbx",
+      "bytes": 63248,
+      "sha256": "02ebc9585d27e390e5362aaff981f59739a749c31fc0c2e0e46926ad42b3ccd1"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_New.fbx.meta",
+      "bytes": 2864,
+      "sha256": "cf0521f8f97ddf8fdfb0dbd4b2e344d9b3a70727d7ec344706e9d2c2629994a7"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_New_C.png",
+      "bytes": 72566,
+      "sha256": "1bcd31860a081f940c81024d0c743c7503b40ee75e8bdd522a8b7f821cb73057"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_New_C.png.meta",
+      "bytes": 2591,
+      "sha256": "18003601f3e0e8998373c2f147ad7144cb0e45fc74aae6c7df392afdb846323f"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Materials/Flail_C 1.mat",
+      "bytes": 3729,
+      "sha256": "b115e3a7cbf6812501bf39b3e3376ab0506b98b1f6bd198f6307e87b7346c56f"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Materials/Flail_C 1.mat.meta",
+      "bytes": 188,
+      "sha256": "fc59f2f2b1c1a48320ce94be6f5d85dab15b88b6382bdaf7d81b768e1b283683"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Materials/Flail_C.mat",
+      "bytes": 3617,
+      "sha256": "65229342fe9fb42262de4469b7ccc09f34c895092375eae438979d4c659629d4"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Materials/Flail_C.mat.meta",
+      "bytes": 188,
+      "sha256": "0fb1d6156df27f6d95658c2389142b5b9eb2e72339e581633cdd636639f77f69"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Materials/Flail_New_C.mat",
+      "bytes": 3732,
+      "sha256": "b848a403664fc398c920ceed3802d0ae6492c765d5992154a585ee05bff7ca00"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Materials/Flail_New_C.mat.meta",
+      "bytes": 188,
+      "sha256": "13216747bae7a241e4c0602c3aff7ee59f382045b3aae5e87e7d17dbf3b55e41"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/GriffinKnight_C.png",
+      "bytes": 112266,
+      "sha256": "d5297d57140ac4e11b028f6d7e0b181518ade8c81776d6f67c647a3a9cacf6be"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/GriffinKnight_C.png.meta",
+      "bytes": 2591,
+      "sha256": "c69374dde392fa68fd22db639ac84e6fd8043f5324ab615f823f2fb78836c375"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/效果图.png",
+      "bytes": 64742,
+      "sha256": "8f094414f7d73a9681c479a502cb197ab5e822d3d07a5da56b80843a13d51af7"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/效果图.png.meta",
+      "bytes": 2591,
+      "sha256": "d26ce6b2cf63a3595d4d2dccca748208cd001a10c60976457ed72c55edad52da"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/GriffinKnight.fbx",
+      "bytes": 2018528,
+      "sha256": "875913106c3b6970e77c5499fc99e0757e98094e33dd4bc733bdf28c7bc01c43"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/GriffinKnight.fbx.meta",
+      "bytes": 2864,
+      "sha256": "f878189fe9786663f834f505c5996e57642e32b5d17367364fa930eac956ed15"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/帧数.png",
+      "bytes": 37480,
+      "sha256": "e8c20e8ee04a2800a42a1e60256a2e07e9d37d292bd7460bdae56442968ad7a2"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/帧数.png.meta",
+      "bytes": 2591,
+      "sha256": "0d533e4a2dcfdadff2adcf1a54fe25a7f0cad15b82a2c9cf46886d7b2238b9cd"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型源文件/GriffinKnight.FBX",
+      "bytes": 3012944,
+      "sha256": "8ac4d2c5337c2518e0d804917001e7ab4bbcdeaa3c8d2942dd7cf3e03acee462"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型源文件/GriffinKnight.FBX.meta",
+      "bytes": 7713,
+      "sha256": "86e067c814c3c531b24690f2cb766e7786e48d9b4a6bb92eaf131f622d1e3faf"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型源文件/GriffinKnight_C.png",
+      "bytes": 113013,
+      "sha256": "fc188a7205ee17f42c828c8c1f24d7f5ad7a2ca1e8693ed5d9f9ffd08f1017e5"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型源文件/GriffinKnight_C.png.meta",
+      "bytes": 2591,
+      "sha256": "a2a5ea3c910ef03fcc5bc7dc5c5368f306afdf1eb387aa459b97e98b39923355"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士/动作模型/BlackKnight_01_C.png",
+      "bytes": 68635,
+      "sha256": "027e39410bfa37ea4351ce0046bccf90175e6815c82f93d101bb6aabe541aca4"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士/动作模型/BlackKnight_01_C.png.meta",
+      "bytes": 2591,
+      "sha256": "8ba3493ef3bae84e2e2f44b3a8df036c630b44f949bc77e6c1d0408d192b50c7"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士/动作模型/Mod_BlackKnight_01.fbx",
+      "bytes": 50592,
+      "sha256": "70716efc07df9aa19a3879ba9a2e82356d9064fa4f25c8912eda0385debca0d0"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士/动作模型/Mod_BlackKnight_01.fbx.meta",
+      "bytes": 2830,
+      "sha256": "99683eab4362c12f885c5f1c33f20ab0fd4cab56142833d0789f4bb3d08d119e"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/BlackKnight_01.fbx",
+      "bytes": 1122016,
+      "sha256": "5efe9fd01c1ca149f782edc48f014b24995e8882ff31ebd0010d9caabcd87a8a"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/BlackKnight_01.fbx.meta",
+      "bytes": 6853,
+      "sha256": "7a383849909c8bb304b5ff94a06bb1c49750a1235f094289cf5fb4a65a8210b5"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/BlackKnight_01_C.png",
+      "bytes": 113531,
+      "sha256": "b494255c85cf892bbed622891f56b0cc366191b8c3f1b96ef6bcb037258b125b"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/BlackKnight_01_C.png.meta",
+      "bytes": 2591,
+      "sha256": "c1dba203fecbbc72c856640634aa66d5a6bd988f9c25bb3a1c8b257b445a7860"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/Mod_BlackKnight_01.fbx",
+      "bytes": 97776,
+      "sha256": "775dc287d838479a5d584d40efb396635220ae546b9af0b34e1f95ed3e689970"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/Mod_BlackKnight_01.fbx.meta",
+      "bytes": 2830,
+      "sha256": "a420985932057f59d19bbdd1fa71a18a5b2fdfc099277b5b1e2491f78df3c40c"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/帧数.png",
+      "bytes": 24103,
+      "sha256": "cac1649bebfa49f7101ec826ceb7eadfc3988de557e883178a79f0988fcdb616"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/帧数.png.meta",
+      "bytes": 2591,
+      "sha256": "156ef23913bb1d14b2de7a68222df9a6a3b13d18a584837d3944ee1aec0701ac"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/黑骑士.png",
+      "bytes": 878154,
+      "sha256": "f521a348c5d589c2a16e5dca1f3e9599a1903d6db31f53e64a4cf36e43a2acbb"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/黑骑士.png.meta",
+      "bytes": 2591,
+      "sha256": "741b6404be687b83258d0f1cee5f8e40eb7711ff5a9504e4856b0e82b7d7b4b5"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/831_大炮战车/效果图.png",
+      "bytes": 23071,
+      "sha256": "ba03763331f723b6638e4b0c0161080db5a0dd52da218b4276845b93eeaba032"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/831_大炮战车/效果图.png.meta",
+      "bytes": 2591,
+      "sha256": "1e16a0014896d3ca99761c86dd251bec25280036eb3830f2b433fe904544bfe5"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/831_大炮战车/模型动画/CannonChariot.fbx",
+      "bytes": 260048,
+      "sha256": "de4ea77532a490bb5a0535fe15086fad3cdcec15dd1c5090c49e7ed839e14818"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/831_大炮战车/模型动画/CannonChariot.fbx.meta",
+      "bytes": 7678,
+      "sha256": "c85c51be034b47b2fdfa9b849ba79dc45f6a964dc08004a334df1a44bf12cd29"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/833_铁卫战车/效果图.png",
+      "bytes": 44331,
+      "sha256": "cd2f6e4336877ce3c5d8a3493913e586efec0c1b21370163c07f5cb48c19a997"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/833_铁卫战车/效果图.png.meta",
+      "bytes": 2591,
+      "sha256": "d80671c03232141624d98d77be6f4f2fd2beb79b1bdffe2630302240b88250dd"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/833_铁卫战车/模型动画/GuardChario.fbx",
+      "bytes": 530288,
+      "sha256": "b68d6b3a5e12fe93c094e5a45ae1787fae80694d3eccee303ddb8bc113a219be"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/833_铁卫战车/模型动画/GuardChario.fbx.meta",
+      "bytes": 7678,
+      "sha256": "f6f67a8b88a86cbb88d06089063368414035da255241a978fc5e40d6dbcb4f98"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/841_骑士/效果图.png",
+      "bytes": 26052,
+      "sha256": "64c19a3ef636a4bca03689638f0978aa483a80b9c105f719aec225cbea9bbd0d"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/841_骑士/效果图.png.meta",
+      "bytes": 2591,
+      "sha256": "0311673006a39a3cdee2656b054b1658f872862adfbb2d56eecda51bca774d0d"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/841_骑士/模型动画/Knight.fbx",
+      "bytes": 2218544,
+      "sha256": "6c679005ff9e63be8f7af8c36b052e82cd0c0b931257e1885715004431ddccfd"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/841_骑士/模型动画/Knight.fbx.meta",
+      "bytes": 7710,
+      "sha256": "6df86a8e4c90a24d6591a84753de71102e87815731e9cf693ab871946363285a"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/841_骑士/模型动画/帧数.png",
+      "bytes": 47023,
+      "sha256": "049ba2441f9df550a7c32a61d5224cb31405667ad65399a23975e17d68ad403a"
+    },
+    {
+      "path": "assets/imported/Assets/20261019-跨河强渡战役/841_骑士/模型动画/帧数.png.meta",
+      "bytes": 2591,
+      "sha256": "c19d41569662ca5a9995a17a26ea3a277c11ab6ae76a328aed95f1a3472a56aa"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/V1/Grenade.fbx",
+      "bytes": 43408,
+      "sha256": "83bb338b3a0e04dc46a4bcc700d2a32990367a453a76ad22b0dd89e92184bfd0"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/V1/Grenade.fbx.meta",
+      "bytes": 2830,
+      "sha256": "66fa506606ab274771c0ccb14e8795e76dc8d7425259953fc0320c039cc9ec23"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/V1/Grenade_A.png",
+      "bytes": 51506,
+      "sha256": "ed120521d242996467a4ccec848b754e033cb069a99c11b8dac09828f29bb861"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/V1/Grenade_A.png.meta",
+      "bytes": 2591,
+      "sha256": "241ef9f9572de6971bb654b94bc5c0788ba74c34f709535ff91d776d67a90ffe"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/V1/Grenade_B.png",
+      "bytes": 50564,
+      "sha256": "c394c0e07bac45443cffcab4f63953e0e08355d5d7ef87f29bf86987898b82d0"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/V1/Grenade_B.png.meta",
+      "bytes": 2591,
+      "sha256": "2f74e29468b90c9345d07a97e61f2a71fd7783886072a4ebf0239d248dd1d741"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/Grenade.fbx",
+      "bytes": 1004112,
+      "sha256": "bba5c5b4d4ba0f2a4023e42232af4c9b7776d77a74bd86127ada68c04fa46d7c"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/Grenade.fbx.meta",
+      "bytes": 2830,
+      "sha256": "e7855d1d8ba70dee8449288fb85ea1303cd346ca5cb0568e9e5cd72e549192e1"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/Grenade_C.png",
+      "bytes": 205142,
+      "sha256": "6ec923bad72a9e9b18a7378e5b1bd0969ced7539097aa6ae14686ebf92d63f0f"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/Grenade_C.png.meta",
+      "bytes": 2591,
+      "sha256": "33d859f93a9c347147a8fc883c7b5d44efba3d3b39044d703dceb1d01b3a9ab5"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/Grenade_New.fbx",
+      "bytes": 44960,
+      "sha256": "cd1482d7e0ea000ab1de5ed5006a5d098902df3be8b913362ed68c9d1c24feda"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/Grenade_New.fbx.meta",
+      "bytes": 2830,
+      "sha256": "9e16853abb3eeb54503687fdb2e6e26dbf5adba3e3e9e7f32f36c719b00ecfba"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/Materials/Grenade_C 1.mat",
+      "bytes": 3622,
+      "sha256": "0cbe1909ca2c6b6cc5f8275add6ea69c5d8d97bc7dcdb21641ab9fc756a26c10"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/Materials/Grenade_C 1.mat.meta",
+      "bytes": 188,
+      "sha256": "adab29f5d0f94eb98e3b52803598eebf5ae806a47febdd62e15ec5a820282dc4"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/Materials/Grenade_C 2.mat",
+      "bytes": 3732,
+      "sha256": "40237184dcaaacd47c7349b437c4f166ad17c4f8721950f8231d5f0da2e2749b"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/Materials/Grenade_C 2.mat.meta",
+      "bytes": 188,
+      "sha256": "c7e46a51e77bf3fb95bfb624a3f5d6d177db6bd1c9f7ab15e61ebe6227ec2f34"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/Materials/Grenade_C.mat",
+      "bytes": 3619,
+      "sha256": "e922eecf70b4203a42c7d4fbe87e369f9112799dbe6b757338fb7a5c64e92290"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/Materials/Grenade_C.mat.meta",
+      "bytes": 188,
+      "sha256": "53648aa323495a88e5758eeb1435306f526a2a738f0904c717fff08f69e0385f"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/旧/Grenade.fbx",
+      "bytes": 1389360,
+      "sha256": "11ec3069a474f1e8a48b817f19cdb015a5e828fa4471388c9c2761912b000152"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/旧/Grenade.fbx.meta",
+      "bytes": 2830,
+      "sha256": "981b0cd9d2890b5cd147c8fb043de2f538b7a8ed5d9d33e1b6345189d8021954"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/旧/帧数.png",
+      "bytes": 41743,
+      "sha256": "3e068aebfc27406223a195cc0fa3b5ed2837429490517251431b4ddfb5225562"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/动作模型/旧/帧数.png.meta",
+      "bytes": 2591,
+      "sha256": "c03cbc200e08ddb1cb406fbc7158ed3e717c4043700a6f17df2ac1c4b831ae94"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/效果图.png",
+      "bytes": 19519,
+      "sha256": "362b8b1c299ef4f97245ad11a550d53fb1f7fe7520bbb4b42bf4a249f59a0040"
+    },
+    {
+      "path": "assets/imported/Assets/645_见习法师/效果图.png.meta",
+      "bytes": 2591,
+      "sha256": "6bc7f74eec2c31cbf316563e39c017323f03223a13addbb588f6fe8adc6b902a"
+    },
+    {
+      "path": "assets/imported/Assets/730_玄铁战熊改动作/Blue_C.png",
+      "bytes": 45744,
+      "sha256": "b3546fbbbf1523108a7de9871602d0919620ade56b191e97037d005705b2210b"
+    },
+    {
+      "path": "assets/imported/Assets/730_玄铁战熊改动作/Blue_C.png.meta",
+      "bytes": 2591,
+      "sha256": "5aa74d9b449419347698665471704376359088bad9cf877c6909553341579ffc"
+    },
+    {
+      "path": "assets/imported/Assets/730_玄铁战熊改动作/Halaer.fbx",
+      "bytes": 2904000,
+      "sha256": "ebb65391548e810f525da3a709acfc76e55a61269c38b41f7dcce681f3693112"
+    },
+    {
+      "path": "assets/imported/Assets/730_玄铁战熊改动作/Halaer.fbx.meta",
+      "bytes": 4476,
+      "sha256": "a0106fd41a2977e4f89c56428cd8d71b32af240dc172f912ba745a64625adf5f"
+    },
+    {
+      "path": "assets/imported/Assets/730_玄铁战熊改动作/帧数.png",
+      "bytes": 36758,
+      "sha256": "9dc5e09daaca6d12db44c01c80867ebdd36403502b945a13a4a41e0e5fb94b7b"
+    },
+    {
+      "path": "assets/imported/Assets/730_玄铁战熊改动作/帧数.png.meta",
+      "bytes": 2591,
+      "sha256": "43637ca477e05801ce2049bee3b73d9906eb3422270765fcc9a9c25b826db002"
+    },
+    {
+      "path": "assets/imported/Assets/aaaa/UI.png",
+      "bytes": 72351,
+      "sha256": "21424efa02664797842ec37942c3bfcc68c9ea73268f956b5bb825ddccc09890"
+    },
+    {
+      "path": "assets/imported/Assets/aaaa/UI.png.meta",
+      "bytes": 3704,
+      "sha256": "6f7fb8198a00a82597806d8882b9d49cd2733a4e34d9bbc5adcba1951d91c923"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_51/Low/Textures/08ce35de.png",
+      "bytes": 22000,
+      "sha256": "b86be144213dbe4f3c0e17b210ccc6a30db2e6d923aa950584fde37856b44f02"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_51/Low/Textures/08ce35de.png.meta",
+      "bytes": 4226,
+      "sha256": "6bd59d4e6e6d067fb7db08e0e04a5053cca91225baa0c539a3d50094e5aa8fa3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_550/Low/Textures/550_TinGiant_07_Tex.tga",
+      "bytes": 238544,
+      "sha256": "c5133e6e1774d898ff4cf92bff9f751dbb16665117a7374d2383f80069fd9ae7"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_550/Low/Textures/550_TinGiant_07_Tex.tga.meta",
+      "bytes": 4193,
+      "sha256": "7028ec7bf35c6fb8a2d474f14d4501e39dc547ee3686a0bf8c9a5521697a7085"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Crack_001_Mat.mat",
+      "bytes": 5925,
+      "sha256": "ad5af1cfa0d670008a98ccf64e408d65a6f2091149cc6699e7dea160f81af5cf"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Crack_001_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "bd8db0e80d970355e8a2efefa5d8a30ee14e3f5efc8208c60496202390d77ee0"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_FlowMap_001_Mat11.mat",
+      "bytes": 6122,
+      "sha256": "a6659e5a206d64de6052c88f171c95e22c1db519b6a606188fcaa1a153584394"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_FlowMap_001_Mat11.mat.meta",
+      "bytes": 196,
+      "sha256": "f0bcea04cd5bd46c2f95aa44ee041f5629665e8c59614133f52ce287412e2fe7"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_FlowMap_001_Mat12.mat",
+      "bytes": 6137,
+      "sha256": "75d5ea14ba99782dfa29c846578dab9933729339f946e2e4dd045141c244855a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_FlowMap_001_Mat12.mat.meta",
+      "bytes": 196,
+      "sha256": "de06d9f7d53ee8737de663c7ab0e7a5e18541a800e79b32f23bde6c14f5849ea"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Fre_005_Mat.mat",
+      "bytes": 5877,
+      "sha256": "f7c10c7c102bbf8f374a9d90b69a1d39ff7ca03d5e7e048a323ff23f62eebd8b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Fre_005_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "e4a2399a2b77b7e981ff843899d3f54e41a7e373546525d206beee7cc24911c1"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_002_Mat02.mat",
+      "bytes": 6010,
+      "sha256": "7b08d9c58aac8604125aaba8ac7e7e6acac80063a3d94bb1bec04572597fb4cc"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_002_Mat02.mat.meta",
+      "bytes": 196,
+      "sha256": "2b775d2811a01b91797917032effa6e4b67bdfb113613698bb7b3b6ba4e8d95f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_04_Mat003.mat",
+      "bytes": 5926,
+      "sha256": "e3e033037087f54c2f63e80c95b163dcbed5619129d7b38f10c5aa2ab221a80d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_04_Mat003.mat.meta",
+      "bytes": 196,
+      "sha256": "0d9ea6261834ad872d2b965f41feb6967665e10eabd6574af68c0bc0dc1b3b6e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_04_Mat09.mat",
+      "bytes": 6373,
+      "sha256": "5cbdc3b21b2e968efdf6daf2d27dfd4d963a9b421342ba3199e742f30a82a78c"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_04_Mat09.mat.meta",
+      "bytes": 196,
+      "sha256": "2406095b8c46f25ba7af6b0d861d868d3f491380a9c1923a96744e55eecbfbda"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_05_Mat03.mat",
+      "bytes": 6194,
+      "sha256": "4530dc1c8b88e857ea569a0174142f0efa100e0fafb8a659b4a876700ba04156"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_05_Mat03.mat.meta",
+      "bytes": 196,
+      "sha256": "af5f1a99667aeaa8a6f8dae8a9caf4177d9213c19d56eedaaf918377c39dc62e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Knife_006_Mat.mat",
+      "bytes": 6137,
+      "sha256": "dd5f936e54b36398d47f39d2d3845cb7a7d5a22a16836098096daa31a8a7ebb5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Knife_006_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "59d0a891329124d655bc238e65967894562945e3afcd1eba421c4cfb53cc439a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Knife_006_Mat02.mat",
+      "bytes": 5994,
+      "sha256": "bce3579f26975c8273b341d5c5ea3797d5bc11dadfd9002a797506393117323b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Knife_006_Mat02.mat.meta",
+      "bytes": 196,
+      "sha256": "7aa7ab689787ad632b785c8d8a1635a5c8a887e25856abc8f1fe2c89d8b970ec"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Lights_015_Mat.mat",
+      "bytes": 5926,
+      "sha256": "ad72c80dc4554ac73d809f581369e0f7e7f43025983d68759c87bb89090daf0c"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Lights_015_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "29586b04439e4f807ffb4c0ed445936eb152c8d91e8d162feff5f704877d4a4f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Line_015_Mat04.mat",
+      "bytes": 6071,
+      "sha256": "7843bbcb0d1922d754bd4a5cda58156f5fb935275ce80cc0aeb06cb347a0f14d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Line_015_Mat04.mat.meta",
+      "bytes": 196,
+      "sha256": "2fe01eacd32a239b667745cddbc6970eab96dfc9937d061da71ed946a42961bc"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Niose_026_Mat.mat",
+      "bytes": 4109,
+      "sha256": "92bdb8c19b755e38ab147316949fc3d891a0aa06d8cf49b406536d1ce47b7473"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Niose_026_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "39d954892758d15c6d9b5b755846c96c265a76080a50e3a5b4890a622e7def85"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Polygon_003_Mat.mat",
+      "bytes": 5927,
+      "sha256": "3080eb9a4f2c5a8a8cd615ef0290af5c73590201f9a6c2c9a9511c725db1463a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Polygon_003_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "1deaeb4dd04495a69f00976eefb26b24d1cabb0267b04db20e77a3dabd579a26"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_011_Mat.mat",
+      "bytes": 6091,
+      "sha256": "1fe96da850df4648a7bc067c6be3ccb9e9e1e32ca32ec0a786c64c944e1dd50d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_011_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "5e2cdc912a974daf8f6d8139382b9860b4a1e15548665de846fe8028e3af4f1b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_14_Mat04.mat",
+      "bytes": 6134,
+      "sha256": "93fadea7aa705729f9de59896359ce4807f8f1d1de33c064c095ddc5479df6e1"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_14_Mat04.mat.meta",
+      "bytes": 196,
+      "sha256": "9e6e4e539ef0538ccbb24f1494492976d28592de4690532ef465ddf68024ae68"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_70_Mat.mat",
+      "bytes": 6062,
+      "sha256": "56aff5368393ae778d26666d6171ded574921cc5ecd9dc162eba8c4d5a487849"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_70_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "f28dcdb1507ad1f5ac4116ddf0193ddd96849be2c24e43258c8eb863f0a1e6b7"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_71_Mat.mat",
+      "bytes": 6070,
+      "sha256": "31e5b542bf3ee0f3d64278b88726bd072985887de137ad084f1717d95c704cbf"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_71_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "e01c52ae0884dfd46c73806c307004ece303a762225aeeca3efd194a7544a01a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Smoke_002_Mat.mat",
+      "bytes": 5925,
+      "sha256": "c8632bb5f72ae587f1a5c6a6e75225418c9178cff766a7bfc35ec528d6fd44f9"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Smoke_002_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "5e13116bb51ee278feefc3e7050a79e2334f47bb2b48e0bd4c0d8c7287bdf5f4"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Smoke_171_Mat02.mat",
+      "bytes": 6009,
+      "sha256": "dc1d56564e09e1571de330ad2586fc0358932cb23395f3fb7eadc3fc707831bb"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Smoke_171_Mat02.mat.meta",
+      "bytes": 196,
+      "sha256": "1fc7d798d93514ac4ac4be83e55597ac4f8159d053d081a5702e62f95d8b853f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Spikes_16_Mat02.mat",
+      "bytes": 5927,
+      "sha256": "456c0034193f5b01e766fde9558f43e447d8cc0ea60e7665a6ac87be426ed98b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Spikes_16_Mat02.mat.meta",
+      "bytes": 196,
+      "sha256": "eea870b2b24920394f641e78ff082b0a93b0540096eb7ff621ffa74bec868c71"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Spikes_23_Mat.mat",
+      "bytes": 6046,
+      "sha256": "0438e3279cf6aecd1d7385d1e73431b49043bb49eb02a3b979bd9a850da1da48"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Spikes_23_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "e04cceac4e78aab32059f6ef0832c2760b0f091de013ea8776b77b2b0df1b4d3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Trail_016_Mat.mat",
+      "bytes": 6050,
+      "sha256": "bec6d238ad13ea02f3116b1d37c97d9fb531ae114a8144566377d870ae90c878"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Trail_016_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "1355184c3e65eba90d786e3f4de15793268a8ceac35a7627d93746349f73a8b7"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Models/FX_Knife_05_Mod.fbx",
+      "bytes": 40080,
+      "sha256": "4cda77bbdec7e019f0f30c20c54ece01775ab461ba1107d100295238b2323d51"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Models/FX_Knife_05_Mod.fbx.meta",
+      "bytes": 2939,
+      "sha256": "93b69bdd63bb916db0ec3594291db9ec82731f1ae2663569035e7807fc945591"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Blue02.prefab",
+      "bytes": 369009,
+      "sha256": "ddcde5199b5d29f9127cc788cda98f3fa13c971b7f2aaf25e51d0bc78a98f7fd"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Blue02.prefab.meta",
+      "bytes": 161,
+      "sha256": "f2d630c6b0e5c310653840bdce75276d628e1104b732769b04cb2ee8b58dfc47"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Purple02.prefab",
+      "bytes": 368985,
+      "sha256": "8823dcd6cbcfb753da42249c2e78bd2b0111d6851a1c56172e001e1d2c17e6bf"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Purple02.prefab.meta",
+      "bytes": 161,
+      "sha256": "69b4b6ff58579d5a80b482e61b0fa18cf59171709c6becd1e311378ba0fa36d5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Red02.prefab",
+      "bytes": 368759,
+      "sha256": "d02f3119d05fbe78158be1059e02153c96d36450352ae788cb827a200c336250"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Red02.prefab.meta",
+      "bytes": 161,
+      "sha256": "c7e52f346c6b45d458d45c658390087dd04d6e5b045a048b9532d4cf678dd518"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_White02.prefab",
+      "bytes": 369010,
+      "sha256": "a4fc00f61a2707fa222a9dd9579fe7832a7773524e59a0af9eadef7fac3503fe"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_White02.prefab.meta",
+      "bytes": 161,
+      "sha256": "78507f986968120bdd581b2b04cacebcaec6cd50c16cb74ac5518a2c4fe2bb9a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Yellow02.prefab",
+      "bytes": 368984,
+      "sha256": "644cb2437170e6b745392416f1dd6301b0aff37881b22bc2b5c1cee60fe8eeb3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Yellow02.prefab.meta",
+      "bytes": 161,
+      "sha256": "a100f2d568dfcd26999d00b3c7b4ff85056d21c3459767683f9c9ae5f4358c42"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/BattleWeapon_630_VFX_Hit.prefab",
+      "bytes": 356510,
+      "sha256": "b79d3b91131e6faf51c9c960f7d914bfc64292cd81ef814890ac6752e7dd07a9"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/BattleWeapon_630_VFX_Hit.prefab.meta",
+      "bytes": 154,
+      "sha256": "245b2931e95bf808fa36a5ad1b5dbb6b699fffa4311dff7725546a20ad2d1b26"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/Common_VFX_Knife_05.prefab",
+      "bytes": 356463,
+      "sha256": "c5ae5d5e675e922ecb84b9e55586d6b021a50617788400762e3ac6f81d30d97f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/Common_VFX_Knife_05.prefab.meta",
+      "bytes": 161,
+      "sha256": "c7a311666f91d8287312f9b4385c37cbe218bba43118e517bdf244d9d702cc36"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/大炮/BattleUnit_831_VFX_Skill01_Bullet 1.prefab",
+      "bytes": 712635,
+      "sha256": "69ddf5458221e6d52aad2f3efd409699cd473289e6dcd4239e95ffdb97a0ca02"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/大炮/BattleUnit_831_VFX_Skill01_Bullet 1.prefab.meta",
+      "bytes": 161,
+      "sha256": "2ad28ae4b4f3ae9fec522072fb1ff5317ba0afd06f205199e44a6478103ce413"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/大炮/BattleUnit_831_VFX_Skill01_Explode.prefab",
+      "bytes": 1303806,
+      "sha256": "272c2d1a2c61d56f588f9ceba7cb13adaa2ccac2a080782ae32f0db4b2c19d3d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/大炮/BattleUnit_831_VFX_Skill01_Explode.prefab.meta",
+      "bytes": 161,
+      "sha256": "7d8d7cfeacc7d1a5649ff46d4bf76f0b29ae69cc7fb24c58ba403d2731fb003f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/火枪手/BattleWeapon_41_VFX_Effect 1.prefab",
+      "bytes": 359518,
+      "sha256": "19fcefa089f511977b63688a8d9c8ad5b23f9d77cda3198ff1b991f7ca9fc9ae"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/火枪手/BattleWeapon_41_VFX_Effect 1.prefab.meta",
+      "bytes": 161,
+      "sha256": "d9469bc4876e35daece173ba75d1bf13ecfdb9046a173ecbb3460f020d56d788"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Crack_001_Tex.png",
+      "bytes": 11493,
+      "sha256": "9af63978f1b606de88fab3831d49bba4ece0363ac0280d0015996cf9d1a7efcd"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Crack_001_Tex.png.meta",
+      "bytes": 4192,
+      "sha256": "ae3a336bea5ea6003c5e76d57e4f0a5b6c2c426f9171969f4fada8fc6ba772da"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_FlowMap_001_Tex.tga",
+      "bytes": 196652,
+      "sha256": "d91a2b6a3aaf1aa8fe8523d2848c5d826ff08710b88b7409adb355bdddf2d68a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_FlowMap_001_Tex.tga.meta",
+      "bytes": 4192,
+      "sha256": "0bfebb2caac043d557158d3b939c8f8f324fcb472b9b06273bf162d0cf7f7e49"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_002_Tex.png",
+      "bytes": 6274,
+      "sha256": "dbbfe31b8fd11d9c91ffc5ec75a63df1139a8530f939c09a88b552b3b599be1a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_002_Tex.png.meta",
+      "bytes": 4192,
+      "sha256": "fbf52513c5fc57345db5f0a2f5dcca5a886bce77608930f948ffe16a7a99397a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_05_Tex.png",
+      "bytes": 18885,
+      "sha256": "183bea50fc5da77ed990ea9f03bbb503cd74136c2700caf12e66ff888c17b242"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_05_Tex.png.meta",
+      "bytes": 4190,
+      "sha256": "227d3347ad2913d0dee751979a53c2f57ad55111ef650372e81c4236ac48f822"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Knife_006_Tex.png",
+      "bytes": 16659,
+      "sha256": "f4f857c65ff6a911f3f82b5b76a21500a8224d4135fb0d21206948cf7a7ca20e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Knife_006_Tex.png.meta",
+      "bytes": 4194,
+      "sha256": "f42c1eea2856962ecd7832f45e96a6e41f82c30a4ea57a106807ac834bc56fdc"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Lights_015_Tex.png",
+      "bytes": 17010,
+      "sha256": "2c20c2d5e8e84af13fb8dc6d68f371a513bd2596ade1431df46e367c989a9028"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Lights_015_Tex.png.meta",
+      "bytes": 4192,
+      "sha256": "e664609514d66816192c5ebaa0f51fcafc95e71fc99a59c8ce4646bbdd966837"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Line_015_Tex.png",
+      "bytes": 979,
+      "sha256": "a17c0c55dd8970028d622844d0aac98ae4db4fbc84db6d95ab0fce08549a05d6"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Line_015_Tex.png.meta",
+      "bytes": 4192,
+      "sha256": "3f2769401ad6806f7e3d63412262172523326eb0acd815d23d26a54ddbf1c3c9"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_026_Tex.png",
+      "bytes": 14636,
+      "sha256": "07d036c28483e58a56e4f382740fdfae19f55f5af5d0071475cc3e68bee9afce"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_026_Tex.png.meta",
+      "bytes": 4192,
+      "sha256": "6cdedf7a43289658643b3b672aa27a5bcc0b96d4b348e83b54b4a81c2e044320"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_05_Tex.png",
+      "bytes": 54347,
+      "sha256": "1d94464387a2b2a93e44c8bb097bf5c1e61fcc9633f9e559280406482b40de4e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_05_Tex.png.meta",
+      "bytes": 4190,
+      "sha256": "6690438c3e45cee092235daa4cf3c31476f1d76d257ab868d032785f82224f3c"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_13_Tex.png",
+      "bytes": 606678,
+      "sha256": "e5df7321f492b76a51ad32a70a6fb3a6928191e4a17d2446e48f2fa6b0ce09f3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_13_Tex.png.meta",
+      "bytes": 4190,
+      "sha256": "a56044b64980c14042299a38e373c55218fc14ebc229202477a282113ead8624"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Noise_30_Tex.png",
+      "bytes": 12607,
+      "sha256": "33c11621efbcbf0ae8fa232eec7341752d139d216da68786a093981769397074"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Noise_30_Tex.png.meta",
+      "bytes": 4192,
+      "sha256": "2b04e121e8a3e29f9eb901a13432290e4867129259afd97eda3b0c0d5f3c589f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Polygon_003_Tex.png",
+      "bytes": 7520,
+      "sha256": "42b8d24bae15a85dd36922c7f1c1bd55057919225bb20bafd191969af56e7f4f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Polygon_003_Tex.png.meta",
+      "bytes": 4192,
+      "sha256": "78f5608edf83091c7ad5433b9e339867883179f9e4f650d53c4bb6d1eaf86923"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_011_Tex.png",
+      "bytes": 12143,
+      "sha256": "bbc3a8a85266b4bc97f7310da78cf48c6901ae7dac193d15f5db1993c2264d70"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_011_Tex.png.meta",
+      "bytes": 4192,
+      "sha256": "633148b8b47effc19bc4b6011ae442d5a8f29c4aae0fac8be2de43db9c12f305"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_14_Tex.png",
+      "bytes": 36096,
+      "sha256": "768dca679a856489a5157c430d29502ba2aef76934dc5e15fbd2f33a37daf1f4"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_14_Tex.png.meta",
+      "bytes": 4193,
+      "sha256": "1a133ccb76361f109aa823837f1a0691730a537973f261264007a4381f0cceac"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_70_Tex.png",
+      "bytes": 46599,
+      "sha256": "ad603d333f81e2a0504ced1e660ae440d8e424a337be2a909270ceecc723abc7"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_70_Tex.png.meta",
+      "bytes": 3825,
+      "sha256": "4ffeef8847e32258e19533b115351d02cfb954b53951d9da6c8ee194aad0ac8e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_71_Tex.png",
+      "bytes": 40587,
+      "sha256": "8cd5c31241718b200f18c7806d08badc3cfcbc6c1199028dfed6313572329bee"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_71_Tex.png.meta",
+      "bytes": 3825,
+      "sha256": "364332e76e43332d16955cbd869537afb4de9a8978593a55ad26007335bce98a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Smoke_002_Tex.png",
+      "bytes": 15149,
+      "sha256": "a15c712a23b34c24e5b68ebb82e30fea83cb424b9ce85c756cb52893173a6d8b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Smoke_002_Tex.png.meta",
+      "bytes": 4192,
+      "sha256": "cd39398cf11e0ac3266f1dbc47ce703ba35b173009dc254f3b817c7f4c122119"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Smoke_171_Tex.png",
+      "bytes": 18549,
+      "sha256": "244de0da645a4048889ae5517e28a3a2cdd217413624aee75d720ed876103180"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Smoke_171_Tex.png.meta",
+      "bytes": 4192,
+      "sha256": "63520e67cc5511978a74ad95f957c6bc2a16d772f23f6f2c2836a08c1f5117e7"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Spikes_16_Tex.tga",
+      "bytes": 122803,
+      "sha256": "b9b1562b575ac52420410058e3966cd42774aee344bd0575d4c61e4611a0a5f3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Spikes_16_Tex.tga.meta",
+      "bytes": 4192,
+      "sha256": "4ef152a6fef4432ab22acc2d11de29ee4b6ebd128aa0834564d8bb23fbab97f9"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Spikes_23_Tex.png",
+      "bytes": 15966,
+      "sha256": "23fd734a677d59221cd0445edc7b2b807cd3b51d587447e4ec90c4bc5d01c20e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Spikes_23_Tex.png.meta",
+      "bytes": 3444,
+      "sha256": "9e0d9c684cd939c76c538b8dab0d1afb6b15e2b6dd50e81a6217f0329100637f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Trail_016_Tex.png",
+      "bytes": 1659,
+      "sha256": "51a800e875c0ac40dbb885187076137c5b293d27dc6fa7981b3bb0e16264984c"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Trail_016_Tex.png.meta",
+      "bytes": 3444,
+      "sha256": "5a88ad8751264550077946bea121e69f394b3404e77777ef43315684eff236a6"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/NeedNot/circle_soft03.png",
+      "bytes": 4500,
+      "sha256": "1bcc7e463f4bfd35eb70dc1542e51c6e70ff4544ae3acb2a5db2af8b3f3bb512"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/NeedNot/circle_soft03.png.meta",
+      "bytes": 3840,
+      "sha256": "d48c641b3fc3650ce5ada824c5c6e195df91ce007433c339e07260834fb393d8"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Shared/Common_FX/Meshes/FX_Circle_05_Mod.fbx",
+      "bytes": 38368,
+      "sha256": "d6c4609646ccc8873738dc900092832b48803bb7dbef0b94fbd1c6f8c3cbaed2"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Shared/Common_FX/Meshes/FX_Circle_05_Mod.fbx.meta",
+      "bytes": 2939,
+      "sha256": "191782f6d9a073661af4f0618a98fbf1c1dd3a11c22672edc69621e6830a3cb3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Shared/Common_FX/Textures/FX_Glow_04_Tex.png",
+      "bytes": 18743,
+      "sha256": "709c5b64a43fdc9eb0c7311d7e460bdf5caa4d185883f3ed66f0bd75c235b166"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Shared/Common_FX/Textures/FX_Glow_04_Tex.png.meta",
+      "bytes": 4221,
+      "sha256": "bf683995f81b51b58968f35ffd6f7ac89a5de3a921a8b96046dd7c9df7665a3b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Cage_Mat.mat",
+      "bytes": 6271,
+      "sha256": "3178fd2b072a98bccab1c4b69b6de85f059ae048677aafc1df91f9e83b68fb6e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Cage_Mat.mat.meta",
+      "bytes": 188,
+      "sha256": "f04cdf8f00f2fb759de10e5d10923bc09b4a0f3179acc30e47bb2f1cadeaa442"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Castle_Mat.mat",
+      "bytes": 6280,
+      "sha256": "02dacbb96500cc1ecc691c9a89d738293ac2087029e5dbe56ebba9989aa36ec7"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Castle_Mat.mat.meta",
+      "bytes": 188,
+      "sha256": "35d6d4a779d92ae9fbfd53d8fdd2bdd617f2666e50a5a0af2ed136dbaaca4c69"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LandA_Mat.mat",
+      "bytes": 6502,
+      "sha256": "304645e6f425e24f891b50e3003c2951ecd482c541b3e3fa639b3c1456a9f72b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LandA_Mat.mat.meta",
+      "bytes": 188,
+      "sha256": "a30c1c1f2c668b89d4ddd2c3a8be36b179cb696e162b3d76da67a61f688bf6ae"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LandB_Mat.mat",
+      "bytes": 6542,
+      "sha256": "40e63ceea7c69fb61fd4da3bf77c701084a62b3f6703703def6d4db32cd958fc"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LandB_Mat.mat.meta",
+      "bytes": 188,
+      "sha256": "9727afd661400cab77b257127d09fdd4ca613996d5ffab3844ed135c3f22e39e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LandC_Mat.mat",
+      "bytes": 6515,
+      "sha256": "d024f161df70ef7fe5091ccbb6a729a87c9db5aa4756993109eeb885ac6635d6"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LandC_Mat.mat.meta",
+      "bytes": 188,
+      "sha256": "e94461128570868d2886689b716d0e2d2504aa5f3d15b0c9065d647676fff6de"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LongShrub_Mat.mat",
+      "bytes": 6260,
+      "sha256": "40ca96cabffbd2cb49c804964e99fc6db6a3188de33c66d1c8b49e5c342936c5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LongShrub_Mat.mat.meta",
+      "bytes": 188,
+      "sha256": "0b17bbd3438e0906fb30726de8f9692d01dcd0df875633cf89b32144b6de27dc"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LowWall_Mat.mat",
+      "bytes": 6285,
+      "sha256": "bd7f14bfa5f288bfcf07ce930056f962ccdfc6e6f038baea512e6d458102594f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LowWall_Mat.mat.meta",
+      "bytes": 188,
+      "sha256": "7d08eceeb6de5b44691ab647a4ca7f2f5f90cd7ff275d8be3b80863750282299"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Shrub_Mat.mat",
+      "bytes": 6280,
+      "sha256": "5bd40aade4a00d416922dcc7ebaea6424359e220203db6f9e39bed305ecc152a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Shrub_Mat.mat.meta",
+      "bytes": 188,
+      "sha256": "340c2d41e86591f52a530e7cea89d1934e1fe6362d2633776e9eeb42b4b79d98"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Steps_Mat.mat",
+      "bytes": 6255,
+      "sha256": "32b7eb73269820337d1e7a79042a69e61b79a245c9f1e6746f1efcb771081d1a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Steps_Mat.mat.meta",
+      "bytes": 188,
+      "sha256": "8c59d2ffcd80fb436a00cabd03af32728806a6c82e8899b1f4ec7483699ab9fe"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Brick.fbx",
+      "bytes": 118592,
+      "sha256": "73df8c2a957447af266bda5eaa3404ca3100a932e62a6923781ca1fb32ea0c40"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Brick.fbx.meta",
+      "bytes": 3172,
+      "sha256": "49e2c4ae5d92f1f33221f2b238ea17e1fcb62ecbbe2277af10f6ea1eebf96279"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Cage.fbx",
+      "bytes": 42112,
+      "sha256": "2560046faa97ba52910cfc4b5e7cdc0d8f2adeeca71a6b8902a133ad14bff96b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Cage.fbx.meta",
+      "bytes": 2975,
+      "sha256": "7263fb2585c9f23f67c561dcc45522686a6a25050fbb94a0b72a71f031aaaba8"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Castle.fbx",
+      "bytes": 148080,
+      "sha256": "29deb7865b653b162a2a73fbe4e510920f243fb669c61be0ba9e41f3e6b8622b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Castle.fbx.meta",
+      "bytes": 2977,
+      "sha256": "996c67508189b6de1915ce8a28276a60fbb6af1dd0ebfa1e22f141cc5fc50d72"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_FarLand.fbx",
+      "bytes": 31488,
+      "sha256": "3c85ec3bf70b6b016f8ded297daf2b2c4337354ced8a2118924614d1e6e5cabf"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_FarLand.fbx.meta",
+      "bytes": 2978,
+      "sha256": "6a89008ec6502ccd5f6a7af1f9e50c2a1c99e9465336128239ba8febd0f0e8c2"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Flag.fbx",
+      "bytes": 29664,
+      "sha256": "1fb43944bfffbda765ae4c3fca3e2e9caaa453417269c902278c5085a14463f3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Flag.fbx.meta",
+      "bytes": 2970,
+      "sha256": "1c7f12c425e949774db2b0ec3b1c8ffc7167b28ebfaa2f64da540bc717cb7c4b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Grass.fbx",
+      "bytes": 32000,
+      "sha256": "8bb9fb48d81e975e9962f10ebb6e04a789e6c28fb21c6867f3e6605c5efc7a45"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Grass.fbx.meta",
+      "bytes": 2977,
+      "sha256": "40d27ff8a5eb63e40ad4175ee80e0365c5ef882dcd46d387941ad1c47bda5e71"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_HighWalls.fbx",
+      "bytes": 112128,
+      "sha256": "3a3a6e86e611d82ba349793f4b34c4a188abd532265c181b0500154858454d7e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_HighWalls.fbx.meta",
+      "bytes": 2977,
+      "sha256": "4408aaa72c2fff6cf31912b659166cc8d8ffde51b6fa6952e4486e2a5244189b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Land.fbx",
+      "bytes": 80624,
+      "sha256": "4b69a3de6f59eae12992523f41cac3b4161df4700022ff698a25e744dc656d54"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Land.fbx.meta",
+      "bytes": 2964,
+      "sha256": "e07c4be83695703e69452bf7674e48fe4832572c9907faa80a6d8cc9f1303694"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_LongShrub.fbx",
+      "bytes": 72240,
+      "sha256": "92ec4cafa200bd11a515d6d4caa8b39f1115b666241ee366913f4726332aeba8"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_LongShrub.fbx.meta",
+      "bytes": 2969,
+      "sha256": "cd20b25546be0b20174acbb9aacb4ef17f693a304e8b8d05fdef4911efa02fe5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_LowWall.fbx",
+      "bytes": 90320,
+      "sha256": "ddaaa12161ca14d1ff0df6ba47ae5910d9fb6cae8aff04834c7290bdb6cd9c9b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_LowWall.fbx.meta",
+      "bytes": 2964,
+      "sha256": "c5207e5ace680019ef8ca64c39a44392c905cca23f4c2b73aea377fe7a087cdb"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Shurb_01.fbx",
+      "bytes": 42368,
+      "sha256": "05a1e2fb77a3f4199fb8e34efb9ed54886ea018a37485ea83b7a8217f128151f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Shurb_01.fbx.meta",
+      "bytes": 2976,
+      "sha256": "ca9a305465e2fd90bba33d4285d98aebcac2286349fb8204dfd02d382d3623e3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Shurb_02.fbx",
+      "bytes": 42448,
+      "sha256": "537454ef6aae3da7d285553e88d9161e8029fda6ed4df176a376246a07237be6"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Shurb_02.fbx.meta",
+      "bytes": 2976,
+      "sha256": "cd16bc4620c470a30621c7bb755d6531c94dbb992bcf7fa1e96c4abab443a6e6"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Steps.fbx",
+      "bytes": 102432,
+      "sha256": "d96d85ffe0813db356cd5868ede40f2541c6c311fb4afb7d0cee1800503e9803"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Steps.fbx.meta",
+      "bytes": 3167,
+      "sha256": "10abab410b2e918681a6b63b6f14427efea61439b688599b9e7716ecae6c3ccd"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Cage.prefab",
+      "bytes": 3609,
+      "sha256": "33fcc27324c1ea1711c716e55d5cd939bfffe675125f5eba31025a4e5cc780b7"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Cage.prefab.meta",
+      "bytes": 154,
+      "sha256": "fd80c5027dea204460c70fd453b878da57e5601e1dce2a20743ed872629641c3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Castle.prefab",
+      "bytes": 3792,
+      "sha256": "315e2a704f05968f2979e5c9faf061b5618b796e326f3543edde214dc4b25915"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Castle.prefab.meta",
+      "bytes": 154,
+      "sha256": "56790eec61aedf45d76d740ac978bf0d345b52f85d9e164f5a3911185968e7a6"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_HighWalls.prefab",
+      "bytes": 7273,
+      "sha256": "811b3daaa4d184f8b5c821666393d283fb8e2638ef1532ef52d1daffd7cb3743"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_HighWalls.prefab.meta",
+      "bytes": 154,
+      "sha256": "25dc5a019b484be4b7f0da7a0485a3d2ad6de5b43c2cc3f4783df3143cbff1d4"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_LowWall.prefab",
+      "bytes": 3628,
+      "sha256": "f65efffd7e9eaf47c46ec8be3343102acd7bc46697008c0ef03165e47e4ba56f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_LowWall.prefab.meta",
+      "bytes": 154,
+      "sha256": "7b1c2c75af2b4ed7a2522771aa90a3dbaf815bbbabb99be6e44d6cd5b7d553dc"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Shurb_01.prefab",
+      "bytes": 3627,
+      "sha256": "0c8628c47979284d99fd55e671ee046e72f79af3f9f43a173e975bf7aafb9637"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Shurb_01.prefab.meta",
+      "bytes": 154,
+      "sha256": "b8c462c589201ab92d323d6c98b094caf66d501c17a11c297dd207e52a240f38"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Shurb_02.prefab",
+      "bytes": 3630,
+      "sha256": "26b29731fdb25652258a6845562423e70f55ceb51ce78fe20357e5beabf62de6"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Shurb_02.prefab.meta",
+      "bytes": 154,
+      "sha256": "352fdc6a638ba84aa1a81720d5b47adb8c986747587a5484f14946b882200da5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Brick_C.png",
+      "bytes": 302554,
+      "sha256": "d4f9e04e7aebe321b9bfa2a31ee6063d2df8d19ed0902c3e1a5a7ff21f44d388"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Brick_C.png.meta",
+      "bytes": 3728,
+      "sha256": "e2538ad58561db3b7a65c3e21efe831425dfc504569655322f80a48e03322364"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Cage_C.png",
+      "bytes": 130420,
+      "sha256": "b10d5d172f966eeab9261142ae7f63c1ed2b97832dafb70842a9e10b599cc493"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Cage_C.png.meta",
+      "bytes": 3728,
+      "sha256": "3c695ac566cfe893e2b638ac62fbb283325984b31c9415ab1a5f6b8fce8dc220"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Castle_C.png",
+      "bytes": 590309,
+      "sha256": "352393e48190e2b82252d9f9b69ee0ced5e5eb99859547ac1d2deb5a2c14bec5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Castle_C.png.meta",
+      "bytes": 3728,
+      "sha256": "d47dc6938dbc75f0d083da0dc5d1b52d42d635db1efb6aa16e31cc5e0db361b2"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_FarLand_C.png",
+      "bytes": 201422,
+      "sha256": "2f747eddb2caa00964a82e18ef2736c63ce6a0a06c3fcd47724e5e42ad0c1ca5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_FarLand_C.png.meta",
+      "bytes": 3728,
+      "sha256": "0a3e5e7a23f7074216dcd5b18cc5c5657af8bc51f22dc9954d2a87db749e8089"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Land_C.png",
+      "bytes": 514083,
+      "sha256": "c969b68729e298ed9be3894fc69a1b8488d0da82a7730fbbaedad8135516f063"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Land_C.png.meta",
+      "bytes": 3728,
+      "sha256": "8447da57c5b21a8a9e05c1f23a625b1169ff63d89f99e9ad152576c94218ce1f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_LongShrub_C.png",
+      "bytes": 154204,
+      "sha256": "ff5f384481da38224846bcd6ad90de7759f71995b6b774dd84e8ce238cb73787"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_LongShrub_C.png.meta",
+      "bytes": 3728,
+      "sha256": "87805a6d096348d561af68cbfaa51bdaa707e4f572039a401d9e73b3e3175782"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_LowWall_C.png",
+      "bytes": 391172,
+      "sha256": "ed89ff99b70ecb34977d2977678656a713317ff324c53526c2c6d953792e9272"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_LowWall_C.png.meta",
+      "bytes": 3728,
+      "sha256": "16c323762560bdf61a52c2afe23de75a94cc1e27b411afa1f36c834afc997c23"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Shrub_C.png",
+      "bytes": 93918,
+      "sha256": "d09a5972d17cbf28f381286877a20f979a88b74710a2b1d9b614822f05444e01"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Shrub_C.png.meta",
+      "bytes": 3728,
+      "sha256": "3c9d19a30ddc2d60f0d81eea3734c92170eac9f8840bab0f6a5520eaa9ce6416"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Steps_C.png",
+      "bytes": 398985,
+      "sha256": "b40f0078629951bd9c5125e82ddc297cb141697f7067ebdc87214dc7faf116f1"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Steps_C.png.meta",
+      "bytes": 3728,
+      "sha256": "6594c423a0439a44310536caa9f12a5ea33ada8a0862be56bb7b22044f3852fc"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Castle_Mat.mat",
+      "bytes": 5992,
+      "sha256": "fe766fec432e72e7a7310c86a68575f24314092e4a607d49903ed31001f331b2"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Castle_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "4697e5247679bb89dfa59e1fcbad0d67d373634d97b7a1e2c42740e9a0722a22"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_DecD_Mat.mat",
+      "bytes": 6171,
+      "sha256": "869bf0bc749f910e90dad52ec606600b6849994914b653925816a66cc8012d41"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_DecD_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "600f055098fb79672811a615304c3ab2160eccf6e28f2b60c416454befa7ad08"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Gird_Mat.mat",
+      "bytes": 2200,
+      "sha256": "f8cf1b7d8040bfbe2378a51680e2d0a2bcfd938aed44d388aaed69e07f703aca"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Gird_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "7bc92b81bc844235e887e7de3d9900593fcde00a41e6909271f45bf478702121"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Land_Mat.mat",
+      "bytes": 4528,
+      "sha256": "7551217df89d41339b204f347e946bc49679cd0dec016892c53bb17a32d5a1e1"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Land_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "fded25dc4d04306b68147964cb91abaf2bf136cba7936a743fc5b0909eabdc41"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_LandB_Mat.mat",
+      "bytes": 5971,
+      "sha256": "2bc631f8cfeb5a5ae4456487b56c6b7536b5aba5a38b1ed661e841e8c7b8eb97"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_LandB_Mat.mat.meta",
+      "bytes": 188,
+      "sha256": "f3606f8cac947846cd2721b8279533e1bd986100c2f851362c63129df737e056"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Mountain_Mat.mat",
+      "bytes": 5991,
+      "sha256": "09c64b62a7f133242ccc5e68fb958f3a0fe29722332bfee38925c1c3bbdde28a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Mountain_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "8ee4359f47a6247de2cb94577717e345e1dc49fadb0f17ceffa9312262009d7d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_TreeB_Mat.mat",
+      "bytes": 5986,
+      "sha256": "f5e326ef3fe7b4bd17326b51826871159d395acc750c441275ac6314d443ded1"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_TreeB_Mat.mat.meta",
+      "bytes": 188,
+      "sha256": "bf60cf770876791fb9083810af724b10a04b670e8a5cbb4aa09181a1eb47655f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Arrow.fbx",
+      "bytes": 20080,
+      "sha256": "3e5a328f981613f519ea3685506479d5e39754c641cc43147f66f9ee0085bb00"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Arrow.fbx.meta",
+      "bytes": 3124,
+      "sha256": "32c735221a01a3596493f3f9e77e452c858a29e3805d5cf73ea9ed138afe91d2"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Building.fbx",
+      "bytes": 86128,
+      "sha256": "4d5c4866f56946cca10eb94702b41ed4dc6fd39e55cfdcd502573aae6647588f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Building.fbx.meta",
+      "bytes": 3221,
+      "sha256": "006afc8e9ac457ecffa9ee0604fd4af6e21f3d773032f157749ebd90a825b42d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Flower_03.fbx",
+      "bytes": 26384,
+      "sha256": "eeca16663f1cc57b19a808d2efe58fce0aaa349be648594c528a8643bc72b03e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Flower_03.fbx.meta",
+      "bytes": 3025,
+      "sha256": "a9bec2e5f3c3ff184229e7813cfe71494b75ac15a2f0547fe09e3ece968e85c2"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Land.fbx",
+      "bytes": 36208,
+      "sha256": "4d9a87d2054a066f3d9b23dce57459fd5ef8105dec34b98fce0372a4f8f512aa"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Land.fbx.meta",
+      "bytes": 3139,
+      "sha256": "51313ca75a10ef2be569f1c42539e89c89c256b17deb1300d505b30292311547"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Stakes_01.fbx",
+      "bytes": 23440,
+      "sha256": "74d637d523e9b949717147f1921bbad0583adc2add50a24454207fc4a17bd6c0"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Stakes_01.fbx.meta",
+      "bytes": 3010,
+      "sha256": "222401b0d4a048938221e8f698606665be3d090cc1d04562e35ed061df6a5fc1"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Stakes_02.fbx",
+      "bytes": 23392,
+      "sha256": "bff60928b22e8756ebb0dbb2d6e75542b1ee9e64fe5d85828d16dc2188f871e9"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Stakes_02.fbx.meta",
+      "bytes": 3010,
+      "sha256": "acb1e1d4b8f1384355fcfbdd6cf40b8500e65361450a90bd9fe7e7efe6d3ff98"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Tree_04.fbx",
+      "bytes": 29872,
+      "sha256": "d0c0a726ae2feb85fe2e96b381b1b46b0f71bee4d24c8f40ae2639ebac46d1d0"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Tree_04.fbx.meta",
+      "bytes": 3010,
+      "sha256": "ff1b742dbb51836859a2ccea99a6dec6009fbeb3628e146e20dc47fa275f2f15"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Tree_05.fbx",
+      "bytes": 25584,
+      "sha256": "c010f66ae2b2b78cd8d6f9f0ec40a2a674b90fe4a826549ae75683b30fee360c"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Tree_05.fbx.meta",
+      "bytes": 3010,
+      "sha256": "5f3c2fb20569a3c014b7417eae6f77e716338edce882f00675c619d645bebcf1"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Flower_03.prefab",
+      "bytes": 4189,
+      "sha256": "71d0aa915a2e55b2d30269c145dcf3a5584779b3ba04d78f25948f1526e8c6f6"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Flower_03.prefab.meta",
+      "bytes": 154,
+      "sha256": "7a6408002e621f270627f2a9ed135f32ed4911801bae1ce319ea8eeda9462be1"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Stakes_01.prefab",
+      "bytes": 4195,
+      "sha256": "a2bce7d0788f5a02d3973fb2f7f6ef36b312a968dc717d89e5bb66ce89105c57"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Stakes_01.prefab.meta",
+      "bytes": 154,
+      "sha256": "052eaaac7aafce03d75c80dface4665c1fd791006d86c4d0e9cecdaaeded1576"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Stakes_02.prefab",
+      "bytes": 4193,
+      "sha256": "8d45c679d8ef3b3dcec2e9514ecb9d22861cb0b9f37922debb3b530678c40b16"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Stakes_02.prefab.meta",
+      "bytes": 154,
+      "sha256": "a8aafade76ea150a314c87e40e0bf710f7443ad0cb9d2479c7d2e66aa21e86ef"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Tree_04.prefab",
+      "bytes": 4190,
+      "sha256": "49237c79a67fdfac21c0d12a69755009b16032db138610522705f0734df529a9"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Tree_04.prefab.meta",
+      "bytes": 154,
+      "sha256": "7f4d3681453016681a440d58a477c7774fc4969086aff83bf14ea397a57879d0"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Tree_05.prefab",
+      "bytes": 4194,
+      "sha256": "e918e3bfa08ac6d44da05ece36742c27731f0571410c27dc5e526c019a13d37e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Tree_05.prefab.meta",
+      "bytes": 154,
+      "sha256": "dca6d52e62c3dbed4636838a37035f43ab76ab9c74065b63981ff1b57065b18f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Castle_C.png",
+      "bytes": 178788,
+      "sha256": "68b20dc6a956246d015170fda581107963ec26655ae0d20b0429f5ea383e49b4"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Castle_C.png.meta",
+      "bytes": 3825,
+      "sha256": "34c8708016b3cea3b5584d235afc36cc750ad89c64e098c7d12ec7e230b9942c"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_DecD_C.png",
+      "bytes": 218844,
+      "sha256": "120c310242d340377ff1a1f108d0801437fa86beb2b203022e31b984f8fafb0e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_DecD_C.png.meta",
+      "bytes": 3824,
+      "sha256": "5a93bf128a085e6a9a26d632db7aca944937d7a33497b1d61e58b4bc7c2566a6"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Land_C.png",
+      "bytes": 254577,
+      "sha256": "a32e7e935c32d55e982dafdd86d1d0d37220fd960eaaf5cf260bbf09a8fef466"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Land_C.png.meta",
+      "bytes": 3824,
+      "sha256": "39717985b634132a2d8717a41268f95e25a6b8a4aa711cec7c4dbfdf256a040e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Mountain_C.png",
+      "bytes": 284688,
+      "sha256": "435f9e5910afbfc8b3f24520bbbb4e69d5417b25dc9717c0a2c29e3576f1a73a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Mountain_C.png.meta",
+      "bytes": 3672,
+      "sha256": "05561b88a29e23b56407af4df05f70cf38ec8f5eb04b278ec44c7555eb75dad4"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Tree_C.png",
+      "bytes": 90793,
+      "sha256": "6805cea79bece1d74fb4b92de0407b132d5b740f5cc2a86b84df33e51706e1cc"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Tree_C.png.meta",
+      "bytes": 3825,
+      "sha256": "eade0f231a200811826471f7cefd24c6ba350d65b16f9843a800915997295484"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_TreeB_C.png",
+      "bytes": 242251,
+      "sha256": "b11bd365c2a80af237aaec3fb9038c283f9ec1fa035ced68caea94a6f60d587b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_TreeB_C.png.meta",
+      "bytes": 3672,
+      "sha256": "7c9bcc4a98335164652ea715777dea9ec6bc75c52f2e3f3d808646d6a8a1de51"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Wood_C.png",
+      "bytes": 27923,
+      "sha256": "d8faf34d72a0a1b90eb3b60a90b3b2e1344a25e826767b95509f22ea0dde8636"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Wood_C.png.meta",
+      "bytes": 3825,
+      "sha256": "fda364bfcd787080b97255d320dd6f349aaffa658ecf12e9791e195435fba694"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material/CogworkWastes_Gird_Mat.mat",
+      "bytes": 2460,
+      "sha256": "7177c4ebfd5fd15b0cae809e33407f0912b8ff7774b432d0b324203065fe3b5e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material/CogworkWastes_Gird_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "c0788ba30c50177e88e04427b5e4125d21196ff6b120889d428e3b2eddebeb49"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material/CogworkWastes_Land_Mat.mat",
+      "bytes": 4350,
+      "sha256": "124c5a6d187b6a431f8288521dc82ffb751fe987d078f322e44cd9d041aaa224"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material/CogworkWastes_Land_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "5d7b5647aedfee2b14f60c4d78aea1da7ee7b49ad080c95b1228887a0e7074e4"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material/CogworkWastes_Mat.mat",
+      "bytes": 6164,
+      "sha256": "1f934a5dc4623ac903f635222bcad1239938675e347efc2940fa349ff188d94c"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material/CogworkWastes_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "0ae2f1ad171d4efc51e507dea42d95fd2888a277ac1fdf3c9f567591d493145b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Floortile01.fbx",
+      "bytes": 19808,
+      "sha256": "6d59ea83292c3fc4572c5f8de14de98fb807df491e8985f0fde3e7ed689b04c4"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Floortile01.fbx.meta",
+      "bytes": 3080,
+      "sha256": "5c07e7a3cef9dbcccf5d0c154900a3a459a098886e3e08ba34971c755bbc65e5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Floortile02.fbx",
+      "bytes": 25744,
+      "sha256": "a541ff4b5cb088f2ac161d2bc52eea065ccad3d5104bb4468fc9ab5cefa2b568"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Floortile02.fbx.meta",
+      "bytes": 3080,
+      "sha256": "f2bf7d1a685a86dee70a29d0f183690f0e87a6a179b0f602803f52fcb2f3bddd"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Gear01.fbx",
+      "bytes": 79824,
+      "sha256": "9ee8a77ded6fdccf5e675c106fe06a9dddd3b8339a926339976636b3178544a3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Gear01.fbx.meta",
+      "bytes": 3080,
+      "sha256": "3c4494ce7aaa0db31139a5542800a0d48c380c2bce1182560ff1132850aadd52"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Gear02.fbx",
+      "bytes": 143200,
+      "sha256": "b1537b9e27f449694005a500dbda9041ede6779348aa95b4e2fa47fe1c03d7fa"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Gear02.fbx.meta",
+      "bytes": 3080,
+      "sha256": "f5cf94d41874dccf0f30332b63986dad2aa59d2ac44d37ba7638e6f1cb45fb9c"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Gird.fbx",
+      "bytes": 33968,
+      "sha256": "447a96edc2323fb2ac58b1159166bee1c6b848a519e9efe90af19a68718a7aa8"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Gird.fbx.meta",
+      "bytes": 3084,
+      "sha256": "46222135a03630408e784fcb55643f997b84fd458eebc3d1b78d3eeb6f50d0fd"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_House01.fbx",
+      "bytes": 462864,
+      "sha256": "3dc0391a07fc2515b7d010d242bd7d8cf4821a5c61c8bde110a131796cb0a5ac"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_House01.fbx.meta",
+      "bytes": 3080,
+      "sha256": "ea9fea08b3c4e787e5f802a2ad612e7f99c497ed5c6c763d0dc7672748e06a68"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Land.fbx",
+      "bytes": 31680,
+      "sha256": "004e18b62353ae11463057f242522ca89c522877b6a5873a0b0cadebfd129618"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Land.fbx.meta",
+      "bytes": 3088,
+      "sha256": "3dcd23668f0a7a57e975b99d64d8295abde6e6e261d0ca6ba156653683e48170"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Waterpipe01.fbx",
+      "bytes": 22704,
+      "sha256": "79bbbc685025b196fb5089e717bb3093b91ef03b362abe7b8a9f0379fcae4238"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Waterpipe01.fbx.meta",
+      "bytes": 3080,
+      "sha256": "75ab39c90743c0d9708439310b3bea03dfaa1bb465a6e752533c3af1d6b05147"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Dec_C.png",
+      "bytes": 590593,
+      "sha256": "63af4d85fdc0eeefa456f00dabd4dddc22185a959822315594db058842e10b1d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Dec_C.png.meta",
+      "bytes": 3884,
+      "sha256": "2ef9153ea511626d55fe20b3b5a32b39cabb9a953edc3f5460e381e95f7a5577"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Land_C.png",
+      "bytes": 297835,
+      "sha256": "55959d2343eab3be6ef46e18bff9d6d2904654bfd0a3699d97eacb7591afb987"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Land_C.png.meta",
+      "bytes": 3884,
+      "sha256": "308d803cbe4ad20f41d494981fd81dd5282cda644a7dc9fb183a555850bb39cd"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Land_Mask.png",
+      "bytes": 8181,
+      "sha256": "0279318d456eeced90a4de7d964d1236146391c6f6295f9ed3770f9d6fad7563"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Land_Mask.png.meta",
+      "bytes": 3884,
+      "sha256": "cbafafa2ad52aa9fc4158cf379df8500d68283b145694944ea3c52145c189a3d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/Dec_Ramp/Dec_Ramp_01_C.png",
+      "bytes": 20131,
+      "sha256": "7976e2db4d2447e96284ad710d2795193c383841e0f0484b158d3987f21b0e8d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/Dec_Ramp/Dec_Ramp_01_C.png.meta",
+      "bytes": 3825,
+      "sha256": "596686ed08f0419f199ccdbbd5959234d2945492270717f43a86e2cf43910faf"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/DesertBazaar/Texture/DesertBazaar_Land_C.png",
+      "bytes": 130541,
+      "sha256": "0548fabd8e70acc5b95adf43865c701332fee1a0add167b1740a2146f5fcf59c"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/DesertBazaar/Texture/DesertBazaar_Land_C.png.meta",
+      "bytes": 3825,
+      "sha256": "48021aa373c03448343822d03c12be70633789fed59127a23f71fc79bab694a9"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/FarmHome/Texture/Mining_C.png",
+      "bytes": 358558,
+      "sha256": "a3461b8f36f969546d4a9381849918d2e9fab340edf069b38e2db00a4d0f2173"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/FarmHome/Texture/Mining_C.png.meta",
+      "bytes": 4194,
+      "sha256": "9eac1a0413db3c9632fa93a0e17b35ed1baffe86e6564ee784a6607eff2cc7ec"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/RoyalArena/Textures/RoyalArena_Land_C.png",
+      "bytes": 66432,
+      "sha256": "8e53bef44cd46a2f1d016904ee44d5b05515c681306108ee1ffe96b7c11c7178"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/RoyalArena/Textures/RoyalArena_Land_C.png.meta",
+      "bytes": 3827,
+      "sha256": "aad1f6ef9482aeaed02c71ac058042a950d27b545a39eb780a9da1093c495934"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/SnowBridge/Mesh/SnowBridge_Gird.fbx",
+      "bytes": 18192,
+      "sha256": "76e2a535b233094fbe9f68fb9821adb03512ec3a659cbfc80d37d427b001f9d3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/SnowBridge/Mesh/SnowBridge_Gird.fbx.meta",
+      "bytes": 2939,
+      "sha256": "eaeceffb2ab407dd906ab6b6c52cc57398985b63e383d5ab14b84baa2f5a3fca"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/StarvingDec/Texture/Noise 20.png",
+      "bytes": 75209,
+      "sha256": "f5e3fae77fac9d741beae4a2b27fb06b66b1b64c2e1a06494c8da20fca617e84"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/StarvingDec/Texture/Noise 20.png.meta",
+      "bytes": 4192,
+      "sha256": "9fd67374006155f57f6411064a254021e584d7dbf74d7f7e620ea8d862d83df4"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/SunkenCity/Texture/SunkenCity_Gird_C.png",
+      "bytes": 6244,
+      "sha256": "f1882a75386b4bb14607693f0e1ddb33e8cc7eda4a69348d09dd6bdb2a30d7b5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/SunkenCity/Texture/SunkenCity_Gird_C.png.meta",
+      "bytes": 3884,
+      "sha256": "9214d336694f23d3ff61da1967e86824a719269d15b2c6c0bb75ee7573994a57"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/ArenaScene/ArenaScene.unity",
+      "bytes": 6062615,
+      "sha256": "00160a9e0934a2dd6b1b825da3078959cebb9117a8ff0a1a81d16984e720f047"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/ArenaScene/ArenaScene.unity.meta",
+      "bytes": 155,
+      "sha256": "bb535dc9f9520165952b315d18a6bec0272e5fd7b7a7d92f495e64f310fc9c20"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/ArenaScene/ArenaScene_Grp.prefab",
+      "bytes": 112981,
+      "sha256": "982c22123982ee7224164136600ac279e384237f4a99a0cda25a176a55395dbf"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/ArenaScene/ArenaScene_Grp.prefab.meta",
+      "bytes": 154,
+      "sha256": "1d06685dc0845c0ddb817dc16592f8febe524ce275610b258ed5c79fe4a15e89"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/CastleExterior/CastleExterior.unity",
+      "bytes": 6620878,
+      "sha256": "983f55a7c739c00210c7733dcefb11934e3f78d589beb7085fbffcab4317df95"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/CastleExterior/CastleExterior.unity.meta",
+      "bytes": 162,
+      "sha256": "eaa428cf88bf98dd8448e5d1b12eaaea9a6a145538216d2b163312cc77394aee"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/CastleExterior/CastleExterior_Grp.prefab",
+      "bytes": 115304,
+      "sha256": "3156147ce6291b6024427c641d4255a6bfc0af8a2167825f573b20d61b9ab22d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/CastleExterior/CastleExterior_Grp.prefab.meta",
+      "bytes": 161,
+      "sha256": "264008ea61acc1c8b2fe03f160bc2ddeb0abcf37d86351c1430b03408604d6f7"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/CogworkWastes/CogworkWastes.unity",
+      "bytes": 2682231,
+      "sha256": "a72a28726a43dbbdefe32a8bef2c6ae02ed286a253c2c63006d12a347a053d2d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/CogworkWastes/CogworkWastes.unity.meta",
+      "bytes": 162,
+      "sha256": "919ddc746aa81246ac4787558a2e06b73aafab2db31858a9d522de8551d11086"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/CogworkWastes/CogworkWastes_Grp.prefab",
+      "bytes": 32972,
+      "sha256": "b4328f9829c312448fd8d4bdbb3ea48dceaff85fa8267f409e156f7f1a5b44b9"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/CogworkWastes/CogworkWastes_Grp.prefab.meta",
+      "bytes": 161,
+      "sha256": "92840da1d02f306e707110f8f28b67b5d95d2fdf25fa93beb14dac1c11a8278f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/备战页UI.png",
+      "bytes": 146056,
+      "sha256": "21a3269b7a44a5e50f5efe404356c4a1309f1af80c28d1573774a7ce41a8db6c"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Environment/备战页UI.png.meta",
+      "bytes": 3916,
+      "sha256": "317875be32e902c00643d575baefa5ad1136f01651d34a654aca5d6fe72d0c12"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/AO/RoleAO/RoleAOTex.png",
+      "bytes": 47073,
+      "sha256": "290293a11906a965394d942634db828491f3e8074c74a973a9dd61eb7b2e2b44"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/AO/RoleAO/RoleAOTex.png.meta",
+      "bytes": 4184,
+      "sha256": "38ee2804c73585585c2e72ac032b85ae29fbe4253f6fc6dbd99e857396821733"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube.fbx",
+      "bytes": 1283184,
+      "sha256": "01aba65fbb67d9b2f449204853feb32e99e7a74951f1247cad469693e8a9fd81"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube.fbx.meta",
+      "bytes": 19832,
+      "sha256": "42ce2be0328aae1d22622b8801788dc145e02381ded19568cc38912c9322aee7"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube.png",
+      "bytes": 30835,
+      "sha256": "b95fb9068aa0cd3f8cb4717836bb996860295e9a2926ba924d22971ab35a419d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube.png.meta",
+      "bytes": 4251,
+      "sha256": "54064ee07d7fc9dc65720d9ea400a28d2abd3e720d88f54f8cfc46650b0eee6d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube_C_3.png",
+      "bytes": 124402,
+      "sha256": "221a896e01e9acd50b698100dbf6fdf79a538c9798f5a13518a12d417ad5743d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube_C_3.png.meta",
+      "bytes": 4251,
+      "sha256": "f5c927f5e71180579ba3ee5ab2b087e56f24c7f6d394737a124d673b3bbb7877"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube_Mat_1.mat",
+      "bytes": 2726,
+      "sha256": "8e56b4a6320b4e398b59f0b17ec7233065fee4642af10be70e1771f126ae13d8"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube_Mat_1.mat.meta",
+      "bytes": 196,
+      "sha256": "d7811512afca6de2281fcec5d4766e3eebb795efe2ea73899201f493f9a3a063"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer.FBX",
+      "bytes": 1610800,
+      "sha256": "db1f2243729982a967454880ad2abb9bb5b2d39d7e2b7c3df975612e15298d91"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer.FBX.meta",
+      "bytes": 20808,
+      "sha256": "e61817d493ffe7d7ae17086f284bc762ea01cdcc1a3fab40a7ff5bc19da10dcd"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_C.png",
+      "bytes": 206017,
+      "sha256": "06c86b31e1dba7527de15caf6f1e0ddbc0b10cdb529b8b6e90676a0ff5bf32ea"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_C.png.meta",
+      "bytes": 4251,
+      "sha256": "444fed6e933f67e80c461f635c7c6b705323096b57e34e81c05cb8568b998270"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_C.png",
+      "bytes": 85017,
+      "sha256": "58af02179db80529faa69cb6ab334c7adf3ba5c13cb7e02e7d46a85e638bd72f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_C.png.meta",
+      "bytes": 4251,
+      "sha256": "a1913ed19686353187adb085d35e76a835981e25515fb8711712c7892ba2f100"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_C_2.png",
+      "bytes": 184980,
+      "sha256": "509bc5ed6a438f44bae5bfdc035e53b17e4af5407b3555dd0d4888b3571d6bab"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_C_2.png.meta",
+      "bytes": 4251,
+      "sha256": "45eed8fccc847c783ba5dab23a13b51af14288cf04dfe1cc9eafdd57e9335b4b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_Mat_1.mat",
+      "bytes": 1962,
+      "sha256": "edcfb8fed69771fe8e26745fd4fe0fcba05d2b06148894c155c6dd944dd84bfa"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_Mat_1.mat.meta",
+      "bytes": 196,
+      "sha256": "9bdea2498869b2f0b145186d770f4e4eb3eb63090a4ff94ecbdddf2319dbd9f5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_Mat_2.mat",
+      "bytes": 1949,
+      "sha256": "69066c77dc50491775535b9e1af465c3ded684b10969b9bb3541617f7b0fc4d3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_Mat_2.mat.meta",
+      "bytes": 196,
+      "sha256": "08967a33ac08d1e43e8f771343ce482e7c1cc00f714b39b3c3cce89859ce6162"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Mat.mat",
+      "bytes": 1942,
+      "sha256": "0257118371cba2aec6a1f1f48b9407556224b3ce8f3630965b5deb16c4723dc5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "45df06623dc6956f2c9f50cc29a1e6595b17887121b7a3c774ee97ac705639ab"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_621/Genichirou.fbx",
+      "bytes": 2482224,
+      "sha256": "2d405072c5826418039cdb60e22d05357c71755bb1412e9634f49f06efa67114"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_621/Genichirou.fbx.meta",
+      "bytes": 19708,
+      "sha256": "cdccf3519d8fbca7579f9f066d64b4a2bcc47b424644674c7afac96ddb2f13bc"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_621/Genichirou_C.png",
+      "bytes": 141924,
+      "sha256": "98e2c1648ec757b0de8a7bf1004e988f6fe8409eaae22774e278c41e55bba746"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_621/Genichirou_C.png.meta",
+      "bytes": 4251,
+      "sha256": "3f1d26ea41752011fd269954e4ab42175a9ab8817e0a28956e84d86728603e35"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_621/Genichirou_Mat.mat",
+      "bytes": 1935,
+      "sha256": "0717c5101ca2d2a8d5e980feee53f9b1876c57fd7e2bc69b9befd829fcea9102"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_621/Genichirou_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "42cc902373ba2e9eb06cb94d44bb9c51cf2992f1f340605e30d577616e255b9f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_626/BombThrower.fbx",
+      "bytes": 1263008,
+      "sha256": "a78d4ea3c0d788c3b59bdaffeecfc4540c43528d6ca2fe15200c61b61c3fd585"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_626/BombThrower.fbx.meta",
+      "bytes": 21607,
+      "sha256": "f30fcc03e0ec0ed4577c2ef127fc353ba5a05b0bb6a2408260cc312074d45391"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_626/BombThrower_C.png",
+      "bytes": 216078,
+      "sha256": "732172465dba9b86e400a449e020213120f33b313a2629c0a555cf03f015c795"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_626/BombThrower_C.png.meta",
+      "bytes": 4251,
+      "sha256": "2f9ef3579db5b5d6a8e9ec2b4d7cf025d915f491ab7d1ad4f3962bbb9f662a72"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_626/BombThrower_Mat.mat",
+      "bytes": 2892,
+      "sha256": "1f15a09a04a63545d319143b62bc6ab0a06f00374d278f5d94c0d1fefdfbddee"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_626/BombThrower_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "019dc0787ec3eae578675968c7f931bac34a720eafa4deb41da0d7604dddf115"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_627/FlameMage.FBX",
+      "bytes": 2201760,
+      "sha256": "d053bd79fd7796b713b6bd546041d69f84924ae86c19b6f5303b656be9217e00"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_627/FlameMage.FBX.meta",
+      "bytes": 21098,
+      "sha256": "851037980383b889682f3c132463db7d4712e477127b2c9dd93707f1ee3f6be4"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_627/FlameMage_C.png",
+      "bytes": 208090,
+      "sha256": "5dc310a8eafae85359f0bc52fe43681f8c4a699a1d487c3530c8fe172b7b8149"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_627/FlameMage_C.png.meta",
+      "bytes": 4251,
+      "sha256": "f7c826dcfde1918a4012fee5cc2723e6b909f4a98a6bfbeec5082a7720ca9eb3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_627/FlameMage_Mat.mat",
+      "bytes": 1942,
+      "sha256": "1ab8fbfa6f2f564f4488f360defa1f49bf5422e307b1747fa971da1de7a5cd44"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_627/FlameMage_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "29a6df2d7149ac7179bb1fa2beb62b8b696f9f6a4e6a9e4de5c4298c77ce4113"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_629/Shotgunner.FBX",
+      "bytes": 1150096,
+      "sha256": "aca13f8827e55e2668f99fca3987f8cc987a1048f3b79c21dbe8bf41ed4013c1"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_629/Shotgunner.FBX.meta",
+      "bytes": 19214,
+      "sha256": "59c44e531fa7d9d946ecbe4657fd1cf3c3b187544e2b3db6447799e3aa68bac3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_629/Shotgunner_C.png",
+      "bytes": 109964,
+      "sha256": "dd090ce0b6f53c9ed5f346d2b4c43382cf16dd8ec7840e86a3f5ff4b771d7a8b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_629/Shotgunner_C.png.meta",
+      "bytes": 4251,
+      "sha256": "af164114efcfb9f0ca4f7b23c9b2d2f8fe371579afea627bedfbfd381967fe28"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_629/Shotgunner_Mat.mat",
+      "bytes": 1922,
+      "sha256": "47826c8e0ce5cfb2f8c53d77fb1743081c5f5f84fb11e491bf152037608b6339"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_629/Shotgunner_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "b325ef4400990f8d6f789ae1e6ccae8fe61ad5d1b4a4624fd4c8a2f8bd00ccb3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_631/Boomerang.FBX",
+      "bytes": 1149824,
+      "sha256": "3946ae5041d69a96b9a35b9b7d1fb1de616259fb68bd79e91979cc83fca170d9"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_631/Boomerang.FBX.meta",
+      "bytes": 20030,
+      "sha256": "5a0d5bdb686900c6a6e7aa09a2f65b111374a069247aa9c50cb3afd22886aae4"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_631/Boomerang_C.png",
+      "bytes": 78982,
+      "sha256": "9037ea087468af0eb4e79399d98cc1316ed94812780f12757b426f07a50a20f9"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_631/Boomerang_C.png.meta",
+      "bytes": 4192,
+      "sha256": "880519185231ca93c3fe6f8dfc85f8a590645058bf0cc09507454a55dca82579"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_631/Boomerang_Mat.mat",
+      "bytes": 1921,
+      "sha256": "6899c11c2225f71e4a4b821bf776a0579a4b6b991f2fd3b383db75b177d3775c"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_631/Boomerang_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "5a55315c4d12da6bd52753add0027be3504a868a7aceae1b59918a71f81f2b39"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_632/Astrologer.FBX",
+      "bytes": 2623232,
+      "sha256": "6f2ee4c04afd74c5a5034af6c031833807fa4615f5f8412ae5ccf76e0282fdcb"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_632/Astrologer.FBX.meta",
+      "bytes": 19201,
+      "sha256": "ad29428361a10676bda7b880d7133eaf5c0d3ff6556352363274a060428edee9"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_632/Astrologer_C.png",
+      "bytes": 176063,
+      "sha256": "fed36c955056d0986d9618ca37e317ecdfa7ca48fead5d343de4dfb41ef54ec3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_632/Astrologer_C.png.meta",
+      "bytes": 4251,
+      "sha256": "245163d66b1d42dd279f784d0b4aab42fa400f60c74d87a22ff371faee4a0312"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_632/Astrologer_Mat.mat",
+      "bytes": 1949,
+      "sha256": "1d9990a990868be5a6e20cfa3eed3e61925931572f012fa464bf780eee2c7ab1"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_632/Astrologer_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "1728d9d4a44050c7e50d8b4eac3da58eb98b41ff5e628d96e84c2e134cc826a2"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_638/Airbender.FBX",
+      "bytes": 2779232,
+      "sha256": "ba6ba7680c78a14c0980db2f7df93231d536951f48e6e681b1efa50ca1fd6268"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_638/Airbender.FBX.meta",
+      "bytes": 20078,
+      "sha256": "45bb55c4c7630627ce442b0652444c312ef08fe6b04defb6275812a491b75366"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_638/Airbender_C.png",
+      "bytes": 93152,
+      "sha256": "4748b4cb627d7b85209453398ee5e0b58813f868200222f3248cba0af60c8563"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_638/Airbender_C.png.meta",
+      "bytes": 4251,
+      "sha256": "7e697cb692da7247317397b27ff891941f393729778f942475f1ad351ef1217d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_638/Airbender_Mat.mat",
+      "bytes": 2859,
+      "sha256": "f504da4dc1f0f48e7cd4f20c4420348687d27b54ff264c36d31cdd9057d8b8b3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_638/Airbender_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "c952f2a9c94d3d9812e56aa8f4eedca54b25ee7bcf13b3d2f9793ca0c43776ab"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_640/CristalLantern.fbx",
+      "bytes": 1780880,
+      "sha256": "a7060ee532ffb52414500c728150b5c9eaff74dd578349bf22f94dc344c5408e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_640/CristalLantern.fbx.meta",
+      "bytes": 20489,
+      "sha256": "91aabf4064d631940f1834ec264ee5ad5a40e858af080b3d4ce918a6e8d091a2"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_640/CristalLantern_C.png",
+      "bytes": 208210,
+      "sha256": "ecb8e9cf62b67bfdad0a150547e4d9e9b3b11e9a407eade61ba393c7cbaa49d0"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_640/CristalLantern_C.png.meta",
+      "bytes": 4192,
+      "sha256": "6c4624d597f666e0b7aac361dcf55ddac0951f2cae0994d2b28272697fc59d3d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_640/CristalLantern_Mat_1.mat",
+      "bytes": 1928,
+      "sha256": "a5f9e780a4eb1aec1b60252896301aeea8bb1a86200f8eacfd0185b4631f2781"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_640/CristalLantern_Mat_1.mat.meta",
+      "bytes": 196,
+      "sha256": "a11606134413a35548b5bc9efe64c0f716666048cf882750e9b561570b811692"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_643/RockWand.fbx",
+      "bytes": 1541056,
+      "sha256": "b5c178b48f3773d3ef45d40ea1e67afece3596effa9d7efdb571b666fca36518"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_643/RockWand.fbx.meta",
+      "bytes": 20546,
+      "sha256": "6f9c9f49b50845700ce718410cf2bbb0cd9b70c6875234b926c6b1ebf2cf136c"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_643/RockWand_C.png",
+      "bytes": 251577,
+      "sha256": "35375d4a00f40d282769767e2f346471604b0ca687abeed5e6f5d2eb507e10c3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_643/RockWand_C.png.meta",
+      "bytes": 4251,
+      "sha256": "931f465da1e2d6b7b52dd930e21b8565acba02b3c81116d1756ebf1514850eac"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_643/RockWand_Mat.mat",
+      "bytes": 1920,
+      "sha256": "79cae8148274aba56b2185b4cfefcc205d1ad5d458efab80af35ea8f82fdbc31"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_643/RockWand_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "d75e3efb8b43a46161431e7f2f2e6814a494bee8bf3989a1b1e67ed91e7b87df"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_701/Genichirou_C.png",
+      "bytes": 139126,
+      "sha256": "c9337799440867b366b4ce49dcdf598754629a85cfa98c82cc0aabdbef2f26c5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_701/Genichirou_C.png.meta",
+      "bytes": 4251,
+      "sha256": "635caf14f050e502adf627534bb4723fc800c3de2f6955997ef1fe940f97ffda"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_704/Boreas_C.png",
+      "bytes": 174140,
+      "sha256": "29ccee789d3b173bcd810890587789dbacad751d319e7eef90dfad5974e567f4"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_704/Boreas_C.png.meta",
+      "bytes": 4251,
+      "sha256": "f4a39536b2d6b662811f8997095eb7740437919a7aa207d050201d6488a483f7"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_704/Boreas_Mat.mat",
+      "bytes": 4696,
+      "sha256": "c5eab1fd7f1eb26587f20039e2970cb50698e24dbfd44162a9ab2bb87cf8492b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_704/Boreas_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "5c5ef812401f4b986c295c77c613017be7e0ab3cf88b859c3c58774d1f1f7894"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_706/Copernicus_C.png",
+      "bytes": 161774,
+      "sha256": "9bad0c967da9f239be6a918ec43d7805c082a936067d1a224b80eb4b4ccc83bd"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_706/Copernicus_C.png.meta",
+      "bytes": 4251,
+      "sha256": "b22b5c80340178920f6e546a50375ea33954addc99963726934af4313a8c70be"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_706/Copernicus_Mat.mat",
+      "bytes": 4700,
+      "sha256": "ab908c9eeec3dd02c81e346bc3050a3270634e8197b3c4f7cfe52523b87d52b8"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_706/Copernicus_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "e68d3d9040d4790512f07e4b67fe87be0714bd38f9162819b17bae545ef4693a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_734/Fox.fbx",
+      "bytes": 3803696,
+      "sha256": "567aaba112e3c86f9f1524d6afe8c686ca18fba3ce769a28d7997bb38a86f1b1"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_734/Fox.fbx.meta",
+      "bytes": 19667,
+      "sha256": "f0ba30cda1c435971848010cea34587030273e283a155587aa0b855c55b7ff03"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_734/Fox_C.png",
+      "bytes": 301717,
+      "sha256": "b06d5fafa661cea03ee685d9937bc8ed12fb06232a4e6b74ba0c252cedbe6901"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_734/Fox_C.png.meta",
+      "bytes": 4251,
+      "sha256": "1caa968d507f93c8e607fb8d60f934a19e30cf4da646761b174616e5bca35855"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_734/Fox_Mat.mat",
+      "bytes": 4311,
+      "sha256": "10a924cb6ae932c3cfbae0e6a2b0c09c48e55c5e9d47b3f0e08e4695a6a92337"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_734/Fox_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "deac9180fad71cf1c880a693bd14da772bb60064a481670383bdec5f886a39a3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_736/DanDing_C.png",
+      "bytes": 143024,
+      "sha256": "ac6427df566aabc78400ff84aeb8a5bc0f023da22e4ca6cafa07bb4698c4842b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_736/DanDing_C.png.meta",
+      "bytes": 4251,
+      "sha256": "ca7ba2b7897446f4107c3ab53914438607514f31b6c0b4ae3dee59fdaafc2479"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_736/DanDing_Mat.mat",
+      "bytes": 4283,
+      "sha256": "d0ce92cdd06b1911f5aed1a925ef8604ac31d723e16c7eb3bc2811f0c24cc547"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_736/DanDing_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "2992d090596ec1c9ca0fb848f8ed88f50c91e1ad12e6421c691b3581609c8e63"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_738/Modgud_C.png",
+      "bytes": 235604,
+      "sha256": "e80aa4a7771db0b83464335f2f218717d41ad3258771620de95edda5316b02ce"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_738/Modgud_C.png.meta",
+      "bytes": 4251,
+      "sha256": "456130691796cc168bfd2f73e65b8e558a4db6621f4509fb4f25a489966c4815"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_738/Modgud_Mat.mat",
+      "bytes": 4317,
+      "sha256": "96e49fbce4a4edded45a565c650e6498f4b44efe30c256c65044cf02c719e6ef"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_738/Modgud_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "f5ce06a85d5d8de5f7238e535ee98e2589eecaaa0c59d70600a11327cc1692dd"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_739/Alchemist_Mat.mat",
+      "bytes": 4323,
+      "sha256": "220717ceefe14f22901709d0461e97cbcd807b2ba77f7e55156a8cda6fc613aa"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_739/Alchemist_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "1581830e92ac1ebaede807d6463b46689c29f80669c9bfa6fec33cb6048d4915"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_739/Hohenheim_C.png",
+      "bytes": 209416,
+      "sha256": "70e7ef4d655bb265aac4b3569363bb7d88cee9f2c47aa7d36c52263eb708dc24"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_739/Hohenheim_C.png.meta",
+      "bytes": 4251,
+      "sha256": "81252da4907a61dcf8d2f52895198244fd80a8dad37194e2a738d20617117946"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_742/RobinHood.fbx",
+      "bytes": 2761632,
+      "sha256": "091b65a9de66283b42b4fe22c23c54af045332ee320213608700a2df9cdebee8"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_742/RobinHood.fbx.meta",
+      "bytes": 19140,
+      "sha256": "ada326275e846029993d18987ec463a8712ba444e9a85d44f33f0a74ed763715"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_742/RobinHood_C.png",
+      "bytes": 74830,
+      "sha256": "359962d30a962456404fa393818e69ffaa3e82e32bf724f217c958d23c5e3b61"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_742/RobinHood_C.png.meta",
+      "bytes": 4251,
+      "sha256": "aa485b5bc1596ae3902bf8d9b5928470e4cff5a0d23f1235eb545a2e8ac02ac6"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_742/RobinHood_Mat.mat",
+      "bytes": 4323,
+      "sha256": "2a99aa8128463b92f320c0acf6e85dea7ac4a93be7d2c40663fb2f16819d5e8b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_742/RobinHood_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "565ba2b94fb799d1f53784fe0792d1c7be1ab1da016216ec302cfda0c688833d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_743/Beott_C.png",
+      "bytes": 190232,
+      "sha256": "82c69272b548f64a18caec40e48d51743a9abde0d53fab2ae4b6c4cb0b698948"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_743/Beott_C.png.meta",
+      "bytes": 4251,
+      "sha256": "a42106093fe4e700853b5250cd617712160cfa447ec447c82482be8802ea5c4c"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_743/Beott_Mat.mat",
+      "bytes": 4312,
+      "sha256": "38af1a80512f84bda5d5c193bdef0a94b2f70a6a40ea5d75b28a578d5b3c1d60"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_743/Beott_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "06af5c341104d3a58e6fb2989712faeed4547054ebf943571448a862fcb107f5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_744/Dullahan_C.png",
+      "bytes": 164595,
+      "sha256": "e799fa986d4fd7a313543949a13950b6e2d87a21cf7891b754de838bbc42f975"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_744/Dullahan_C.png.meta",
+      "bytes": 4251,
+      "sha256": "d035eaeea113fc5fcffe1c9818b8bcc3746fa0b0cb6f136b5a3331aad2daaa85"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_744/Dullahan_Mat.mat",
+      "bytes": 4322,
+      "sha256": "d785249d5c28f9a20032918c10001ab6888912c25cc5479035e7ae00aadc18db"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_744/Dullahan_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "50bffbbd1e20ad61533c377502fe80717daa97b85b692a83630c0b8c233bbe35"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_746/Athena.fbx",
+      "bytes": 2063728,
+      "sha256": "f679ffd317d3542e08526efbefd8563b3b595f0e9bbd48ea9b2333be6668c18a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_746/Athena.fbx.meta",
+      "bytes": 18928,
+      "sha256": "bfe75239237d170bfa79f7378b43f8ce638982bd51b90b70e34d9680f41e4dc3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_746/Athena_C.png",
+      "bytes": 556822,
+      "sha256": "376abe8b790d8695b5e4b668f14e7ee905b06806dfeb72cc97fa1e624a4bf0e9"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_746/Athena_C.png.meta",
+      "bytes": 4251,
+      "sha256": "f2b498ed2531881c5f26b37551a802f4f680cce1106dec57b8db1a908cc80793"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_746/Athena_Mat.mat",
+      "bytes": 4319,
+      "sha256": "e4eedb645a06a22a41a2c84fc6268ef9d4e1ffd5271a46f8f7d3458348107b99"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_746/Athena_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "c5d197f5836b473169be14f16efd9feabe13b1be1f6a3ff5cf850ae98c1008a4"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_748/Zeller_C.png",
+      "bytes": 476651,
+      "sha256": "26852c11c6d6ddd5605420ae8dc434e13ede210ccca05b033fc0bb35e3fd1a1a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_748/Zeller_C.png.meta",
+      "bytes": 4251,
+      "sha256": "3502be5e69dddadd8c8033c1b680c2f6484fd1255d6ca260d963de225102cf18"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_748/Zeller_Mat.mat",
+      "bytes": 4317,
+      "sha256": "c2674d4c784f7a4ed259f15f60df9fedb4b5109031bfc478f06ea47dd7bed1bf"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_748/Zeller_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "f9e044651c330f01007e4d0c3fae9b700105d4a143323f182af7ae332cec5513"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_749/Arthur_C.png",
+      "bytes": 579032,
+      "sha256": "4568e5f62be41ba2c7c79d9ff62cbd0fd7b79d7b01ead5fca912d79073adae3a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_749/Arthur_C.png.meta",
+      "bytes": 4251,
+      "sha256": "277f7f5e5cb25b3d9fa3bdfc2d4afb5885a2aeeeb5454aed3f7320380b2ba8ca"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_749/Arthur_Mat.mat",
+      "bytes": 4320,
+      "sha256": "93a681f0cd23ff93eecbb513c663609d8cecadc9f688c9f307df11f329e61673"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_749/Arthur_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "7e6ed77db2b6f6f8b1bc681b88948606f3c64326bca5f06975ae06b3e8d1d54d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Aow_Blue_Mat.mat",
+      "bytes": 1968,
+      "sha256": "082db223a1ad01fdb0bb2c5a35d46807632c3589e6aac17142236b76811facb0"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Aow_Blue_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "02bea948ae81e98a49d3471e853fa96c15a514fce70201edb6d29ecb44732139"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Blue_C.png",
+      "bytes": 30729,
+      "sha256": "6b7b267859406a2dc4e0e4890baf95d1ec2bf5490427c73f7dc49f186337a0c3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Blue_C.png.meta",
+      "bytes": 4251,
+      "sha256": "1404cf05963f2017268608ebed07a1e040fcf69ca0a14059a9e9c8efb01d415a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Iw_Blue_Mat.mat",
+      "bytes": 1940,
+      "sha256": "dfed3c2657dad050d3ac3229e2727547693f0a1c93a9e0f0376fa98b8d3c47e8"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Iw_Blue_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "3d3f081d31c122330bf07f91618e53fb64c786fa3844f255926b9727cc04a0d4"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Iw_Grey_Mat.mat",
+      "bytes": 1919,
+      "sha256": "c7890ab9eb757349164656a43f8585398e2e572189f8209e48ae386eb024faad"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Iw_Grey_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "6a87795fe6cbc8be44891f8767fc35902605f285f19aa8323f6426ee618d2bdd"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/XiaoBin_Blue_Texture.png",
+      "bytes": 26779,
+      "sha256": "604147ab01113969a4ccca129044c36a505042c28bc089b468d20eba04e13729"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/XiaoBin_Blue_Texture.png.meta",
+      "bytes": 4251,
+      "sha256": "df065dcab78a5e37c165291f7a35ba02888635994fc822182ee2d5033a5106f3"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/XiaoBin_Grey_Texture.png",
+      "bytes": 27033,
+      "sha256": "10272488bb88083406bd3818e52513f48aa32af5a6773a7236f226eb4927afc5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/XiaoBin_Grey_Texture.png.meta",
+      "bytes": 4251,
+      "sha256": "ed6967ffdad78fcb667b4196e03070cd1726c3bf9a0a0498f44264f579ad6808"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_C 1.png",
+      "bytes": 24533,
+      "sha256": "8a2e921b1d6a6d006cc01c86aa2a3eccd6ce241013efa54d8f7e93008a149b1f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_C 1.png.meta",
+      "bytes": 2591,
+      "sha256": "c24f9a53656802f95676541f6ff6d6d537c963bba5e8b83a402f08a98776ff07"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_C.png",
+      "bytes": 24533,
+      "sha256": "8a2e921b1d6a6d006cc01c86aa2a3eccd6ce241013efa54d8f7e93008a149b1f"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_C.png.meta",
+      "bytes": 4251,
+      "sha256": "7a04e154a3d95fc870820848b79fc0d5818b91f3b4a341b83336770af88ed5a9"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_Mat 1.mat",
+      "bytes": 4721,
+      "sha256": "4b2c984a71c5ca07390b22f52fe328d96c7b81e85c0f5c898685b478ae9100bf"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_Mat 1.mat.meta",
+      "bytes": 188,
+      "sha256": "c5cbffb58a1f0ebcbbc1260adbd981cea3342e92f0ad4ec8a790dd2ae83b9b46"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_Mat.mat",
+      "bytes": 4280,
+      "sha256": "7067b5d86db7455793103e80a2732846b091a6637dc426ee3e337090b85c7b69"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "42f509abc229434fd1cd67cf8e1e70fecf62a7294e69b8faf587b757cf8dbfce"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Red_C.png",
+      "bytes": 24661,
+      "sha256": "a61e5e5accb9bece2e9a1412671a1087b617ba30a024df12fff65cd28f2fbf70"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Red_C.png.meta",
+      "bytes": 4251,
+      "sha256": "5a872242cbd26b6510da01fc467356c3b7dafaf709dcf3157b116322c725cdf5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Red_Mat.mat",
+      "bytes": 4279,
+      "sha256": "36a3169b7deabb2fdc331297148ce2c7cf81e4fe574dd531c77d09ad74832efc"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Red_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "4be6ed245a977155b66066ea165841a2d96494f74bc73b5a97908a9933b6c327"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/DecShadow.shader",
+      "bytes": 28756,
+      "sha256": "adb83d4848a0c986942a00f0d50abe99d929daa67c1f057208afce3590b24e36"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/DecShadow.shader.meta",
+      "bytes": 381,
+      "sha256": "982f43f037d117c1117ed64ac1967e06a010f7cf4c7b356db29c71421257ee0b"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_DitherPattern_BlueNoise_64.png",
+      "bytes": 12046,
+      "sha256": "265a3e93690a80b8fd76a58359a6c538b4b300b2017606c15abfce09cc9ee843"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_DitherPattern_BlueNoise_64.png.meta",
+      "bytes": 2900,
+      "sha256": "1862316982206deb9c9da6288bd2aaa575efd254cc138469b5a683b44aed775e"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_NoTileNoise.png",
+      "bytes": 44236,
+      "sha256": "4908df9ffbb4e939f987df705c0bf6241c6101698942a19767e734a709fc85f0"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_NoTileNoise.png.meta",
+      "bytes": 1958,
+      "sha256": "78bd0193701df484b136936ee34be3ec97c69455be873dd50dfe12675b41d4d4"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_Ramp_UnityGradient.png",
+      "bytes": 174,
+      "sha256": "30212c7f2134d7928af2de88f5e602e9d9bbed86b8740058e97053f837439813"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_Ramp_UnityGradient.png.meta",
+      "bytes": 2105,
+      "sha256": "16015474c55d053678fb564779c97a8c98cf35ecf0e41cdbd813bc24fa8592ea"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/Grid.shader",
+      "bytes": 4980,
+      "sha256": "8b34b19fbf135802f4e749f232dd0829c000b9808119d43f7934ac6e0957e61a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/Grid.shader.meta",
+      "bytes": 289,
+      "sha256": "ab31a676bf537e1edc20d3af1d8b1dc6d888321ad15f4ec1d6f2782315fd277d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Sprites/Feature/MGGrid/Game_Grid_White.png",
+      "bytes": 1426,
+      "sha256": "e96dbe7cdd16ad5e72afd05881ec2051c028bae9461af0eb620c72c5f6e7c4f7"
+    },
+    {
+      "path": "assets/imported/Assets/ArtOfWar-II_Art/Sprites/Feature/MGGrid/Game_Grid_White.png.meta",
+      "bytes": 4239,
+      "sha256": "ae2c9d2db87e5315c3f5751fe82029c01ac54de8bb4427deaf1cca51547e2f71"
+    },
+    {
+      "path": "assets/imported/Assets/ArtResource/Effect/Materials/FX_Fre_001_Mat.mat",
+      "bytes": 5878,
+      "sha256": "57bddaae27f51a7ed0d86910b213a5503fcac87a4cc9cf03ffed368d677d9ed8"
+    },
+    {
+      "path": "assets/imported/Assets/ArtResource/Effect/Materials/FX_Fre_001_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "df9d7c530fd23cc399d29d57af605c0b56ba378010f62d0b27b5ca2c31618fc7"
+    },
+    {
+      "path": "assets/imported/Assets/ArtResource/Effect/Models/FX_Circle_003_Mod.fbx",
+      "bytes": 22832,
+      "sha256": "0acb7332a46c01fd6fb54b8ecbb95c7214d6360454ef6a3290ccc5096beefff0"
+    },
+    {
+      "path": "assets/imported/Assets/ArtResource/Effect/Models/FX_Circle_003_Mod.fbx.meta",
+      "bytes": 2939,
+      "sha256": "e1411b20ab4b139f3525ed097120d0e82ddddcd63b73fc89efffdaf8bb4f01d1"
+    },
+    {
+      "path": "assets/imported/Assets/ArtResource/Effect/Textures/FX_Glow_003_Tex.png",
+      "bytes": 21371,
+      "sha256": "52e6dec58a03291c3d5bce633264d47674fa256a3fcb088b7390483ffcbe470a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtResource/Effect/Textures/FX_Glow_003_Tex.png.meta",
+      "bytes": 3604,
+      "sha256": "c82413045fed00094744ee43cf19435d89d832b33974607935e7209392e461b1"
+    },
+    {
+      "path": "assets/imported/Assets/ArtResource/Effects/Common_FX/Materials/B_FX_Glow_11_Mat.mat",
+      "bytes": 5549,
+      "sha256": "f17a66433fd1df0ba2dcbc7ab93eb8ef533f4d0fa6a4fc0b16be5e5656aa4e39"
+    },
+    {
+      "path": "assets/imported/Assets/ArtResource/Effects/Common_FX/Materials/B_FX_Glow_11_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "160f8fdda8e81e0323b1c20122ed717682f4c470d627a96fe00e1a7fc984893d"
+    },
+    {
+      "path": "assets/imported/Assets/ArtResource/Effects/Common_FX/Materials/FX_Trail_29_Mat.mat",
+      "bytes": 6007,
+      "sha256": "afcebacf4930ff5aed445e31405438a3fe0f87824c5f882052245a4e40fedb46"
+    },
+    {
+      "path": "assets/imported/Assets/ArtResource/Effects/Common_FX/Materials/FX_Trail_29_Mat.mat.meta",
+      "bytes": 196,
+      "sha256": "65ff71f847ec6a2c9f1922c043dc3d19794cebbf560528a5ebdd0f07c2626b1a"
+    },
+    {
+      "path": "assets/imported/Assets/ArtResource/Effects/Common_FX/Models/FX_Hemispherical_02_Mod.FBX",
+      "bytes": 34800,
+      "sha256": "e64475fb271dbcb38502e08f3466b0e683a21e8a85b0d1fccf10498c358d93d7"
+    },
+    {
+      "path": "assets/imported/Assets/ArtResource/Effects/Common_FX/Models/FX_Hemispherical_02_Mod.FBX.meta",
+      "bytes": 3060,
+      "sha256": "bd62e26c7f4562913dde5ebe4d4d4f53f209a940bc4195d60cf20e5cdecb75fa"
+    },
+    {
+      "path": "assets/imported/Assets/ArtResource/Effects/Common_FX/Textures/FX_Trail_020_Tex.png",
+      "bytes": 28333,
+      "sha256": "36edbe8b28c0a0bf4ba9f1e7745f0bfa520804594a05ccff3387ada900bbc3c5"
+    },
+    {
+      "path": "assets/imported/Assets/ArtResource/Effects/Common_FX/Textures/FX_Trail_020_Tex.png.meta",
+      "bytes": 4192,
+      "sha256": "7ed6203bd39f5556e0866768292e0263fddb59e229f0a869c29012a4d2c60a03"
+    },
+    {
+      "path": "assets/imported/Assets/New Scene.unity",
+      "bytes": 34763,
+      "sha256": "a8126cbbbd93be8400b04a9757e4cd983606f7acceb95b8826f24fb62dd54153"
+    },
+    {
+      "path": "assets/imported/Assets/New Scene.unity.meta",
+      "bytes": 155,
+      "sha256": "5ff3e240e6b37fb23dfbf120513cdceaafc98eff590b0f23224051c214c7ac09"
+    },
+    {
+      "path": "assets/imported/Assets/pvp更大景别.png",
+      "bytes": 3655931,
+      "sha256": "96f54c39ba8cc10f6a0748166cd1357aecc8d57ce6dd647de3a6d86e5ef2f12f"
+    },
+    {
+      "path": "assets/imported/Assets/pvp更大景别.png.meta",
+      "bytes": 2623,
+      "sha256": "51f32ae318f1f2444fc86bb2c3ca450e17f3691495bfc05f1260041a183e24e2"
+    },
+    {
+      "path": "assets/imported/Assets/Scenes/SampleScene.unity",
+      "bytes": 10734,
+      "sha256": "93ff4bd5410520f04df9f14709ad4e8d5136a12a22d1361adf66e075c1947c92"
+    },
+    {
+      "path": "assets/imported/Assets/Scenes/SampleScene.unity.meta",
+      "bytes": 155,
+      "sha256": "b5815a6b12afaf810577bc89041c4ce46516c7cd6609693f8db616f8e5584d80"
+    },
+    {
+      "path": "assets/imported/Assets/Scripts/SoldierAnimationController/HomingArrow.cs",
+      "bytes": 10782,
+      "sha256": "6d22acf5a1e938a3db6ca90e7d04c66b71618e5793ca41503556e8ce52ae68dd"
+    },
+    {
+      "path": "assets/imported/Assets/Scripts/SoldierAnimationController/HomingArrow.cs.meta",
+      "bytes": 243,
+      "sha256": "f2b3e9781df1203bfab92e75974316e893081d9dfa58d078db478d5389d617e5"
+    },
+    {
+      "path": "assets/imported/Assets/Settings/SampleSceneProfile.asset",
+      "bytes": 2803,
+      "sha256": "a9932bcba1b1b55c8939c72aca2b5cca21efc41847bd16208fe3e171c9cba89f"
+    },
+    {
+      "path": "assets/imported/Assets/Settings/SampleSceneProfile.asset.meta",
+      "bytes": 182,
+      "sha256": "ca16ad198ed1e1035cb3597a05a38465ceec9eac871e576e3b14280c7f4454d3"
+    },
+    {
+      "path": "assets/imported/Assets/Settings/URP-Balanced-Renderer.asset",
+      "bytes": 2476,
+      "sha256": "8ddaba42cf10b34a3797d185fb1755dd65bf9bcac2d31af190d0ad465e29cb57"
+    },
+    {
+      "path": "assets/imported/Assets/Settings/URP-Balanced-Renderer.asset.meta",
+      "bytes": 189,
+      "sha256": "ebbb7afa6c1a6e28d17b2125e19e634a4b03a8abe5d7263f220a042b0ea62103"
+    },
+    {
+      "path": "assets/imported/Assets/Settings/URP-Balanced.asset",
+      "bytes": 3642,
+      "sha256": "8dfcb6fe5ef5487e2f8cede2fda298fee322a153102f1c90e78c302886b91bc9"
+    },
+    {
+      "path": "assets/imported/Assets/Settings/URP-Balanced.asset.meta",
+      "bytes": 182,
+      "sha256": "582d59eee6f9e76075756f73ce0df51df7165d725956be92750ac4a7e2c6e4cd"
+    },
+    {
+      "path": "assets/imported/Assets/Settings/URP-HighFidelity-Renderer.asset",
+      "bytes": 3839,
+      "sha256": "cc8be915944c9c27c3478f9931dc0baaf7c3f619cad063a9530ea90af8b542f4"
+    },
+    {
+      "path": "assets/imported/Assets/Settings/URP-HighFidelity-Renderer.asset.meta",
+      "bytes": 189,
+      "sha256": "1f35ac5b27888da9ed16c57d619316d9aedc9d760f18fb2350592698f38702ee"
+    },
+    {
+      "path": "assets/imported/Assets/Settings/URP-HighFidelity.asset",
+      "bytes": 3649,
+      "sha256": "cbcdbff289e5270128fb8333f49b484c71cfaf61564713d403bd351356feddb5"
+    },
+    {
+      "path": "assets/imported/Assets/Settings/URP-HighFidelity.asset.meta",
+      "bytes": 182,
+      "sha256": "4f4e042a301842e1e072de030d7dfafa1a6498c7d69177a62f645a233c54c234"
+    },
+    {
+      "path": "assets/imported/Assets/Settings/URP-Performant-Renderer.asset",
+      "bytes": 1854,
+      "sha256": "11d4463a714b8572792a6818dece9e3c84ee2635dff9048575155b064e056bb9"
+    },
+    {
+      "path": "assets/imported/Assets/Settings/URP-Performant-Renderer.asset.meta",
+      "bytes": 189,
+      "sha256": "299b5cb85aa3528d3255645dd3e11be5530ea4275255e0df460d3ca8866fa28b"
+    },
+    {
+      "path": "assets/imported/Assets/Settings/URP-Performant.asset",
+      "bytes": 3645,
+      "sha256": "d4eb06c7e83b3fc718dc1b5f1fe9e5f55453c869f721f94da66690b9b3bde65f"
+    },
+    {
+      "path": "assets/imported/Assets/Settings/URP-Performant.asset.meta",
+      "bytes": 182,
+      "sha256": "26a8380abc9f83be23c7a6749e165af3ee254ee1e6b13c5c5bc9a735a30ca241"
+    },
+    {
+      "path": "assets/imported/Assets/TutorialInfo/Icons/URP.png",
+      "bytes": 24069,
+      "sha256": "1d17a9ff3537859abe2c008603d29d90cf43191ae77aa386167cc65e53ba03d9"
+    },
+    {
+      "path": "assets/imported/Assets/TutorialInfo/Icons/URP.png.meta",
+      "bytes": 3156,
+      "sha256": "b330f1fcfc4e6ceccc95fc34a38434141603469b135633e1c4e8a03c19f9fdbc"
+    },
+    {
+      "path": "assets/imported/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs",
+      "bytes": 6677,
+      "sha256": "d2023934bc2be23af69cd930ade85eff41c5db0a6f6666b05324b975befdb5b5"
+    },
+    {
+      "path": "assets/imported/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta",
+      "bytes": 264,
+      "sha256": "f59080b424c16fa13edd105bf006fdbad98c11fce0c921043e63c8877f144cd9"
+    },
+    {
+      "path": "assets/imported/Assets/TutorialInfo/Scripts/Readme.cs",
+      "bytes": 302,
+      "sha256": "c09c93844f93eb252a6fb39c222d169c63a63e96008fd040b9e7628c3e7ccc2e"
+    },
+    {
+      "path": "assets/imported/Assets/TutorialInfo/Scripts/Readme.cs.meta",
+      "bytes": 317,
+      "sha256": "80a3df9969fab6e656583ee9bbca884d0507e2b7de3417f6ea3118fba901cd60"
+    },
+    {
+      "path": "assets/references/cut.gif",
+      "bytes": 49136144,
+      "sha256": "1f7446bdaec5a3191390c1cd5c89bbcd88ed90a972942c007c95265787b03be5"
+    },
+    {
+      "path": "assets/runtime/archer.fbx",
+      "bytes": 1283184,
+      "sha256": "01aba65fbb67d9b2f449204853feb32e99e7a74951f1247cad469693e8a9fd81"
+    },
+    {
+      "path": "assets/runtime/archer.png",
+      "bytes": 24533,
+      "sha256": "8a2e921b1d6a6d006cc01c86aa2a3eccd6ce241013efa54d8f7e93008a149b1f"
+    },
+    {
+      "path": "assets/runtime/flail.fbx",
+      "bytes": 1333184,
+      "sha256": "493820e57e417784b1ca1f4a8678b10808d29f9517988fca70f62b8b56d02440"
+    },
+    {
+      "path": "assets/runtime/flail.png",
+      "bytes": 195940,
+      "sha256": "abcefbcb1e5997b373a2fba9182896d0b332f836e69c3daa423c340da5a619a3"
+    },
+    {
+      "path": "assets/runtime/manifest.json",
+      "bytes": 7650,
+      "sha256": "9a0f066838d4bcdd8bde764f36cfa2ee257aa2d3fc3c8f6eab69039e849adc28"
+    },
+    {
+      "path": "assets/runtime/samurai.fbx",
+      "bytes": 2482224,
+      "sha256": "2d405072c5826418039cdb60e22d05357c71755bb1412e9634f49f06efa67114"
+    },
+    {
+      "path": "assets/runtime/samurai.png",
+      "bytes": 24533,
+      "sha256": "8a2e921b1d6a6d006cc01c86aa2a3eccd6ce241013efa54d8f7e93008a149b1f"
+    },
+    {
+      "path": "assets/runtime/sword.fbx",
+      "bytes": 1151808,
+      "sha256": "a81f2faedb51dd045b01ae0b594a39fa4b8768515e6ef2497184148b44e34c9f"
+    },
+    {
+      "path": "assets/runtime/sword.png",
+      "bytes": 14454,
+      "sha256": "f6d333297306f2921e6ab8afc0ad1abb299bd3b5ef3d4c9f3a5c4a44f2515093"
+    },
+    {
+      "path": "assets/source-packages/20260924-大地图-公会战：留了一手-阿菊&墨芙.unitypackage",
+      "bytes": 47281211,
+      "sha256": "ae8169556c4b09f6136e9c3225bb9150b9cba7fdca3f04ad9142812ec01fd195"
+    },
+    {
+      "path": "assets/source-packages/Pve压迫感角色+图片.unitypackage",
+      "bytes": 3965181,
+      "sha256": "ebe2d3049b327d61d5abcbd3fa58090220b44d503d234323f3e25aa22049351d"
+    },
+    {
+      "path": "assets/source-packages/PVE混剪.unitypackage",
+      "bytes": 364377842,
+      "sha256": "16a1701d9e48baa681d6b0dfd3989a2356d9a9a741dd1413272cad267cde6859"
+    },
+    {
+      "path": "assets/source-packages/使用到的特效资源.unitypackage",
+      "bytes": 1645709,
+      "sha256": "ac35d933bfca5abdd528a956930640c88ac47081ec0ab2dba8f6f03e19383bc3"
+    },
+    {
+      "path": "assets/source-packages/使用到的防御塔.unitypackage",
+      "bytes": 1312677,
+      "sha256": "acc3e340392567b09e55be5c338f46108313f331552efff8bdf4659d68e13eeb"
+    },
+    {
+      "path": "assets/source-packages/新贴图Unity包.unitypackage",
+      "bytes": 3314601,
+      "sha256": "51d685c64ed442ab33c7bedb7edc10ed494f6ceeb4cd21832c7c7eb6458b1193"
+    },
+    {
+      "path": "assets/source-packages/角色资源.unitypackage",
+      "bytes": 329330205,
+      "sha256": "acec522180c009d787e1323b18532210ca3ffcc92a5bc99332ee56527fe4229a"
+    },
+    {
+      "path": "docs/requirements/original/pve pvp真实感混剪.pdf",
+      "bytes": 26895055,
+      "sha256": "ecb52eeaf5891655c699a30ba20ee487c81e432e012c314965fd9f6bee4561a0"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-prefab/manifest.json",
+      "bytes": 182092,
+      "sha256": "5fd40106413a438267c8d398fce4c9022903ec65d08aad8f05093bf6167a75eb"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-prefab/mesh-0.bin",
+      "bytes": 119600,
+      "sha256": "6f0ec75abf6495314fed756cc9655d36bcd6dc4cf72bd9cd5f3ce03b15659788"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-prefab/mesh-1.bin",
+      "bytes": 134176,
+      "sha256": "0874522af034273661eaf04caf94deee767ca0bf34e87bb4026bd2fcba811f7e"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-prefab/mesh-10.bin",
+      "bytes": 22088,
+      "sha256": "fe2ff76e3ca0570b780cd481621a9f83b0795b52b8b84f9429ffcf3494f2c21e"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-prefab/mesh-11.bin",
+      "bytes": 14688,
+      "sha256": "9a2101668be5688a8e3b9c268b811097df84e67ce6467fec5b59a8ad2ccc5102"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-prefab/mesh-12.bin",
+      "bytes": 113488,
+      "sha256": "e0e62a17ed413dbee70ab5b5f31af69c618e435d9cae53d8f9beb3dfda3a2203"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-prefab/mesh-2.bin",
+      "bytes": 10136,
+      "sha256": "efa6218118e78af3189e15ca22ce83caab086e81b123dd43cb75920c986465cc"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-prefab/mesh-3.bin",
+      "bytes": 135844,
+      "sha256": "67fb9f72fe58912a771d8bd66d722d02f58d7f04f613d6d3a53faffb64b8a4c9"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-prefab/mesh-4.bin",
+      "bytes": 11416,
+      "sha256": "e22d7d239da0aa453de5b151b8a18b309adabb339131d5f054e1779c3447b2a7"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-prefab/mesh-5.bin",
+      "bytes": 38896,
+      "sha256": "975b0671011abb06ca779340910b4ab7117c269faceb837159c2bc0445beeb04"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-prefab/mesh-6.bin",
+      "bytes": 12200,
+      "sha256": "430f5514e2678ef5e2050aea6560aa244518907486b7b83ad598729ea064c4da"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-prefab/mesh-7.bin",
+      "bytes": 202844,
+      "sha256": "6b5141281255f048a13a3883ea54ea95b73b0e2ad63bd595c7431db9f7a0cd10"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-prefab/mesh-8.bin",
+      "bytes": 22088,
+      "sha256": "9308eca5702a209a5761974832b273331e8589c1c197c1a15ec7c8ebdb8f5015"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-prefab/mesh-9.bin",
+      "bytes": 103392,
+      "sha256": "333730675b9ae9090959c5b51a560754efbc14795df109eb5195c1615bf85f44"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-scene/manifest.json",
+      "bytes": 182087,
+      "sha256": "fa1d1135cb82dfa99a7f85e89f9cf835ba9e1edb572fad63645adad9fac563b2"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-scene/mesh-0.bin",
+      "bytes": 119600,
+      "sha256": "6f0ec75abf6495314fed756cc9655d36bcd6dc4cf72bd9cd5f3ce03b15659788"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-scene/mesh-1.bin",
+      "bytes": 134176,
+      "sha256": "0874522af034273661eaf04caf94deee767ca0bf34e87bb4026bd2fcba811f7e"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-scene/mesh-10.bin",
+      "bytes": 22088,
+      "sha256": "fe2ff76e3ca0570b780cd481621a9f83b0795b52b8b84f9429ffcf3494f2c21e"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-scene/mesh-11.bin",
+      "bytes": 14688,
+      "sha256": "9a2101668be5688a8e3b9c268b811097df84e67ce6467fec5b59a8ad2ccc5102"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-scene/mesh-12.bin",
+      "bytes": 113488,
+      "sha256": "e0e62a17ed413dbee70ab5b5f31af69c618e435d9cae53d8f9beb3dfda3a2203"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-scene/mesh-2.bin",
+      "bytes": 10136,
+      "sha256": "efa6218118e78af3189e15ca22ce83caab086e81b123dd43cb75920c986465cc"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-scene/mesh-3.bin",
+      "bytes": 135844,
+      "sha256": "67fb9f72fe58912a771d8bd66d722d02f58d7f04f613d6d3a53faffb64b8a4c9"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-scene/mesh-4.bin",
+      "bytes": 11416,
+      "sha256": "e22d7d239da0aa453de5b151b8a18b309adabb339131d5f054e1779c3447b2a7"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-scene/mesh-5.bin",
+      "bytes": 38896,
+      "sha256": "975b0671011abb06ca779340910b4ab7117c269faceb837159c2bc0445beeb04"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-scene/mesh-6.bin",
+      "bytes": 12200,
+      "sha256": "430f5514e2678ef5e2050aea6560aa244518907486b7b83ad598729ea064c4da"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-scene/mesh-7.bin",
+      "bytes": 202844,
+      "sha256": "6b5141281255f048a13a3883ea54ea95b73b0e2ad63bd595c7431db9f7a0cd10"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-scene/mesh-8.bin",
+      "bytes": 22088,
+      "sha256": "9308eca5702a209a5761974832b273331e8589c1c197c1a15ec7c8ebdb8f5015"
+    },
+    {
+      "path": "public/native-scenes/ArenaScene-scene/mesh-9.bin",
+      "bytes": 103392,
+      "sha256": "333730675b9ae9090959c5b51a560754efbc14795df109eb5195c1615bf85f44"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-prefab/manifest.json",
+      "bytes": 126369,
+      "sha256": "0e33483e3778d1e965111a17ca04731639d4be8635a5cf34054a089b015798d7"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-prefab/mesh-0.bin",
+      "bytes": 4200,
+      "sha256": "021a262fd1b10b951e84fe917d9d45fe9892f272447be8b567c035f64ce871c6"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-prefab/mesh-1.bin",
+      "bytes": 3720,
+      "sha256": "f30fb66476678b24379effdcb6d490da23aa5088295ee1bcda7200e5c44ea284"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-prefab/mesh-2.bin",
+      "bytes": 3720,
+      "sha256": "736de8bca53e897226fa59f9cbd086623d714984f352136628df10fc89c7cac8"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-prefab/mesh-3.bin",
+      "bytes": 4512,
+      "sha256": "7ba8e39cc8c21b318f0318b7b77c15ec59afb410529e2bd41411807f0e867aaf"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-prefab/mesh-4.bin",
+      "bytes": 13320,
+      "sha256": "8e6216123e85c55f8b54912707b05aa183a324325daa62eed2aa8860b1ea4fb7"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-prefab/mesh-5.bin",
+      "bytes": 55936,
+      "sha256": "8fc58b0a3f4fdc8f419dce20b60db9d031a23117253767affb78c555a52eaa9f"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-prefab/mesh-6.bin",
+      "bytes": 34032,
+      "sha256": "60a16d61e852f88e37ec8d7b81f5ff9f213223a2e4a547eccdfeb700bfb54b40"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-prefab/mesh-7.bin",
+      "bytes": 1624,
+      "sha256": "dc2afc8e0174b0f09e9d95793fb40a89c4dd2e2aed6850be34f0f8f370a89535"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-prefab/mesh-8.bin",
+      "bytes": 152,
+      "sha256": "7558ffe5cc88ccbd846f1f7de71a35833740507cd1b09caaaf7b79b6ee7d3bbd"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-prefab/mesh-9.bin",
+      "bytes": 152,
+      "sha256": "b80d3a708fce0b27163f389355eeb22fd2ad351e7f961d70281c05709fb9921f"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-scene/manifest.json",
+      "bytes": 126490,
+      "sha256": "631e222361b70bf4948ce54deae556ae1f480365e8e7165493c24161e386e833"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-scene/mesh-0.bin",
+      "bytes": 4200,
+      "sha256": "021a262fd1b10b951e84fe917d9d45fe9892f272447be8b567c035f64ce871c6"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-scene/mesh-1.bin",
+      "bytes": 3720,
+      "sha256": "f30fb66476678b24379effdcb6d490da23aa5088295ee1bcda7200e5c44ea284"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-scene/mesh-2.bin",
+      "bytes": 3720,
+      "sha256": "736de8bca53e897226fa59f9cbd086623d714984f352136628df10fc89c7cac8"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-scene/mesh-3.bin",
+      "bytes": 4512,
+      "sha256": "7ba8e39cc8c21b318f0318b7b77c15ec59afb410529e2bd41411807f0e867aaf"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-scene/mesh-4.bin",
+      "bytes": 13320,
+      "sha256": "8e6216123e85c55f8b54912707b05aa183a324325daa62eed2aa8860b1ea4fb7"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-scene/mesh-5.bin",
+      "bytes": 55936,
+      "sha256": "8fc58b0a3f4fdc8f419dce20b60db9d031a23117253767affb78c555a52eaa9f"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-scene/mesh-6.bin",
+      "bytes": 34032,
+      "sha256": "60a16d61e852f88e37ec8d7b81f5ff9f213223a2e4a547eccdfeb700bfb54b40"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-scene/mesh-7.bin",
+      "bytes": 1624,
+      "sha256": "dc2afc8e0174b0f09e9d95793fb40a89c4dd2e2aed6850be34f0f8f370a89535"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-scene/mesh-8.bin",
+      "bytes": 152,
+      "sha256": "7558ffe5cc88ccbd846f1f7de71a35833740507cd1b09caaaf7b79b6ee7d3bbd"
+    },
+    {
+      "path": "public/native-scenes/CastleExterior-scene/mesh-9.bin",
+      "bytes": 152,
+      "sha256": "b80d3a708fce0b27163f389355eeb22fd2ad351e7f961d70281c05709fb9921f"
+    },
+    {
+      "path": "public/native-scenes/CogworkWastes/manifest.json",
+      "bytes": 38096,
+      "sha256": "25d045ee77c150884f371e9219caabbe611188495b9aa1f155c7a261e67c0ea7"
+    },
+    {
+      "path": "public/native-scenes/CogworkWastes/mesh-0.bin",
+      "bytes": 6328,
+      "sha256": "ebaadbe7e4121b931aa4cc9eaeba6bf238aa62695bac902e254d436d868290ad"
+    },
+    {
+      "path": "public/native-scenes/CogworkWastes/mesh-1.bin",
+      "bytes": 3904,
+      "sha256": "68f0108b1c7f2dbab69a0d575ddc72742c535c5a132fb85d46754f68dc0fa06c"
+    },
+    {
+      "path": "public/native-scenes/CogworkWastes/mesh-2.bin",
+      "bytes": 4632,
+      "sha256": "ef1acb783e1fcd2b659d47a99239a596ed57940345c064e7b3cdcf887a15ad0d"
+    },
+    {
+      "path": "public/native-scenes/CogworkWastes/mesh-3.bin",
+      "bytes": 29936,
+      "sha256": "1e994556f031fa82bb25cbfa49ad051fcd2633d406193d21df0f5f4be9264a07"
+    },
+    {
+      "path": "public/native-scenes/CogworkWastes/mesh-4.bin",
+      "bytes": 136264,
+      "sha256": "eb306a45a2c0558ca6090f2ef6f70d2185fbb9ba3cbdd8c714d90e844a28d3a7"
+    },
+    {
+      "path": "public/native-scenes/CogworkWastes/mesh-5.bin",
+      "bytes": 229632,
+      "sha256": "d520bedd2c0dcf184e9683d77287839e5205de19ff69c4aae50b5c648946d7f3"
+    },
+    {
+      "path": "public/native-scenes/CogworkWastes/mesh-6.bin",
+      "bytes": 9464,
+      "sha256": "886d94881de049e0a46a72da317c4f548dcdd347a8ca92ebbd749038a1c09fba"
+    },
+    {
+      "path": "public/native-scenes/CogworkWastes/mesh-7.bin",
+      "bytes": 1544,
+      "sha256": "22401974bfffa9c14909c4b840d990e8b04e40a1ea7ed91ebc993a6f531d7d53"
+    },
+    {
+      "path": "public/native-scenes/layout-derived/topfield/CastleExterior_Land_C-shadow-moved.png",
+      "bytes": 247685,
+      "sha256": "c316685fc0747b92f15bd2c921e1bdbc2d9fdb6d70bfd2e3397ad87e2032e0d8"
+    },
+    {
+      "path": "public/native-scenes/NewScene/manifest.json",
+      "bytes": 347782,
+      "sha256": "6e37e6a26fee84731418083f3594fe9b950f2f671f6539f34cf7f2072482feaa"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-0.bin",
+      "bytes": 119600,
+      "sha256": "6f0ec75abf6495314fed756cc9655d36bcd6dc4cf72bd9cd5f3ce03b15659788"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-1.bin",
+      "bytes": 134176,
+      "sha256": "0874522af034273661eaf04caf94deee767ca0bf34e87bb4026bd2fcba811f7e"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-10.bin",
+      "bytes": 22088,
+      "sha256": "fe2ff76e3ca0570b780cd481621a9f83b0795b52b8b84f9429ffcf3494f2c21e"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-11.bin",
+      "bytes": 14688,
+      "sha256": "9a2101668be5688a8e3b9c268b811097df84e67ce6467fec5b59a8ad2ccc5102"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-12.bin",
+      "bytes": 113488,
+      "sha256": "e0e62a17ed413dbee70ab5b5f31af69c618e435d9cae53d8f9beb3dfda3a2203"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-13.bin",
+      "bytes": 4200,
+      "sha256": "021a262fd1b10b951e84fe917d9d45fe9892f272447be8b567c035f64ce871c6"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-14.bin",
+      "bytes": 3720,
+      "sha256": "f30fb66476678b24379effdcb6d490da23aa5088295ee1bcda7200e5c44ea284"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-15.bin",
+      "bytes": 3720,
+      "sha256": "736de8bca53e897226fa59f9cbd086623d714984f352136628df10fc89c7cac8"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-16.bin",
+      "bytes": 4512,
+      "sha256": "7ba8e39cc8c21b318f0318b7b77c15ec59afb410529e2bd41411807f0e867aaf"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-17.bin",
+      "bytes": 13320,
+      "sha256": "8e6216123e85c55f8b54912707b05aa183a324325daa62eed2aa8860b1ea4fb7"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-18.bin",
+      "bytes": 55936,
+      "sha256": "8fc58b0a3f4fdc8f419dce20b60db9d031a23117253767affb78c555a52eaa9f"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-19.bin",
+      "bytes": 34032,
+      "sha256": "60a16d61e852f88e37ec8d7b81f5ff9f213223a2e4a547eccdfeb700bfb54b40"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-2.bin",
+      "bytes": 10136,
+      "sha256": "efa6218118e78af3189e15ca22ce83caab086e81b123dd43cb75920c986465cc"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-20.bin",
+      "bytes": 1624,
+      "sha256": "dc2afc8e0174b0f09e9d95793fb40a89c4dd2e2aed6850be34f0f8f370a89535"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-21.bin",
+      "bytes": 152,
+      "sha256": "7558ffe5cc88ccbd846f1f7de71a35833740507cd1b09caaaf7b79b6ee7d3bbd"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-22.bin",
+      "bytes": 152,
+      "sha256": "b80d3a708fce0b27163f389355eeb22fd2ad351e7f961d70281c05709fb9921f"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-23.bin",
+      "bytes": 6328,
+      "sha256": "ebaadbe7e4121b931aa4cc9eaeba6bf238aa62695bac902e254d436d868290ad"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-24.bin",
+      "bytes": 3904,
+      "sha256": "68f0108b1c7f2dbab69a0d575ddc72742c535c5a132fb85d46754f68dc0fa06c"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-25.bin",
+      "bytes": 4632,
+      "sha256": "ef1acb783e1fcd2b659d47a99239a596ed57940345c064e7b3cdcf887a15ad0d"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-26.bin",
+      "bytes": 29936,
+      "sha256": "1e994556f031fa82bb25cbfa49ad051fcd2633d406193d21df0f5f4be9264a07"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-27.bin",
+      "bytes": 136264,
+      "sha256": "eb306a45a2c0558ca6090f2ef6f70d2185fbb9ba3cbdd8c714d90e844a28d3a7"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-28.bin",
+      "bytes": 229632,
+      "sha256": "d520bedd2c0dcf184e9683d77287839e5205de19ff69c4aae50b5c648946d7f3"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-29.bin",
+      "bytes": 9464,
+      "sha256": "886d94881de049e0a46a72da317c4f548dcdd347a8ca92ebbd749038a1c09fba"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-3.bin",
+      "bytes": 135844,
+      "sha256": "67fb9f72fe58912a771d8bd66d722d02f58d7f04f613d6d3a53faffb64b8a4c9"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-30.bin",
+      "bytes": 1544,
+      "sha256": "22401974bfffa9c14909c4b840d990e8b04e40a1ea7ed91ebc993a6f531d7d53"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-4.bin",
+      "bytes": 11416,
+      "sha256": "e22d7d239da0aa453de5b151b8a18b309adabb339131d5f054e1779c3447b2a7"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-5.bin",
+      "bytes": 38896,
+      "sha256": "975b0671011abb06ca779340910b4ab7117c269faceb837159c2bc0445beeb04"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-6.bin",
+      "bytes": 12200,
+      "sha256": "430f5514e2678ef5e2050aea6560aa244518907486b7b83ad598729ea064c4da"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-7.bin",
+      "bytes": 202844,
+      "sha256": "6b5141281255f048a13a3883ea54ea95b73b0e2ad63bd595c7431db9f7a0cd10"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-8.bin",
+      "bytes": 22088,
+      "sha256": "9308eca5702a209a5761974832b273331e8589c1c197c1a15ec7c8ebdb8f5015"
+    },
+    {
+      "path": "public/native-scenes/NewScene/mesh-9.bin",
+      "bytes": 103392,
+      "sha256": "333730675b9ae9090959c5b51a560754efbc14795df109eb5195c1615bf85f44"
+    },
+    {
+      "path": "public/native-scenes/textures/08ce35de-decoded.png",
+      "bytes": 13628,
+      "sha256": "7d19900a7837570c8b35f5324e81b7d69fb769f1f89203e748ae78710e8a732b"
+    },
+    {
+      "path": "public/native-scenes/textures/08ce35de.png",
+      "bytes": 22000,
+      "sha256": "b86be144213dbe4f3c0e17b210ccc6a30db2e6d923aa950584fde37856b44f02"
+    },
+    {
+      "path": "variants/V22R-topfield-T1/blue-control.f32",
+      "bytes": 7172928,
+      "sha256": "673a8eb9d6a4c139538fbc8ea39ee83e822493bd63eaa130d9d770a932a78174"
+    },
+    {
+      "path": "variants/V22R-topfield-T1/blue-hit-times.f32",
+      "bytes": 597744,
+      "sha256": "cceb495dadf1e7b92353f04b7ccf49ac17a7088a07c2dd5abcd964bc75736d06"
+    },
+    {
+      "path": "variants/V22R-topfield-T1/body-projection.json",
+      "bytes": 78826,
+      "sha256": "83395ccf4df8c731a01f8945c9f73c6ef2ba1a2ce8a6a1c557f02fb8b33767c8"
+    },
+    {
+      "path": "variants/V22R-topfield-T1/continuation-audit.json",
+      "bytes": 786,
+      "sha256": "bd5b841e4da4513f7d55620b546349fe71a70a9390df228acb7ca88f19692ab5"
+    },
+    {
+      "path": "variants/V22R-topfield-T1/gait-cycles.f32",
+      "bytes": 2903328,
+      "sha256": "02d6db07025c4ef4d9880fa795c246dc160b00efc07a3b8bf29e0b2b05e071e1"
+    },
+    {
+      "path": "variants/V22R-topfield-T1/gait-distance.f32",
+      "bytes": 2903328,
+      "sha256": "b75af8d8b0469dddbb26cf403e71e429a43246f34ba42c8fe45619ec58915e26"
+    },
+    {
+      "path": "variants/V22R-topfield-T1/hit-responses.json",
+      "bytes": 34266,
+      "sha256": "724a1c63d4d669c5ed2efc191fcd19f313121c7ca6403fc290d2400ad48f66bf"
+    },
+    {
+      "path": "variants/V22R-topfield-T1/hit-times.f32",
+      "bytes": 2305584,
+      "sha256": "d49689bc02059ebc5022ea0733bc9c3838fa3c5efc8e9592f09c425fa12df80f"
+    },
+    {
+      "path": "variants/V22R-topfield-T1/melee-control.f32",
+      "bytes": 9222336,
+      "sha256": "ed5b97f273dbb4747df0d1f89c42bf595a24f46206efe61d7ec3c1066e757a32"
+    },
+    {
+      "path": "variants/V22R-topfield-T1/params.json",
+      "bytes": 5896,
+      "sha256": "b40483d8cbc31eccb899a980fa2c178a08e06cd3883598d02371ca35f1374a66"
+    },
+    {
+      "path": "variants/V22R-topfield-T1/red-control.f32",
+      "bytes": 23055840,
+      "sha256": "6759ba4ff65298b7d9c839f36acf56a589e9877314d4c6cc061d4f806af4028a"
+    },
+    {
+      "path": "variants/V22R-topfield-T1/simulation.json",
+      "bytes": 1459007,
+      "sha256": "eff7f58015ae2a483a8fcfb77a075fa959eee3e903c399c651a65c0234d80bcd"
+    },
+    {
+      "path": "variants/V22R-topfield-T1/trajectories.f32",
+      "bytes": 5806656,
+      "sha256": "78ee6276c4db2b06adf94bffae6bdc23f6077264d06d434eaa6b2f489268daca"
+    },
+    {
+      "path": "variants/V22R-topfield-T1/velocities.f32",
+      "bytes": 5806656,
+      "sha256": "fe4c849d1c715bb77c6dd14874df9784fc0d96474413da482470eb54c6417a9d"
+    },
+    {
+      "path": "variants/V22R-topfield-T1-seed/params.json",
+      "bytes": 5882,
+      "sha256": "bd73ccfe62b16fabe7b4e70412ca13ae184570e9f7f5b95f88b1b1202a810299"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "baseline": {
+    "firstRelease": 0.43333333333333335,
+    "firstArrowHit": 0.6166666666666667,
+    "firstMeleeHit": 0.6166666666666667,
+    "duration": 7.583333333333333,
+    "arrows": 270,
+    "arrowHits": 117
+  },
+  "protectedSourcesUnchanged": {
+    "src/main-v22.js": true,
+    "src/assets-v22.js": true,
+    "src/castle-approved-v22r.js": true,
+    "src/environment-native-v22.js": true,
+    "tools/build_simulation_v22.py": true,
+    "tools/build_melee_continuation_v22r.py": true,
+    "tools/melee_continuation_v22r.py": true,
+    "tools/archers_v22.py": true,
+    "tools/archers_burst_v22r.py": true,
+    "public/native-scenes/CastleExterior-scene/manifest.json": true
+  },
+  "candidates": [
+    {
+      "label": "D2",
+      "configChanges": {
+        "blueArmyTranslation": {
+          "baseline": [
+            0.0,
+            3.0
+          ],
+          "candidate": [
+            0.0009465402543201406,
+            3.49237537394091
+          ]
+        },
+        "redArmyTranslations": {
+          "baseline": null,
+          "candidate": {
+            "red": [
+              -0.0009465402543201406,
+              -0.4923753739409097
+            ],
+            "orange": [
+              -0.0009465402543201406,
+              -0.4923753739409097
+            ],
+            "yellow": [
+              -0.0009465402543201406,
+              -0.4923753739409097
+            ]
+          }
+        },
+        "duration": {
+          "baseline": 7.583333333333333,
+          "candidate": 7.666666666666667
+        }
+      },
+      "memberRulesUnchanged": {
+        "speed": true,
+        "maxAcceleration": true,
+        "aimSeconds": true,
+        "drawSeconds": true,
+        "recoverSeconds": true,
+        "cycle": true,
+        "color": true,
+        "platoon": true,
+        "id": true,
+        "team": true
+      },
+      "maximumInitialRigidTranslationError": 2.8609223715614363e-06,
+      "frontNetGap": 5.9085173111859515,
+      "actualIncreaseRatio": 0.2000003871340359,
+      "nearestInitialBodyNetDistance": 7.472116794903393,
+      "minimumWallFrontDistance": 2.59033226547907,
+      "obstacleBodyViolations": [],
+      "sweptObstacleViolations": [],
+      "invalidArrowEvents": [],
+      "invalidMeleeEvents": [],
+      "firstRedMovement": 0.016666666666666666,
+      "firstBlueMovement": 0.016666666666666666,
+      "firstRelease": 0.4166666666666667,
+      "firstArrowHit": 0.65,
+      "firstMeleeRangeContact": 0.36666666666666664,
+      "firstMeleeHit": 0.65,
+      "openingRootVisible": 1224,
+      "minimumAllFrameRootVisible": 997,
+      "totalMembers": 1224,
+      "maximumDeadRootDrift": 0.0,
+      "openingChargeWorldSpeeds": {
+        "0.1": {
+          "redMedianLivingSpeed": 9.840727806091309,
+          "redMoving": 972
+        },
+        "0.3": {
+          "redMedianLivingSpeed": 21.680496215820312,
+          "redMoving": 972
+        },
+        "0.5": {
+          "redMedianLivingSpeed": 21.57282829284668,
+          "redMoving": 972
+        }
+      },
+      "battle": {
+        "prefixArraysEqual": {
+          "trajectories": true,
+          "gait-distance": true,
+          "hit-times": true,
+          "red-control": true,
+          "gait-cycles": true,
+          "blue-control": true
+        },
+        "prefixEventsFrozen": true,
+        "winner": "red",
+        "wonAt": 6.933333333333334,
+        "duration": 7.666666666666667,
+        "aliveRed": 962,
+        "aliveBlue": 0,
+        "meleeAttempts": 1248,
+        "meleeHits": 756,
+        "meleeKills": 252,
+        "arrowReleases": 283,
+        "arrowHits": 114,
+        "arrowKills": 10,
+        "minimumBodyCenter": 0.6148180567008461,
+        "minimumSweptBodyCenter": 0.6148175037140213,
+        "physicalBodyDiameter": 0.58,
+        "meleeRules": {
+          "blueHP": 3,
+          "redDamage": 1,
+          "attackDuration": 0.466667,
+          "impactPhase": 0.55,
+          "reach": 1.5
+        },
+        "termination": "SIDE_ELIMINATED"
+      },
+      "firstRootOutsideFrame": 6.316666666666666,
+      "rootVisibleAtSeconds": {
+        "0": 1224,
+        "1": 1224,
+        "2": 1224,
+        "4": 1224,
+        "6": 1224,
+        "7": 1076
+      }
+    }
+  ],
+  "formalRender": false
+}

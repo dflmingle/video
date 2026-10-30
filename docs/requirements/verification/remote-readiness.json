@@ -1,0 +1,27 @@
+{
+  "configuredRemoteNames": [
+    "origin"
+  ],
+  "largestGitObjectsOver50MiB": [
+    {
+      "object": "9682ed2f30ef41dc15affcc2e730136bbe1b521a",
+      "bytes": 364377842,
+      "path": "assets/source-packages/PVE混剪.unitypackage"
+    }
+  ],
+  "regularGitHub100MiBLimitExceeded": true,
+  "currentArchiveFilesOver100MiB": [
+    {
+      "path": "assets/source-packages/PVE混剪.unitypackage",
+      "bytes": 364377842
+    },
+    {
+      "path": "assets/source-packages/角色资源.unitypackage",
+      "bytes": 329330205
+    }
+  ],
+  "pushStatus": "PREPARED_PENDING_UPLOAD",
+  "destination": "https://github.com/dflmingle/video.git",
+  "destinationBranch": "v22-reference-revision",
+  "largeFileStrategy": "All UnityPackage files use existing GitHub LFS routing; publish snapshot on remote-main ancestry, do not push source ancestry containing oversized ordinary Git blobs."
+}

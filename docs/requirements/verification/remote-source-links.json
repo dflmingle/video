@@ -1,0 +1,122 @@
+[
+  {
+    "sourceUrl": "http://drive.89trillion.com:5000/d/f/nvudWqii3SEce0JCABDOHAn8e1lyQSxu",
+    "method": "Synology public-share metadata, no authentication",
+    "httpStatus": 200,
+    "responseBytes": 202935,
+    "responseSHA256": "97631dd18ab31ca01a4244e398e9d4a0bd897907c5750f301abea788e7ca37df",
+    "errorCodes": [],
+    "fileNameFields": [],
+    "status": "SHARE_METADATA_ERROR",
+    "shareErrorCode": 1002,
+    "actualFileMetadataAvailable": false
+  },
+  {
+    "sourceUrl": "https://drive.89trillion.com:5001/d/f/17lWuZjrmv2ZCxR4YJBs4QvI7veG8uPp",
+    "method": "Synology public-share metadata, no authentication",
+    "httpStatus": 200,
+    "responseBytes": 202935,
+    "responseSHA256": "f43e33e0252e10a85f6b26b27f6c00b8ff654f410320ce32081ad2f2957ccdd0",
+    "errorCodes": [],
+    "fileNameFields": [],
+    "status": "SHARE_METADATA_ERROR",
+    "shareErrorCode": 1002,
+    "actualFileMetadataAvailable": false
+  },
+  {
+    "sourceUrl": "https://drive.89trillion.com:5001/d/f/17lWzHA5b5BbKd1luuhErZ83yPjY6n45",
+    "method": "Synology public-share metadata, no authentication",
+    "httpStatus": 200,
+    "responseBytes": 202935,
+    "responseSHA256": "ebf0dbc372cb1e60702e2682a2b9838f5ae85157205adeb3cd40fc803d2435fd",
+    "errorCodes": [],
+    "fileNameFields": [],
+    "status": "SHARE_METADATA_ERROR",
+    "shareErrorCode": 1002,
+    "actualFileMetadataAvailable": false
+  },
+  {
+    "sourceUrl": "https://drive.89trillion.com:5001/d/f/17lWzLNnl3dCzX0zFc80SC2n3d5bRhfl",
+    "method": "Synology public-share metadata, no authentication",
+    "httpStatus": 200,
+    "responseBytes": 202935,
+    "responseSHA256": "57b9f1d453beb268184914228070020dee821cbe098ef4fda38d5090b65e27fc",
+    "errorCodes": [],
+    "fileNameFields": [],
+    "status": "SHARE_METADATA_ERROR",
+    "shareErrorCode": 1002,
+    "actualFileMetadataAvailable": false
+  },
+  {
+    "sourceUrl": "https://drive.89trillion.com:5001/d/f/17lWzba4ZTt3K63ALwS9WZlnS6ebcOEE",
+    "method": "Synology public-share metadata, no authentication",
+    "httpStatus": 200,
+    "responseBytes": 202935,
+    "responseSHA256": "b32401113ac78245edd8d58b9edcd53cf72253050970756cc94e19f949fd2965",
+    "errorCodes": [],
+    "fileNameFields": [],
+    "status": "SHARE_METADATA_ERROR",
+    "shareErrorCode": 1002,
+    "actualFileMetadataAvailable": false
+  },
+  {
+    "sourceUrl": "https://drive.89trillion.com:5001/d/f/17lX9dwJGAJFu0iwSkRuF65abn74hJTx",
+    "method": "Synology public-share metadata, no authentication",
+    "httpStatus": 200,
+    "responseBytes": 202935,
+    "responseSHA256": "30b175c47824b4e9bc9f9fde2f7b2b4b0c420714ca453a48587a57e92c39219c",
+    "errorCodes": [],
+    "fileNameFields": [],
+    "status": "SHARE_METADATA_ERROR",
+    "shareErrorCode": 1002,
+    "actualFileMetadataAvailable": false
+  },
+  {
+    "sourceUrl": "https://drive.89trillion.com:5001/d/f/18LIFSH25TdnPtRjIzU8JMUrcaqHbsqY",
+    "method": "Synology public-share metadata, no authentication",
+    "httpStatus": 200,
+    "responseBytes": 202935,
+    "responseSHA256": "4551c1745749a418f18066dbe37130e8ddaa779b9f05a4413ddde51a8321715f",
+    "errorCodes": [],
+    "fileNameFields": [],
+    "status": "SHARE_METADATA_ERROR",
+    "shareErrorCode": 1002,
+    "actualFileMetadataAvailable": false
+  },
+  {
+    "sourceUrl": "https://drive.89trillion.com:5001/d/f/18LIIY1UrAC46KIKPf99mYUZ3qcxNxwE",
+    "method": "Synology public-share metadata, no authentication",
+    "httpStatus": 200,
+    "responseBytes": 202935,
+    "responseSHA256": "b4a37f1af1aa1ba29e4f1ba1ed42d4a2e31a7b9322bb8acadfe8635448513c47",
+    "errorCodes": [],
+    "fileNameFields": [],
+    "status": "SHARE_METADATA_ERROR",
+    "shareErrorCode": 1002,
+    "actualFileMetadataAvailable": false
+  },
+  {
+    "sourceUrl": "https://drive.89trillion.com:5001/d/f/18OWl3ycYv5ux9kdvVMNosiyG0YbEWJ5",
+    "method": "Synology public-share metadata, no authentication",
+    "httpStatus": 200,
+    "responseBytes": 202935,
+    "responseSHA256": "9be995a66093bc2a23772a42079738ba76e91045fae963c5008c704d7e71ef07",
+    "errorCodes": [],
+    "fileNameFields": [],
+    "status": "SHARE_METADATA_ERROR",
+    "shareErrorCode": 1002,
+    "actualFileMetadataAvailable": false
+  },
+  {
+    "sourceUrl": "https://drive.89trillion.com:5001/d/f/19AhPT4GsZwcYK2GEXjXmGbLRR6OwwZi",
+    "method": "Synology public-share metadata, no authentication",
+    "httpStatus": 200,
+    "responseBytes": 202935,
+    "responseSHA256": "ef21b2fad0fc2ad220681e326b216becfa778a3a38eab184acc047f50ebd3151",
+    "errorCodes": [],
+    "fileNameFields": [],
+    "status": "SHARE_METADATA_ERROR",
+    "shareErrorCode": 1002,
+    "actualFileMetadataAvailable": false
+  }
+]

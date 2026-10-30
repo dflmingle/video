@@ -1,0 +1,16 @@
+{
+  "requirementsPdfPages": 16,
+  "formationSections": 4,
+  "archiveFileCount": 779,
+  "archiveBytes": 995595315,
+  "runtimeAndSceneDependencies": 199,
+  "missingDependencies": 0,
+  "allArchiveFilesInGitIndex": true,
+  "indexBytesMatchWorkingFiles": true,
+  "protectedProductionFileHashesUnchanged": 13,
+  "protectedEvidence": "docs/v22r-topfield/setup.json",
+  "scope": "Archive requirements, source materials and existing runtime data only. No new simulation or visual acceptance performed.",
+  "allUniqueUserPackagesArchived": 7,
+  "remainingSectionsResourceMatch": "PARTIAL",
+  "cleanExportBrowserSmoke": "PASS; original archive commit 8ac7816, five sampled times; see docs/requirements/verification/clean-export-browser-smoke.json"
+}

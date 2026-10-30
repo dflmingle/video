@@ -1,0 +1,251 @@
+{
+  "source": "V22R-C1-melee",
+  "operations": "Only per-platoon red rigid translations and one blue rigid translation; no member offsets, no rescale",
+  "redPlatoons": [
+    {
+      "color": "red",
+      "platoon": 6,
+      "translation": [
+        0.0,
+        74.9842944260661
+      ]
+    },
+    {
+      "color": "red",
+      "platoon": 7,
+      "translation": [
+        0.0,
+        74.9842944260661
+      ]
+    },
+    {
+      "color": "red",
+      "platoon": 8,
+      "translation": [
+        0.0,
+        74.9842944260661
+      ]
+    },
+    {
+      "color": "red",
+      "platoon": 3,
+      "translation": [
+        0.0,
+        74.2178960158708
+      ]
+    },
+    {
+      "color": "red",
+      "platoon": 4,
+      "translation": [
+        0.0,
+        74.2178960158708
+      ]
+    },
+    {
+      "color": "red",
+      "platoon": 5,
+      "translation": [
+        0.0,
+        74.2178960158708
+      ]
+    },
+    {
+      "color": "red",
+      "platoon": 0,
+      "translation": [
+        0.0,
+        72.8949893681864
+      ]
+    },
+    {
+      "color": "red",
+      "platoon": 1,
+      "translation": [
+        0.0,
+        72.8949893681864
+      ]
+    },
+    {
+      "color": "red",
+      "platoon": 2,
+      "translation": [
+        0.0,
+        72.8949893681864
+      ]
+    },
+    {
+      "color": "orange",
+      "platoon": 15,
+      "translation": [
+        0.0,
+        69.51371235357803
+      ]
+    },
+    {
+      "color": "orange",
+      "platoon": 16,
+      "translation": [
+        0.0,
+        69.51371235357803
+      ]
+    },
+    {
+      "color": "orange",
+      "platoon": 17,
+      "translation": [
+        0.0,
+        69.51371235357803
+      ]
+    },
+    {
+      "color": "orange",
+      "platoon": 12,
+      "translation": [
+        0.0,
+        68.58241377307789
+      ]
+    },
+    {
+      "color": "orange",
+      "platoon": 13,
+      "translation": [
+        0.0,
+        68.58241377307789
+      ]
+    },
+    {
+      "color": "orange",
+      "platoon": 14,
+      "translation": [
+        0.0,
+        68.58241377307789
+      ]
+    },
+    {
+      "color": "orange",
+      "platoon": 9,
+      "translation": [
+        0.0,
+        67.39824221988854
+      ]
+    },
+    {
+      "color": "orange",
+      "platoon": 10,
+      "translation": [
+        0.0,
+        67.39824221988854
+      ]
+    },
+    {
+      "color": "orange",
+      "platoon": 11,
+      "translation": [
+        0.0,
+        67.39824221988854
+      ]
+    },
+    {
+      "color": "yellow",
+      "platoon": 24,
+      "translation": [
+        0.0,
+        64.03849688784412
+      ]
+    },
+    {
+      "color": "yellow",
+      "platoon": 25,
+      "translation": [
+        0.0,
+        64.03849688784412
+      ]
+    },
+    {
+      "color": "yellow",
+      "platoon": 26,
+      "translation": [
+        0.0,
+        64.03849688784412
+      ]
+    },
+    {
+      "color": "yellow",
+      "platoon": 21,
+      "translation": [
+        0.0,
+        62.933778623847665
+      ]
+    },
+    {
+      "color": "yellow",
+      "platoon": 22,
+      "translation": [
+        0.0,
+        62.933778623847665
+      ]
+    },
+    {
+      "color": "yellow",
+      "platoon": 23,
+      "translation": [
+        0.0,
+        62.933778623847665
+      ]
+    },
+    {
+      "color": "yellow",
+      "platoon": 18,
+      "translation": [
+        0.0,
+        62.0797814874751
+      ]
+    },
+    {
+      "color": "yellow",
+      "platoon": 19,
+      "translation": [
+        0.0,
+        62.0797814874751
+      ]
+    },
+    {
+      "color": "yellow",
+      "platoon": 20,
+      "translation": [
+        0.0,
+        62.0797814874751
+      ]
+    }
+  ],
+  "blueTranslation": [
+    0.0,
+    3.0
+  ],
+  "redBounds": [
+    [
+      -10.383009813347979,
+      -27.39999999999999
+    ],
+    [
+      10.33088815356842,
+      19.121163816288302
+    ]
+  ],
+  "blueBounds": [
+    [
+      -19.35,
+      24.65
+    ],
+    [
+      19.35,
+      44.35
+    ]
+  ],
+  "wallFrontZ": -30.51,
+  "cameraGroundLowerEdgeApproxZ": 46.9,
+  "spawnObstacleViolations": [],
+  "originalFullDepth": 143.7342944260661,
+  "newFullDepth": 71.75
+}

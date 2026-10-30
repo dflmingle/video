@@ -1,0 +1,26 @@
+{
+  "label": "D1",
+  "variant": "V22R-distance-D1",
+  "seed": "V22R-distance-D1-seed",
+  "definition": "Projected opposing front root bounds along actual camera-facing wall normal, minus two body radii",
+  "normal": [
+    0.0019223920516772271,
+    0.9999981522026926
+  ],
+  "baselineFrontNetGap": 4.92376283752481,
+  "targetIncreaseRatio": 0.1,
+  "actualFrontNetGap": 5.416139121277292,
+  "actualIncrease": 0.4923762837524812,
+  "actualIncreaseRatio": 0.10000000000000009,
+  "redRigidTranslation": [
+    -0.0004732701271600703,
+    -0.24618768697045484
+  ],
+  "blueRigidTranslation": [
+    0.0004732701271600703,
+    0.24618768697045484
+  ],
+  "spawnObstacleViolations": [],
+  "trialStatus": "FAILED_STALL_2_BLUE_REMAIN",
+  "failureReason": "Existing melee and fixed corpse occupancy leave two live blue out of reach (~1.53\u20131.56 vs1.5); no combat rules changed"
+}

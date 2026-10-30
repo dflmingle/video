@@ -20,8 +20,10 @@
       "bytes": 329330205
     }
   ],
-  "pushStatus": "PREPARED_PENDING_UPLOAD",
+  "pushStatus": "PUSHED_REMOTE_REF_AND_LFS_VERIFIED",
   "destination": "https://github.com/dflmingle/video.git",
   "destinationBranch": "v22-reference-revision",
-  "largeFileStrategy": "All UnityPackage files use existing GitHub LFS routing; publish snapshot on remote-main ancestry, do not push source ancestry containing oversized ordinary Git blobs."
+  "largeFileStrategy": "All UnityPackage files use existing GitHub LFS routing; publish snapshot on remote-main ancestry, do not push source ancestry containing oversized ordinary Git blobs.",
+  "publishedSnapshotCommit": "a507ceff4e6d0eedf0021ab5c1b3c96f4803a76a",
+  "remoteLfsPackagesVerified": 7
 }

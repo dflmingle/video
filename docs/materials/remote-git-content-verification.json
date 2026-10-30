@@ -1,0 +1,22 @@
+[
+  {
+    "path": "README.md",
+    "sha256": "97b3ceb9d9e11ba2a4b042344142aa594380f296c8b010df45f82f724ae3bc0a",
+    "status": "PASS"
+  },
+  {
+    "path": "CONTINUE-HERE.md",
+    "sha256": "81f98f7bbe7aed31dcf2f05f33b65b69731b9d3b94ac3af0cf79631b7d6a93de",
+    "status": "PASS"
+  },
+  {
+    "path": "DELIVERY-MANIFEST.json",
+    "sha256": "7f25749912e239a7af1c972bd46352745c949b3186b6f8aa0cd79383dc6a0f7f",
+    "status": "PASS"
+  },
+  {
+    "path": "docs/requirements/README.md",
+    "sha256": "48b05eae5eaa3c728c175bbbd50d2de5933e11c41cd8a0a24e89ff8853ba25fb",
+    "status": "PASS"
+  }
+]

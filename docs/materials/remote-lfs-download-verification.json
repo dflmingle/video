@@ -1,0 +1,57 @@
+{
+  "repository": "https://github.com/dflmingle/video",
+  "branch": "v22-reference-revision",
+  "method": "Independent unauthenticated Git LFS batch request followed by full remote byte streaming and SHA256; no reuse of local object store or signed URLs retained.",
+  "seconds": 212.6,
+  "files": [
+    {
+      "path": "assets/source-packages/20260924-大地图-公会战：留了一手-阿菊&墨芙.unitypackage",
+      "sha256": "ae8169556c4b09f6136e9c3225bb9150b9cba7fdca3f04ad9142812ec01fd195",
+      "bytes": 47281211,
+      "downloadedFromRemote": true,
+      "status": "PASS"
+    },
+    {
+      "path": "assets/source-packages/Pve压迫感角色+图片.unitypackage",
+      "sha256": "ebe2d3049b327d61d5abcbd3fa58090220b44d503d234323f3e25aa22049351d",
+      "bytes": 3965181,
+      "downloadedFromRemote": true,
+      "status": "PASS"
+    },
+    {
+      "path": "assets/source-packages/PVE混剪.unitypackage",
+      "sha256": "16a1701d9e48baa681d6b0dfd3989a2356d9a9a741dd1413272cad267cde6859",
+      "bytes": 364377842,
+      "downloadedFromRemote": true,
+      "status": "PASS"
+    },
+    {
+      "path": "assets/source-packages/使用到的特效资源.unitypackage",
+      "sha256": "ac35d933bfca5abdd528a956930640c88ac47081ec0ab2dba8f6f03e19383bc3",
+      "bytes": 1645709,
+      "downloadedFromRemote": true,
+      "status": "PASS"
+    },
+    {
+      "path": "assets/source-packages/使用到的防御塔.unitypackage",
+      "sha256": "acc3e340392567b09e55be5c338f46108313f331552efff8bdf4659d68e13eeb",
+      "bytes": 1312677,
+      "downloadedFromRemote": true,
+      "status": "PASS"
+    },
+    {
+      "path": "assets/source-packages/新贴图Unity包.unitypackage",
+      "sha256": "51d685c64ed442ab33c7bedb7edc10ed494f6ceeb4cd21832c7c7eb6458b1193",
+      "bytes": 3314601,
+      "downloadedFromRemote": true,
+      "status": "PASS"
+    },
+    {
+      "path": "assets/source-packages/角色资源.unitypackage",
+      "sha256": "acec522180c009d787e1323b18532210ca3ffcc92a5bc99332ee56527fe4229a",
+      "bytes": 329330205,
+      "downloadedFromRemote": true,
+      "status": "PASS"
+    }
+  ]
+}

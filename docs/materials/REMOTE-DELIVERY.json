@@ -16,5 +16,11 @@
     "T1-opening.jpg",
     "castle-shadow-before-after.jpg"
   ],
-  "pushStatus": "PREPARED_NOT_YET_PUSHED"
+  "pushStatus": "PUSHED_REMOTE_REF_AND_ALL_SEVEN_LFS_DOWNLOADS_VERIFIED",
+  "publishedSnapshotCommit": "a507ceff4e6d0eedf0021ab5c1b3c96f4803a76a",
+  "remoteDefaultBranchUnchanged": "979dec8017506c11be4a1472a34d1df860832e60",
+  "remoteRef": "refs/heads/v22-reference-revision",
+  "sourceHistoryHandling": "Original local source Git history is retained in its workspace. Remote publication is a snapshot commit descended from the existing remote main; do not force-push original source ancestry over this publication branch.",
+  "remotePackageDownloadVerification": "docs/materials/remote-lfs-download-verification.json",
+  "remoteGitContentVerification": "docs/materials/remote-git-content-verification.json"
 }

@@ -56,8 +56,8 @@ node tools/verify_handoff_preview.mjs
 
 ## 远端状态
 
-开始本次核查时 `git remote` 为空，已向用户请求目的仓库地址。不能擅自使用其他项目的仓库、选择公开可见性或推送到猜测的地址。
+用户已指定远端 `https://github.com/dflmingle/video`。本次基于远端原 `main` 创建 `v22-reference-revision` 发布分支并推送；原 `main` 不变。换机应执行 `git clone --branch v22-reference-revision https://github.com/dflmingle/video.git`，并运行 `git lfs pull`。
 
 原始包 `PVE混剪.unitypackage`（约 347.5 MiB）及 `角色资源.unitypackage`（约 314.1 MiB）超过 GitHub 普通 Git 的单文件 100 MiB 限制。若目的地是 GitHub，需要 Git LFS 或目的地支持的大文件方案。**只在新提交里启用 LFS 不足以消除旧提交中的超限对象**；发布前必须按选定远端处理相关发布历史，并保留原本地提交的可追溯记录，不能直接强推覆盖已有远端分支。
 
-未取得目标地址或未完成大文件上传时，交付状态只能记为「本地提交完成，远端推送待完成」。
+实际发布采用现有远端历史上的快照提交，全部 UnityPackage 通过 LFS 保存，避免上传来源历史中的普通 Git 超限对象。本机原开发分支的提交历史保持原样；它与远端发布分支不是同一历史，不能从旧本地分支直接普通推送覆盖发布分支。具体交付与下载核对见 `docs/materials/REMOTE-DELIVERY.json` 和同目录的远端核对证据。

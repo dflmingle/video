@@ -15,10 +15,11 @@
     "runtimeAndSceneDependencies": 199,
     "publishedSnapshotBrowserLoad": "PASS; five sampled times, not full-speed perceptual acceptance",
     "protectedSourceFiles": "13 equivalent after Git CRLF/LF normalization",
-    "remainingSectionsAssetMatch": "PARTIAL; see requirements audit"
+    "remainingSectionsAssetMatch": "PARTIAL; see requirements audit",
+    "remoteLfsFullDownloads": "PASS: seven complete remote downloads SHA256-matched"
   },
-  "fileCount": 1480,
-  "totalCheckedOutBytes": 1042722877,
+  "fileCount": 1482,
+  "totalCheckedOutBytes": 1042726855,
   "files": [
     {
       "path": ".agents/skills/README.md",
@@ -3947,8 +3948,8 @@
     },
     {
       "path": "docs/HANDOFF.md",
-      "bytes": 4812,
-      "sha256": "c9128c006ac80a2c7578016b9ea3a0a9f550884a7796e3b7e38037e3da063136"
+      "bytes": 5218,
+      "sha256": "6c6f86b1125effbf3efc8a9f71b286b1f73d67134643137d2d94803d5024fa28"
     },
     {
       "path": "docs/V10-SCOPE.md",
@@ -4107,8 +4108,8 @@
     },
     {
       "path": "docs/materials/REMOTE-DELIVERY.json",
-      "bytes": 859,
-      "sha256": "64626471ed94da3e8fc3db6211cd7bbf816850d521d62b3fbb80c6387ecc0b8d"
+      "bytes": 1531,
+      "sha256": "dce1f0ce0916c4bac515f021d4d8cb5b20d6034b4261f1c1e520d5153df09f91"
     },
     {
       "path": "docs/materials/all-package-sources.json",
@@ -4139,6 +4140,16 @@
       "path": "docs/materials/reference-source-provenance.json",
       "bytes": 313,
       "sha256": "e900b9bbaeff9dc169c07216e1dded76f9de8107d1e95dd49a1f53dc3d95e576"
+    },
+    {
+      "path": "docs/materials/remote-git-content-verification.json",
+      "bytes": 611,
+      "sha256": "6512117b616bdcff8ebfb31a30e696abaa1b208a921f294d7f0843c99f2b268e"
+    },
+    {
+      "path": "docs/materials/remote-lfs-download-verification.json",
+      "bytes": 2169,
+      "sha256": "bef16364a0a40e80796693b4fb261e37c715ddba3e5432cba0fba06734d4cb9b"
     },
     {
       "path": "docs/materials/shader-source-provenance.json",
@@ -4257,8 +4268,8 @@
     },
     {
       "path": "docs/requirements/verification/remote-readiness.json",
-      "bytes": 910,
-      "sha256": "4baa5d8015f96cd224e396b09a81f4a5a07629165f5135ad07f59a17fd43ec6b"
+      "bytes": 1030,
+      "sha256": "358002ad4943a6fb245d80ff4a581c229102f6367b7447b5419d8d8c6f33e581"
     },
     {
       "path": "docs/requirements/verification/remote-source-links.json",

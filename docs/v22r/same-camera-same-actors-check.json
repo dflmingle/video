@@ -1,0 +1,14 @@
+{
+  "times": [
+    0,
+    1.3,
+    2.4166666666666665,
+    2.7333333333333334
+  ],
+  "checks": {
+    "sameActorPositions": true,
+    "sameCamera": true,
+    "noPageErrors": true
+  },
+  "notes": "V22 dynamic B camera retained for IDENTICAL baseline comparison. Not a fixed-camera acceptance or final scene replacement."
+}

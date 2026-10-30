@@ -1,0 +1,7227 @@
+[
+  {
+    "id": "B0004",
+    "time": 0.03333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0000",
+    "time": 0.05,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0002",
+    "time": 0.05,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0005",
+    "time": 0.05,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0001",
+    "time": 0.06666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0003",
+    "time": 0.06666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0007",
+    "time": 0.06666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0009",
+    "time": 0.06666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0010",
+    "time": 0.08333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0016",
+    "time": 0.08333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0217",
+    "time": 0.08333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0219",
+    "time": 0.08333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0006",
+    "time": 0.1,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0008",
+    "time": 0.1,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0011",
+    "time": 0.1,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0012",
+    "time": 0.1,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0014",
+    "time": 0.1,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0017",
+    "time": 0.1,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0183",
+    "time": 0.1,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0218",
+    "time": 0.1,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0220",
+    "time": 0.1,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0226",
+    "time": 0.1,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0013",
+    "time": 0.11666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0015",
+    "time": 0.11666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0019",
+    "time": 0.11666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0021",
+    "time": 0.11666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0181",
+    "time": 0.11666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0216",
+    "time": 0.11666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0221",
+    "time": 0.11666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0222",
+    "time": 0.11666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0224",
+    "time": 0.11666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0227",
+    "time": 0.11666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0022",
+    "time": 0.13333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0028",
+    "time": 0.13333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0038",
+    "time": 0.13333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0040",
+    "time": 0.13333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0180",
+    "time": 0.13333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0182",
+    "time": 0.13333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0184",
+    "time": 0.13333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0188",
+    "time": 0.13333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0223",
+    "time": 0.13333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0225",
+    "time": 0.13333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0229",
+    "time": 0.13333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0231",
+    "time": 0.13333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0018",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0020",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0023",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0024",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0026",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0029",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0036",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0039",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0041",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0047",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0185",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0186",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0189",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0191",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0195",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0230",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0232",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0238",
+    "time": 0.15,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0025",
+    "time": 0.16666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0027",
+    "time": 0.16666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0031",
+    "time": 0.16666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0033",
+    "time": 0.16666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0037",
+    "time": 0.16666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0043",
+    "time": 0.16666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0045",
+    "time": 0.16666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0187",
+    "time": 0.16666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0190",
+    "time": 0.16666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0193",
+    "time": 0.16666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0228",
+    "time": 0.16666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0233",
+    "time": 0.16666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0234",
+    "time": 0.16666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0236",
+    "time": 0.16666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0239",
+    "time": 0.16666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0034",
+    "time": 0.18333333333333332,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0044",
+    "time": 0.18333333333333332,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0046",
+    "time": 0.18333333333333332,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0050",
+    "time": 0.18333333333333332,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0052",
+    "time": 0.18333333333333332,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0145",
+    "time": 0.18333333333333332,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0194",
+    "time": 0.18333333333333332,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0196",
+    "time": 0.18333333333333332,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0200",
+    "time": 0.18333333333333332,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0235",
+    "time": 0.18333333333333332,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0237",
+    "time": 0.18333333333333332,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0241",
+    "time": 0.18333333333333332,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0243",
+    "time": 0.18333333333333332,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0030",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0032",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0035",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0042",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0048",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0051",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0053",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0059",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0148",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0192",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0197",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0198",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0201",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0203",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0207",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0244",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0250",
+    "time": 0.2,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0049",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0055",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0057",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0074",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0076",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0144",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0146",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0149",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0150",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0152",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0155",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0199",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0202",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0205",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0240",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0242",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0245",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0246",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0248",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0251",
+    "time": 0.21666666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0056",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0058",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0062",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0064",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0072",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0075",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0077",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0078",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0083",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0147",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0151",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0153",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0157",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0206",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0208",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0212",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0247",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0249",
+    "time": 0.23333333333333334,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0054",
+    "time": 0.25,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0060",
+    "time": 0.25,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0063",
+    "time": 0.25,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0065",
+    "time": 0.25,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0073",
+    "time": 0.25,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0079",
+    "time": 0.25,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0081",
+    "time": 0.25,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0109",
+    "time": 0.25,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0154",
+    "time": 0.25,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0160",
+    "time": 0.25,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0204",
+    "time": 0.25,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0209",
+    "time": 0.25,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0210",
+    "time": 0.25,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0213",
+    "time": 0.25,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0215",
+    "time": 0.25,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0061",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0067",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0069",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0080",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0082",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0086",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0088",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0112",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0156",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0158",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0161",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0162",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0164",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0167",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0211",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0214",
+    "time": 0.26666666666666666,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0068",
+    "time": 0.2833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0070",
+    "time": 0.2833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0084",
+    "time": 0.2833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0087",
+    "time": 0.2833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0089",
+    "time": 0.2833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0090",
+    "time": 0.2833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0095",
+    "time": 0.2833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0108",
+    "time": 0.2833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0110",
+    "time": 0.2833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0113",
+    "time": 0.2833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0114",
+    "time": 0.2833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0119",
+    "time": 0.2833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0159",
+    "time": 0.2833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0163",
+    "time": 0.2833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0165",
+    "time": 0.2833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0066",
+    "time": 0.3,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0071",
+    "time": 0.3,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0085",
+    "time": 0.3,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0091",
+    "time": 0.3,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0093",
+    "time": 0.3,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0111",
+    "time": 0.3,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0115",
+    "time": 0.3,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0117",
+    "time": 0.3,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0121",
+    "time": 0.3,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0166",
+    "time": 0.3,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0169",
+    "time": 0.3,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0172",
+    "time": 0.3,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0092",
+    "time": 0.31666666666666665,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0094",
+    "time": 0.31666666666666665,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0098",
+    "time": 0.31666666666666665,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0100",
+    "time": 0.31666666666666665,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0116",
+    "time": 0.31666666666666665,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0118",
+    "time": 0.31666666666666665,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0124",
+    "time": 0.31666666666666665,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0168",
+    "time": 0.31666666666666665,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0170",
+    "time": 0.31666666666666665,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0173",
+    "time": 0.31666666666666665,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0174",
+    "time": 0.31666666666666665,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0176",
+    "time": 0.31666666666666665,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0179",
+    "time": 0.31666666666666665,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0096",
+    "time": 0.3333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0101",
+    "time": 0.3333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0102",
+    "time": 0.3333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0107",
+    "time": 0.3333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0120",
+    "time": 0.3333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0122",
+    "time": 0.3333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0125",
+    "time": 0.3333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0126",
+    "time": 0.3333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0131",
+    "time": 0.3333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0171",
+    "time": 0.3333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0175",
+    "time": 0.3333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0177",
+    "time": 0.3333333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0097",
+    "time": 0.35,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0099",
+    "time": 0.35,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0103",
+    "time": 0.35,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0105",
+    "time": 0.35,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0123",
+    "time": 0.35,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0127",
+    "time": 0.35,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0129",
+    "time": 0.35,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0178",
+    "time": 0.35,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0104",
+    "time": 0.36666666666666664,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0106",
+    "time": 0.36666666666666664,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0128",
+    "time": 0.36666666666666664,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0130",
+    "time": 0.36666666666666664,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0133",
+    "time": 0.36666666666666664,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0136",
+    "time": 0.36666666666666664,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0132",
+    "time": 0.3833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0134",
+    "time": 0.3833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0137",
+    "time": 0.3833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0138",
+    "time": 0.3833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0143",
+    "time": 0.3833333333333333,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0135",
+    "time": 0.4,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0139",
+    "time": 0.4,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0141",
+    "time": 0.4,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0140",
+    "time": 0.4166666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0142",
+    "time": 0.4166666666666667,
+    "state": "MOVING"
+  },
+  {
+    "id": "B0002",
+    "time": 1.15,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0004",
+    "time": 1.15,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0000",
+    "time": 1.1666666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0005",
+    "time": 1.1666666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0219",
+    "time": 1.1666666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0003",
+    "time": 1.2,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0217",
+    "time": 1.2,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0001",
+    "time": 1.2166666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0007",
+    "time": 1.2166666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0009",
+    "time": 1.2333333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0218",
+    "time": 1.2333333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0220",
+    "time": 1.2333333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0010",
+    "time": 1.25,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0226",
+    "time": 1.25,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0227",
+    "time": 1.2666666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0016",
+    "time": 1.2833333333333332,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0216",
+    "time": 1.2833333333333332,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0221",
+    "time": 1.2833333333333332,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0222",
+    "time": 1.2833333333333332,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0006",
+    "time": 1.3,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0008",
+    "time": 1.3,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0011",
+    "time": 1.3,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0224",
+    "time": 1.3,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0014",
+    "time": 1.3166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0225",
+    "time": 1.3166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0015",
+    "time": 1.3333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0223",
+    "time": 1.3333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0231",
+    "time": 1.3333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0012",
+    "time": 1.35,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0017",
+    "time": 1.35,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0013",
+    "time": 1.3666666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0021",
+    "time": 1.3666666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0229",
+    "time": 1.3666666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0019",
+    "time": 1.3833333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0230",
+    "time": 1.4,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0238",
+    "time": 1.4,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0020",
+    "time": 1.4166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0022",
+    "time": 1.4166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0028",
+    "time": 1.4166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0228",
+    "time": 1.4166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0232",
+    "time": 1.4166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0233",
+    "time": 1.4333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0236",
+    "time": 1.4333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0023",
+    "time": 1.45,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0234",
+    "time": 1.45,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0239",
+    "time": 1.45,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0018",
+    "time": 1.4666666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0026",
+    "time": 1.4666666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0024",
+    "time": 1.4833333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0029",
+    "time": 1.4833333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0235",
+    "time": 1.4833333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0243",
+    "time": 1.4833333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0237",
+    "time": 1.5,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0241",
+    "time": 1.5,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0027",
+    "time": 1.5166666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0031",
+    "time": 1.5333333333333332,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0244",
+    "time": 1.5333333333333332,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0025",
+    "time": 1.55,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0240",
+    "time": 1.55,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0033",
+    "time": 1.5666666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0248",
+    "time": 1.5666666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0034",
+    "time": 1.5833333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0242",
+    "time": 1.5833333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0250",
+    "time": 1.5833333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0002",
+    "time": 1.6,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0032",
+    "time": 1.6,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0246",
+    "time": 1.6,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0251",
+    "time": 1.6,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0035",
+    "time": 1.6166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0219",
+    "time": 1.6166666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0245",
+    "time": 1.6166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0000",
+    "time": 1.6333333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0004",
+    "time": 1.6333333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0005",
+    "time": 1.6333333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0030",
+    "time": 1.6333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0249",
+    "time": 1.6333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0217",
+    "time": 1.65,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0247",
+    "time": 1.65,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0001",
+    "time": 1.6666666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0003",
+    "time": 1.6666666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0007",
+    "time": 1.6666666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0220",
+    "time": 1.6833333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0009",
+    "time": 1.7,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0218",
+    "time": 1.7,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0010",
+    "time": 1.7166666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0183",
+    "time": 1.7166666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0226",
+    "time": 1.7166666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0221",
+    "time": 1.7333333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0222",
+    "time": 1.7333333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0227",
+    "time": 1.7333333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0006",
+    "time": 1.75,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0008",
+    "time": 1.75,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0016",
+    "time": 1.75,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0181",
+    "time": 1.75,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0216",
+    "time": 1.75,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0011",
+    "time": 1.7666666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0040",
+    "time": 1.7666666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0224",
+    "time": 1.7666666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0002",
+    "time": 1.7833333333333332,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0014",
+    "time": 1.7833333333333332,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0015",
+    "time": 1.7833333333333332,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0036",
+    "time": 1.7833333333333332,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0041",
+    "time": 1.7833333333333332,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0184",
+    "time": 1.7833333333333332,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0223",
+    "time": 1.7833333333333332,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0225",
+    "time": 1.7833333333333332,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0038",
+    "time": 1.8,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0180",
+    "time": 1.8,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0185",
+    "time": 1.8,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0188",
+    "time": 1.8,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0012",
+    "time": 1.8166666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0013",
+    "time": 1.8166666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0017",
+    "time": 1.8166666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0039",
+    "time": 1.8166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0145",
+    "time": 1.8166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0182",
+    "time": 1.8166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0219",
+    "time": 1.8166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0231",
+    "time": 1.8166666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0000",
+    "time": 1.8333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0021",
+    "time": 1.8333333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0047",
+    "time": 1.8333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0109",
+    "time": 1.8333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0217",
+    "time": 1.8333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0229",
+    "time": 1.8333333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0007",
+    "time": 1.8499999999999999,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0019",
+    "time": 1.8499999999999999,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0037",
+    "time": 1.8499999999999999,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0045",
+    "time": 1.8499999999999999,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0076",
+    "time": 1.8499999999999999,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0186",
+    "time": 1.8499999999999999,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0191",
+    "time": 1.8499999999999999,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0230",
+    "time": 1.8499999999999999,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0003",
+    "time": 1.8666666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0020",
+    "time": 1.8666666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0028",
+    "time": 1.8666666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0074",
+    "time": 1.8666666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0146",
+    "time": 1.8666666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0148",
+    "time": 1.8666666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0189",
+    "time": 1.8666666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0238",
+    "time": 1.8666666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0001",
+    "time": 1.8833333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0022",
+    "time": 1.8833333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0043",
+    "time": 1.8833333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0075",
+    "time": 1.8833333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0083",
+    "time": 1.8833333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0144",
+    "time": 1.8833333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0193",
+    "time": 1.8833333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0220",
+    "time": 1.8833333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0228",
+    "time": 1.8833333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0232",
+    "time": 1.8833333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0233",
+    "time": 1.8833333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0010",
+    "time": 1.9,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0018",
+    "time": 1.9,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0023",
+    "time": 1.9,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0044",
+    "time": 1.9,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0077",
+    "time": 1.9,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0078",
+    "time": 1.9,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0112",
+    "time": 1.9,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0149",
+    "time": 1.9,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0150",
+    "time": 1.9,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0152",
+    "time": 1.9,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0187",
+    "time": 1.9,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0195",
+    "time": 1.9,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0218",
+    "time": 1.9,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0236",
+    "time": 1.9,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0239",
+    "time": 1.9,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0005",
+    "time": 1.9166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0016",
+    "time": 1.9166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0052",
+    "time": 1.9166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0072",
+    "time": 1.9166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0147",
+    "time": 1.9166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0151",
+    "time": 1.9166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0155",
+    "time": 1.9166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0222",
+    "time": 1.9166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0226",
+    "time": 1.9166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0234",
+    "time": 1.9166666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0235",
+    "time": 1.9166666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0004",
+    "time": 1.9333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0024",
+    "time": 1.9333333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0026",
+    "time": 1.9333333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0029",
+    "time": 1.9333333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0046",
+    "time": 1.9333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0050",
+    "time": 1.9333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0073",
+    "time": 1.9333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0110",
+    "time": 1.9333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0190",
+    "time": 1.9333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0196",
+    "time": 1.9333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0227",
+    "time": 1.9333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0008",
+    "time": 1.95,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0014",
+    "time": 1.95,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0042",
+    "time": 1.95,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0079",
+    "time": 1.95,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0081",
+    "time": 1.95,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0108",
+    "time": 1.95,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0113",
+    "time": 1.95,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0153",
+    "time": 1.95,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0194",
+    "time": 1.95,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0224",
+    "time": 1.95,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0237",
+    "time": 1.95,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0243",
+    "time": 1.95,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0006",
+    "time": 1.9666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0015",
+    "time": 1.9666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0027",
+    "time": 1.9666666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0048",
+    "time": 1.9666666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0053",
+    "time": 1.9666666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0117",
+    "time": 1.9666666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0157",
+    "time": 1.9666666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0198",
+    "time": 1.9666666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0216",
+    "time": 1.9666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0221",
+    "time": 1.9666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0241",
+    "time": 1.9666666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0009",
+    "time": 1.9833333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0012",
+    "time": 1.9833333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0017",
+    "time": 1.9833333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0031",
+    "time": 1.9833333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0049",
+    "time": 1.9833333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0082",
+    "time": 1.9833333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0111",
+    "time": 1.9833333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0119",
+    "time": 1.9833333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0154",
+    "time": 1.9833333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0192",
+    "time": 1.9833333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0197",
+    "time": 1.9833333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0200",
+    "time": 1.9833333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0225",
+    "time": 1.9833333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0011",
+    "time": 2.0,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0021",
+    "time": 2.0,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0025",
+    "time": 2.0,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0051",
+    "time": 2.0,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0057",
+    "time": 2.0,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0114",
+    "time": 2.0,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0160",
+    "time": 2.0,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0201",
+    "time": 2.0,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0223",
+    "time": 2.0,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0240",
+    "time": 2.0,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0244",
+    "time": 2.0,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0013",
+    "time": 2.0166666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0028",
+    "time": 2.0166666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0055",
+    "time": 2.0166666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0059",
+    "time": 2.0166666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0086",
+    "time": 2.0166666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0115",
+    "time": 2.0166666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0164",
+    "time": 2.0166666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0231",
+    "time": 2.0166666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0248",
+    "time": 2.0166666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0019",
+    "time": 2.033333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0033",
+    "time": 2.033333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0034",
+    "time": 2.033333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0080",
+    "time": 2.033333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0121",
+    "time": 2.033333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0158",
+    "time": 2.033333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0203",
+    "time": 2.033333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0207",
+    "time": 2.033333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0242",
+    "time": 2.033333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0032",
+    "time": 2.05,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0054",
+    "time": 2.05,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0058",
+    "time": 2.05,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0062",
+    "time": 2.05,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0084",
+    "time": 2.05,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0088",
+    "time": 2.05,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0089",
+    "time": 2.05,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0116",
+    "time": 2.05,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0118",
+    "time": 2.05,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0159",
+    "time": 2.05,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0167",
+    "time": 2.05,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0199",
+    "time": 2.05,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0230",
+    "time": 2.05,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0246",
+    "time": 2.05,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0250",
+    "time": 2.05,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0251",
+    "time": 2.05,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0020",
+    "time": 2.0666666666666664,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0022",
+    "time": 2.0666666666666664,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0035",
+    "time": 2.0666666666666664,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0056",
+    "time": 2.0666666666666664,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0087",
+    "time": 2.0666666666666664,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0090",
+    "time": 2.0666666666666664,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0095",
+    "time": 2.0666666666666664,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0124",
+    "time": 2.0666666666666664,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0161",
+    "time": 2.0666666666666664,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0162",
+    "time": 2.0666666666666664,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0202",
+    "time": 2.0666666666666664,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0205",
+    "time": 2.0666666666666664,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0238",
+    "time": 2.0666666666666664,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0245",
+    "time": 2.0666666666666664,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0030",
+    "time": 2.0833333333333335,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0064",
+    "time": 2.0833333333333335,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0125",
+    "time": 2.0833333333333335,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0156",
+    "time": 2.0833333333333335,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0206",
+    "time": 2.0833333333333335,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0232",
+    "time": 2.0833333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0236",
+    "time": 2.0833333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0249",
+    "time": 2.0833333333333335,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0029",
+    "time": 2.1,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0085",
+    "time": 2.1,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0091",
+    "time": 2.1,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0120",
+    "time": 2.1,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0163",
+    "time": 2.1,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0165",
+    "time": 2.1,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0228",
+    "time": 2.1,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0229",
+    "time": 2.1,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0233",
+    "time": 2.1,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0234",
+    "time": 2.1,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0239",
+    "time": 2.1,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0247",
+    "time": 2.1,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0018",
+    "time": 2.1166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0023",
+    "time": 2.1166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0024",
+    "time": 2.1166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0026",
+    "time": 2.1166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0060",
+    "time": 2.1166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0065",
+    "time": 2.1166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0126",
+    "time": 2.1166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0208",
+    "time": 2.1166666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0235",
+    "time": 2.1166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0063",
+    "time": 2.1333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0093",
+    "time": 2.1333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0122",
+    "time": 2.1333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0123",
+    "time": 2.1333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0131",
+    "time": 2.1333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0172",
+    "time": 2.1333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0209",
+    "time": 2.1333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0212",
+    "time": 2.1333333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0237",
+    "time": 2.1333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0027",
+    "time": 2.15,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0031",
+    "time": 2.15,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0061",
+    "time": 2.15,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0092",
+    "time": 2.15,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0094",
+    "time": 2.15,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0129",
+    "time": 2.15,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0166",
+    "time": 2.15,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0204",
+    "time": 2.15,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0210",
+    "time": 2.15,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0241",
+    "time": 2.15,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0243",
+    "time": 2.15,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0069",
+    "time": 2.1666666666666665,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0096",
+    "time": 2.1666666666666665,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0100",
+    "time": 2.1666666666666665,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0130",
+    "time": 2.1666666666666665,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0183",
+    "time": 2.1666666666666665,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0213",
+    "time": 2.1666666666666665,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0215",
+    "time": 2.1666666666666665,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0033",
+    "time": 2.183333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0098",
+    "time": 2.183333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0169",
+    "time": 2.183333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0170",
+    "time": 2.183333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0244",
+    "time": 2.183333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0248",
+    "time": 2.183333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0025",
+    "time": 2.2,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0041",
+    "time": 2.2,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0070",
+    "time": 2.2,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0127",
+    "time": 2.2,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0133",
+    "time": 2.2,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0168",
+    "time": 2.2,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0173",
+    "time": 2.2,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0176",
+    "time": 2.2,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0181",
+    "time": 2.2,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0214",
+    "time": 2.2,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0220",
+    "time": 2.2,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0034",
+    "time": 2.216666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0036",
+    "time": 2.216666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0040",
+    "time": 2.216666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0067",
+    "time": 2.216666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0102",
+    "time": 2.216666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0128",
+    "time": 2.216666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0136",
+    "time": 2.216666666666667,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0180",
+    "time": 2.216666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0185",
+    "time": 2.216666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0240",
+    "time": 2.216666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0246",
+    "time": 2.216666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0000",
+    "time": 2.216666666666667,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0068",
+    "time": 2.2333333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0099",
+    "time": 2.2333333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0107",
+    "time": 2.2333333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0171",
+    "time": 2.2333333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0174",
+    "time": 2.2333333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0179",
+    "time": 2.2333333333333334,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0184",
+    "time": 2.2333333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0242",
+    "time": 2.2333333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0250",
+    "time": 2.2333333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0251",
+    "time": 2.2333333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0032",
+    "time": 2.25,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0038",
+    "time": 2.25,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0039",
+    "time": 2.25,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0066",
+    "time": 2.25,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0071",
+    "time": 2.25,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0097",
+    "time": 2.25,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0101",
+    "time": 2.25,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0105",
+    "time": 2.25,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0134",
+    "time": 2.25,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0138",
+    "time": 2.25,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0143",
+    "time": 2.25,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0188",
+    "time": 2.25,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0211",
+    "time": 2.25,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0001",
+    "time": 2.25,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0037",
+    "time": 2.2666666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0047",
+    "time": 2.2666666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0103",
+    "time": 2.2666666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0132",
+    "time": 2.2666666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0137",
+    "time": 2.2666666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0175",
+    "time": 2.2666666666666666,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0182",
+    "time": 2.2666666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0249",
+    "time": 2.2666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0219",
+    "time": 2.2666666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0035",
+    "time": 2.283333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0104",
+    "time": 2.283333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0109",
+    "time": 2.283333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0145",
+    "time": 2.283333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0186",
+    "time": 2.283333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0191",
+    "time": 2.283333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0245",
+    "time": 2.283333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0221",
+    "time": 2.283333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0030",
+    "time": 2.3,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0045",
+    "time": 2.3,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0075",
+    "time": 2.3,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0076",
+    "time": 2.3,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0146",
+    "time": 2.3,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0177",
+    "time": 2.3,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0178",
+    "time": 2.3,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0189",
+    "time": 2.3,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0247",
+    "time": 2.3,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0002",
+    "time": 2.3,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0043",
+    "time": 2.3166666666666664,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0074",
+    "time": 2.3166666666666664,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0106",
+    "time": 2.3166666666666664,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0141",
+    "time": 2.3166666666666664,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0144",
+    "time": 2.3166666666666664,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0148",
+    "time": 2.3166666666666664,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0149",
+    "time": 2.3166666666666664,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0193",
+    "time": 2.3166666666666664,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0003",
+    "time": 2.3166666666666664,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0044",
+    "time": 2.3333333333333335,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0083",
+    "time": 2.3333333333333335,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0112",
+    "time": 2.3333333333333335,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0135",
+    "time": 2.3333333333333335,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0139",
+    "time": 2.3333333333333335,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0183",
+    "time": 2.3333333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0187",
+    "time": 2.3333333333333335,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0052",
+    "time": 2.35,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0072",
+    "time": 2.35,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0077",
+    "time": 2.35,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0078",
+    "time": 2.35,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0142",
+    "time": 2.35,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0147",
+    "time": 2.35,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0150",
+    "time": 2.35,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0151",
+    "time": 2.35,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0152",
+    "time": 2.35,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0195",
+    "time": 2.35,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0006",
+    "time": 2.35,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0217",
+    "time": 2.35,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0227",
+    "time": 2.35,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0040",
+    "time": 2.3666666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0042",
+    "time": 2.3666666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0050",
+    "time": 2.3666666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0073",
+    "time": 2.3666666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0155",
+    "time": 2.3666666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0181",
+    "time": 2.3666666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0196",
+    "time": 2.3666666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0041",
+    "time": 2.3833333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0046",
+    "time": 2.3833333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0081",
+    "time": 2.3833333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0108",
+    "time": 2.3833333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0110",
+    "time": 2.3833333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0113",
+    "time": 2.3833333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0140",
+    "time": 2.3833333333333333,
+    "state": "ARRIVING"
+  },
+  {
+    "id": "B0190",
+    "time": 2.3833333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0194",
+    "time": 2.3833333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0198",
+    "time": 2.3833333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0004",
+    "time": 2.3833333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0216",
+    "time": 2.3833333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0218",
+    "time": 2.3833333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0036",
+    "time": 2.4,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0047",
+    "time": 2.4,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0048",
+    "time": 2.4,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0049",
+    "time": 2.4,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0053",
+    "time": 2.4,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0079",
+    "time": 2.4,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0117",
+    "time": 2.4,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0153",
+    "time": 2.4,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0154",
+    "time": 2.4,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0005",
+    "time": 2.4,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0225",
+    "time": 2.4,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0226",
+    "time": 2.4,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0038",
+    "time": 2.4166666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0111",
+    "time": 2.4166666666666665,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0157",
+    "time": 2.4166666666666665,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0184",
+    "time": 2.4166666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0188",
+    "time": 2.4166666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0192",
+    "time": 2.4166666666666665,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0197",
+    "time": 2.4166666666666665,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0000",
+    "time": 2.4166666666666665,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0007",
+    "time": 2.4166666666666665,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0220",
+    "time": 2.4166666666666665,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0051",
+    "time": 2.433333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0057",
+    "time": 2.433333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0082",
+    "time": 2.433333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0109",
+    "time": 2.433333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0119",
+    "time": 2.433333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0180",
+    "time": 2.433333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0185",
+    "time": 2.433333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0200",
+    "time": 2.433333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0201",
+    "time": 2.433333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0000",
+    "time": 2.433333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0008",
+    "time": 2.433333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0220",
+    "time": 2.433333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0233",
+    "time": 2.433333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0039",
+    "time": 2.45,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0055",
+    "time": 2.45,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0086",
+    "time": 2.45,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0114",
+    "time": 2.45,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0115",
+    "time": 2.45,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0160",
+    "time": 2.45,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0164",
+    "time": 2.45,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0186",
+    "time": 2.45,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0191",
+    "time": 2.45,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0009",
+    "time": 2.45,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0010",
+    "time": 2.45,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0219",
+    "time": 2.45,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0045",
+    "time": 2.466666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0054",
+    "time": 2.466666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0059",
+    "time": 2.466666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0080",
+    "time": 2.466666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0118",
+    "time": 2.466666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0158",
+    "time": 2.466666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0159",
+    "time": 2.466666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0182",
+    "time": 2.466666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0199",
+    "time": 2.466666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0012",
+    "time": 2.466666666666667,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0219",
+    "time": 2.466666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0224",
+    "time": 2.466666666666667,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0037",
+    "time": 2.4833333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0043",
+    "time": 2.4833333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0058",
+    "time": 2.4833333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0062",
+    "time": 2.4833333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0076",
+    "time": 2.4833333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0084",
+    "time": 2.4833333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0089",
+    "time": 2.4833333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0116",
+    "time": 2.4833333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0121",
+    "time": 2.4833333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0145",
+    "time": 2.4833333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0146",
+    "time": 2.4833333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0167",
+    "time": 2.4833333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0189",
+    "time": 2.4833333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0193",
+    "time": 2.4833333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0202",
+    "time": 2.4833333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0203",
+    "time": 2.4833333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0207",
+    "time": 2.4833333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0001",
+    "time": 2.4833333333333334,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0013",
+    "time": 2.4833333333333334,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0052",
+    "time": 2.5,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0056",
+    "time": 2.5,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0074",
+    "time": 2.5,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0083",
+    "time": 2.5,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0087",
+    "time": 2.5,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0088",
+    "time": 2.5,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0148",
+    "time": 2.5,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0161",
+    "time": 2.5,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0162",
+    "time": 2.5,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0206",
+    "time": 2.5,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0001",
+    "time": 2.5,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0002",
+    "time": 2.5,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0222",
+    "time": 2.5,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0232",
+    "time": 2.5,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0050",
+    "time": 2.5166666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0075",
+    "time": 2.5166666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0090",
+    "time": 2.5166666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0091",
+    "time": 2.5166666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0095",
+    "time": 2.5166666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0124",
+    "time": 2.5166666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0125",
+    "time": 2.5166666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0144",
+    "time": 2.5166666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0150",
+    "time": 2.5166666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0195",
+    "time": 2.5166666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0205",
+    "time": 2.5166666666666666,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0002",
+    "time": 2.5166666666666666,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0011",
+    "time": 2.5166666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0223",
+    "time": 2.5166666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0065",
+    "time": 2.533333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0072",
+    "time": 2.533333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0085",
+    "time": 2.533333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0112",
+    "time": 2.533333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0120",
+    "time": 2.533333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0149",
+    "time": 2.533333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0152",
+    "time": 2.533333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0156",
+    "time": 2.533333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0163",
+    "time": 2.533333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0165",
+    "time": 2.533333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0187",
+    "time": 2.533333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0196",
+    "time": 2.533333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0198",
+    "time": 2.533333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0003",
+    "time": 2.533333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0014",
+    "time": 2.533333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0221",
+    "time": 2.533333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0231",
+    "time": 2.533333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0044",
+    "time": 2.55,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0060",
+    "time": 2.55,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0063",
+    "time": 2.55,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0064",
+    "time": 2.55,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0077",
+    "time": 2.55,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0078",
+    "time": 2.55,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0081",
+    "time": 2.55,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0151",
+    "time": 2.55,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0172",
+    "time": 2.55,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0204",
+    "time": 2.55,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0208",
+    "time": 2.55,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0209",
+    "time": 2.55,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0003",
+    "time": 2.55,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0015",
+    "time": 2.55,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0018",
+    "time": 2.55,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0217",
+    "time": 2.55,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0221",
+    "time": 2.55,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0230",
+    "time": 2.55,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0094",
+    "time": 2.5666666666666664,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0110",
+    "time": 2.5666666666666664,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0123",
+    "time": 2.5666666666666664,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0126",
+    "time": 2.5666666666666664,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0131",
+    "time": 2.5666666666666664,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0166",
+    "time": 2.5666666666666664,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0212",
+    "time": 2.5666666666666664,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0004",
+    "time": 2.5666666666666664,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0217",
+    "time": 2.5666666666666664,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0227",
+    "time": 2.5666666666666664,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0046",
+    "time": 2.5833333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0048",
+    "time": 2.5833333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0053",
+    "time": 2.5833333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0057",
+    "time": 2.5833333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0061",
+    "time": 2.5833333333333335,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0092",
+    "time": 2.5833333333333335,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0093",
+    "time": 2.5833333333333335,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0096",
+    "time": 2.5833333333333335,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0108",
+    "time": 2.5833333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0113",
+    "time": 2.5833333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0122",
+    "time": 2.5833333333333335,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0130",
+    "time": 2.5833333333333335,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0147",
+    "time": 2.5833333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0153",
+    "time": 2.5833333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0155",
+    "time": 2.5833333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0157",
+    "time": 2.5833333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0194",
+    "time": 2.5833333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0004",
+    "time": 2.5833333333333335,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0006",
+    "time": 2.5833333333333335,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0016",
+    "time": 2.5833333333333335,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0226",
+    "time": 2.5833333333333335,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0227",
+    "time": 2.5833333333333335,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0229",
+    "time": 2.5833333333333335,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0239",
+    "time": 2.5833333333333335,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0042",
+    "time": 2.6,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0059",
+    "time": 2.6,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0073",
+    "time": 2.6,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0079",
+    "time": 2.6,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0100",
+    "time": 2.6,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0114",
+    "time": 2.6,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0117",
+    "time": 2.6,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0119",
+    "time": 2.6,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0129",
+    "time": 2.6,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0200",
+    "time": 2.6,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0210",
+    "time": 2.6,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0213",
+    "time": 2.6,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0214",
+    "time": 2.6,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0215",
+    "time": 2.6,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0006",
+    "time": 2.6,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0019",
+    "time": 2.6,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0185",
+    "time": 2.6,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0226",
+    "time": 2.6,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0238",
+    "time": 2.6,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0049",
+    "time": 2.6166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0055",
+    "time": 2.6166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0069",
+    "time": 2.6166666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0070",
+    "time": 2.6166666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0086",
+    "time": 2.6166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0154",
+    "time": 2.6166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0164",
+    "time": 2.6166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0170",
+    "time": 2.6166666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0190",
+    "time": 2.6166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0201",
+    "time": 2.6166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0005",
+    "time": 2.6166666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0007",
+    "time": 2.6166666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0020",
+    "time": 2.6166666666666667,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0218",
+    "time": 2.6166666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0225",
+    "time": 2.6166666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0237",
+    "time": 2.6166666666666667,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0051",
+    "time": 2.6333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0062",
+    "time": 2.6333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0082",
+    "time": 2.6333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0098",
+    "time": 2.6333333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0111",
+    "time": 2.6333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0115",
+    "time": 2.6333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0121",
+    "time": 2.6333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0127",
+    "time": 2.6333333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0128",
+    "time": 2.6333333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0133",
+    "time": 2.6333333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0160",
+    "time": 2.6333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0167",
+    "time": 2.6333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0168",
+    "time": 2.6333333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0169",
+    "time": 2.6333333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0173",
+    "time": 2.6333333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0192",
+    "time": 2.6333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0197",
+    "time": 2.6333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0005",
+    "time": 2.6333333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0007",
+    "time": 2.6333333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0009",
+    "time": 2.6333333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0216",
+    "time": 2.6333333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0218",
+    "time": 2.6333333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0225",
+    "time": 2.6333333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0228",
+    "time": 2.6333333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0068",
+    "time": 2.65,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0099",
+    "time": 2.65,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0136",
+    "time": 2.65,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0158",
+    "time": 2.65,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0171",
+    "time": 2.65,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0176",
+    "time": 2.65,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0203",
+    "time": 2.65,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0207",
+    "time": 2.65,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0009",
+    "time": 2.65,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0017",
+    "time": 2.65,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0024",
+    "time": 2.65,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0216",
+    "time": 2.65,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0245",
+    "time": 2.65,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0058",
+    "time": 2.6666666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0066",
+    "time": 2.6666666666666665,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0067",
+    "time": 2.6666666666666665,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0071",
+    "time": 2.6666666666666665,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0084",
+    "time": 2.6666666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0088",
+    "time": 2.6666666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0089",
+    "time": 2.6666666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0095",
+    "time": 2.6666666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0097",
+    "time": 2.6666666666666665,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0102",
+    "time": 2.6666666666666665,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0107",
+    "time": 2.6666666666666665,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0143",
+    "time": 2.6666666666666665,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0162",
+    "time": 2.6666666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0179",
+    "time": 2.6666666666666665,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0199",
+    "time": 2.6666666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0008",
+    "time": 2.6666666666666665,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0010",
+    "time": 2.6666666666666665,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0012",
+    "time": 2.6666666666666665,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0021",
+    "time": 2.6666666666666665,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0036",
+    "time": 2.6666666666666665,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0224",
+    "time": 2.6666666666666665,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0235",
+    "time": 2.6666666666666665,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0236",
+    "time": 2.6666666666666665,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0054",
+    "time": 2.683333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0080",
+    "time": 2.683333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0090",
+    "time": 2.683333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0091",
+    "time": 2.683333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0101",
+    "time": 2.683333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0118",
+    "time": 2.683333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0134",
+    "time": 2.683333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0138",
+    "time": 2.683333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0159",
+    "time": 2.683333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0174",
+    "time": 2.683333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0175",
+    "time": 2.683333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0205",
+    "time": 2.683333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0206",
+    "time": 2.683333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0211",
+    "time": 2.683333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0008",
+    "time": 2.683333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0010",
+    "time": 2.683333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0012",
+    "time": 2.683333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0224",
+    "time": 2.683333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0233",
+    "time": 2.683333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0056",
+    "time": 2.7,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0064",
+    "time": 2.7,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0087",
+    "time": 2.7,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0103",
+    "time": 2.7,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0104",
+    "time": 2.7,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0105",
+    "time": 2.7,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0124",
+    "time": 2.7,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0126",
+    "time": 2.7,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0132",
+    "time": 2.7,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0137",
+    "time": 2.7,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0161",
+    "time": 2.7,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0165",
+    "time": 2.7,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0202",
+    "time": 2.7,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0222",
+    "time": 2.7,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0233",
+    "time": 2.7,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0243",
+    "time": 2.7,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0244",
+    "time": 2.7,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0060",
+    "time": 2.716666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0065",
+    "time": 2.716666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0116",
+    "time": 2.716666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0125",
+    "time": 2.716666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0163",
+    "time": 2.716666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0172",
+    "time": 2.716666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0178",
+    "time": 2.716666666666667,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0208",
+    "time": 2.716666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0013",
+    "time": 2.716666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0022",
+    "time": 2.716666666666667,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0025",
+    "time": 2.716666666666667,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0026",
+    "time": 2.716666666666667,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0222",
+    "time": 2.716666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0231",
+    "time": 2.716666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0232",
+    "time": 2.716666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0120",
+    "time": 2.7333333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0131",
+    "time": 2.7333333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0141",
+    "time": 2.7333333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0156",
+    "time": 2.7333333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0177",
+    "time": 2.7333333333333334,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0212",
+    "time": 2.7333333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0013",
+    "time": 2.7333333333333334,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0014",
+    "time": 2.7333333333333334,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0023",
+    "time": 2.7333333333333334,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0231",
+    "time": 2.7333333333333334,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0232",
+    "time": 2.7333333333333334,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0234",
+    "time": 2.7333333333333334,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0063",
+    "time": 2.75,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0106",
+    "time": 2.75,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0135",
+    "time": 2.75,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0139",
+    "time": 2.75,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0204",
+    "time": 2.75,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0210",
+    "time": 2.75,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0014",
+    "time": 2.75,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0027",
+    "time": 2.75,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0030",
+    "time": 2.75,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0031",
+    "time": 2.75,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0220",
+    "time": 2.75,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0223",
+    "time": 2.75,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0251",
+    "time": 2.75,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0069",
+    "time": 2.7666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0085",
+    "time": 2.7666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0093",
+    "time": 2.7666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0094",
+    "time": 2.7666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0096",
+    "time": 2.7666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0100",
+    "time": 2.7666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0122",
+    "time": 2.7666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0129",
+    "time": 2.7666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0209",
+    "time": 2.7666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0215",
+    "time": 2.7666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0000",
+    "time": 2.7666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0011",
+    "time": 2.7666666666666666,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0015",
+    "time": 2.7666666666666666,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0016",
+    "time": 2.7666666666666666,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0223",
+    "time": 2.7666666666666666,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0123",
+    "time": 2.783333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0130",
+    "time": 2.783333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0133",
+    "time": 2.783333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0142",
+    "time": 2.783333333333333,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0166",
+    "time": 2.783333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0213",
+    "time": 2.783333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0001",
+    "time": 2.783333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0011",
+    "time": 2.783333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0015",
+    "time": 2.783333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0016",
+    "time": 2.783333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0018",
+    "time": 2.783333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0028",
+    "time": 2.783333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0032",
+    "time": 2.783333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0229",
+    "time": 2.783333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0230",
+    "time": 2.783333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0238",
+    "time": 2.783333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0061",
+    "time": 2.8,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0070",
+    "time": 2.8,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0092",
+    "time": 2.8,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0098",
+    "time": 2.8,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0136",
+    "time": 2.8,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0170",
+    "time": 2.8,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0018",
+    "time": 2.8,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0019",
+    "time": 2.8,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0029",
+    "time": 2.8,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0073",
+    "time": 2.8,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0229",
+    "time": 2.8,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0230",
+    "time": 2.8,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0238",
+    "time": 2.8,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0239",
+    "time": 2.8,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0241",
+    "time": 2.8,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0127",
+    "time": 2.8166666666666664,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0140",
+    "time": 2.8166666666666664,
+    "state": "TURNING"
+  },
+  {
+    "id": "B0143",
+    "time": 2.8166666666666664,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0169",
+    "time": 2.8166666666666664,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0176",
+    "time": 2.8166666666666664,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0214",
+    "time": 2.8166666666666664,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0019",
+    "time": 2.8166666666666664,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0033",
+    "time": 2.8166666666666664,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0221",
+    "time": 2.8166666666666664,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0239",
+    "time": 2.8166666666666664,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0242",
+    "time": 2.8166666666666664,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0250",
+    "time": 2.8166666666666664,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0067",
+    "time": 2.8333333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0102",
+    "time": 2.8333333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0107",
+    "time": 2.8333333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0138",
+    "time": 2.8333333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0168",
+    "time": 2.8333333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0173",
+    "time": 2.8333333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0179",
+    "time": 2.8333333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0034",
+    "time": 2.8333333333333335,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0219",
+    "time": 2.8333333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0237",
+    "time": 2.8333333333333335,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0240",
+    "time": 2.8333333333333335,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0068",
+    "time": 2.85,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0099",
+    "time": 2.85,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0128",
+    "time": 2.85,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0134",
+    "time": 2.85,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0174",
+    "time": 2.85,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0004",
+    "time": 2.85,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0020",
+    "time": 2.85,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0021",
+    "time": 2.85,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0024",
+    "time": 2.85,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0185",
+    "time": 2.85,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0237",
+    "time": 2.85,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0248",
+    "time": 2.85,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0249",
+    "time": 2.85,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0101",
+    "time": 2.8666666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0103",
+    "time": 2.8666666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0105",
+    "time": 2.8666666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0171",
+    "time": 2.8666666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0175",
+    "time": 2.8666666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0003",
+    "time": 2.8666666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0017",
+    "time": 2.8666666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0020",
+    "time": 2.8666666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0021",
+    "time": 2.8666666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0024",
+    "time": 2.8666666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0185",
+    "time": 2.8666666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0228",
+    "time": 2.8666666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0236",
+    "time": 2.8666666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0066",
+    "time": 2.8833333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0097",
+    "time": 2.8833333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0132",
+    "time": 2.8833333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0211",
+    "time": 2.8833333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0001",
+    "time": 2.8833333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0002",
+    "time": 2.8833333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0006",
+    "time": 2.8833333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0017",
+    "time": 2.8833333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0035",
+    "time": 2.8833333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0036",
+    "time": 2.8833333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0109",
+    "time": 2.8833333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0146",
+    "time": 2.8833333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0220",
+    "time": 2.8833333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0226",
+    "time": 2.8833333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0228",
+    "time": 2.8833333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0236",
+    "time": 2.8833333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0243",
+    "time": 2.8833333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0071",
+    "time": 2.9,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0137",
+    "time": 2.9,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0141",
+    "time": 2.9,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0177",
+    "time": 2.9,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0000",
+    "time": 2.9,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0026",
+    "time": 2.9,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0036",
+    "time": 2.9,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0037",
+    "time": 2.9,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0235",
+    "time": 2.9,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0243",
+    "time": 2.9,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0245",
+    "time": 2.9,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0246",
+    "time": 2.9,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0247",
+    "time": 2.9,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0104",
+    "time": 2.9166666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0009",
+    "time": 2.9166666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0026",
+    "time": 2.9166666666666665,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0216",
+    "time": 2.9166666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0217",
+    "time": 2.9166666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0235",
+    "time": 2.9166666666666665,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0244",
+    "time": 2.9166666666666665,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0245",
+    "time": 2.9166666666666665,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0139",
+    "time": 2.933333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0178",
+    "time": 2.933333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0004",
+    "time": 2.933333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0012",
+    "time": 2.933333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0022",
+    "time": 2.933333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0218",
+    "time": 2.933333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0224",
+    "time": 2.933333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0234",
+    "time": 2.933333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0244",
+    "time": 2.933333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0106",
+    "time": 2.95,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0022",
+    "time": 2.95,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0025",
+    "time": 2.95,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0031",
+    "time": 2.95,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0038",
+    "time": 2.95,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0039",
+    "time": 2.95,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0042",
+    "time": 2.95,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0183",
+    "time": 2.95,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0184",
+    "time": 2.95,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0221",
+    "time": 2.95,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0227",
+    "time": 2.95,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0234",
+    "time": 2.95,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0251",
+    "time": 2.95,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0135",
+    "time": 2.966666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0005",
+    "time": 2.966666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0025",
+    "time": 2.966666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0027",
+    "time": 2.966666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0028",
+    "time": 2.966666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0031",
+    "time": 2.966666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0225",
+    "time": 2.966666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0251",
+    "time": 2.966666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0142",
+    "time": 2.9833333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0003",
+    "time": 2.9833333333333334,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0006",
+    "time": 2.9833333333333334,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0023",
+    "time": 2.9833333333333334,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0027",
+    "time": 2.9833333333333334,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0028",
+    "time": 2.9833333333333334,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0030",
+    "time": 2.9833333333333334,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0219",
+    "time": 2.9833333333333334,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0226",
+    "time": 2.9833333333333334,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0232",
+    "time": 2.9833333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0007",
+    "time": 3.0,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0008",
+    "time": 3.0,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0023",
+    "time": 3.0,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0029",
+    "time": 3.0,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0030",
+    "time": 3.0,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0033",
+    "time": 3.0,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0182",
+    "time": 3.0,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0191",
+    "time": 3.0,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0216",
+    "time": 3.0,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0241",
+    "time": 3.0,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0250",
+    "time": 3.0,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0009",
+    "time": 3.0166666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0012",
+    "time": 3.0166666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0029",
+    "time": 3.0166666666666666,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0032",
+    "time": 3.0166666666666666,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0033",
+    "time": 3.0166666666666666,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0040",
+    "time": 3.0166666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0180",
+    "time": 3.0166666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0190",
+    "time": 3.0166666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0224",
+    "time": 3.0166666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0241",
+    "time": 3.0166666666666666,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0250",
+    "time": 3.0166666666666666,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0002",
+    "time": 3.033333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0010",
+    "time": 3.033333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0014",
+    "time": 3.033333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0032",
+    "time": 3.033333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0041",
+    "time": 3.033333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0043",
+    "time": 3.033333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0218",
+    "time": 3.033333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0231",
+    "time": 3.033333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0233",
+    "time": 3.033333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0248",
+    "time": 3.033333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0140",
+    "time": 3.05,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0034",
+    "time": 3.05,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0044",
+    "time": 3.05,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0073",
+    "time": 3.05,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0181",
+    "time": 3.05,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0217",
+    "time": 3.05,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0242",
+    "time": 3.05,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0248",
+    "time": 3.05,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0013",
+    "time": 3.0666666666666664,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0034",
+    "time": 3.0666666666666664,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0073",
+    "time": 3.0666666666666664,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0109",
+    "time": 3.0666666666666664,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0222",
+    "time": 3.0666666666666664,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0223",
+    "time": 3.0666666666666664,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0229",
+    "time": 3.0666666666666664,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0232",
+    "time": 3.0666666666666664,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0240",
+    "time": 3.0666666666666664,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0242",
+    "time": 3.0666666666666664,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0249",
+    "time": 3.0666666666666664,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0011",
+    "time": 3.0833333333333335,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0109",
+    "time": 3.0833333333333335,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0188",
+    "time": 3.0833333333333335,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0189",
+    "time": 3.0833333333333335,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0240",
+    "time": 3.0833333333333335,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0249",
+    "time": 3.0833333333333335,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0000",
+    "time": 3.1,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0005",
+    "time": 3.1,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0016",
+    "time": 3.1,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0045",
+    "time": 3.1,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0146",
+    "time": 3.1,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0220",
+    "time": 3.1,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0225",
+    "time": 3.1,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0227",
+    "time": 3.1,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0239",
+    "time": 3.1,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0246",
+    "time": 3.1,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0000",
+    "time": 3.1166666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0001",
+    "time": 3.1166666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0004",
+    "time": 3.1166666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0008",
+    "time": 3.1166666666666667,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0019",
+    "time": 3.1166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0146",
+    "time": 3.1166666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0196",
+    "time": 3.1166666666666667,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0220",
+    "time": 3.1166666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0237",
+    "time": 3.1166666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0246",
+    "time": 3.1166666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0001",
+    "time": 3.1333333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0004",
+    "time": 3.1333333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0014",
+    "time": 3.1333333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0035",
+    "time": 3.1333333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0183",
+    "time": 3.1333333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0238",
+    "time": 3.1333333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0247",
+    "time": 3.1333333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0007",
+    "time": 3.15,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0015",
+    "time": 3.15,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0017",
+    "time": 3.15,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0018",
+    "time": 3.15,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0035",
+    "time": 3.15,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0037",
+    "time": 3.15,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0038",
+    "time": 3.15,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0048",
+    "time": 3.15,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0183",
+    "time": 3.15,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0229",
+    "time": 3.15,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0230",
+    "time": 3.15,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0231",
+    "time": 3.15,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0247",
+    "time": 3.15,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0024",
+    "time": 3.1666666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0037",
+    "time": 3.1666666666666665,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0038",
+    "time": 3.1666666666666665,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0049",
+    "time": 3.1666666666666665,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0184",
+    "time": 3.1666666666666665,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0219",
+    "time": 3.1666666666666665,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0226",
+    "time": 3.1666666666666665,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0233",
+    "time": 3.1666666666666665,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0245",
+    "time": 3.1666666666666665,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0010",
+    "time": 3.183333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0039",
+    "time": 3.183333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0046",
+    "time": 3.183333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0047",
+    "time": 3.183333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0184",
+    "time": 3.183333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0197",
+    "time": 3.183333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0219",
+    "time": 3.183333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0223",
+    "time": 3.183333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0226",
+    "time": 3.183333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0003",
+    "time": 3.2,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0009",
+    "time": 3.2,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0011",
+    "time": 3.2,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0013",
+    "time": 3.2,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0021",
+    "time": 3.2,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0039",
+    "time": 3.2,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0040",
+    "time": 3.2,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0042",
+    "time": 3.2,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0050",
+    "time": 3.2,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0072",
+    "time": 3.2,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0191",
+    "time": 3.2,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0221",
+    "time": 3.2,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0228",
+    "time": 3.2,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0236",
+    "time": 3.2,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0237",
+    "time": 3.2,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0239",
+    "time": 3.2,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0003",
+    "time": 3.216666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0006",
+    "time": 3.216666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0009",
+    "time": 3.216666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0012",
+    "time": 3.216666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0016",
+    "time": 3.216666666666667,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0019",
+    "time": 3.216666666666667,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0025",
+    "time": 3.216666666666667,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0040",
+    "time": 3.216666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0042",
+    "time": 3.216666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0108",
+    "time": 3.216666666666667,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0182",
+    "time": 3.216666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0191",
+    "time": 3.216666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0221",
+    "time": 3.216666666666667,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0222",
+    "time": 3.216666666666667,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0224",
+    "time": 3.216666666666667,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0002",
+    "time": 3.2333333333333334,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0006",
+    "time": 3.2333333333333334,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0012",
+    "time": 3.2333333333333334,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0017",
+    "time": 3.2333333333333334,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0022",
+    "time": 3.2333333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0043",
+    "time": 3.2333333333333334,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0182",
+    "time": 3.2333333333333334,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0185",
+    "time": 3.2333333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0224",
+    "time": 3.2333333333333334,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0234",
+    "time": 3.2333333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0244",
+    "time": 3.2333333333333334,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0002",
+    "time": 3.25,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0020",
+    "time": 3.25,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0026",
+    "time": 3.25,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0041",
+    "time": 3.25,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0043",
+    "time": 3.25,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0144",
+    "time": 3.25,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0180",
+    "time": 3.25,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0181",
+    "time": 3.25,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0216",
+    "time": 3.25,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0217",
+    "time": 3.25,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0243",
+    "time": 3.25,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0245",
+    "time": 3.25,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0027",
+    "time": 3.2666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0030",
+    "time": 3.2666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0033",
+    "time": 3.2666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0036",
+    "time": 3.2666666666666666,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0041",
+    "time": 3.2666666666666666,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0052",
+    "time": 3.2666666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0054",
+    "time": 3.2666666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0074",
+    "time": 3.2666666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0180",
+    "time": 3.2666666666666666,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0181",
+    "time": 3.2666666666666666,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0187",
+    "time": 3.2666666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0188",
+    "time": 3.2666666666666666,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0190",
+    "time": 3.2666666666666666,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0195",
+    "time": 3.2666666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0203",
+    "time": 3.2666666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0216",
+    "time": 3.2666666666666666,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0217",
+    "time": 3.2666666666666666,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0218",
+    "time": 3.2666666666666666,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0238",
+    "time": 3.2666666666666666,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0018",
+    "time": 3.283333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0044",
+    "time": 3.283333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0051",
+    "time": 3.283333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0055",
+    "time": 3.283333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0186",
+    "time": 3.283333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0188",
+    "time": 3.283333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0190",
+    "time": 3.283333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0218",
+    "time": 3.283333333333333,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0230",
+    "time": 3.283333333333333,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0232",
+    "time": 3.283333333333333,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0235",
+    "time": 3.283333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0250",
+    "time": 3.283333333333333,
+    "state": "AIMING"
+  },
+  {
+    "id": "B0015",
+    "time": 3.3,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0025",
+    "time": 3.3,
+    "state": "DRAWING"
+  },
+  {
+    "id": "B0044",
+    "time": 3.3,
+    "state": "RECOVERING"
+  },
+  {
+    "id": "B0045",
+    "time": 3.3,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0189",
+    "time": 3.3,
+    "state": "RELEASING"
+  },
+  {
+    "id": "B0232",
+    "time": 3.3,
+    "state": "RECOVERING"
+  }
+]

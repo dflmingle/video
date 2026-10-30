@@ -1,0 +1,51 @@
+{
+  "baseline": "V22R-overlap / V22 unchanged red core",
+  "A": {
+    "variant": "V22R-fast-A",
+    "changes": {
+      "duration": [
+        2.2,
+        3.5
+      ],
+      "parallelAssemblyFire": [
+        false,
+        true
+      ]
+    },
+    "redMotionController": "tools/motion_v22.py unchanged",
+    "blueAdvance": 7.5,
+    "range": 34.0,
+    "arrowSpeed": 72,
+    "attackParametersUnchanged": true,
+    "description": "Blue starts independent preparation while existing assembly continues; range/facing/draw/recovery checks retained. No safety-front controller, translations or blue speed-reference override."
+  },
+  "B": {
+    "status": "REJECTED_BEFORE_SIMULATION",
+    "requestedMethod": "Rigid backward translation of entire existing red army, blue U and camera unchanged",
+    "testedBackwardDistance": 8.0,
+    "originalRedBehindWall": 972,
+    "proposedRedBehindWall": 972,
+    "redZBounds": [
+      -102.38429442606609,
+      -42.9586176711868
+    ],
+    "proposedZBounds": [
+      -110.38429442606609,
+      -50.9586176711868
+    ],
+    "wallFrontZ": -29.7378,
+    "minimumForwardTranslationForAllRedInFront": 72.93649442606609,
+    "maximumForwardTranslationBeforeInitialEnemyClearanceViolation": 55.59296294817959,
+    "allowedForwardTranslationIntervalEmpty": true,
+    "why": "Existing full red column already starts behind the wall. A backward-only shift cannot satisfy same-side constraint. Even forward-only translation has incompatible wall/front-army safety bounds at original X positions.",
+    "videoGenerated": false,
+    "noUnapprovedRearrangement": true
+  },
+  "sourceHashes": {
+    "src/castle-approved-v22r.js": "c3be4aaf41f0d8bd2f1b9a76b96cfcd705300323f436badfe3033432b28493b6",
+    "src/environment-native-v22.js": "5116f2620a83383ca7dede2c6fe6327b5f1a820b7baf344b60c8a857fa1816fe",
+    "public/native-scenes/CastleExterior-scene/manifest.json": "631e222361b70bf4948ce54deae556ae1f480365e8e7165493c24161e386e833",
+    "tools/motion_v22.py": "dba45120d48a892f0625d510a1870db9dc804878a202dfc31e5d4e5ccba264cf",
+    "tools/motion_v17.py": "00892d9923d35c432bc083de5806a321dbd26d50d583881877dacf4e80a2e3a2"
+  }
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "element": "地面",
+    "sourceMeshes": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Land.fbx"
+    ],
+    "sourceMaterials": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Land_Mat.mat"
+    ],
+    "sourceTextures": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Land_C.png"
+    ],
+    "currentObjects": [
+      "CastleExterior_Grp/CastleExterior_Land"
+    ],
+    "status": "来源确认；参考图的布局/材质匹配待确认"
+  },
+  {
+    "element": "棋盘覆盖层",
+    "sourceMeshes": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/SnowBridge/Mesh/SnowBridge_Gird.fbx"
+    ],
+    "sourceMaterials": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Gird_Mat.mat"
+    ],
+    "sourceTextures": [],
+    "currentObjects": [
+      "CastleExterior_Grp/Gird"
+    ],
+    "status": "来源确认；参考图的布局/材质匹配待确认"
+  },
+  {
+    "element": "城墙和城门",
+    "sourceMeshes": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Building.fbx"
+    ],
+    "sourceMaterials": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Castle_Mat.mat",
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Mountain_Mat.mat"
+    ],
+    "sourceTextures": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Castle_C.png",
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Mountain_C.png"
+    ],
+    "currentObjects": [
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/polySurface18",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Building/rock.016"
+    ],
+    "status": "来源确认；参考图的布局/材质匹配待确认"
+  },
+  {
+    "element": "树木",
+    "sourceMeshes": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Tree_04.fbx",
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Tree_05.fbx"
+    ],
+    "sourceMaterials": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_TreeB_Mat.mat"
+    ],
+    "sourceTextures": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_TreeB_C.png"
+    ],
+    "currentObjects": [
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Tree_05 (5)/CastleExterior_Tree_05",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Tree_05 (4)/CastleExterior_Tree_05",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Tree_05 (1)/CastleExterior_Tree_05",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Tree_05 (3)/CastleExterior_Tree_05",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Tree_05 (2)/CastleExterior_Tree_05",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Tree_05/CastleExterior_Tree_05",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Tree_04 (1)/CastleExterior_Tree_04",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Tree_04/CastleExterior_Tree_04"
+    ],
+    "status": "来源确认；参考图的布局/材质匹配待确认"
+  },
+  {
+    "element": "木桩围栏",
+    "sourceMeshes": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Stakes_01.fbx",
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Stakes_02.fbx"
+    ],
+    "sourceMaterials": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_TreeB_Mat.mat"
+    ],
+    "sourceTextures": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_TreeB_C.png"
+    ],
+    "currentObjects": [
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (3)/CastleExterior_Stakes_01",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (5)/CastleExterior_Stakes_01",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (1)/CastleExterior_Stakes_01",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (2)/CastleExterior_Stakes_01",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01 (4)/CastleExterior_Stakes_01",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_01/CastleExterior_Stakes_01",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (3)/CastleExterior_Stakes_02",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (5)/CastleExterior_Stakes_02",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (1)/CastleExterior_Stakes_02",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (2)/CastleExterior_Stakes_02",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02 (4)/CastleExterior_Stakes_02",
+      "CastleExterior_Grp/CastleExterior_Dec/CastleExterior_Stakes_02/CastleExterior_Stakes_02"
+    ],
+    "status": "来源确认；参考图的布局/材质匹配待确认"
+  },
+  {
+    "element": "告示牌/紫色徽记",
+    "sourceMeshes": [],
+    "sourceMaterials": [],
+    "sourceTextures": [],
+    "currentObjects": [],
+    "status": "未找到可确认对应物；ArenaScene_Flag 是旗帜候选，不能冒充告示牌"
+  },
+  {
+    "element": "旗帜候选",
+    "sourceMeshes": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Flag.fbx"
+    ],
+    "sourceMaterials": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Castle_Mat.mat"
+    ],
+    "sourceTextures": [
+      "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Castle_C.png"
+    ],
+    "currentObjects": [
+      "ArenaScene_Grp/ArenaScene_Dec/ArenaScene_HighWalls/ArenaScene_Flag",
+      "ArenaScene_Grp/ArenaScene_Dec/ArenaScene_HighWalls/ArenaScene_Flag",
+      "ArenaScene_Grp/ArenaScene_Dec/ArenaScene_HighWalls/ArenaScene_Flag",
+      "ArenaScene_Grp/ArenaScene_Dec/ArenaScene_HighWalls/ArenaScene_Flag"
+    ],
+    "status": "原包存在；参考图左侧标志的对应关系未确认"
+  }
+]

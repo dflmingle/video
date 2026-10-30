@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "controlColumns": [
+    "state",
+    "timer",
+    "target",
+    "lastRelease",
+    "walkPhase",
+    "turnPhase",
+    "actionPhase",
+    "moveSpeed",
+    "facingYaw",
+    "targetYaw",
+    "stateProgress",
+    "releaseEventId"
+  ],
+  "deterministicReplay": true,
+  "renderingHelper": {
+    "checks": 40,
+    "releasePhase": 0.64,
+    "independentClock": true,
+    "weightsSumToOne": true
+  },
+  "visualAcceptance": "NOT_RUN: root renders encoded clip after integration",
+  "normal": {
+    "firstShot": 2.1166666666666667,
+    "shotCount": 1287,
+    "phaseMaxError": 0.0,
+    "minimumSpacing": 0.6149999999999964,
+    "actualArrivals": [
+      1.6,
+      2.8166666666666664
+    ],
+    "endpointErrorP50P95": [
+      1.0622298485835513e-12,
+      0.03717722491872846
+    ]
+  }
+}

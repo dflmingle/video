@@ -1,0 +1,44 @@
+{
+  "candidates": [
+    {
+      "label": "C1",
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-burst\\V22R-C1-2.650s-preview-720x1080-60fps.mp4",
+      "frames": 159,
+      "fps": 60.0,
+      "width": 720,
+      "height": 1080,
+      "duration": 2.65,
+      "sha256": "9ea143f2cf36597ad82619da3004427ed159057efb77a9a7471e5b2b42face0a",
+      "cameraConstant": true,
+      "minimumRedVisible": 291,
+      "minimumBlueVisible": 252,
+      "noLoop": true,
+      "noRetime": true,
+      "noAddedStillFrames": true,
+      "fullNormalSpeedVisualViewing": false
+    },
+    {
+      "label": "C2",
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-burst\\V22R-C2-2.667s-preview-720x1080-60fps.mp4",
+      "frames": 160,
+      "fps": 60.0,
+      "width": 720,
+      "height": 1080,
+      "duration": 2.6666666666666665,
+      "sha256": "212217e891ae07c99d89c9719604f6beeb35a799aa0f094bed5c1cefd702a930",
+      "cameraConstant": true,
+      "minimumRedVisible": 291,
+      "minimumBlueVisible": 252,
+      "noLoop": true,
+      "noRetime": true,
+      "noAddedStillFrames": true,
+      "fullNormalSpeedVisualViewing": false
+    }
+  ],
+  "commonComparison": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-burst\\V22R-A-C1-C2-common-2.317s-60fps.mp4",
+  "commonFrames": 139,
+  "formalRender": false,
+  "visualMethod": "Actual encoded timeline samples and consecutive release/impact/ending frames; no claim of full normal-speed visual viewing",
+  "commonComparisonDecodedFrames": 139,
+  "commonComparisonFPS": 60.0
+}

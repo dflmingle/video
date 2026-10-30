@@ -1,0 +1,149 @@
+{
+  "path": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-10\\使用到的防御塔.unitypackage",
+  "bytes": 1312677,
+  "entries": [
+    {
+      "guid": "00eea7c5f069be04ca1ecee61dcf68d3",
+      "bytes": 25103,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/ClanWarTower_Red_C.png"
+    },
+    {
+      "guid": "07ce423003cc8164b8f3ef6936f1d3a3",
+      "bytes": 47073,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/AO/RoleAO/RoleAOTex.png"
+    },
+    {
+      "guid": "20041d436da0ffb41a85611f36961ccd",
+      "bytes": 86080,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/ClanWarTower_Lv2 1.fbx"
+    },
+    {
+      "guid": "2155f3ef25ce5744aade0ee5f708ab03",
+      "bytes": 86160,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/ClanWarTower_Lv2.fbx"
+    },
+    {
+      "guid": "263d5c613c779d342a61d59e263c2209",
+      "bytes": 196652,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Noise_101_Tex.tga"
+    },
+    {
+      "guid": "2e0ad166a6f904a4cbe5c1a77fccce86",
+      "bytes": 20131,
+      "path": "Assets/ArtResource/Environment/TerrainAssets/Texture/Dec_Ramp_01_C.png"
+    },
+    {
+      "guid": "357cbcf27f1438d4f85d4c496a3a92ae",
+      "bytes": 84688,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/ClanWarTower_Lv1.fbx"
+    },
+    {
+      "guid": "3d24a369d15126841a4d1fd9e05d3643",
+      "bytes": 20131,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/Dec_Ramp/Dec_Ramp_01_C.png"
+    },
+    {
+      "guid": "4072c668bae06714cbdb7862015890fb",
+      "bytes": 25023,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/ClanWarTower_Blue_C.png"
+    },
+    {
+      "guid": "47f95d4c0e560cd458882839c92b027f",
+      "bytes": 109408,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/ClanWarTower_Lv6.fbx"
+    },
+    {
+      "guid": "4db5bab27ad86a641af79bf4b0ad0578",
+      "bytes": 87376,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/ClanWarTower_Lv5.fbx"
+    },
+    {
+      "guid": "595d94cc57362a944bd55db7b79bde8a",
+      "bytes": 8261,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanWarTower_Blue_Mat.mat"
+    },
+    {
+      "guid": "5fc0da9da2df93e47af536862dac3cdb",
+      "bytes": 23750,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/RaidMat.shader"
+    },
+    {
+      "guid": "656d11f871fc0f94d8f746a2a95b0157",
+      "bytes": 89856,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/ClanWarTower_Lv3 1.fbx"
+    },
+    {
+      "guid": "674231e2d2bcdcb47ba308bde1f80d2d",
+      "bytes": 188688,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/ClanWarTower_Lv7.fbx"
+    },
+    {
+      "guid": "6d7c0f90f318e0247b6cc6823f6162fe",
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle"
+    },
+    {
+      "guid": "7a06173713d46d44582c7c6df31cb55d",
+      "bytes": 7595,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanWarTower_Red_Mat.mat"
+    },
+    {
+      "guid": "834deb17090391b48b6858b3b78dc82f",
+      "bytes": 89680,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/ClanWarTower_Lv3.fbx"
+    },
+    {
+      "guid": "8ac5887598b9ac94fa555073b985b6af",
+      "bytes": 76800,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/Gate.fbx"
+    },
+    {
+      "guid": "af5515bfe14f1af4a9b8b3bf306b9261",
+      "bytes": 44236,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_NoTileNoise.png"
+    },
+    {
+      "guid": "bccfd41a2a8cf23459a76e93792e361d",
+      "bytes": 42088,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/ClanWar/Texture/BaseWaterFoam_C.png"
+    },
+    {
+      "guid": "c7ebf3fa400d79545a8919db019ffba2",
+      "bytes": 120320,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/Watchtower.fbx"
+    },
+    {
+      "guid": "ccad9b0732473ee4e95de81e50e9050f",
+      "bytes": 174,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_Ramp_UnityGradient.png"
+    },
+    {
+      "guid": "e536390ccc1c05d46b96ed6b679268c3",
+      "bytes": 94424,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/ClanWar/Shader/SceneCommon.shader"
+    },
+    {
+      "guid": "ef65a5caf96f04c44b77c664e28d4fa9",
+      "bytes": 144206,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/Clan_Red_C.png"
+    },
+    {
+      "guid": "f059f76a52d0b374c85c681ed571185e",
+      "bytes": 12046,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_DitherPattern_BlueNoise_64.png"
+    },
+    {
+      "guid": "fbe30bef0743fe544966cbcb6b35172f",
+      "bytes": 98160,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/ClanWarTower_Lv4.fbx"
+    }
+  ],
+  "types": {
+    ".png": 10,
+    ".fbx": 11,
+    ".tga": 1,
+    ".mat": 2,
+    ".shader": 2,
+    "": 1
+  },
+  "scenes": []
+}

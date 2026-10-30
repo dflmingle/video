@@ -1,0 +1,116 @@
+{
+  "path": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-10\\新贴图Unity包.unitypackage",
+  "bytes": 3314601,
+  "entries": [
+    {
+      "guid": "10c36a8ce1de2124387e77cc78691579",
+      "bytes": 112491,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/狮鹫骑士/GriffinKnight_C2.png"
+    },
+    {
+      "guid": "114550d5286fcfd46ab219910b769a88",
+      "bytes": 237583,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/皇家猎手/Shotgunner_C1.png"
+    },
+    {
+      "guid": "11853cd46f3f3c34b85d02bbfc7d46d3",
+      "bytes": 69108,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/连枷/Flail_C2.png"
+    },
+    {
+      "guid": "1a4d25ecdfd752f4c95a6c916b7f10be",
+      "bytes": 472065,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/皇家猎手.zip"
+    },
+    {
+      "guid": "303be61f7f12e6e49af0ce0226515bab",
+      "bytes": 335053,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/黑骑士(1).zip"
+    },
+    {
+      "guid": "3b2422460d8205d44858b2d0be3a3c98",
+      "bytes": 340449,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/黑骑士(2).zip"
+    },
+    {
+      "guid": "3c5f7bb98c1a2f644b4e920190d47e5d",
+      "bytes": 29034,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/Blue_C 1.png"
+    },
+    {
+      "guid": "3dad0d87d5e907b45ab9460122235f5d",
+      "bytes": 160726,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/黑骑士(2)/BlackKnight_C1.png"
+    },
+    {
+      "guid": "4617e0705d792f843be8087fc655e90c",
+      "bytes": 388997,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/散弹枪(1).zip"
+    },
+    {
+      "guid": "5654c81b29b1fcc4e945a096606d3d75",
+      "bytes": 28938,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/Red_C.png"
+    },
+    {
+      "guid": "6a1cb18cf234fda47ab65a9fecc73865",
+      "path": "Assets/20261019-跨河强渡战役/新贴图/黑骑士(2)"
+    },
+    {
+      "guid": "6e7fecfe05793924992ebef0b04ee3a3",
+      "path": "Assets/20261019-跨河强渡战役/新贴图/狮鹫骑士"
+    },
+    {
+      "guid": "6fb83d81e299c2d42bbfa473656c136a",
+      "bytes": 112772,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/狮鹫骑士/GriffinKnight_C1.png"
+    },
+    {
+      "guid": "7651035c89f08bc4a9d8bdee4175bad6",
+      "path": "Assets/20261019-跨河强渡战役/新贴图/皇家猎手"
+    },
+    {
+      "guid": "7ecc094fbaee2f0408548bdd9c9ceb3d",
+      "path": "Assets/20261019-跨河强渡战役/新贴图"
+    },
+    {
+      "guid": "95a5f67df03520744862fefa47d82f48",
+      "bytes": 234585,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/皇家猎手/Shotgunner_C2.png"
+    },
+    {
+      "guid": "a3e2007169f5eac4bbaaddda077e748f",
+      "bytes": 204229,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/散弹枪(1)/Shotgunner_C1.png"
+    },
+    {
+      "guid": "a8c8a092c5664e147864f24ff0674ba5",
+      "path": "Assets/20261019-跨河强渡战役/新贴图/散弹枪(1)"
+    },
+    {
+      "guid": "bd66932e700971049a330e8962b79cf5",
+      "bytes": 185731,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/散弹枪(1)/Shotgunner_C2.png"
+    },
+    {
+      "guid": "d32f3311b36c29d4895b37824f15d064",
+      "bytes": 166845,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/黑骑士(2)/BlackKnight_C2.png"
+    },
+    {
+      "guid": "dcf39966af34334408b4eb2147e9740b",
+      "bytes": 95346,
+      "path": "Assets/20261019-跨河强渡战役/新贴图/连枷/Flail_C1.png"
+    },
+    {
+      "guid": "eaaed9ecaec9a224e9473b4c12e20a26",
+      "path": "Assets/20261019-跨河强渡战役/新贴图/连枷"
+    }
+  ],
+  "types": {
+    ".png": 12,
+    ".zip": 4,
+    "": 6
+  },
+  "scenes": []
+}

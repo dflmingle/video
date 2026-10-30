@@ -1,0 +1,698 @@
+{
+  "path": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-10\\角色资源.unitypackage",
+  "bytes": 329330205,
+  "entries": [
+    {
+      "guid": "098c53a831508784da596d252b4c931b",
+      "bytes": 937171,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/特效/狼牙兵展示特效.unitypackage"
+    },
+    {
+      "guid": "09c0441d8e9e9df4a94255ae1ee304d2",
+      "bytes": 482478,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/特效/重锤卫士特效.unitypackage"
+    },
+    {
+      "guid": "0a31b07047c2c4d4ca3fc9d15e001c9e",
+      "bytes": 97776,
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/Mod_BlackKnight_01.fbx"
+    },
+    {
+      "guid": "0e58d7e1c408cf34e92c57d65766bbc0",
+      "bytes": 341,
+      "path": "Assets/20261019-跨河强渡战役/831_大炮战车/模型动画/白蓝色角色帧数 再加动作.txt"
+    },
+    {
+      "guid": "0f9492ff636171245b4d8bb0817da422",
+      "bytes": 24103,
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/帧数.png"
+    },
+    {
+      "guid": "11665bef00266e244ab054bae1d302d9",
+      "bytes": 2018528,
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/GriffinKnight.fbx"
+    },
+    {
+      "guid": "159a7855d2ee8ac429116bb70f7837a8",
+      "path": "Assets/20261019-跨河强渡战役/831_大炮战车"
+    },
+    {
+      "guid": "17bc0ddac1db9af4e9cad90bf3f75506",
+      "bytes": 64742,
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/效果图.png"
+    },
+    {
+      "guid": "1917bc95b401d76439e9c9c7223668dd",
+      "bytes": 2218544,
+      "path": "Assets/20261019-跨河强渡战役/841_骑士/模型动画/Knight.fbx"
+    },
+    {
+      "guid": "1998cd43f63c73544bb485c0a9bdd224",
+      "bytes": 89201147,
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/源文件/黑骑士（展示页）.spp"
+    },
+    {
+      "guid": "1bb97b2ad6e008b4498e31338148e031",
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士/动作模型"
+    },
+    {
+      "guid": "1d304ca4a62604448a53c884bb17be98",
+      "bytes": 112266,
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/GriffinKnight_C.png"
+    },
+    {
+      "guid": "1e68d41cf16654448824f49c5a01bd8e",
+      "bytes": 2265088,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail@Skin.max"
+    },
+    {
+      "guid": "1ed5455854b60f847b29ae4aa1a669f2",
+      "bytes": 69472,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/增加细节/Shotgunner.fbx"
+    },
+    {
+      "guid": "1f1ee9d5f401c1740a47add954975b2a",
+      "bytes": 1252629,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/特效/连枷特效.unitypackage"
+    },
+    {
+      "guid": "1f75f2edcd8d8ac4b80fec643efd2a16",
+      "bytes": 3473408,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/流星锤 新模型.max"
+    },
+    {
+      "guid": "1fc6e67261252c64ea3f153b2496d1e0",
+      "bytes": 1113330,
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/神话死亡_1.mp4"
+    },
+    {
+      "guid": "2488b665a01888f4c838ab26c08c05e0",
+      "bytes": 6189945,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/特效/狼牙兵展示特效.mp4"
+    },
+    {
+      "guid": "25d79c1719323484ba65b01ac4fef4bf",
+      "bytes": 260048,
+      "path": "Assets/20261019-跨河强渡战役/831_大炮战车/模型动画/CannonChariot.fbx"
+    },
+    {
+      "guid": "266d65d37b26f0c4c8a68e716624ece2",
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/模型动画"
+    },
+    {
+      "guid": "2939aee9e57ddd245b92b1fe02df63c7",
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight"
+    },
+    {
+      "guid": "29f524691911b6f45aacc45241c33683",
+      "bytes": 473599,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/特效/重锤卫士特效.mp4"
+    },
+    {
+      "guid": "2acbd6d3fe1610343a3a2a846e0f3cdf",
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士/模型源文件"
+    },
+    {
+      "guid": "2f16e02bde5b078449dfd0fd37110a29",
+      "bytes": 742758,
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/特效/狮鹫骑士特效优化.mp4"
+    },
+    {
+      "guid": "321b521d9e334b140ab2ae54e80352e0",
+      "bytes": 63248,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_New.fbx"
+    },
+    {
+      "guid": "34b2105874fc4a6458a63fd8c8815bc7",
+      "bytes": 3012944,
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型源文件/GriffinKnight.FBX"
+    },
+    {
+      "guid": "367f2e4f49eb942448ee25c5b177f541",
+      "bytes": 116711,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/V02/Shotgunner_C.png"
+    },
+    {
+      "guid": "381ce1aa810e8144f9cb974936c9b3ff",
+      "bytes": 1474560,
+      "path": "Assets/20261019-跨河强渡战役/841_骑士/模型动画/Knight@Skin.max"
+    },
+    {
+      "guid": "39dee29e2d4d6ab44ab22f9c8dbcad08",
+      "path": "Assets/20261019-跨河强渡战役/841_骑士/模型动画"
+    },
+    {
+      "guid": "39f968297429c114d82daa11f176d6ca",
+      "path": "Assets/20261019-跨河强渡战役/635_连枷"
+    },
+    {
+      "guid": "3a5511ebd1042944e9049fbedbf03392",
+      "bytes": 26676,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/效果图.png"
+    },
+    {
+      "guid": "3b07bdf3e5043444b9b53e1fce2e775a",
+      "bytes": 3145713,
+      "path": "Assets/20261019-跨河强渡战役/833_铁卫战车/模型动画/参考 (954).mp4"
+    },
+    {
+      "guid": "3eebda07a3fdddd418cffc4b8e74d7f3",
+      "bytes": 50592,
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士/动作模型/Mod_BlackKnight_01.fbx"
+    },
+    {
+      "guid": "42c003af26633c347bd26ccdf510e806",
+      "bytes": 113013,
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型源文件/GriffinKnight_C.png"
+    },
+    {
+      "guid": "45d160b19fbba3840a3b1c6c1ea3ab08",
+      "bytes": 238,
+      "path": "Assets/20261019-跨河强渡战役/833_铁卫战车/模型动画/帧数.txt"
+    },
+    {
+      "guid": "4aff017a533d417478a4e67ebd28ffbd",
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型"
+    },
+    {
+      "guid": "4b7002e9f32f7c040bfcce0dca618bd6",
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士"
+    },
+    {
+      "guid": "4e426ec3b5f16de41b88da552380357f",
+      "bytes": 72566,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_New_C.png"
+    },
+    {
+      "guid": "4e6f6d7f5402c7b48b97882d8e78481c",
+      "bytes": 195940,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_C.png"
+    },
+    {
+      "guid": "50c7a401cc04dda4da90d22bff6f8383",
+      "bytes": 113531,
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/BlackKnight_01_C.png"
+    },
+    {
+      "guid": "53afdac34a455e545987579a21dce843",
+      "bytes": 1482752,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/Shotgunner@Skin.max"
+    },
+    {
+      "guid": "545282bd7c941fa4584eaa0525bdba83",
+      "bytes": 530288,
+      "path": "Assets/20261019-跨河强渡战役/833_铁卫战车/模型动画/GuardChario.fbx"
+    },
+    {
+      "guid": "5754e221156e34f4d9ee77070b2e0d5a",
+      "path": "Assets/20261019-跨河强渡战役/841_骑士"
+    },
+    {
+      "guid": "5abe5eb0661d55d4cbc2e2bc7073ac76",
+      "bytes": 524432,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/V02/Shotgunner.fbx"
+    },
+    {
+      "guid": "5b8f384fc3ab4284eb9fad95566023fa",
+      "bytes": 67248871,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/源文件/冰雪老人、皇家猎手、皇家守卫.spp"
+    },
+    {
+      "guid": "5d6413d2b1830ee4ea1b8c3574ba5e56",
+      "bytes": 2281941,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/演示视频.mp4"
+    },
+    {
+      "guid": "60b2f581e4c866641a190486de2be354",
+      "bytes": 2147723,
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/演示视频.mp4"
+    },
+    {
+      "guid": "65951361c2b40c6499b6354babcda3e3",
+      "bytes": 75209,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/StarvingDec/Texture/Noise 20.png"
+    },
+    {
+      "guid": "65c7d2610461bf3429c09375fdf02409",
+      "bytes": 1122016,
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/BlackKnight_01.fbx"
+    },
+    {
+      "guid": "6c52bbcbe96120a419c8df6b72a89760",
+      "bytes": 1229424,
+      "path": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/旧/Shotgunner.fbx"
+    },
+    {
+      "guid": "6fcf62ac236fc674a87c84a18aabc28c",
+      "bytes": 1509881,
+      "path": "Assets/20261019-跨河强渡战役/831_大炮战车/特效/大炮战车特效.unitypackage"
+    },
+    {
+      "guid": "706947d98b4848d4da1863e4d39c75c0",
+      "bytes": 878154,
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/黑骑士.png"
+    },
+    {
+      "guid": "711dddbf3515585439684751bdc07d59",
+      "bytes": 548880,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/Shotgunner.fbx"
+    },
+    {
+      "guid": "718e680b717f7bc4cac1d29dbbf4388c",
+      "bytes": 4721,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_Mat 1.mat"
+    },
+    {
+      "guid": "73144c561b743ec48bac59104786ae70",
+      "path": "Assets/20261019-跨河强渡战役/831_大炮战车/模型动画"
+    },
+    {
+      "guid": "744820e554d939e4fbb144b79d4506f2",
+      "bytes": 829952,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail.fbx"
+    },
+    {
+      "guid": "745ef81807a49c5498697ab82109ee3c",
+      "bytes": 3145713,
+      "path": "Assets/20261019-跨河强渡战役/831_大炮战车/模型动画/演示视频.mp4"
+    },
+    {
+      "guid": "746e04250a6748542bde166a28a8d20d",
+      "bytes": 23750,
+      "path": "Assets/BattleAnimationController/Effects/Shaders(有报错删除这个就好)/RaidMat.shader"
+    },
+    {
+      "guid": "75770be5ba0b79941a452735150fe546",
+      "path": "Assets/20261019-跨河强渡战役"
+    },
+    {
+      "guid": "7603d62b6515d344b83518427050f97c",
+      "bytes": 22062158,
+      "path": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/参考 (1015).mp4"
+    },
+    {
+      "guid": "7646fb9d6d0c82546b9c7c0de5c98d1d",
+      "bytes": 95218,
+      "path": "Assets/20261019-跨河强渡战役/833_铁卫战车/特效/铁卫战车特效02.unitypackage"
+    },
+    {
+      "guid": "787f14a01912c144496f3f8d1d168c5f",
+      "path": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/旧"
+    },
+    {
+      "guid": "7c8dd884d9248164cb3fbfa3af95bb7b",
+      "bytes": 24533,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_C 1.png"
+    },
+    {
+      "guid": "80ada9b853b10c2499eaec9e3617a96f",
+      "bytes": 47023,
+      "path": "Assets/20261019-跨河强渡战役/841_骑士/模型动画/帧数.png"
+    },
+    {
+      "guid": "818d23f2c5a58bd4b8c01bf359e87c4b",
+      "bytes": 341,
+      "path": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/白蓝色角色帧数 再加动作.txt"
+    },
+    {
+      "guid": "835a226962c3b2f45a22dd1b48f587f5",
+      "bytes": 46560,
+      "path": "Assets/20261019-跨河强渡战役/629_散弹枪/V1/Shotgunner.fbx"
+    },
+    {
+      "guid": "85fb2cce68ee8d14a82b74bf89f7ad85",
+      "bytes": 2904064,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail.max"
+    },
+    {
+      "guid": "867f1b029539463448dcbb646e1d52cd",
+      "bytes": 341,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/白蓝色角色帧数 再加动作.txt"
+    },
+    {
+      "guid": "8832034e54f1f254aa5df39cb33d90e3",
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/源文件"
+    },
+    {
+      "guid": "8c24fdb36a378b743939dee439f6a9af",
+      "bytes": 1183108,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/特效/皇家猎手动效演示.mp4"
+    },
+    {
+      "guid": "8cb3612d373897b4291044eb8244c5d0",
+      "bytes": 3178496,
+      "path": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/狼牙棒.max"
+    },
+    {
+      "guid": "8e1abd7268cafcd42b60944f73d3ccd6",
+      "bytes": 2463280,
+      "path": "Assets/20261019-跨河强渡战役/841_骑士/模型动画/演示视频.mp4"
+    },
+    {
+      "guid": "8ed4fabee8a967b4f87a64efc1c357be",
+      "bytes": 33012295,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/源文件/皇家猎手.spp"
+    },
+    {
+      "guid": "90a088fd9fca0834995b7b7bc09db64c",
+      "bytes": 44331,
+      "path": "Assets/20261019-跨河强渡战役/833_铁卫战车/效果图.png"
+    },
+    {
+      "guid": "90aa0d0c813ad844ea3dc99c89ab5467",
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士"
+    },
+    {
+      "guid": "9358bf34a9417444bb805b709ad0b6af",
+      "bytes": 14454,
+      "path": "Assets/20250513-Rising-防御撤退-镜糕&Sherry/623_炸弹人/V1/Blue_C.png"
+    },
+    {
+      "guid": "98f8657ba4554b14489e72ccf5f4dc29",
+      "path": "Assets/20261019-跨河强渡战役/833_铁卫战车"
+    },
+    {
+      "guid": "991969d9ba2b62c4f990828ae0c301b8",
+      "bytes": 23071,
+      "path": "Assets/20261019-跨河强渡战役/831_大炮战车/效果图.png"
+    },
+    {
+      "guid": "999cd22a0e6a04b4b99cb4aa8f676e0b",
+      "bytes": 3895296,
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/GriffinKnight.max"
+    },
+    {
+      "guid": "99a08684ff7cc6f4f8a933bdb7aff2cc",
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/特效"
+    },
+    {
+      "guid": "99c19c628ea57a14f8fc81dc49eb922d",
+      "bytes": 1333184,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/Flail.fbx"
+    },
+    {
+      "guid": "a2138ad24a0818642b8d3873d6a9715e",
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画"
+    },
+    {
+      "guid": "a330ccfbf6e08ce4b9c707fc99f0250d",
+      "bytes": 1114112,
+      "path": "Assets/20261019-跨河强渡战役/831_大炮战车/模型动画/大炮车.max"
+    },
+    {
+      "guid": "a39c03179e15a7740a3f3c3773565f81",
+      "path": "Assets/20261019-跨河强渡战役/629_散弹枪"
+    },
+    {
+      "guid": "a4faa30ff97fa9f4e8476d2ae15a045c",
+      "bytes": 331160,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/皇家猎手.png"
+    },
+    {
+      "guid": "a7c92b0125bb3284cb9eee9bbf5c3b0b",
+      "bytes": 5992,
+      "path": "Assets/000/素材/700_剑士/蓝色.mat"
+    },
+    {
+      "guid": "ab70d03425e79e84bbb1458b9a849ca6",
+      "bytes": 1675264,
+      "path": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/旧/Shotgunner.max"
+    },
+    {
+      "guid": "abc60e6dc133ed5478874168ed692575",
+      "bytes": 1757184,
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/hqs01@Skin.max"
+    },
+    {
+      "guid": "ac543c38418c41447bb7a6a92c708e1b",
+      "bytes": 1110602,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/特效/皇家猎手动效.unitypackage"
+    },
+    {
+      "guid": "acac5b3ad4f40924c845d701d9294ca2",
+      "bytes": 2125974,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/演示视频.mp4"
+    },
+    {
+      "guid": "ad35c9bf962f8ed4cbf3465300220d43",
+      "bytes": 2248704,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/狼牙棒.max"
+    },
+    {
+      "guid": "ae238f6a3ccb482458f225e6a5b94372",
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/源文件"
+    },
+    {
+      "guid": "ae25a4702e87ed64bb8a0652df28e2dd",
+      "path": "Assets/20261019-跨河强渡战役/831_大炮战车/特效"
+    },
+    {
+      "guid": "af5515bfe14f1af4a9b8b3bf306b9261",
+      "bytes": 44236,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_NoTileNoise.png"
+    },
+    {
+      "guid": "b44d34fe2e24c064f838f7f7e984e1a2",
+      "bytes": 2347008,
+      "path": "Assets/20261019-跨河强渡战役/841_骑士/模型动画/Knight.max"
+    },
+    {
+      "guid": "b63320cf584db0c45aea08b71f3abdb4",
+      "bytes": 26779,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/XiaoBin_Blue_Texture.png"
+    },
+    {
+      "guid": "b7eabde09e72aa94480ef98357c89a7c",
+      "bytes": 10029,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/狼牙兵.jpg"
+    },
+    {
+      "guid": "b9c9d04e53f825243a15f840e1a46fba",
+      "bytes": 2031616,
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/hqs01.max"
+    },
+    {
+      "guid": "bca26b0abc17aed498280970bab92d68",
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/增加细节"
+    },
+    {
+      "guid": "beeac0750c9f68c4fa29c34742c17f29",
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner"
+    },
+    {
+      "guid": "bfff095cdc94d394aa9426de870987cc",
+      "bytes": 1864047,
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/特效/狮鹫骑士特效优化.unitypackage"
+    },
+    {
+      "guid": "c163456c501534c418f32f9d1855e89d",
+      "path": "Assets/20261019-跨河强渡战役/629_散弹枪/V1"
+    },
+    {
+      "guid": "c617b8b05843a674ab417c8ef2e15cc8",
+      "path": "Assets/20261019-跨河强渡战役/833_铁卫战车/特效"
+    },
+    {
+      "guid": "c74ec904c5b1f93418d54bbd77ca9624",
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/V1"
+    },
+    {
+      "guid": "c785f64c3b9fc5844a74a08314799d3e",
+      "bytes": 1662976,
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/GriffinKnight@Skin.max"
+    },
+    {
+      "guid": "ccad9b0732473ee4e95de81e50e9050f",
+      "bytes": 174,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_Ramp_UnityGradient.png"
+    },
+    {
+      "guid": "cf7f69aa66ed73048a344d29d7230f89",
+      "bytes": 174283,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/增加细节/Shotgunner_C.png"
+    },
+    {
+      "guid": "cfcf9469b1bd59c40b7cab0e1052a8bf",
+      "bytes": 68635,
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士/动作模型/BlackKnight_01_C.png"
+    },
+    {
+      "guid": "d0191a4a14bad514aa6f93b9d2533908",
+      "bytes": 216768,
+      "path": "Assets/20261019-跨河强渡战役/833_铁卫战车/特效/铁卫战车特效.unitypackage"
+    },
+    {
+      "guid": "d03b732dd6ceb194a93b1c8e7aa81ced",
+      "bytes": 29739,
+      "path": "Assets/20261019-跨河强渡战役/20261019-跨河强渡战役.unity"
+    },
+    {
+      "guid": "d25cc06ffe4ee4543b2ec4dcbc52e13a",
+      "bytes": 2937537,
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/演示视频.mp4"
+    },
+    {
+      "guid": "d29052d27ec9b914783c4958acae9be6",
+      "path": "Assets/20261019-跨河强渡战役/833_铁卫战车/模型动画"
+    },
+    {
+      "guid": "d50b33d004d278c41b2da96639018e96",
+      "bytes": 12911,
+      "path": "Assets/20261019-跨河强渡战役/629_散弹枪/效果图.png"
+    },
+    {
+      "guid": "d84f1f39583a12d4782b093ebff379e0",
+      "bytes": 24533,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_C.png"
+    },
+    {
+      "guid": "d8b2497bb4b717e41a178fde2227ed98",
+      "bytes": 97113,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/V1/Flail_A.png"
+    },
+    {
+      "guid": "da2b16117a345ca469e7fb428c9441ea",
+      "bytes": 1613824,
+      "path": "Assets/20261019-跨河强渡战役/833_铁卫战车/模型动画/运兵车.max"
+    },
+    {
+      "guid": "dd320934e90817941adaff9875eadff0",
+      "path": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型"
+    },
+    {
+      "guid": "e0fa0ce96cbf07c44bdd0a77cb56af40",
+      "bytes": 1151808,
+      "path": "Assets/000/素材/700_剑士/Infantry.fbx"
+    },
+    {
+      "guid": "e105ace67cb7af34088cc8bc5e3e0456",
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧"
+    },
+    {
+      "guid": "e12e58ca1f64c014f9ea009ce4b081ad",
+      "bytes": 56128,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/V1/Flail.fbx"
+    },
+    {
+      "guid": "e1798441dcfb98d45bd744821f4e42a5",
+      "bytes": 10463815,
+      "path": "Assets/20261019-跨河强渡战役/831_大炮战车/特效/大炮战车特效.mp4"
+    },
+    {
+      "guid": "e516292d116c1f145b875f831d12aabe",
+      "bytes": 32263173,
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士/模型源文件/黑骑士、.spp"
+    },
+    {
+      "guid": "e69224b493f37b44e98be4491b172163",
+      "bytes": 49201,
+      "path": "Assets/20261019-跨河强渡战役/629_散弹枪/V1/Shotgunner_A.png"
+    },
+    {
+      "guid": "e9e3e73755497be46ac29f50ef7a0840",
+      "bytes": 174283,
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/Shotgunner_C.png"
+    },
+    {
+      "guid": "ea93003f89061884483e3e2e3b01e2da",
+      "bytes": 97033,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/V1/Flail_B.png"
+    },
+    {
+      "guid": "eaa381583b0553d418cc72635198bca9",
+      "bytes": 10463815,
+      "path": "Assets/20261019-跨河强渡战役/833_铁卫战车/特效/铁卫战车特效.mp4"
+    },
+    {
+      "guid": "ed439230204f85d4a8f3570f2b6b4013",
+      "bytes": 7079999,
+      "path": "Assets/20261019-跨河强渡战役/635_连枷/特效/连枷特效.mp4"
+    },
+    {
+      "guid": "edcc4e34ed97e5b4590f1a24ee0cb421",
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/特效"
+    },
+    {
+      "guid": "f059f76a52d0b374c85c681ed571185e",
+      "bytes": 12046,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_DitherPattern_BlueNoise_64.png"
+    },
+    {
+      "guid": "f0e0234c3cce98e4bb461063f8d843df",
+      "bytes": 821288,
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/武器掉落.mp4"
+    },
+    {
+      "guid": "f233272a140af0c4584e7910ba77b1ed",
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/特效"
+    },
+    {
+      "guid": "f7eb6f3704208374eb580c9ad0aa9fba",
+      "path": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/V02"
+    },
+    {
+      "guid": "f85797f0ea021f74aa780a93d6ec2d5c",
+      "bytes": 96012,
+      "path": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/旧/Shotgunner_C.png"
+    },
+    {
+      "guid": "f8a3c171157b8a843989ae75fa365ac9",
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画"
+    },
+    {
+      "guid": "f8faae058101b4544ba77889f5f869bc",
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型源文件"
+    },
+    {
+      "guid": "fb2389038ab6d4f409f6a584ca067ffd",
+      "bytes": 26052,
+      "path": "Assets/20261019-跨河强渡战役/841_骑士/效果图.png"
+    },
+    {
+      "guid": "fba806229b400f3438fe44a4354109f4",
+      "bytes": 37480,
+      "path": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/帧数.png"
+    },
+    {
+      "guid": "fdb0ca6b4cf75794790af728002fe279",
+      "bytes": 47220,
+      "path": "Assets/20261019-跨河强渡战役/629_散弹枪/V1/Shotgunner_B.png"
+    },
+    {
+      "guid": "ff38a6a486dea944996290e2edc1860c",
+      "bytes": 49865455,
+      "path": "Assets/20261019-跨河强渡战役/794_黑骑士/模型源文件/黑骑士（局内）.spp"
+    },
+    {
+      "guid": "ff71f3653a3a9b8419b58526c79e1095",
+      "bytes": 14454,
+      "path": "Assets/000/素材/700_剑士/Blue_C.png"
+    },
+    {
+      "guid": "ffcf2784aa2ac344ea22d439d300b22c",
+      "bytes": 1150448,
+      "path": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/Shotgunner.fbx"
+    }
+  ],
+  "types": {
+    ".unitypackage": 8,
+    ".fbx": 19,
+    ".txt": 4,
+    ".png": 34,
+    "": 34,
+    ".spp": 5,
+    ".max": 15,
+    ".mp4": 17,
+    ".mat": 2,
+    ".shader": 1,
+    ".jpg": 1,
+    ".unity": 1
+  },
+  "scenes": [
+    {
+      "guid": "d03b732dd6ceb194a93b1c8e7aa81ced",
+      "bytes": 29739,
+      "path": "Assets/20261019-跨河强渡战役/20261019-跨河强渡战役.unity"
+    }
+  ]
+}

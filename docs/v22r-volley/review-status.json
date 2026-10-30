@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-30",
+  "baseline": "b595e1a",
+  "stage": "LOW_COST_PREVIEW_ONLY",
+  "finalRendered": false,
+  "sceneChanged": false,
+  "cameraChanged": false,
+  "normalSpeedWholeVideoVisualReview": false,
+  "assistantMethod": "Browser screenshots and decoded MP4 timeline/consecutive frames",
+  "candidates": [
+    {
+      "label": "A",
+      "duration": 3.0,
+      "numericSafety": "PASS",
+      "visualAcceptance": "FAIL",
+      "reason": "Red crowd congestion and loss of squad silhouette; dominant live red speeds very low after 2s",
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-volley\\V22R-A-3.0s-preview-720x1080-60fps.mp4"
+    },
+    {
+      "label": "B",
+      "duration": 3.5,
+      "numericSafety": "PASS",
+      "visualAcceptance": "FAIL",
+      "reason": "Red crowd congestion and loss of squad silhouette; dominant live red speeds very low after 2s",
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-volley\\V22R-B-3.5s-preview-720x1080-60fps.mp4"
+    },
+    {
+      "label": "C",
+      "duration": 4.0,
+      "numericSafety": "PASS",
+      "visualAcceptance": "FAIL",
+      "reason": "Red crowd congestion and loss of squad silhouette; dominant live red speeds very low after 2s",
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-volley\\V22R-C-4.0s-preview-720x1080-60fps.mp4"
+    }
+  ],
+  "nextGate": "Do not promote these previews to a final render; crowd appearance has not passed",
+  "additionalLayoutChecks": [
+    {
+      "label": "R2",
+      "redCenterX": -11,
+      "orangeCenterX": 12,
+      "redFront": -11.4,
+      "orangeFront": -3,
+      "redInitialObstacleConflicts": 12,
+      "orangeInitialObstacleConflicts": 9,
+      "decision": "REJECTED_BEFORE_SIMULATION"
+    },
+    {
+      "label": "R3",
+      "redCenterX": -12,
+      "orangeCenterX": 11,
+      "redFront": -11.4,
+      "orangeFront": -3,
+      "redInitialObstacleConflicts": 13,
+      "orangeInitialObstacleConflicts": 8,
+      "decision": "REJECTED_BEFORE_SIMULATION"
+    }
+  ]
+}

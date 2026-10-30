@@ -1,0 +1,33 @@
+{
+  "files": [
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-duration-only\\V22R-duration-only-safe-replay-2.2s-1440x2160-60fps.mp4",
+      "frames": 132,
+      "fps": 60.0,
+      "width": 1440,
+      "height": 2160,
+      "duration": 2.2,
+      "sha256": "8be330761dd01f0b5b167fd3a79c6235f12fe2f016b954647339fc9093db035b"
+    },
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-duration-only\\V22R-original-vs-duration-only-common-2.2s-60fps.mp4",
+      "frames": 132,
+      "fps": 60.0,
+      "width": 960,
+      "height": 752,
+      "duration": 2.2,
+      "sha256": "9dd5b7eccdbf87dc133b3b218810af38a01d8371aa2abfd5c9e45591e08e4c25"
+    }
+  ],
+  "all132FramesCompared": true,
+  "commonWorldAndEventsExact": true,
+  "sceneSetupExact": true,
+  "cameraEveryFrameExact": true,
+  "maximumMeanPixelDifference": 3.0114026063100137e-05,
+  "maximumChannelDifference": 9,
+  "pixelExactFrames": 0,
+  "pixelDifferenceNotHidden": true,
+  "tail2Point2To3Point5Generated": false,
+  "noRetimingOrLoop": true,
+  "visualReview": "Actual encoded samples and source frame differences; not a claim of full normal-speed visual viewing"
+}

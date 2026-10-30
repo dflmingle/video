@@ -1,0 +1,517 @@
+{
+  "sourceRoot": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5",
+  "isolatedProject": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit",
+  "prefab": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Feature\\CastleExterior\\CastleExterior_Grp.prefab",
+  "scene": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Feature\\CastleExterior\\CastleExterior.unity",
+  "copiedFiles": [
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Effects\\BattleUnit\\BattleUnit_51\\Low\\Textures\\08ce35de.png",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Effects\\BattleUnit\\BattleUnit_51\\Low\\Textures\\08ce35de.png",
+      "sha256": "b86be144213dbe4f3c0e17b210ccc6a30db2e6d923aa950584fde37856b44f02",
+      "bytes": 22000,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Castle_Mat.mat",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Castle_Mat.mat",
+      "sha256": "0eb91d57c7c03052c83edb18c06dd0015180005e591f97e9273666e1359e3a4f",
+      "bytes": 6197,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_DecB_Mat.mat",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_DecB_Mat.mat",
+      "sha256": "fc18d4f7bedc037d0a663ff95ebb99b1f390bef7b0ca1cff1c064058b6fc125c",
+      "bytes": 6212,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_DecD_Mat.mat",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_DecD_Mat.mat",
+      "sha256": "869bf0bc749f910e90dad52ec606600b6849994914b653925816a66cc8012d41",
+      "bytes": 6171,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Gird_Mat.mat",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Gird_Mat.mat",
+      "sha256": "f8cf1b7d8040bfbe2378a51680e2d0a2bcfd938aed44d388aaed69e07f703aca",
+      "bytes": 2200,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Land_Mat.mat",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Land_Mat.mat",
+      "sha256": "7551217df89d41339b204f347e946bc49679cd0dec016892c53bb17a32d5a1e1",
+      "bytes": 4528,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_LandB_Mat.mat",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_LandB_Mat.mat",
+      "sha256": "801971db51481650488ebb9c51b3b0616c8e8425e224bb1383276a2aeb96a6e1",
+      "bytes": 6177,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Mountain_Mat.mat",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Mountain_Mat.mat",
+      "sha256": "436a21b66a9e33d1e1dc5edd974cb1788f986309b21fa03646ee35c30e782e05",
+      "bytes": 6196,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_TreeB_Mat.mat",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_TreeB_Mat.mat",
+      "sha256": "c43a2b08a398789a378efa1719af420da3078f64c92b85b6401cbfcd5aa5dab7",
+      "bytes": 6192,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Arrow.fbx",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Arrow.fbx",
+      "sha256": "3e5a328f981613f519ea3685506479d5e39754c641cc43147f66f9ee0085bb00",
+      "bytes": 20080,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Building.fbx",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Building.fbx",
+      "sha256": "40cdfb625ba1bb777c3faab7c405f491b64bc9ceb085529a098b8de282b7c313",
+      "bytes": 86496,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Castle.fbx",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Castle.fbx",
+      "sha256": "add31ca06e04d6ee9d680e3691f9a9a70059f8afddf37f704a461da366939419",
+      "bytes": 470064,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Fence_01.fbx",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Fence_01.fbx",
+      "sha256": "b9ee2f86291d8f7cd42070030664aab2059df169de173e34cdbee6f415aec69e",
+      "bytes": 40080,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Fence_02.fbx",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Fence_02.fbx",
+      "sha256": "c3bf744238fe384eed29b3438619522ffd120b84c237824dd4e70e395a46e9c0",
+      "bytes": 34656,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Flag.fbx",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Flag.fbx",
+      "sha256": "0b7062096ab7e385d403ef6e8fdbb708eb1fee6a5cb29657b526def2e18cdf68",
+      "bytes": 26448,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Flower_03.fbx",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Flower_03.fbx",
+      "sha256": "eeca16663f1cc57b19a808d2efe58fce0aaa349be648594c528a8643bc72b03e",
+      "bytes": 26384,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Land.fbx",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Land.fbx",
+      "sha256": "4d9a87d2054a066f3d9b23dce57459fd5ef8105dec34b98fce0372a4f8f512aa",
+      "bytes": 36208,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Stakes_01.fbx",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Stakes_01.fbx",
+      "sha256": "74d637d523e9b949717147f1921bbad0583adc2add50a24454207fc4a17bd6c0",
+      "bytes": 23440,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Stakes_02.fbx",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Stakes_02.fbx",
+      "sha256": "bff60928b22e8756ebb0dbb2d6e75542b1ee9e64fe5d85828d16dc2188f871e9",
+      "bytes": 23392,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Tree_01.fbx",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Tree_01.fbx",
+      "sha256": "c2cbc416dda34fe8aa2eb5fc0646bcaa7d51aa3a38d7f41a5a6152c18aaf32a5",
+      "bytes": 30736,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Tree_02.fbx",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Tree_02.fbx",
+      "sha256": "9491aa9b0ece84713c2b49a3f988ac4e9e5901b76a7dd13aed3bb0c6e1fa8260",
+      "bytes": 30768,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Tree_03.fbx",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Tree_03.fbx",
+      "sha256": "9d80bafb391851eedd5e77a5e7433cc51bedd481a12d5609a8df21b333809eb6",
+      "bytes": 30800,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Flower_03.prefab",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Flower_03.prefab",
+      "sha256": "0c3102925b5c00e8a330bbe8725a0fa3c24d0e71ba1700c52eedb5151e6f8090",
+      "bytes": 4297,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Stakes_01.prefab",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Stakes_01.prefab",
+      "sha256": "34d1c58c5068225a2b013e9c8ddaa36e6159c7dffe806c8e51d8bd7ce610422e",
+      "bytes": 4303,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Stakes_02.prefab",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Stakes_02.prefab",
+      "sha256": "8ad0480ad59f8ff0ac098746e9143d8d2b42b0d250b59bda241c01c8187944e7",
+      "bytes": 4301,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Tree_01.prefab",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Tree_01.prefab",
+      "sha256": "29bc6523419b28fa06fa08cbaa41e130fdbf276838f913addded17039c2ce4f6",
+      "bytes": 4471,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Tree_02.prefab",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Tree_02.prefab",
+      "sha256": "088718597faf77915a753cba683cee68204f10455cbc741da0451cf56dc58ee6",
+      "bytes": 4275,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Tree_03.prefab",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Tree_03.prefab",
+      "sha256": "dfbcc056953f744cb7b85fdca739a73db6fdc6ae2113dd5ad78e7f723e77b60f",
+      "bytes": 4275,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Castle_C.png",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Castle_C.png",
+      "sha256": "a3643a36023d83892fe9d5c65d5301fe6c2c9c4ff17147c2d4f836768e075eb7",
+      "bytes": 168977,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_DecD_C.png",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_DecD_C.png",
+      "sha256": "120c310242d340377ff1a1f108d0801437fa86beb2b203022e31b984f8fafb0e",
+      "bytes": 218844,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Land_C.png",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Land_C.png",
+      "sha256": "a32e7e935c32d55e982dafdd86d1d0d37220fd960eaaf5cf260bbf09a8fef466",
+      "bytes": 254577,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Mountain_C.png",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Mountain_C.png",
+      "sha256": "80f9c05db881ec28a9eec09f49669fcbf8954ca1512828eb47adf35d9a7fe713",
+      "bytes": 284765,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Tree_C.png",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Tree_C.png",
+      "sha256": "0ab6d3cd115b8b8b3dc62aa9a3b59f2b5742140a8e4eecf0525e7271bf498514",
+      "bytes": 370770,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_TreeB_C.png",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_TreeB_C.png",
+      "sha256": "b11bd365c2a80af237aaec3fb9038c283f9ec1fa035ced68caea94a6f60d587b",
+      "bytes": 242251,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Wood_C.png",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Wood_C.png",
+      "sha256": "d8faf34d72a0a1b90eb3b60a90b3b2e1344a25e826767b95509f22ea0dde8636",
+      "bytes": 27923,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\Dec_Ramp\\Dec_Ramp_01_C.png",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\Dec_Ramp\\Dec_Ramp_01_C.png",
+      "sha256": "7976e2db4d2447e96284ad710d2795193c383841e0f0484b158d3987f21b0e8d",
+      "bytes": 20131,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\SnowBridge\\Mesh\\SnowBridge_Gird.fbx",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Common\\SnowBridge\\Mesh\\SnowBridge_Gird.fbx",
+      "sha256": "76e2a535b233094fbe9f68fb9821adb03512ec3a659cbfc80d37d427b001f9d3",
+      "bytes": 18192,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Feature\\CastleExterior\\CastleExterior.unity",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Feature\\CastleExterior\\CastleExterior.unity",
+      "sha256": "16a8276847b99c41fbfa9e24360f8c5b9b8553f5b6c013e336dc14dac4ba8067",
+      "bytes": 6783790,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Environment\\Feature\\CastleExterior\\CastleExterior_Grp.prefab",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Environment\\Feature\\CastleExterior\\CastleExterior_Grp.prefab",
+      "sha256": "f83d60ff452b4a1ab68ac644fec3c068ae57bf2f764c529c5539c7eed743b436",
+      "bytes": 113415,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Fbx\\AO\\RoleAO\\RoleAOTex.png",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Fbx\\AO\\RoleAO\\RoleAOTex.png",
+      "sha256": "290293a11906a965394d942634db828491f3e8074c74a973a9dd61eb7b2e2b44",
+      "bytes": 47073,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Shaders\\DecShadow.shader",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Shaders\\DecShadow.shader",
+      "sha256": "1fdddfde72fb42d35d6883bc3112cace6e37be1d8c52d20ae9cfee2f9fa27b8d",
+      "bytes": 28429,
+      "copyMatches": true
+    },
+    {
+      "source": "C:\\Users\\89trillion\\Desktop\\WFL\\LockstepGameEngineV1_5\\Assets\\ArtOfWar-II_Art\\Shaders\\Grid.shader",
+      "copy": "C:\\Users\\89trillion\\PveMontageShot01V22R-SceneAudit\\Assets\\ArtOfWar-II_Art\\Shaders\\Grid.shader",
+      "sha256": "8c87011c3c785e0b7fe2d3fa2fed3c728fbd689b61ff352637125b5e90222f3e",
+      "bytes": 4098,
+      "copyMatches": true
+    }
+  ],
+  "types": {
+    ".png": 10,
+    ".mat": 8,
+    ".fbx": 14,
+    ".prefab": 7,
+    ".unity": 1,
+    ".shader": 2
+  },
+  "references": {
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Castle.fbx": {
+      "a0107bd6bd505ec4394239b4297c185a": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Castle_Mat.mat",
+      "430634d768ed6f54dbf0bd262f21043b": null,
+      "2ee7357a643244545a3232aa4baef98c": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Castle.fbx",
+      "3b5f1fbacd9794047a58d0d7f763111e": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Mountain_Mat.mat"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Mountain_Mat.mat": {
+      "df6ad644d14bead46999a6887b3d6240": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Wood_C.png",
+      "6e46eb022277fe44eb5eeb162a4551b4": "Assets\\ArtOfWar-II_Art\\Shaders\\DecShadow.shader",
+      "4a1838d9444682546a2502a7c323eec0": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Mountain_C.png",
+      "3b5f1fbacd9794047a58d0d7f763111e": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Mountain_Mat.mat",
+      "d0353a89b1f911e48b9e16bdc9f2e058": null,
+      "07ce423003cc8164b8f3ef6936f1d3a3": "Assets\\ArtOfWar-II_Art\\Fbx\\AO\\RoleAO\\RoleAOTex.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Fbx\\AO\\RoleAO\\RoleAOTex.png": {
+      "07ce423003cc8164b8f3ef6936f1d3a3": "Assets\\ArtOfWar-II_Art\\Fbx\\AO\\RoleAO\\RoleAOTex.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Mountain_C.png": {
+      "4a1838d9444682546a2502a7c323eec0": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Mountain_C.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Shaders\\DecShadow.shader": {
+      "6e46eb022277fe44eb5eeb162a4551b4": "Assets\\ArtOfWar-II_Art\\Shaders\\DecShadow.shader",
+      "3d24a369d15126841a4d1fd9e05d3643": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\Dec_Ramp\\Dec_Ramp_01_C.png",
+      "07ce423003cc8164b8f3ef6936f1d3a3": "Assets\\ArtOfWar-II_Art\\Fbx\\AO\\RoleAO\\RoleAOTex.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\Dec_Ramp\\Dec_Ramp_01_C.png": {
+      "3d24a369d15126841a4d1fd9e05d3643": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\Dec_Ramp\\Dec_Ramp_01_C.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Wood_C.png": {
+      "df6ad644d14bead46999a6887b3d6240": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Wood_C.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Castle_Mat.mat": {
+      "df6ad644d14bead46999a6887b3d6240": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Wood_C.png",
+      "6e46eb022277fe44eb5eeb162a4551b4": "Assets\\ArtOfWar-II_Art\\Shaders\\DecShadow.shader",
+      "211147ceb83971048a06cfc014dd9a33": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Castle_C.png",
+      "a0107bd6bd505ec4394239b4297c185a": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Castle_Mat.mat",
+      "d0353a89b1f911e48b9e16bdc9f2e058": null,
+      "07ce423003cc8164b8f3ef6936f1d3a3": "Assets\\ArtOfWar-II_Art\\Fbx\\AO\\RoleAO\\RoleAOTex.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Castle_C.png": {
+      "211147ceb83971048a06cfc014dd9a33": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Castle_C.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Fence_02.fbx": {
+      "41243e3ff6b7c4541b4b02077e6829d4": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Fence_02.fbx",
+      "ef64f55762c82714e99e96db9c90ac27": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_DecD_Mat.mat"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_DecD_Mat.mat": {
+      "df6ad644d14bead46999a6887b3d6240": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Wood_C.png",
+      "6e46eb022277fe44eb5eeb162a4551b4": "Assets\\ArtOfWar-II_Art\\Shaders\\DecShadow.shader",
+      "ae0767a492b0e7149b73d20d7a9272e2": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_DecD_C.png",
+      "ef64f55762c82714e99e96db9c90ac27": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_DecD_Mat.mat",
+      "d0353a89b1f911e48b9e16bdc9f2e058": null,
+      "07ce423003cc8164b8f3ef6936f1d3a3": "Assets\\ArtOfWar-II_Art\\Fbx\\AO\\RoleAO\\RoleAOTex.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_DecD_C.png": {
+      "ae0767a492b0e7149b73d20d7a9272e2": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_DecD_C.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Fence_01.fbx": {
+      "ed5abd1d62033b042a00fdf5593fd746": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Fence_01.fbx",
+      "ef64f55762c82714e99e96db9c90ac27": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_DecD_Mat.mat"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Flag.fbx": {
+      "bea4fb8af2f8cc24f925d29f96478a26": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Flag.fbx",
+      "ef64f55762c82714e99e96db9c90ac27": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_DecD_Mat.mat"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Feature\\CastleExterior\\CastleExterior_Grp.prefab": {
+      "5bb3d9a8c1549fc45ad9e2e0baea9d00": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Tree_02.prefab",
+      "eaafe4aaf79c9cc48abf11d835501405": "Assets\\ArtOfWar-II_Art\\Environment\\Feature\\CastleExterior\\CastleExterior_Grp.prefab",
+      "5a8a7c8a1c935cd4bbb356e4cdb83f25": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Tree_01.prefab",
+      "474bcb49853aa07438625e644c072ee6": null,
+      "ec88ba1b45166b34ba3da814aec0c81a": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Stakes_02.prefab",
+      "55ddc684d843ed944ba0cae1c586818e": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Flower_03.prefab",
+      "3fe480f3ab1d1dc4ca6c971da708bd5c": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Land.fbx",
+      "221137ebe2354e344912462afff232a7": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Stakes_01.prefab",
+      "6b487ef3d1830a74687f42b515cb038f": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Building.fbx",
+      "609c710c78a01a74ba1a3a73a1545aa0": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Arrow.fbx",
+      "94577174eb12e3c45b9408c3dd8c3998": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\SnowBridge\\Mesh\\SnowBridge_Gird.fbx",
+      "5c9a9d9b072d6b645bafc882b7a3168f": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Gird_Mat.mat",
+      "433d02ad70756264aa4173a555441104": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Tree_03.prefab"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Tree_03.prefab": {
+      "433d02ad70756264aa4173a555441104": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Tree_03.prefab",
+      "90cc8af98fa69704e97bac46dc8a71d4": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Tree_03.fbx"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Tree_03.fbx": {
+      "571223f5edf870343adbfc61864191be": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_DecB_Mat.mat",
+      "90cc8af98fa69704e97bac46dc8a71d4": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Tree_03.fbx"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_DecB_Mat.mat": {
+      "6e46eb022277fe44eb5eeb162a4551b4": "Assets\\ArtOfWar-II_Art\\Shaders\\DecShadow.shader",
+      "7cdc3068e864f0d4383f259084552202": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Tree_C.png",
+      "571223f5edf870343adbfc61864191be": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_DecB_Mat.mat",
+      "d0353a89b1f911e48b9e16bdc9f2e058": null,
+      "07ce423003cc8164b8f3ef6936f1d3a3": "Assets\\ArtOfWar-II_Art\\Fbx\\AO\\RoleAO\\RoleAOTex.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Tree_C.png": {
+      "7cdc3068e864f0d4383f259084552202": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Tree_C.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Gird_Mat.mat": {
+      "8719d446b9efe4811abb73bbfe603609": "Assets\\ArtOfWar-II_Art\\Effects\\BattleUnit\\BattleUnit_51\\Low\\Textures\\08ce35de.png",
+      "5c9a9d9b072d6b645bafc882b7a3168f": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Gird_Mat.mat",
+      "736974b9f28792b4a8cbc2a70e792395": "Assets\\ArtOfWar-II_Art\\Shaders\\Grid.shader",
+      "70a736fce43c8b448a4d4f5988b6bbda": null,
+      "1f640f97f523e96458e8ee5cb6256797": null
+    },
+    "Assets\\ArtOfWar-II_Art\\Shaders\\Grid.shader": {
+      "1f640f97f523e96458e8ee5cb6256797": null,
+      "736974b9f28792b4a8cbc2a70e792395": "Assets\\ArtOfWar-II_Art\\Shaders\\Grid.shader"
+    },
+    "Assets\\ArtOfWar-II_Art\\Effects\\BattleUnit\\BattleUnit_51\\Low\\Textures\\08ce35de.png": {
+      "8719d446b9efe4811abb73bbfe603609": "Assets\\ArtOfWar-II_Art\\Effects\\BattleUnit\\BattleUnit_51\\Low\\Textures\\08ce35de.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\SnowBridge\\Mesh\\SnowBridge_Gird.fbx": {
+      "94577174eb12e3c45b9408c3dd8c3998": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\SnowBridge\\Mesh\\SnowBridge_Gird.fbx"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Arrow.fbx": {
+      "609c710c78a01a74ba1a3a73a1545aa0": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Arrow.fbx",
+      "ef64f55762c82714e99e96db9c90ac27": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_DecD_Mat.mat"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Building.fbx": {
+      "a0107bd6bd505ec4394239b4297c185a": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Castle_Mat.mat",
+      "6b487ef3d1830a74687f42b515cb038f": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Building.fbx",
+      "3b5f1fbacd9794047a58d0d7f763111e": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Mountain_Mat.mat"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Stakes_01.prefab": {
+      "221137ebe2354e344912462afff232a7": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Stakes_01.prefab",
+      "3eff0c78f11bfef45a62da8f69b28e51": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Stakes_01.fbx"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Stakes_01.fbx": {
+      "3eff0c78f11bfef45a62da8f69b28e51": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Stakes_01.fbx",
+      "37f3bd0fede579a4187e80dee7cc485d": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_TreeB_Mat.mat"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_TreeB_Mat.mat": {
+      "6e46eb022277fe44eb5eeb162a4551b4": "Assets\\ArtOfWar-II_Art\\Shaders\\DecShadow.shader",
+      "7cdc3068e864f0d4383f259084552202": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Tree_C.png",
+      "9950f7db35dc2d145b1d85c0af66cde8": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_TreeB_C.png",
+      "37f3bd0fede579a4187e80dee7cc485d": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_TreeB_Mat.mat",
+      "d0353a89b1f911e48b9e16bdc9f2e058": null,
+      "07ce423003cc8164b8f3ef6936f1d3a3": "Assets\\ArtOfWar-II_Art\\Fbx\\AO\\RoleAO\\RoleAOTex.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_TreeB_C.png": {
+      "9950f7db35dc2d145b1d85c0af66cde8": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_TreeB_C.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Land.fbx": {
+      "4abc928054b18734290d8a48f0975791": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Land_Mat.mat",
+      "3fe480f3ab1d1dc4ca6c971da708bd5c": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Land.fbx"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Land_Mat.mat": {
+      "966170baeb876ae4f8798ea2e1f7edc8": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Land_C.png",
+      "0000000000000000f000000000000000": null,
+      "4abc928054b18734290d8a48f0975791": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Land_Mat.mat",
+      "d0353a89b1f911e48b9e16bdc9f2e058": null
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Land_C.png": {
+      "966170baeb876ae4f8798ea2e1f7edc8": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Land_C.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Flower_03.prefab": {
+      "55ddc684d843ed944ba0cae1c586818e": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Flower_03.prefab",
+      "5e8ccddee5cda714b9e290e64af3dbfb": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Flower_03.fbx"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Flower_03.fbx": {
+      "9bef0d2733019944d97f6d3b6a9a1d1d": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_LandB_Mat.mat",
+      "5e8ccddee5cda714b9e290e64af3dbfb": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Flower_03.fbx"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_LandB_Mat.mat": {
+      "df6ad644d14bead46999a6887b3d6240": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Wood_C.png",
+      "6e46eb022277fe44eb5eeb162a4551b4": "Assets\\ArtOfWar-II_Art\\Shaders\\DecShadow.shader",
+      "d0353a89b1f911e48b9e16bdc9f2e058": null,
+      "9bef0d2733019944d97f6d3b6a9a1d1d": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_LandB_Mat.mat",
+      "966170baeb876ae4f8798ea2e1f7edc8": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Texture\\CastleExterior_Land_C.png",
+      "07ce423003cc8164b8f3ef6936f1d3a3": "Assets\\ArtOfWar-II_Art\\Fbx\\AO\\RoleAO\\RoleAOTex.png"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Stakes_02.prefab": {
+      "ed56c5535d3994345970d4e6e515ea70": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Stakes_02.fbx",
+      "ec88ba1b45166b34ba3da814aec0c81a": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Stakes_02.prefab"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Stakes_02.fbx": {
+      "ed56c5535d3994345970d4e6e515ea70": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Stakes_02.fbx",
+      "37f3bd0fede579a4187e80dee7cc485d": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_TreeB_Mat.mat"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Tree_01.prefab": {
+      "5a8a7c8a1c935cd4bbb356e4cdb83f25": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Tree_01.prefab",
+      "928a2dc620b7fde4eaf071725018e156": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Tree_01.fbx"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Tree_01.fbx": {
+      "928a2dc620b7fde4eaf071725018e156": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Tree_01.fbx",
+      "571223f5edf870343adbfc61864191be": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_DecB_Mat.mat"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Tree_02.prefab": {
+      "43721325d010f9044b82421b3d4af833": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Tree_02.fbx",
+      "5bb3d9a8c1549fc45ad9e2e0baea9d00": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Prefab\\CastleExterior_Tree_02.prefab"
+    },
+    "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Tree_02.fbx": {
+      "43721325d010f9044b82421b3d4af833": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Tree_02.fbx",
+      "571223f5edf870343adbfc61864191be": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_DecB_Mat.mat"
+    }
+  },
+  "missingGuids": {
+    "430634d768ed6f54dbf0bd262f21043b": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Modle\\CastleExterior_Castle.fbx",
+    "d0353a89b1f911e48b9e16bdc9f2e058": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_LandB_Mat.mat",
+    "474bcb49853aa07438625e644c072ee6": "Assets\\ArtOfWar-II_Art\\Environment\\Feature\\CastleExterior\\CastleExterior_Grp.prefab",
+    "70a736fce43c8b448a4d4f5988b6bbda": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Gird_Mat.mat",
+    "1f640f97f523e96458e8ee5cb6256797": "Assets\\ArtOfWar-II_Art\\Shaders\\Grid.shader",
+    "0000000000000000f000000000000000": "Assets\\ArtOfWar-II_Art\\Environment\\Common\\CastleExterior\\Material\\CastleExterior_Land_Mat.mat"
+  },
+  "policy": "No original edited. Scene runtime scripts intentionally absent; only original CastleExterior root exported, plus serialized camera and original hierarchy."
+}

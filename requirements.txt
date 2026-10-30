@@ -1,0 +1,6 @@
+numpy
+scipy
+osqp
+Pillow
+opencv-python
+imageio-ffmpeg

@@ -1,0 +1,29 @@
+[
+  {
+    "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-opening\\V22-C-opening-1.5s.mp4",
+    "decodedFrames": 90,
+    "fps": 60.0,
+    "width": 1440.0,
+    "height": 2160.0,
+    "normalSpeed": true,
+    "visualWholeVideoWatched": false
+  },
+  {
+    "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-opening\\V22-V22R-opening-same-time-60fps.mp4",
+    "decodedFrames": 90,
+    "fps": 60.0,
+    "width": 1280.0,
+    "height": 960.0,
+    "normalSpeed": true,
+    "visualWholeVideoWatched": false
+  },
+  {
+    "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-opening\\V22R-overlap-opening-1.5s.mp4",
+    "decodedFrames": 90,
+    "fps": 60.0,
+    "width": 1440.0,
+    "height": 2160.0,
+    "normalSpeed": true,
+    "visualWholeVideoWatched": false
+  }
+]

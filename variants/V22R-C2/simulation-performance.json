@@ -1,0 +1,1132 @@
+{
+  "wallSeconds": 28.770461399806663,
+  "steps": [
+    {
+      "time": 0.016666666666666666,
+      "stepMs": 82.1191999129951,
+      "maxNeighbors": 48,
+      "contactPairs": 2265,
+      "iterations": 1
+    },
+    {
+      "time": 0.03333333333333333,
+      "stepMs": 140.89379995130002,
+      "maxNeighbors": 48,
+      "contactPairs": 2257,
+      "iterations": 1
+    },
+    {
+      "time": 0.05,
+      "stepMs": 167.73089999333024,
+      "maxNeighbors": 48,
+      "contactPairs": 2246,
+      "iterations": 1
+    },
+    {
+      "time": 0.06666666666666667,
+      "stepMs": 146.54930005781353,
+      "maxNeighbors": 48,
+      "contactPairs": 2224,
+      "iterations": 1
+    },
+    {
+      "time": 0.08333333333333333,
+      "stepMs": 149.25049990415573,
+      "maxNeighbors": 48,
+      "contactPairs": 2212,
+      "iterations": 1
+    },
+    {
+      "time": 0.1,
+      "stepMs": 149.33990011923015,
+      "maxNeighbors": 48,
+      "contactPairs": 2194,
+      "iterations": 1
+    },
+    {
+      "time": 0.11666666666666667,
+      "stepMs": 146.07960009016097,
+      "maxNeighbors": 48,
+      "contactPairs": 2171,
+      "iterations": 2
+    },
+    {
+      "time": 0.13333333333333333,
+      "stepMs": 144.32540000416338,
+      "maxNeighbors": 48,
+      "contactPairs": 2112,
+      "iterations": 2
+    },
+    {
+      "time": 0.15,
+      "stepMs": 143.0102998856455,
+      "maxNeighbors": 48,
+      "contactPairs": 2071,
+      "iterations": 2
+    },
+    {
+      "time": 0.16666666666666666,
+      "stepMs": 142.33359997160733,
+      "maxNeighbors": 48,
+      "contactPairs": 2029,
+      "iterations": 2
+    },
+    {
+      "time": 0.18333333333333332,
+      "stepMs": 140.625,
+      "maxNeighbors": 48,
+      "contactPairs": 1987,
+      "iterations": 2
+    },
+    {
+      "time": 0.2,
+      "stepMs": 135.96420013345778,
+      "maxNeighbors": 48,
+      "contactPairs": 1955,
+      "iterations": 2
+    },
+    {
+      "time": 0.21666666666666667,
+      "stepMs": 135.26570005342364,
+      "maxNeighbors": 48,
+      "contactPairs": 1905,
+      "iterations": 2
+    },
+    {
+      "time": 0.23333333333333334,
+      "stepMs": 135.30940003693104,
+      "maxNeighbors": 48,
+      "contactPairs": 1868,
+      "iterations": 2
+    },
+    {
+      "time": 0.25,
+      "stepMs": 131.1525001656264,
+      "maxNeighbors": 48,
+      "contactPairs": 1841,
+      "iterations": 5
+    },
+    {
+      "time": 0.26666666666666666,
+      "stepMs": 134.34930006042123,
+      "maxNeighbors": 48,
+      "contactPairs": 1819,
+      "iterations": 6
+    },
+    {
+      "time": 0.2833333333333333,
+      "stepMs": 134.60109988227487,
+      "maxNeighbors": 48,
+      "contactPairs": 1787,
+      "iterations": 19
+    },
+    {
+      "time": 0.3,
+      "stepMs": 124.01210004463792,
+      "maxNeighbors": 48,
+      "contactPairs": 1767,
+      "iterations": 19
+    },
+    {
+      "time": 0.31666666666666665,
+      "stepMs": 121.93969986401498,
+      "maxNeighbors": 48,
+      "contactPairs": 1738,
+      "iterations": 18
+    },
+    {
+      "time": 0.3333333333333333,
+      "stepMs": 127.1612998098135,
+      "maxNeighbors": 48,
+      "contactPairs": 1718,
+      "iterations": 18
+    },
+    {
+      "time": 0.35,
+      "stepMs": 120.66600006073713,
+      "maxNeighbors": 48,
+      "contactPairs": 1691,
+      "iterations": 18
+    },
+    {
+      "time": 0.36666666666666664,
+      "stepMs": 116.833999985829,
+      "maxNeighbors": 48,
+      "contactPairs": 1676,
+      "iterations": 19
+    },
+    {
+      "time": 0.3833333333333333,
+      "stepMs": 118.13790001906455,
+      "maxNeighbors": 48,
+      "contactPairs": 1641,
+      "iterations": 20
+    },
+    {
+      "time": 0.4,
+      "stepMs": 120.421800063923,
+      "maxNeighbors": 48,
+      "contactPairs": 1616,
+      "iterations": 25
+    },
+    {
+      "time": 0.4166666666666667,
+      "stepMs": 119.18589984998107,
+      "maxNeighbors": 48,
+      "contactPairs": 1598,
+      "iterations": 31
+    },
+    {
+      "time": 0.43333333333333335,
+      "stepMs": 119.02089999057353,
+      "maxNeighbors": 48,
+      "contactPairs": 1571,
+      "iterations": 26
+    },
+    {
+      "time": 0.45,
+      "stepMs": 118.95369994454086,
+      "maxNeighbors": 48,
+      "contactPairs": 1553,
+      "iterations": 31
+    },
+    {
+      "time": 0.4666666666666667,
+      "stepMs": 119.22289989888668,
+      "maxNeighbors": 48,
+      "contactPairs": 1530,
+      "iterations": 26
+    },
+    {
+      "time": 0.48333333333333334,
+      "stepMs": 119.69780013896525,
+      "maxNeighbors": 48,
+      "contactPairs": 1507,
+      "iterations": 38
+    },
+    {
+      "time": 0.5,
+      "stepMs": 121.468500001356,
+      "maxNeighbors": 48,
+      "contactPairs": 1502,
+      "iterations": 35
+    },
+    {
+      "time": 0.5166666666666666,
+      "stepMs": 123.45699989236891,
+      "maxNeighbors": 48,
+      "contactPairs": 1487,
+      "iterations": 34
+    },
+    {
+      "time": 0.5333333333333333,
+      "stepMs": 123.08959988877177,
+      "maxNeighbors": 48,
+      "contactPairs": 1488,
+      "iterations": 33
+    },
+    {
+      "time": 0.55,
+      "stepMs": 127.64719990082085,
+      "maxNeighbors": 48,
+      "contactPairs": 1475,
+      "iterations": 32
+    },
+    {
+      "time": 0.5666666666666667,
+      "stepMs": 122.89980007335544,
+      "maxNeighbors": 48,
+      "contactPairs": 1467,
+      "iterations": 31
+    },
+    {
+      "time": 0.5833333333333334,
+      "stepMs": 122.65920010395348,
+      "maxNeighbors": 48,
+      "contactPairs": 1464,
+      "iterations": 28
+    },
+    {
+      "time": 0.6,
+      "stepMs": 118.57150006107986,
+      "maxNeighbors": 48,
+      "contactPairs": 1470,
+      "iterations": 25
+    },
+    {
+      "time": 0.6166666666666667,
+      "stepMs": 128.51680000312626,
+      "maxNeighbors": 48,
+      "contactPairs": 1460,
+      "iterations": 23
+    },
+    {
+      "time": 0.6333333333333333,
+      "stepMs": 124.75409987382591,
+      "maxNeighbors": 48,
+      "contactPairs": 1452,
+      "iterations": 24
+    },
+    {
+      "time": 0.65,
+      "stepMs": 126.76790007390082,
+      "maxNeighbors": 48,
+      "contactPairs": 1447,
+      "iterations": 24
+    },
+    {
+      "time": 0.6666666666666666,
+      "stepMs": 125.50830002874136,
+      "maxNeighbors": 48,
+      "contactPairs": 1432,
+      "iterations": 23
+    },
+    {
+      "time": 0.6833333333333333,
+      "stepMs": 125.6933999247849,
+      "maxNeighbors": 48,
+      "contactPairs": 1427,
+      "iterations": 23
+    },
+    {
+      "time": 0.7,
+      "stepMs": 124.79760008864105,
+      "maxNeighbors": 48,
+      "contactPairs": 1421,
+      "iterations": 24
+    },
+    {
+      "time": 0.7166666666666667,
+      "stepMs": 120.20160001702607,
+      "maxNeighbors": 48,
+      "contactPairs": 1417,
+      "iterations": 22
+    },
+    {
+      "time": 0.7333333333333333,
+      "stepMs": 125.81559992395341,
+      "maxNeighbors": 48,
+      "contactPairs": 1416,
+      "iterations": 36
+    },
+    {
+      "time": 0.75,
+      "stepMs": 139.33959999121726,
+      "maxNeighbors": 48,
+      "contactPairs": 1436,
+      "iterations": 37
+    },
+    {
+      "time": 0.7666666666666666,
+      "stepMs": 128.07239987887442,
+      "maxNeighbors": 48,
+      "contactPairs": 1438,
+      "iterations": 38
+    },
+    {
+      "time": 0.7833333333333333,
+      "stepMs": 129.3822000734508,
+      "maxNeighbors": 48,
+      "contactPairs": 1450,
+      "iterations": 44
+    },
+    {
+      "time": 0.8,
+      "stepMs": 132.53260008059442,
+      "maxNeighbors": 48,
+      "contactPairs": 1458,
+      "iterations": 48
+    },
+    {
+      "time": 0.8166666666666667,
+      "stepMs": 131.93999999202788,
+      "maxNeighbors": 48,
+      "contactPairs": 1452,
+      "iterations": 46
+    },
+    {
+      "time": 0.8333333333333334,
+      "stepMs": 127.49419989995658,
+      "maxNeighbors": 48,
+      "contactPairs": 1451,
+      "iterations": 27
+    },
+    {
+      "time": 0.85,
+      "stepMs": 128.96969984285533,
+      "maxNeighbors": 48,
+      "contactPairs": 1458,
+      "iterations": 29
+    },
+    {
+      "time": 0.8666666666666667,
+      "stepMs": 128.32779996097088,
+      "maxNeighbors": 48,
+      "contactPairs": 1471,
+      "iterations": 31
+    },
+    {
+      "time": 0.8833333333333333,
+      "stepMs": 130.40769984945655,
+      "maxNeighbors": 48,
+      "contactPairs": 1461,
+      "iterations": 33
+    },
+    {
+      "time": 0.9,
+      "stepMs": 132.68079981207848,
+      "maxNeighbors": 48,
+      "contactPairs": 1467,
+      "iterations": 33
+    },
+    {
+      "time": 0.9166666666666666,
+      "stepMs": 131.4999999012798,
+      "maxNeighbors": 48,
+      "contactPairs": 1464,
+      "iterations": 34
+    },
+    {
+      "time": 0.9333333333333333,
+      "stepMs": 131.23419997282326,
+      "maxNeighbors": 48,
+      "contactPairs": 1456,
+      "iterations": 32
+    },
+    {
+      "time": 0.95,
+      "stepMs": 132.62069993652403,
+      "maxNeighbors": 48,
+      "contactPairs": 1452,
+      "iterations": 32
+    },
+    {
+      "time": 0.9666666666666667,
+      "stepMs": 129.5115000102669,
+      "maxNeighbors": 48,
+      "contactPairs": 1457,
+      "iterations": 28
+    },
+    {
+      "time": 0.9833333333333333,
+      "stepMs": 131.01159990765154,
+      "maxNeighbors": 48,
+      "contactPairs": 1458,
+      "iterations": 31
+    },
+    {
+      "time": 1.0,
+      "stepMs": 130.4142998997122,
+      "maxNeighbors": 48,
+      "contactPairs": 1461,
+      "iterations": 28
+    },
+    {
+      "time": 1.0166666666666666,
+      "stepMs": 136.66329998522997,
+      "maxNeighbors": 48,
+      "contactPairs": 1456,
+      "iterations": 27
+    },
+    {
+      "time": 1.0333333333333332,
+      "stepMs": 135.60259994119406,
+      "maxNeighbors": 48,
+      "contactPairs": 1457,
+      "iterations": 27
+    },
+    {
+      "time": 1.05,
+      "stepMs": 136.13609992899,
+      "maxNeighbors": 48,
+      "contactPairs": 1459,
+      "iterations": 32
+    },
+    {
+      "time": 1.0666666666666667,
+      "stepMs": 137.36350019462407,
+      "maxNeighbors": 48,
+      "contactPairs": 1460,
+      "iterations": 32
+    },
+    {
+      "time": 1.0833333333333333,
+      "stepMs": 135.05799998529255,
+      "maxNeighbors": 48,
+      "contactPairs": 1455,
+      "iterations": 32
+    },
+    {
+      "time": 1.1,
+      "stepMs": 136.37860002927482,
+      "maxNeighbors": 48,
+      "contactPairs": 1457,
+      "iterations": 31
+    },
+    {
+      "time": 1.1166666666666667,
+      "stepMs": 140.29420004226267,
+      "maxNeighbors": 48,
+      "contactPairs": 1445,
+      "iterations": 29
+    },
+    {
+      "time": 1.1333333333333333,
+      "stepMs": 134.19129978865385,
+      "maxNeighbors": 48,
+      "contactPairs": 1459,
+      "iterations": 35
+    },
+    {
+      "time": 1.15,
+      "stepMs": 135.4701998643577,
+      "maxNeighbors": 48,
+      "contactPairs": 1458,
+      "iterations": 33
+    },
+    {
+      "time": 1.1666666666666667,
+      "stepMs": 138.01420014351606,
+      "maxNeighbors": 48,
+      "contactPairs": 1455,
+      "iterations": 35
+    },
+    {
+      "time": 1.1833333333333333,
+      "stepMs": 133.88249999843538,
+      "maxNeighbors": 48,
+      "contactPairs": 1472,
+      "iterations": 33
+    },
+    {
+      "time": 1.2,
+      "stepMs": 139.85510007478297,
+      "maxNeighbors": 48,
+      "contactPairs": 1477,
+      "iterations": 41
+    },
+    {
+      "time": 1.2166666666666666,
+      "stepMs": 139.8058000486344,
+      "maxNeighbors": 48,
+      "contactPairs": 1478,
+      "iterations": 40
+    },
+    {
+      "time": 1.2333333333333334,
+      "stepMs": 140.7920999918133,
+      "maxNeighbors": 48,
+      "contactPairs": 1475,
+      "iterations": 38
+    },
+    {
+      "time": 1.25,
+      "stepMs": 137.88609998300672,
+      "maxNeighbors": 48,
+      "contactPairs": 1477,
+      "iterations": 41
+    },
+    {
+      "time": 1.2666666666666666,
+      "stepMs": 138.15609994344413,
+      "maxNeighbors": 48,
+      "contactPairs": 1472,
+      "iterations": 39
+    },
+    {
+      "time": 1.2833333333333332,
+      "stepMs": 133.20709997788072,
+      "maxNeighbors": 48,
+      "contactPairs": 1476,
+      "iterations": 37
+    },
+    {
+      "time": 1.3,
+      "stepMs": 136.37720001861453,
+      "maxNeighbors": 48,
+      "contactPairs": 1479,
+      "iterations": 35
+    },
+    {
+      "time": 1.3166666666666667,
+      "stepMs": 132.5193999800831,
+      "maxNeighbors": 48,
+      "contactPairs": 1481,
+      "iterations": 32
+    },
+    {
+      "time": 1.3333333333333333,
+      "stepMs": 137.87210010923445,
+      "maxNeighbors": 48,
+      "contactPairs": 1475,
+      "iterations": 37
+    },
+    {
+      "time": 1.35,
+      "stepMs": 140.21970005705953,
+      "maxNeighbors": 48,
+      "contactPairs": 1481,
+      "iterations": 42
+    },
+    {
+      "time": 1.3666666666666667,
+      "stepMs": 141.57050009816885,
+      "maxNeighbors": 48,
+      "contactPairs": 1479,
+      "iterations": 44
+    },
+    {
+      "time": 1.3833333333333333,
+      "stepMs": 139.7362998686731,
+      "maxNeighbors": 48,
+      "contactPairs": 1485,
+      "iterations": 46
+    },
+    {
+      "time": 1.4,
+      "stepMs": 136.41060004010797,
+      "maxNeighbors": 48,
+      "contactPairs": 1481,
+      "iterations": 40
+    },
+    {
+      "time": 1.4166666666666667,
+      "stepMs": 132.80080002732575,
+      "maxNeighbors": 48,
+      "contactPairs": 1489,
+      "iterations": 39
+    },
+    {
+      "time": 1.4333333333333333,
+      "stepMs": 139.32209997437894,
+      "maxNeighbors": 48,
+      "contactPairs": 1493,
+      "iterations": 44
+    },
+    {
+      "time": 1.45,
+      "stepMs": 134.50560020282865,
+      "maxNeighbors": 48,
+      "contactPairs": 1490,
+      "iterations": 44
+    },
+    {
+      "time": 1.4666666666666666,
+      "stepMs": 134.59430006332695,
+      "maxNeighbors": 48,
+      "contactPairs": 1489,
+      "iterations": 43
+    },
+    {
+      "time": 1.4833333333333334,
+      "stepMs": 136.48430001921952,
+      "maxNeighbors": 48,
+      "contactPairs": 1476,
+      "iterations": 31
+    },
+    {
+      "time": 1.5,
+      "stepMs": 130.84669993259013,
+      "maxNeighbors": 48,
+      "contactPairs": 1478,
+      "iterations": 31
+    },
+    {
+      "time": 1.5166666666666666,
+      "stepMs": 138.01240012980998,
+      "maxNeighbors": 48,
+      "contactPairs": 1480,
+      "iterations": 30
+    },
+    {
+      "time": 1.5333333333333332,
+      "stepMs": 132.69090000540018,
+      "maxNeighbors": 48,
+      "contactPairs": 1483,
+      "iterations": 28
+    },
+    {
+      "time": 1.55,
+      "stepMs": 128.468899987638,
+      "maxNeighbors": 48,
+      "contactPairs": 1472,
+      "iterations": 22
+    },
+    {
+      "time": 1.5666666666666667,
+      "stepMs": 136.41209993511438,
+      "maxNeighbors": 48,
+      "contactPairs": 1470,
+      "iterations": 30
+    },
+    {
+      "time": 1.5833333333333333,
+      "stepMs": 133.91079986467957,
+      "maxNeighbors": 48,
+      "contactPairs": 1475,
+      "iterations": 29
+    },
+    {
+      "time": 1.6,
+      "stepMs": 132.46470014564693,
+      "maxNeighbors": 48,
+      "contactPairs": 1472,
+      "iterations": 36
+    },
+    {
+      "time": 1.6166666666666667,
+      "stepMs": 136.4133998285979,
+      "maxNeighbors": 48,
+      "contactPairs": 1474,
+      "iterations": 39
+    },
+    {
+      "time": 1.6333333333333333,
+      "stepMs": 133.9221999514848,
+      "maxNeighbors": 48,
+      "contactPairs": 1470,
+      "iterations": 37
+    },
+    {
+      "time": 1.65,
+      "stepMs": 135.55140001699328,
+      "maxNeighbors": 48,
+      "contactPairs": 1468,
+      "iterations": 30
+    },
+    {
+      "time": 1.6666666666666667,
+      "stepMs": 138.81859998218715,
+      "maxNeighbors": 48,
+      "contactPairs": 1460,
+      "iterations": 30
+    },
+    {
+      "time": 1.6833333333333333,
+      "stepMs": 134.8808000329882,
+      "maxNeighbors": 48,
+      "contactPairs": 1470,
+      "iterations": 31
+    },
+    {
+      "time": 1.7,
+      "stepMs": 133.26109992340207,
+      "maxNeighbors": 48,
+      "contactPairs": 1466,
+      "iterations": 31
+    },
+    {
+      "time": 1.7166666666666666,
+      "stepMs": 132.5391000136733,
+      "maxNeighbors": 48,
+      "contactPairs": 1477,
+      "iterations": 31
+    },
+    {
+      "time": 1.7333333333333334,
+      "stepMs": 139.78600013069808,
+      "maxNeighbors": 48,
+      "contactPairs": 1486,
+      "iterations": 32
+    },
+    {
+      "time": 1.75,
+      "stepMs": 134.76150017231703,
+      "maxNeighbors": 48,
+      "contactPairs": 1489,
+      "iterations": 32
+    },
+    {
+      "time": 1.7666666666666666,
+      "stepMs": 138.18840007297695,
+      "maxNeighbors": 48,
+      "contactPairs": 1481,
+      "iterations": 28
+    },
+    {
+      "time": 1.7833333333333332,
+      "stepMs": 134.01789986528456,
+      "maxNeighbors": 48,
+      "contactPairs": 1486,
+      "iterations": 29
+    },
+    {
+      "time": 1.8,
+      "stepMs": 133.6457000579685,
+      "maxNeighbors": 48,
+      "contactPairs": 1486,
+      "iterations": 29
+    },
+    {
+      "time": 1.8166666666666667,
+      "stepMs": 133.17990000359714,
+      "maxNeighbors": 48,
+      "contactPairs": 1496,
+      "iterations": 31
+    },
+    {
+      "time": 1.8333333333333333,
+      "stepMs": 131.3926000148058,
+      "maxNeighbors": 48,
+      "contactPairs": 1496,
+      "iterations": 31
+    },
+    {
+      "time": 1.8499999999999999,
+      "stepMs": 134.2118000611663,
+      "maxNeighbors": 48,
+      "contactPairs": 1492,
+      "iterations": 31
+    },
+    {
+      "time": 1.8666666666666667,
+      "stepMs": 133.28010006807745,
+      "maxNeighbors": 48,
+      "contactPairs": 1489,
+      "iterations": 32
+    },
+    {
+      "time": 1.8833333333333333,
+      "stepMs": 133.13989993184805,
+      "maxNeighbors": 48,
+      "contactPairs": 1480,
+      "iterations": 36
+    },
+    {
+      "time": 1.9,
+      "stepMs": 144.70799989067018,
+      "maxNeighbors": 48,
+      "contactPairs": 1477,
+      "iterations": 33
+    },
+    {
+      "time": 1.9166666666666667,
+      "stepMs": 141.89089997671545,
+      "maxNeighbors": 48,
+      "contactPairs": 1472,
+      "iterations": 34
+    },
+    {
+      "time": 1.9333333333333333,
+      "stepMs": 147.34410005621612,
+      "maxNeighbors": 48,
+      "contactPairs": 1465,
+      "iterations": 105
+    },
+    {
+      "time": 1.95,
+      "stepMs": 138.11789988540113,
+      "maxNeighbors": 48,
+      "contactPairs": 1458,
+      "iterations": 31
+    },
+    {
+      "time": 1.9666666666666666,
+      "stepMs": 146.85160014778376,
+      "maxNeighbors": 48,
+      "contactPairs": 1462,
+      "iterations": 29
+    },
+    {
+      "time": 1.9833333333333334,
+      "stepMs": 137.99330010078847,
+      "maxNeighbors": 48,
+      "contactPairs": 1469,
+      "iterations": 29
+    },
+    {
+      "time": 2.0,
+      "stepMs": 142.6043000537902,
+      "maxNeighbors": 48,
+      "contactPairs": 1467,
+      "iterations": 29
+    },
+    {
+      "time": 2.0166666666666666,
+      "stepMs": 139.28799983114004,
+      "maxNeighbors": 48,
+      "contactPairs": 1473,
+      "iterations": 29
+    },
+    {
+      "time": 2.033333333333333,
+      "stepMs": 140.29809995554388,
+      "maxNeighbors": 48,
+      "contactPairs": 1473,
+      "iterations": 24
+    },
+    {
+      "time": 2.05,
+      "stepMs": 147.95709983445704,
+      "maxNeighbors": 48,
+      "contactPairs": 1469,
+      "iterations": 98
+    },
+    {
+      "time": 2.0666666666666664,
+      "stepMs": 158.64830021746457,
+      "maxNeighbors": 48,
+      "contactPairs": 1481,
+      "iterations": 140
+    },
+    {
+      "time": 2.0833333333333335,
+      "stepMs": 143.35280004888773,
+      "maxNeighbors": 48,
+      "contactPairs": 1486,
+      "iterations": 18
+    },
+    {
+      "time": 2.1,
+      "stepMs": 143.64799996837974,
+      "maxNeighbors": 48,
+      "contactPairs": 1488,
+      "iterations": 18
+    },
+    {
+      "time": 2.1166666666666667,
+      "stepMs": 144.8266999796033,
+      "maxNeighbors": 48,
+      "contactPairs": 1487,
+      "iterations": 31
+    },
+    {
+      "time": 2.1333333333333333,
+      "stepMs": 165.4970000963658,
+      "maxNeighbors": 48,
+      "contactPairs": 1493,
+      "iterations": 104
+    },
+    {
+      "time": 2.15,
+      "stepMs": 167.87859983742237,
+      "maxNeighbors": 48,
+      "contactPairs": 1505,
+      "iterations": 108
+    },
+    {
+      "time": 2.1666666666666665,
+      "stepMs": 160.2411000058055,
+      "maxNeighbors": 48,
+      "contactPairs": 1510,
+      "iterations": 140
+    },
+    {
+      "time": 2.183333333333333,
+      "stepMs": 139.13549995049834,
+      "maxNeighbors": 48,
+      "contactPairs": 1508,
+      "iterations": 35
+    },
+    {
+      "time": 2.2,
+      "stepMs": 144.73979989998043,
+      "maxNeighbors": 48,
+      "contactPairs": 1514,
+      "iterations": 45
+    },
+    {
+      "time": 2.216666666666667,
+      "stepMs": 151.90430008806288,
+      "maxNeighbors": 48,
+      "contactPairs": 1532,
+      "iterations": 26
+    },
+    {
+      "time": 2.2333333333333334,
+      "stepMs": 159.47370021604002,
+      "maxNeighbors": 48,
+      "contactPairs": 1531,
+      "iterations": 34
+    },
+    {
+      "time": 2.25,
+      "stepMs": 150.07760003209114,
+      "maxNeighbors": 48,
+      "contactPairs": 1520,
+      "iterations": 46
+    },
+    {
+      "time": 2.2666666666666666,
+      "stepMs": 146.65789995342493,
+      "maxNeighbors": 48,
+      "contactPairs": 1520,
+      "iterations": 40
+    },
+    {
+      "time": 2.283333333333333,
+      "stepMs": 146.9735000282526,
+      "maxNeighbors": 48,
+      "contactPairs": 1524,
+      "iterations": 53
+    },
+    {
+      "time": 2.3,
+      "stepMs": 148.27660005539656,
+      "maxNeighbors": 48,
+      "contactPairs": 1528,
+      "iterations": 70
+    },
+    {
+      "time": 2.3166666666666664,
+      "stepMs": 149.05000012367964,
+      "maxNeighbors": 48,
+      "contactPairs": 1536,
+      "iterations": 66
+    },
+    {
+      "time": 2.3333333333333335,
+      "stepMs": 154.42689997144043,
+      "maxNeighbors": 48,
+      "contactPairs": 1536,
+      "iterations": 62
+    },
+    {
+      "time": 2.35,
+      "stepMs": 163.047700189054,
+      "maxNeighbors": 48,
+      "contactPairs": 1537,
+      "iterations": 140
+    },
+    {
+      "time": 2.3666666666666667,
+      "stepMs": 167.74430009536445,
+      "maxNeighbors": 48,
+      "contactPairs": 1547,
+      "iterations": 138
+    },
+    {
+      "time": 2.3833333333333333,
+      "stepMs": 157.34410006552935,
+      "maxNeighbors": 48,
+      "contactPairs": 1554,
+      "iterations": 83
+    },
+    {
+      "time": 2.4,
+      "stepMs": 155.64570017158985,
+      "maxNeighbors": 48,
+      "contactPairs": 1557,
+      "iterations": 72
+    },
+    {
+      "time": 2.4166666666666665,
+      "stepMs": 165.36749992519617,
+      "maxNeighbors": 48,
+      "contactPairs": 1557,
+      "iterations": 140
+    },
+    {
+      "time": 2.433333333333333,
+      "stepMs": 148.34499987773597,
+      "maxNeighbors": 48,
+      "contactPairs": 1568,
+      "iterations": 58
+    },
+    {
+      "time": 2.45,
+      "stepMs": 151.83579991571605,
+      "maxNeighbors": 48,
+      "contactPairs": 1579,
+      "iterations": 80
+    },
+    {
+      "time": 2.466666666666667,
+      "stepMs": 151.2410999275744,
+      "maxNeighbors": 48,
+      "contactPairs": 1577,
+      "iterations": 56
+    },
+    {
+      "time": 2.4833333333333334,
+      "stepMs": 154.2509999126196,
+      "maxNeighbors": 48,
+      "contactPairs": 1578,
+      "iterations": 140
+    },
+    {
+      "time": 2.5,
+      "stepMs": 165.487099904567,
+      "maxNeighbors": 48,
+      "contactPairs": 1584,
+      "iterations": 140
+    },
+    {
+      "time": 2.5166666666666666,
+      "stepMs": 158.17079995758832,
+      "maxNeighbors": 48,
+      "contactPairs": 1592,
+      "iterations": 140
+    },
+    {
+      "time": 2.533333333333333,
+      "stepMs": 155.4149000439793,
+      "maxNeighbors": 48,
+      "contactPairs": 1600,
+      "iterations": 140
+    },
+    {
+      "time": 2.55,
+      "stepMs": 147.25450007244945,
+      "maxNeighbors": 48,
+      "contactPairs": 1613,
+      "iterations": 140
+    },
+    {
+      "time": 2.5666666666666664,
+      "stepMs": 154.09319987520576,
+      "maxNeighbors": 48,
+      "contactPairs": 1626,
+      "iterations": 140
+    },
+    {
+      "time": 2.5833333333333335,
+      "stepMs": 155.17079993151128,
+      "maxNeighbors": 48,
+      "contactPairs": 1643,
+      "iterations": 140
+    },
+    {
+      "time": 2.6,
+      "stepMs": 159.44029996171594,
+      "maxNeighbors": 48,
+      "contactPairs": 1653,
+      "iterations": 94
+    },
+    {
+      "time": 2.6166666666666667,
+      "stepMs": 151.36270015500486,
+      "maxNeighbors": 48,
+      "contactPairs": 1665,
+      "iterations": 60
+    },
+    {
+      "time": 2.6333333333333333,
+      "stepMs": 148.09849997982383,
+      "maxNeighbors": 48,
+      "contactPairs": 1678,
+      "iterations": 56
+    },
+    {
+      "time": 2.65,
+      "stepMs": 154.08280002884567,
+      "maxNeighbors": 48,
+      "contactPairs": 1698,
+      "iterations": 57
+    },
+    {
+      "time": 2.6666666666666665,
+      "stepMs": 145.35859995521605,
+      "maxNeighbors": 48,
+      "contactPairs": 1726,
+      "iterations": 51
+    },
+    {
+      "time": 2.683333333333333,
+      "stepMs": 142.08479993976653,
+      "maxNeighbors": 48,
+      "contactPairs": 1727,
+      "iterations": 49
+    }
+  ]
+}

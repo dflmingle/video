@@ -1,0 +1,309 @@
+{
+  "path": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-10\\使用到的特效资源.unitypackage",
+  "bytes": 1645709,
+  "entries": [
+    {
+      "guid": "034c8c9c8bf245c42ad0920a63a19da4",
+      "bytes": 5926,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_04_Mat003.mat"
+    },
+    {
+      "guid": "0625757cbf166a741b5e2686fe7d268f",
+      "bytes": 93149,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Shaders/All_ShadersUPR/VFX_All_URP1.0.shader"
+    },
+    {
+      "guid": "0f857de654bb8f94ab2e0591f22e8459",
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/火枪手"
+    },
+    {
+      "guid": "13f1b09a367a9f047b98065bd58ae084",
+      "bytes": 6274,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_002_Tex.png"
+    },
+    {
+      "guid": "1d6eada6f1359bd4989034639145a194",
+      "bytes": 5925,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Smoke_002_Mat.mat"
+    },
+    {
+      "guid": "2a1baf1f69c096144aa53aa8ac6f6078",
+      "bytes": 5877,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Fre_005_Mat.mat"
+    },
+    {
+      "guid": "377ba81082bb083439362cde691ab390",
+      "bytes": 20953,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Shaders/All_ShadersUPR/VFX_Additive.shader"
+    },
+    {
+      "guid": "47aec4c87f1be0b45982a57703883edd",
+      "bytes": 5878,
+      "path": "Assets/ArtResource/Effect/Materials/FX_Fre_001_Mat.mat"
+    },
+    {
+      "guid": "48dcc76c2cc93b9478c4797dcdb93522",
+      "bytes": 18549,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Smoke_171_Tex.png"
+    },
+    {
+      "guid": "4a4a3e743fe7a024d985453df4adc881",
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结"
+    },
+    {
+      "guid": "4b22d34eb51c3c14ab36c4d6ccb19bfa",
+      "bytes": 6007,
+      "path": "Assets/ArtResource/Effects/Common_FX/Materials/FX_Trail_29_Mat.mat"
+    },
+    {
+      "guid": "4c95a2eea107fb14daf93a840456af71",
+      "bytes": 1659,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Trail_016_Tex.png"
+    },
+    {
+      "guid": "4fad4817cd34a05419702d920dc081a4",
+      "bytes": 16659,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Knife_006_Tex.png"
+    },
+    {
+      "guid": "50d8accd43034aa4f8fa3fa74b0e07b7",
+      "bytes": 1303806,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/大炮/BattleUnit_831_VFX_Skill01_Explode.prefab"
+    },
+    {
+      "guid": "50e539d1680f6864da6fcb989430366f",
+      "bytes": 11493,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Crack_001_Tex.png"
+    },
+    {
+      "guid": "59f4c9a79f4dbe34383c8a4b1aa8872f",
+      "bytes": 5927,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Polygon_003_Mat.mat"
+    },
+    {
+      "guid": "5e3e6e690b444ac4a92bf8eb386891d3",
+      "bytes": 5925,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Crack_001_Mat.mat"
+    },
+    {
+      "guid": "5fd460959b872224094adb89a7c5ff48",
+      "bytes": 606678,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_13_Tex.png"
+    },
+    {
+      "guid": "627f36e4ff9118d469eb2bef50adfc58",
+      "bytes": 18743,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Shared/Common_FX/Textures/FX_Glow_04_Tex.png"
+    },
+    {
+      "guid": "69807fdb6d9b9a249b911be91de85fc7",
+      "bytes": 979,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Line_015_Tex.png"
+    },
+    {
+      "guid": "69e39736f3947c94baad54b55d68a1e5",
+      "bytes": 5926,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Lights_015_Mat.mat"
+    },
+    {
+      "guid": "737a8e82abee00140964c4d57aa61d45",
+      "bytes": 5549,
+      "path": "Assets/ArtResource/Effects/Common_FX/Materials/B_FX_Glow_11_Mat.mat"
+    },
+    {
+      "guid": "792dcb4342a543741bb6678e66559c1c",
+      "bytes": 359518,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/火枪手/BattleWeapon_41_VFX_Effect 1.prefab"
+    },
+    {
+      "guid": "80930a874f3af004fb3416d3e02db88d",
+      "bytes": 54347,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_05_Tex.png"
+    },
+    {
+      "guid": "818897a9743db8e4b8a58d286d9b4d0a",
+      "bytes": 14636,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_026_Tex.png"
+    },
+    {
+      "guid": "8512003021e29534abf8508cc461e9a8",
+      "bytes": 356510,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/BattleWeapon_630_VFX_Hit.prefab"
+    },
+    {
+      "guid": "87431e32ef4b94822add381e7cae134e",
+      "bytes": 6071,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Line_015_Mat04.mat"
+    },
+    {
+      "guid": "915b3a22aeceda24facf8947db630427",
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/大炮"
+    },
+    {
+      "guid": "94a4b52b175749542aaff749dd1600fa",
+      "bytes": 4109,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Niose_026_Mat.mat"
+    },
+    {
+      "guid": "9a5b770cc1ede5d4b927dbc3975df6fd",
+      "bytes": 6137,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Knife_006_Mat.mat"
+    },
+    {
+      "guid": "9e203b44b678bea4fa1fc05c89b94727",
+      "bytes": 28333,
+      "path": "Assets/ArtResource/Effects/Common_FX/Textures/FX_Trail_020_Tex.png"
+    },
+    {
+      "guid": "9f8ec9b19a6a17c499b233028e438146",
+      "bytes": 6010,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_002_Mat02.mat"
+    },
+    {
+      "guid": "a845ac415f1dd4f4592543b8b7251b38",
+      "bytes": 712635,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/大炮/BattleUnit_831_VFX_Skill01_Bullet 1.prefab"
+    },
+    {
+      "guid": "adaf8e4cca1ef6f48b50c4f129dc0045",
+      "bytes": 12607,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Noise_30_Tex.png"
+    },
+    {
+      "guid": "b0d08d3e4ea76814bb5f40727acea05a",
+      "bytes": 40080,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Models/FX_Knife_05_Mod.fbx"
+    },
+    {
+      "guid": "b52f879262f047c47b8c6717881fa657",
+      "bytes": 38368,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Shared/Common_FX/Meshes/FX_Circle_05_Mod.fbx"
+    },
+    {
+      "guid": "bc4dfbb75ffd28c45a727d5c3cd8e621",
+      "bytes": 21371,
+      "path": "Assets/ArtResource/Effect/Textures/FX_Glow_003_Tex.png"
+    },
+    {
+      "guid": "c6fb617a6436f69408f942ca9a1420d8",
+      "bytes": 10782,
+      "path": "Assets/Scripts/SoldierAnimationController/HomingArrow.cs"
+    },
+    {
+      "guid": "c7f005c5ae53c5040b9c5fa8034dead8",
+      "bytes": 122803,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Spikes_16_Tex.tga"
+    },
+    {
+      "guid": "c92ccdd145047ad4081f04f690c5f9d3",
+      "bytes": 34800,
+      "path": "Assets/ArtResource/Effects/Common_FX/Models/FX_Hemispherical_02_Mod.FBX"
+    },
+    {
+      "guid": "ca94e17a15d08c74b8b3cc0f8b044a04",
+      "bytes": 17010,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Lights_015_Tex.png"
+    },
+    {
+      "guid": "d0a2b45f15c507043b1e6f2589d5df4d",
+      "bytes": 6050,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Trail_016_Mat.mat"
+    },
+    {
+      "guid": "d4471cb2d42f5064abd858af344f08b1",
+      "bytes": 5927,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Spikes_16_Mat02.mat"
+    },
+    {
+      "guid": "d579b6a495d5eff4b8d6fd749aa0512a",
+      "bytes": 7520,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Polygon_003_Tex.png"
+    },
+    {
+      "guid": "d936206daa56c734fa91c2b23417cf2f",
+      "bytes": 18885,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_05_Tex.png"
+    },
+    {
+      "guid": "da02630cd1ac9714081b64fb82c3276a",
+      "bytes": 4500,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/NeedNot/circle_soft03.png"
+    },
+    {
+      "guid": "db3ce765b495ca94387e701b9ad2a2d6",
+      "bytes": 12143,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_011_Tex.png"
+    },
+    {
+      "guid": "dd6c0d6d9e6eb04428ef4ffed6178fa7",
+      "bytes": 6091,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_011_Mat.mat"
+    },
+    {
+      "guid": "e10fa562f363dd84281ac646fe6eb1d7",
+      "bytes": 15149,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Smoke_002_Tex.png"
+    },
+    {
+      "guid": "e8a2da2480b34334cb9f893aa47454f0",
+      "bytes": 6046,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Spikes_23_Mat.mat"
+    },
+    {
+      "guid": "ede01bfe98bcabd48a44343ee01d264a",
+      "bytes": 20562,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Shaders/All_ShadersUPR/VFX_AlphaBlend.shader"
+    },
+    {
+      "guid": "ef1dd119df3c65240bcd4e8e958310ba",
+      "bytes": 238544,
+      "path": "Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_550/Low/Textures/550_TinGiant_07_Tex.tga"
+    },
+    {
+      "guid": "efc97d3c6c41962458fbde81537b61ac",
+      "bytes": 6373,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_04_Mat09.mat"
+    },
+    {
+      "guid": "f23338c7879b3c744b85022fbc9e8d07",
+      "bytes": 356463,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/Common_VFX_Knife_05.prefab"
+    },
+    {
+      "guid": "f32c24ba13774464c810cc425e9e5b04",
+      "bytes": 6009,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Smoke_171_Mat02.mat"
+    },
+    {
+      "guid": "f4650d5c0a63e5d46b4d9cc8713285af",
+      "bytes": 5994,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Knife_006_Mat02.mat"
+    },
+    {
+      "guid": "f4b17072fd851994cbf26a0f2182ed1d",
+      "bytes": 22832,
+      "path": "Assets/ArtResource/Effect/Models/FX_Circle_003_Mod.fbx"
+    },
+    {
+      "guid": "f66ccb765a18d104cb8c6ba4fc6e0fcd",
+      "bytes": 15966,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Spikes_23_Tex.png"
+    },
+    {
+      "guid": "fec627cf09bc31b4d9e1b1958d998ef6",
+      "bytes": 6194,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_05_Mat03.mat"
+    }
+  ],
+  "types": {
+    ".mat": 21,
+    ".shader": 3,
+    "": 3,
+    ".png": 20,
+    ".prefab": 5,
+    ".fbx": 4,
+    ".cs": 1,
+    ".tga": 2
+  },
+  "scenes": []
+}

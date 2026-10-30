@@ -1,0 +1,10 @@
+import fs from 'node:fs';import{chromium}from'playwright';
+const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',args:['--use-angle=swiftshader','--enable-unsafe-swiftshader']});
+try{const page=await browser.newPage();await page.goto('http://127.0.0.1:5257/camera.html?capture=1&variant=FINAL');await page.waitForFunction(()=>window.ready,null,{timeout:240000});
+const results=await page.evaluate(async()=>{const{T}=await import('/src/probe-helper.js'),r=window.sceneRuntime,results=[];
+for(let zoom=1.5;zoom<=2.31;zoom+=.05)for(let center=-50;center<=-22;center+=1){const rows=[];
+for(const t of[0,.7,1.4,r.config.duration-1/60]){r.camera.position.set(0,240,center+100);r.camera.lookAt(0,0,center);r.camera.zoom=zoom;r.camera.updateMatrixWorld(true);r.camera.updateProjectionMatrix();
+const projected=r.simulation.units.map((u,i)=>{const p=r.row(t,i),v=new T.Vector3(p[0],.7,p[1]).project(r.camera);let full=true;for(const dx of[-2.9,2.9])for(const dz of[-2.9,2.9]){const q=new T.Vector3(p[0]+dx,1.4,p[1]+dz).project(r.camera);full&&=Math.abs(q.x)<.98&&Math.abs(q.y)<.97}return{u,z:p[1],full,visible:Math.abs(v.x)<.98&&Math.abs(v.y)<.97}});
+const red=projected.slice(252),front=red.filter(p=>p.u.army===2).sort((a,b)=>b.z-a.z).slice(0,44),blue=projected.slice(0,252),wings=blue.filter(p=>[0,6].includes(p.u.group));rows.push({t,allRed:red.filter(p=>p.full).length/red.length,front:front.filter(p=>p.visible).length/front.length,blue:blue.filter(p=>p.visible).length/252,wings:wings.filter(p=>p.visible).length/wings.length})}
+results.push({zoom,center,initialRed:rows[0].allRed,minFront:Math.min(...rows.map(p=>p.front)),endBlue:rows.at(-1).blue,endWings:rows.at(-1).wings,rows})}
+return results});fs.writeFileSync('output/V17-camera-candidates.json',JSON.stringify(results));const good=results.filter(r=>r.initialRed===1&&r.minFront===1&&r.endWings===1).sort((a,b)=>b.zoom-a.zoom||b.endBlue-a.endBlue);console.log(JSON.stringify(good.slice(0,5),null,2));}finally{await browser.close()}

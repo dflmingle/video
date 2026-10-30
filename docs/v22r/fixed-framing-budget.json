@@ -1,0 +1,283 @@
+{
+  "allSoldiers": {
+    "mode": "allSoldiers",
+    "center": -23.37080258424571,
+    "zoom": 1.420002738525063,
+    "increaseVersusV22Opening": 0.05185388038893546
+  },
+  "allSoldiersFractions": [
+    {
+      "time": 0,
+      "visible": {
+        "blue": {
+          "visible": 252,
+          "total": 252
+        },
+        "red": {
+          "visible": 324,
+          "total": 324
+        },
+        "orange": {
+          "visible": 432,
+          "total": 432
+        },
+        "yellow": {
+          "visible": 216,
+          "total": 216
+        }
+      }
+    },
+    {
+      "time": 1.6666666666666667,
+      "visible": {
+        "blue": {
+          "visible": 252,
+          "total": 252
+        },
+        "red": {
+          "visible": 324,
+          "total": 324
+        },
+        "orange": {
+          "visible": 432,
+          "total": 432
+        },
+        "yellow": {
+          "visible": 216,
+          "total": 216
+        }
+      }
+    },
+    {
+      "time": 3.3,
+      "visible": {
+        "blue": {
+          "visible": 252,
+          "total": 252
+        },
+        "red": {
+          "visible": 324,
+          "total": 324
+        },
+        "orange": {
+          "visible": 432,
+          "total": 432
+        },
+        "yellow": {
+          "visible": 216,
+          "total": 216
+        }
+      }
+    }
+  ],
+  "keySubjects": {
+    "mode": "keySubjects",
+    "center": -3.846725902193916,
+    "zoom": 2.09836491096905,
+    "increaseVersusV22Opening": 0.5543443784955926
+  },
+  "keySubjectsFractions": [
+    {
+      "time": 0,
+      "visible": {
+        "blue": {
+          "visible": 252,
+          "total": 252
+        },
+        "red": {
+          "visible": 0,
+          "total": 324
+        },
+        "orange": {
+          "visible": 0,
+          "total": 432
+        },
+        "yellow": {
+          "visible": 216,
+          "total": 216
+        }
+      }
+    },
+    {
+      "time": 1.6666666666666667,
+      "visible": {
+        "blue": {
+          "visible": 252,
+          "total": 252
+        },
+        "red": {
+          "visible": 0,
+          "total": 324
+        },
+        "orange": {
+          "visible": 148,
+          "total": 432
+        },
+        "yellow": {
+          "visible": 216,
+          "total": 216
+        }
+      }
+    },
+    {
+      "time": 3.3,
+      "visible": {
+        "blue": {
+          "visible": 252,
+          "total": 252
+        },
+        "red": {
+          "visible": 279,
+          "total": 324
+        },
+        "orange": {
+          "visible": 432,
+          "total": 432
+        },
+        "yellow": {
+          "visible": 216,
+          "total": 216
+        }
+      }
+    }
+  ],
+  "fixed20": {
+    "center": -3.846725902193916,
+    "zoom": 1.62,
+    "coverage": [
+      {
+        "time": 0,
+        "visible": {
+          "blue": {
+            "visible": 252,
+            "total": 252
+          },
+          "red": {
+            "visible": 0,
+            "total": 324
+          },
+          "orange": {
+            "visible": 310,
+            "total": 432
+          },
+          "yellow": {
+            "visible": 216,
+            "total": 216
+          }
+        }
+      },
+      {
+        "time": 1.6666666666666667,
+        "visible": {
+          "blue": {
+            "visible": 252,
+            "total": 252
+          },
+          "red": {
+            "visible": 8,
+            "total": 324
+          },
+          "orange": {
+            "visible": 432,
+            "total": 432
+          },
+          "yellow": {
+            "visible": 216,
+            "total": 216
+          }
+        }
+      },
+      {
+        "time": 3.3,
+        "visible": {
+          "blue": {
+            "visible": 252,
+            "total": 252
+          },
+          "red": {
+            "visible": 324,
+            "total": 324
+          },
+          "orange": {
+            "visible": 432,
+            "total": 432
+          },
+          "yellow": {
+            "visible": 216,
+            "total": 216
+          }
+        }
+      }
+    ]
+  },
+  "fixed35": {
+    "center": -3.846725902193916,
+    "zoom": 1.8225000000000002,
+    "coverage": [
+      {
+        "time": 0,
+        "visible": {
+          "blue": {
+            "visible": 252,
+            "total": 252
+          },
+          "red": {
+            "visible": 0,
+            "total": 324
+          },
+          "orange": {
+            "visible": 144,
+            "total": 432
+          },
+          "yellow": {
+            "visible": 216,
+            "total": 216
+          }
+        }
+      },
+      {
+        "time": 1.6666666666666667,
+        "visible": {
+          "blue": {
+            "visible": 252,
+            "total": 252
+          },
+          "red": {
+            "visible": 0,
+            "total": 324
+          },
+          "orange": {
+            "visible": 300,
+            "total": 432
+          },
+          "yellow": {
+            "visible": 216,
+            "total": 216
+          }
+        }
+      },
+      {
+        "time": 3.3,
+        "visible": {
+          "blue": {
+            "visible": 252,
+            "total": 252
+          },
+          "red": {
+            "visible": 324,
+            "total": 324
+          },
+          "orange": {
+            "visible": 432,
+            "total": 432
+          },
+          "yellow": {
+            "visible": 216,
+            "total": 216
+          }
+        }
+      }
+    ]
+  },
+  "assumptions": "V22-C all recorded frames; unchanged FOV42, height240, inclination (offsetZ100); projected feet/head only, 6% NDC margin. Preliminary feasibility, no visual camera approval."
+}

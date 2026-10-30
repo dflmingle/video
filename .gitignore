@@ -1,0 +1,15 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+unity-source/Library/
+unity-source/Temp/
+unity-source/Logs/
+unity-source/obj/
+variants/*/progress-checkpoint.pkl
+# Full raw render logs are losslessly archived as audit.json.gz.
+output/v22r-burst/C1-preview/audit.json
+output/v22r-burst/C2-preview/audit.json
+output/v22r-fast-charge/A-preview/audit.json
+SNAPSHOT-MANIFEST.json

@@ -1,0 +1,9 @@
+{
+  "status": "BLOCKED_MISSING_INPUT",
+  "missing": [
+    "C:\\Users\\89trillion\\PveMontageShot01V22R\\docs\\v22-scenes\\CastleExterior.json",
+    "C:\\Users\\89trillion\\PveMontageShot01V22R\\docs\\v22-scenes\\ArenaScene.json"
+  ],
+  "passed": false,
+  "reason": "Historical prefab conversion manifests are absent; native export checks are separate and do not make this test pass."
+}

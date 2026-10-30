@@ -1,0 +1,7354 @@
+{
+  "status": "PASS",
+  "controlColumns": [
+    "state",
+    "timer",
+    "target",
+    "lastRelease",
+    "walkPhase",
+    "turnPhase",
+    "actionPhase",
+    "moveSpeed",
+    "facingYaw",
+    "targetYaw",
+    "stateProgress",
+    "releaseEventId"
+  ],
+  "normal": {
+    "preAim": false,
+    "response": false,
+    "hash": "ace3f1098c6772222888f27835c31aac1ab98a6797ac79583f9a5b54b59c1578",
+    "firstShot": 2.1166666666666667,
+    "shotCount": 1287,
+    "phaseMaxError": 0.0,
+    "minimumSpacing": 0.6149999999999964,
+    "maximumFrameStep": 0.1168341022186649,
+    "stateIdsObserved": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "averageArrival": 2.3048941798941796,
+    "actualArrivals": [
+      1.6,
+      2.8166666666666664
+    ],
+    "endpointErrorP50P95": [
+      1.0622298485835513e-12,
+      0.03717722491872846
+    ],
+    "individualTimelines": [
+      {
+        "id": "B0000",
+        "transitions": [
+          {
+            "id": "B0000",
+            "time": 0.05,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0000",
+            "time": 1.1666666666666667,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0000",
+            "time": 1.6333333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0000",
+            "time": 1.8499999999999999,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 1.9666666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0000",
+            "time": 2.1666666666666665,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0000",
+            "time": 2.183333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0000",
+            "time": 2.5166666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.0,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.2,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.216666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.55,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.75,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.9499999999999997,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.966666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0000",
+            "time": 4.3,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 4.45,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0000",
+            "time": 4.65,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0000",
+            "time": 4.666666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.0,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.133333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.333333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.35,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.683333333333334,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.816666666666666,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0001",
+        "transitions": [
+          {
+            "id": "B0001",
+            "time": 0.06666666666666667,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0001",
+            "time": 1.2166666666666666,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0001",
+            "time": 1.6666666666666667,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0001",
+            "time": 1.8833333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 1.9666666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 2.2,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 2.216666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 2.5,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 2.6333333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 2.8666666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 2.8833333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 3.1666666666666665,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 3.466666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 3.6999999999999997,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 3.716666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.0,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.1,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.333333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.35,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.633333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.733333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.966666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.983333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.266666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.366666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.6,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.616666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.9,
+            "state": "AIMING"
+          }
+        ]
+      },
+      {
+        "id": "B0002",
+        "transitions": [
+          {
+            "id": "B0002",
+            "time": 0.05,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0002",
+            "time": 1.15,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0002",
+            "time": 1.6,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0002",
+            "time": 1.8,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 1.9333333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0002",
+            "time": 2.1333333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0002",
+            "time": 2.15,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0002",
+            "time": 2.5166666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 2.9166666666666665,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.1166666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.1333333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.5,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.65,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.85,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.8666666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0002",
+            "time": 4.233333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 4.383333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0002",
+            "time": 4.583333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0002",
+            "time": 4.6,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0002",
+            "time": 4.966666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.116666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.316666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.333333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.7,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.95,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0003",
+        "transitions": [
+          {
+            "id": "B0003",
+            "time": 0.06666666666666667,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0003",
+            "time": 1.2,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0003",
+            "time": 1.6666666666666667,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0003",
+            "time": 1.8833333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 1.9833333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 2.2,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 2.216666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 2.533333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 2.65,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 2.8666666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 2.8833333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.2,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.3166666666666664,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.533333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.55,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.8666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.9833333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.2,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.216666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.533333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.65,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.866666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.883333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.2,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.316666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.533333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.55,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.866666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.983333333333333,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0004",
+        "transitions": [
+          {
+            "id": "B0004",
+            "time": 0.03333333333333333,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0004",
+            "time": 1.15,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0004",
+            "time": 1.6333333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0004",
+            "time": 1.8666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 1.9333333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 2.1166666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 2.1333333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 2.4,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 2.5666666666666664,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 2.75,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 2.7666666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.033333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.1166666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.3,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.3166666666666664,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.5833333333333335,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.6666666666666665,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.85,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.8666666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.133333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.3,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.483333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.5,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.766666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.85,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.033333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.05,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.316666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.45,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.633333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.65,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.916666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 6.0,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0005",
+        "transitions": [
+          {
+            "id": "B0005",
+            "time": 0.05,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0005",
+            "time": 1.1666666666666667,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0005",
+            "time": 1.6333333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0005",
+            "time": 1.8666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 1.9833333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 2.2,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 2.216666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0005",
+            "time": 2.55,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 2.683333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 2.9,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 2.9166666666666665,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0005",
+            "time": 3.25,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 3.5666666666666664,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 3.783333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 3.8,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.133333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.266666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.483333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.5,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.833333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.966666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.183333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.2,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.533333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.666666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.883333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.9,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0006",
+        "transitions": [
+          {
+            "id": "B0006",
+            "time": 0.1,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0006",
+            "time": 1.3,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0006",
+            "time": 1.75,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0006",
+            "time": 1.9666666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 2.05,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 2.283333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 2.3,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 2.5833333333333335,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 2.683333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 2.9166666666666665,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 2.933333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.216666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.3166666666666664,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.55,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.5666666666666664,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.85,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.9499999999999997,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.183333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.2,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.483333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.583333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.816666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.833333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.116666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.216666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.45,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.466666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.75,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.85,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0007",
+        "transitions": [
+          {
+            "id": "B0007",
+            "time": 0.06666666666666667,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0007",
+            "time": 1.2166666666666666,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0007",
+            "time": 1.6666666666666667,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0007",
+            "time": 1.8666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 2.0,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 2.2,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 2.216666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0007",
+            "time": 2.5833333333333335,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 2.7333333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 2.933333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 2.95,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0007",
+            "time": 3.3166666666666664,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 3.5833333333333335,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 3.783333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 3.8,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0007",
+            "time": 4.166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 4.316666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 4.516666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 4.533333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0007",
+            "time": 4.9,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.05,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.25,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.266666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.633333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.783333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.983333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 6.0,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0008",
+        "transitions": [
+          {
+            "id": "B0008",
+            "time": 0.1,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0008",
+            "time": 1.3,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0008",
+            "time": 1.75,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0008",
+            "time": 1.95,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 2.05,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0008",
+            "time": 2.283333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0008",
+            "time": 2.3,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0008",
+            "time": 2.6166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 2.7333333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0008",
+            "time": 2.966666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0008",
+            "time": 2.9833333333333334,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0008",
+            "time": 3.3,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 3.4833333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0008",
+            "time": 3.716666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0008",
+            "time": 3.7333333333333334,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.05,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.25,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.483333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.5,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.816666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.966666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0008",
+            "time": 5.2,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0008",
+            "time": 5.216666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0008",
+            "time": 5.533333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 5.8,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0009",
+        "transitions": [
+          {
+            "id": "B0009",
+            "time": 0.06666666666666667,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0009",
+            "time": 1.2333333333333334,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0009",
+            "time": 1.7,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0009",
+            "time": 1.9166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.0,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.183333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.2,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.466666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.6,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.783333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.8,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.0666666666666664,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.1666666666666665,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.35,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.3666666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.6333333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.7333333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.9166666666666665,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.933333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.2,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.35,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.533333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.55,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.816666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.916666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.1,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.116666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.383333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.6,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.783333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.8,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0010",
+        "transitions": [
+          {
+            "id": "B0010",
+            "time": 0.08333333333333333,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0010",
+            "time": 1.25,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0010",
+            "time": 1.7166666666666666,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0010",
+            "time": 1.9166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0010",
+            "time": 2.05,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0010",
+            "time": 2.2666666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0010",
+            "time": 2.283333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0010",
+            "time": 2.6333333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.033333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.25,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.2666666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.6166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.7666666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.9833333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0010",
+            "time": 4.0,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0010",
+            "time": 4.35,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0010",
+            "time": 4.5,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0010",
+            "time": 4.716666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0010",
+            "time": 4.733333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.083333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.4,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.616666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.633333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.983333333333333,
+            "state": "AIMING"
+          }
+        ]
+      },
+      {
+        "id": "B0011",
+        "transitions": [
+          {
+            "id": "B0011",
+            "time": 0.1,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0011",
+            "time": 1.3,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0011",
+            "time": 1.7666666666666666,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0011",
+            "time": 2.0,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 2.1,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 2.35,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 2.3666666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0011",
+            "time": 2.6666666666666665,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 2.783333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.033333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.05,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.35,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.466666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.716666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.7333333333333334,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.033333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.15,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.4,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.416666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.716666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.833333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.083333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.1,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.4,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.516666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.766666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.783333333333333,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0108",
+        "transitions": [
+          {
+            "id": "B0108",
+            "time": 0.2833333333333333,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0108",
+            "time": 1.95,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0108",
+            "time": 2.3833333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0108",
+            "time": 2.5833333333333335,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 2.6666666666666665,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0108",
+            "time": 2.9,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0108",
+            "time": 2.9166666666666665,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.216666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.3166666666666664,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.55,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.5666666666666664,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.8666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.966666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.2,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.216666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.516666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.616666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.85,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.866666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.266666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.5,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.516666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.816666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.916666666666667,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0109",
+        "transitions": [
+          {
+            "id": "B0109",
+            "time": 0.25,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0109",
+            "time": 1.8333333333333333,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0109",
+            "time": 2.283333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0109",
+            "time": 2.45,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0109",
+            "time": 2.5833333333333335,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0109",
+            "time": 2.7666666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0109",
+            "time": 2.783333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0109",
+            "time": 3.1666666666666665,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0109",
+            "time": 3.3166666666666664,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0109",
+            "time": 3.5,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0109",
+            "time": 3.5166666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0109",
+            "time": 3.9,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.05,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.233333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.25,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.633333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.783333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.966666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.983333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0109",
+            "time": 5.366666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0109",
+            "time": 5.516666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0109",
+            "time": 5.7,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0109",
+            "time": 5.716666666666667,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0110",
+        "transitions": [
+          {
+            "id": "B0110",
+            "time": 0.2833333333333333,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0110",
+            "time": 1.9333333333333333,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0110",
+            "time": 2.3833333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0110",
+            "time": 2.5666666666666664,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0110",
+            "time": 2.683333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0110",
+            "time": 2.9,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0110",
+            "time": 2.9166666666666665,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.25,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.3833333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.6,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.6166666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.9499999999999997,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.083333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.3,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.316666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.65,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.783333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.0,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.016666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.35,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.483333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.7,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.716666666666667,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0216",
+        "transitions": [
+          {
+            "id": "B0216",
+            "time": 0.11666666666666667,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0216",
+            "time": 1.2833333333333332,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0216",
+            "time": 1.75,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0216",
+            "time": 1.9666666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 2.033333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 2.283333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 2.3,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 2.5666666666666664,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 2.65,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 2.9,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 2.9166666666666665,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.183333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.35,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.6,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.6166666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.8833333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.966666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.216666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.233333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.5,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.583333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.833333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.85,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.116666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.2,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.45,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.466666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.733333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.816666666666666,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0217",
+        "transitions": [
+          {
+            "id": "B0217",
+            "time": 0.08333333333333333,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0217",
+            "time": 1.2,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0217",
+            "time": 1.65,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0217",
+            "time": 1.8499999999999999,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 1.9666666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0217",
+            "time": 2.1666666666666665,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0217",
+            "time": 2.183333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0217",
+            "time": 2.533333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 2.783333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0217",
+            "time": 2.9833333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.0,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.35,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.6166666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.8166666666666664,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.8333333333333335,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.183333333333334,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.316666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.516666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.533333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.883333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.016666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.216666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.233333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.583333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.983333333333333,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0218",
+        "transitions": [
+          {
+            "id": "B0218",
+            "time": 0.1,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0218",
+            "time": 1.2333333333333334,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0218",
+            "time": 1.7,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0218",
+            "time": 1.9166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 2.0,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 2.2333333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 2.25,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 2.55,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 2.65,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 2.8833333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 2.9,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.2,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.3,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.533333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.55,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.85,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.9499999999999997,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.183333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.2,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.5,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.6,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.833333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.85,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.15,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.25,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.483333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.5,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.8,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.9,
+            "state": "DRAWING"
+          }
+        ]
+      }
+    ],
+    "maxIdleOffset": 0.09394838496143,
+    "maxShootingOffset": 0.230207092930574
+  },
+  "response": {
+    "preAim": false,
+    "response": true,
+    "hash": "3d7d413ab6bccff9ec15dcfb794bd4e89da4611ba3836ca92c1b838d7bc1635e",
+    "firstShot": 2.1166666666666667,
+    "shotCount": 1293,
+    "phaseMaxError": 0.0,
+    "minimumSpacing": 0.6149999999999965,
+    "maximumFrameStep": 0.1168341022186649,
+    "stateIdsObserved": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "averageArrival": 2.3048941798941796,
+    "actualArrivals": [
+      1.6,
+      2.8166666666666664
+    ],
+    "endpointErrorP50P95": [
+      1.1469173644710593e-12,
+      0.03717722491872846
+    ],
+    "individualTimelines": [
+      {
+        "id": "B0000",
+        "transitions": [
+          {
+            "id": "B0000",
+            "time": 0.05,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0000",
+            "time": 1.1666666666666667,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0000",
+            "time": 1.6333333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0000",
+            "time": 1.8499999999999999,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 1.9666666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0000",
+            "time": 2.1666666666666665,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0000",
+            "time": 2.183333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0000",
+            "time": 2.5166666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.0,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.2,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.216666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.55,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.75,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.9499999999999997,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.966666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0000",
+            "time": 4.3,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 4.45,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0000",
+            "time": 4.65,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0000",
+            "time": 4.666666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.0,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.133333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.333333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.35,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.683333333333334,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.9,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0001",
+        "transitions": [
+          {
+            "id": "B0001",
+            "time": 0.06666666666666667,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0001",
+            "time": 1.2166666666666666,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0001",
+            "time": 1.6666666666666667,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0001",
+            "time": 1.8833333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 1.9666666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 2.2,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 2.216666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 2.5,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 2.6333333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 2.8666666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 2.8833333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 3.1666666666666665,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 3.466666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 3.6999999999999997,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 3.716666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.0,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.233333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.466666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.483333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.766666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.866666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.1,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.116666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.4,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.5,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.733333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.75,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0002",
+        "transitions": [
+          {
+            "id": "B0002",
+            "time": 0.05,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0002",
+            "time": 1.15,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0002",
+            "time": 1.6,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0002",
+            "time": 1.8,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 1.9333333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0002",
+            "time": 2.1333333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0002",
+            "time": 2.15,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0002",
+            "time": 2.5166666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 2.9166666666666665,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.1166666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.1333333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.5,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.65,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.85,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.8666666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0002",
+            "time": 4.233333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 4.383333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0002",
+            "time": 4.583333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0002",
+            "time": 4.6,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0002",
+            "time": 4.966666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.25,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.45,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.466666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.833333333333333,
+            "state": "AIMING"
+          }
+        ]
+      },
+      {
+        "id": "B0003",
+        "transitions": [
+          {
+            "id": "B0003",
+            "time": 0.06666666666666667,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0003",
+            "time": 1.2,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0003",
+            "time": 1.6666666666666667,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0003",
+            "time": 1.8833333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 1.9833333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 2.2,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 2.216666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 2.533333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 2.65,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 2.8666666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 2.8833333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.2,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.3166666666666664,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.533333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.55,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.8666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.016666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.233333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.25,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.566666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.683333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.9,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.916666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.233333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.35,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.566666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.583333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.9,
+            "state": "AIMING"
+          }
+        ]
+      },
+      {
+        "id": "B0004",
+        "transitions": [
+          {
+            "id": "B0004",
+            "time": 0.03333333333333333,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0004",
+            "time": 1.15,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0004",
+            "time": 1.6333333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0004",
+            "time": 1.8666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 1.9333333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 2.1166666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 2.1333333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 2.4,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 2.5666666666666664,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 2.75,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 2.7666666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.033333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.1166666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.3,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.3166666666666664,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.5833333333333335,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.6666666666666665,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.85,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.8666666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.133333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.233333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.416666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.433333333333334,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.7,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.783333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.966666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.983333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.25,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.333333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.516666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.533333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.8,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.883333333333333,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0005",
+        "transitions": [
+          {
+            "id": "B0005",
+            "time": 0.05,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0005",
+            "time": 1.1666666666666667,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0005",
+            "time": 1.6333333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0005",
+            "time": 1.8666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 1.9833333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 2.2,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 2.216666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0005",
+            "time": 2.55,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 2.683333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 2.9,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 2.9166666666666665,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0005",
+            "time": 3.25,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 3.4166666666666665,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 3.6333333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 3.65,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0005",
+            "time": 3.9833333333333334,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.116666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.333333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.35,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.683333333333334,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.883333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.1,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.116666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.45,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.633333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.85,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.866666666666666,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0006",
+        "transitions": [
+          {
+            "id": "B0006",
+            "time": 0.1,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0006",
+            "time": 1.3,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0006",
+            "time": 1.75,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0006",
+            "time": 1.9666666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 2.05,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 2.283333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 2.3,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 2.5833333333333335,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 2.683333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 2.9166666666666665,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 2.933333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.216666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.3166666666666664,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.55,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.5666666666666664,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.85,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.9499999999999997,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.183333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.2,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.483333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.583333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.816666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.833333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.116666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.216666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.45,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.466666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.75,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.85,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0007",
+        "transitions": [
+          {
+            "id": "B0007",
+            "time": 0.06666666666666667,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0007",
+            "time": 1.2166666666666666,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0007",
+            "time": 1.6666666666666667,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0007",
+            "time": 1.8666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 2.0,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 2.2,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 2.216666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0007",
+            "time": 2.5833333333333335,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 2.7333333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 2.933333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 2.95,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0007",
+            "time": 3.3166666666666664,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 3.5833333333333335,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 3.783333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 3.8,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0007",
+            "time": 4.166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 4.316666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 4.516666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 4.533333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0007",
+            "time": 4.9,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.05,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.25,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.266666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.633333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.783333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.983333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 6.0,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0008",
+        "transitions": [
+          {
+            "id": "B0008",
+            "time": 0.1,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0008",
+            "time": 1.3,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0008",
+            "time": 1.75,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0008",
+            "time": 1.95,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 2.05,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0008",
+            "time": 2.283333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0008",
+            "time": 2.3,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0008",
+            "time": 2.6166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 2.7333333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0008",
+            "time": 2.966666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0008",
+            "time": 2.9833333333333334,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0008",
+            "time": 3.3,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 3.6166666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0008",
+            "time": 3.85,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0008",
+            "time": 3.8666666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.183333333333334,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.35,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.583333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.6,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.916666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 5.366666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0008",
+            "time": 5.6,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0008",
+            "time": 5.616666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0008",
+            "time": 5.933333333333334,
+            "state": "AIMING"
+          }
+        ]
+      },
+      {
+        "id": "B0009",
+        "transitions": [
+          {
+            "id": "B0009",
+            "time": 0.06666666666666667,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0009",
+            "time": 1.2333333333333334,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0009",
+            "time": 1.7,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0009",
+            "time": 1.9166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.0,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.183333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.2,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.466666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.6,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.783333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.8,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.0666666666666664,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.1666666666666665,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.35,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.3666666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.6333333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.7333333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.9166666666666665,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.933333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.2,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.416666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.6,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.616666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.883333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.1,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.283333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.3,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.566666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.883333333333333,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0010",
+        "transitions": [
+          {
+            "id": "B0010",
+            "time": 0.08333333333333333,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0010",
+            "time": 1.25,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0010",
+            "time": 1.7166666666666666,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0010",
+            "time": 1.9166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0010",
+            "time": 2.05,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0010",
+            "time": 2.2666666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0010",
+            "time": 2.283333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0010",
+            "time": 2.6333333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.033333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.25,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.2666666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.6166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.7666666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.9833333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0010",
+            "time": 4.0,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0010",
+            "time": 4.35,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0010",
+            "time": 4.5,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0010",
+            "time": 4.716666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0010",
+            "time": 4.733333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.083333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.416666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.633333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.65,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0010",
+            "time": 6.0,
+            "state": "AIMING"
+          }
+        ]
+      },
+      {
+        "id": "B0011",
+        "transitions": [
+          {
+            "id": "B0011",
+            "time": 0.1,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0011",
+            "time": 1.3,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0011",
+            "time": 1.7666666666666666,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0011",
+            "time": 2.0,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 2.1,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 2.35,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 2.3666666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0011",
+            "time": 2.6666666666666665,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 2.783333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.033333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.05,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.35,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.466666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.716666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.7333333333333334,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.033333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.15,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.4,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.416666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.716666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.833333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.083333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.1,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.4,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.566666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.816666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.833333333333333,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0108",
+        "transitions": [
+          {
+            "id": "B0108",
+            "time": 0.2833333333333333,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0108",
+            "time": 1.95,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0108",
+            "time": 2.3833333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0108",
+            "time": 2.5833333333333335,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 2.6666666666666665,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0108",
+            "time": 2.9,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0108",
+            "time": 2.9166666666666665,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.216666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.3166666666666664,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.55,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.5666666666666664,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.8666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.966666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.2,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.216666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.516666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.616666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.85,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.866666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.266666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.5,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.516666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.816666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.916666666666667,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0109",
+        "transitions": [
+          {
+            "id": "B0109",
+            "time": 0.25,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0109",
+            "time": 1.8333333333333333,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0109",
+            "time": 2.283333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0109",
+            "time": 2.45,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0109",
+            "time": 2.5833333333333335,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0109",
+            "time": 2.7666666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0109",
+            "time": 2.783333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0109",
+            "time": 3.1666666666666665,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0109",
+            "time": 3.3166666666666664,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0109",
+            "time": 3.5,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0109",
+            "time": 3.5166666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0109",
+            "time": 3.9,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.05,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.233333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.25,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.633333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.783333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.966666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.983333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0109",
+            "time": 5.366666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0109",
+            "time": 5.516666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0109",
+            "time": 5.7,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0109",
+            "time": 5.716666666666667,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0110",
+        "transitions": [
+          {
+            "id": "B0110",
+            "time": 0.2833333333333333,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0110",
+            "time": 1.9333333333333333,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0110",
+            "time": 2.3833333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0110",
+            "time": 2.5666666666666664,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0110",
+            "time": 2.683333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0110",
+            "time": 2.9,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0110",
+            "time": 2.9166666666666665,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.25,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.3833333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.6,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.6166666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.9499999999999997,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.083333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.3,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.316666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.65,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.783333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.0,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.016666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.35,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.483333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.7,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.716666666666667,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0216",
+        "transitions": [
+          {
+            "id": "B0216",
+            "time": 0.11666666666666667,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0216",
+            "time": 1.2833333333333332,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0216",
+            "time": 1.75,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0216",
+            "time": 1.9666666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 2.033333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 2.283333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 2.3,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 2.5666666666666664,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 2.65,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 2.9,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 2.9166666666666665,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.183333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.35,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.6,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.6166666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.8833333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.966666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.216666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.233333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.5,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.583333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.833333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.85,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.116666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.25,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.5,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.516666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.783333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.883333333333333,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0217",
+        "transitions": [
+          {
+            "id": "B0217",
+            "time": 0.08333333333333333,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0217",
+            "time": 1.2,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0217",
+            "time": 1.65,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0217",
+            "time": 1.8499999999999999,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 1.9666666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0217",
+            "time": 2.1666666666666665,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0217",
+            "time": 2.183333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0217",
+            "time": 2.533333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 2.783333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0217",
+            "time": 2.9833333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.0,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.35,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.6166666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.8166666666666664,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.8333333333333335,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.183333333333334,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.316666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.516666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.533333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.883333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.05,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.25,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.266666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.616666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.866666666666666,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0218",
+        "transitions": [
+          {
+            "id": "B0218",
+            "time": 0.1,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0218",
+            "time": 1.2333333333333334,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0218",
+            "time": 1.7,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0218",
+            "time": 1.9166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 2.0,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 2.2333333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 2.25,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 2.55,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 2.65,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 2.8833333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 2.9,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.2,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.3,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.533333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.55,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.85,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.9499999999999997,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.183333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.2,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.5,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.6,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.833333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.85,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.15,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.266666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.5,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.516666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.816666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.916666666666667,
+            "state": "DRAWING"
+          }
+        ]
+      }
+    ],
+    "maxIdleOffset": 0.09394838496143,
+    "maxShootingOffset": 0.230207092930574
+  },
+  "testCPreAim": {
+    "preAim": true,
+    "response": false,
+    "hash": "d1ac426eb81cc188fb6ea4f3cbbcb1ad9fa9dcd9afdeffbeb4ee35d2f4754018",
+    "firstShot": 2.9833333333333334,
+    "shotCount": 1236,
+    "phaseMaxError": 0.0,
+    "minimumSpacing": 0.6149999999999964,
+    "maximumFrameStep": 0.1168341022186649,
+    "stateIdsObserved": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "averageArrival": 2.3048941798941796,
+    "actualArrivals": [
+      1.6,
+      2.8166666666666664
+    ],
+    "endpointErrorP50P95": [
+      1.0622298485835513e-12,
+      0.03717722491872846
+    ],
+    "individualTimelines": [
+      {
+        "id": "B0000",
+        "transitions": [
+          {
+            "id": "B0000",
+            "time": 0.05,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0000",
+            "time": 1.1666666666666667,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0000",
+            "time": 1.6333333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0000",
+            "time": 1.8499999999999999,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.0,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.0166666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.35,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.4833333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.683333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0000",
+            "time": 3.6999999999999997,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0000",
+            "time": 4.033333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 4.166666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0000",
+            "time": 4.366666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0000",
+            "time": 4.383333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0000",
+            "time": 4.716666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 4.85,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.05,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.066666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.4,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.533333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.733333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0000",
+            "time": 5.75,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0001",
+        "transitions": [
+          {
+            "id": "B0001",
+            "time": 0.06666666666666667,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0001",
+            "time": 1.2166666666666666,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0001",
+            "time": 1.6666666666666667,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0001",
+            "time": 1.8833333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 3.033333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 3.05,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 3.3333333333333335,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 3.433333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 3.6666666666666665,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 3.683333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 3.966666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.066666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.3,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.316666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.6,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.7,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.933333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 4.95,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.233333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.333333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.566666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.583333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.866666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0001",
+            "time": 5.966666666666667,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0002",
+        "transitions": [
+          {
+            "id": "B0002",
+            "time": 0.05,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0002",
+            "time": 1.15,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0002",
+            "time": 1.6,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0002",
+            "time": 1.8,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.0,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.0166666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.3833333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.533333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.7333333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0002",
+            "time": 3.75,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0002",
+            "time": 4.116666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 4.266666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0002",
+            "time": 4.466666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0002",
+            "time": 4.483333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0002",
+            "time": 4.85,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.0,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.2,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.216666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.583333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.75,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.95,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0002",
+            "time": 5.966666666666667,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0003",
+        "transitions": [
+          {
+            "id": "B0003",
+            "time": 0.06666666666666667,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0003",
+            "time": 1.2,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0003",
+            "time": 1.6666666666666667,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0003",
+            "time": 1.8833333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.0166666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.033333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.35,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.466666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.683333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 3.6999999999999997,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.016666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.133333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.35,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.366666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.683333333333334,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 4.833333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.05,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.066666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.383333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.5,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.716666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0003",
+            "time": 5.733333333333333,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0004",
+        "transitions": [
+          {
+            "id": "B0004",
+            "time": 0.03333333333333333,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0004",
+            "time": 1.15,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0004",
+            "time": 1.6333333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0004",
+            "time": 1.8666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 2.9833333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.0,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.2666666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.35,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.533333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.55,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.8166666666666664,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 3.9,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.083333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.1,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.366666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.45,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.633333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.65,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 4.916666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.0,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.183333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.2,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.466666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.583333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.766666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0004",
+            "time": 5.783333333333333,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0005",
+        "transitions": [
+          {
+            "id": "B0005",
+            "time": 0.05,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0005",
+            "time": 1.1666666666666667,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0005",
+            "time": 1.6333333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0005",
+            "time": 1.8499999999999999,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 3.0166666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 3.033333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0005",
+            "time": 3.3666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 3.5,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 3.716666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 3.7333333333333334,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.066666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.2,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.416666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.433333333333334,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.766666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 4.9,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.116666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.133333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.466666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.6,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.816666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0005",
+            "time": 5.833333333333333,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0006",
+        "transitions": [
+          {
+            "id": "B0006",
+            "time": 0.1,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0006",
+            "time": 1.3,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0006",
+            "time": 1.75,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0006",
+            "time": 1.9666666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.033333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.05,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.3333333333333335,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.433333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.6666666666666665,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.683333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 3.966666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.066666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.3,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.316666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.6,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.7,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.933333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 4.95,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.233333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.333333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.566666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.583333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.866666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0006",
+            "time": 5.966666666666667,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0007",
+        "transitions": [
+          {
+            "id": "B0007",
+            "time": 0.06666666666666667,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0007",
+            "time": 1.2166666666666666,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0007",
+            "time": 1.6666666666666667,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0007",
+            "time": 1.8666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 3.0,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 3.0166666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0007",
+            "time": 3.3833333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 3.55,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 3.75,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 3.7666666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0007",
+            "time": 4.133333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 4.283333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 4.483333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 4.5,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0007",
+            "time": 4.866666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.016666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.216666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.233333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.6,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.75,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.95,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0007",
+            "time": 5.966666666666667,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0008",
+        "transitions": [
+          {
+            "id": "B0008",
+            "time": 0.1,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0008",
+            "time": 1.3,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0008",
+            "time": 1.75,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0008",
+            "time": 1.95,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0008",
+            "time": 3.033333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0008",
+            "time": 3.05,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0008",
+            "time": 3.3666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 3.4833333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0008",
+            "time": 3.716666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0008",
+            "time": 3.7333333333333334,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.05,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.166666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.4,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.416666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.733333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 4.85,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0008",
+            "time": 5.083333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0008",
+            "time": 5.1,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0008",
+            "time": 5.416666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0008",
+            "time": 5.533333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0008",
+            "time": 5.766666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0008",
+            "time": 5.783333333333333,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0009",
+        "transitions": [
+          {
+            "id": "B0009",
+            "time": 0.06666666666666667,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0009",
+            "time": 1.2333333333333334,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0009",
+            "time": 1.7,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0009",
+            "time": 1.9166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 2.9833333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.0,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.2666666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.3666666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.55,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.5666666666666664,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.8333333333333335,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 3.933333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.116666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.133333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.4,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.5,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.683333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.7,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 4.966666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.066666666666666,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.25,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.266666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.533333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.633333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.816666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0009",
+            "time": 5.833333333333333,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0010",
+        "transitions": [
+          {
+            "id": "B0010",
+            "time": 0.08333333333333333,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0010",
+            "time": 1.25,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0010",
+            "time": 1.7166666666666666,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0010",
+            "time": 1.9166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0010",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.0166666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.033333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.3833333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.533333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.75,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0010",
+            "time": 3.7666666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0010",
+            "time": 4.116666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0010",
+            "time": 4.266666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0010",
+            "time": 4.483333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0010",
+            "time": 4.5,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0010",
+            "time": 4.85,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.0,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.216666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.233333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.583333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.733333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.95,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0010",
+            "time": 5.966666666666667,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0011",
+        "transitions": [
+          {
+            "id": "B0011",
+            "time": 0.1,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0011",
+            "time": 1.3,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0011",
+            "time": 1.7666666666666666,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0011",
+            "time": 2.0,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.05,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.0666666666666664,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.3666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.4833333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.7333333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 3.75,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.05,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.166666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.416666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.433333333333334,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.733333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 4.85,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.1,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.116666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.416666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.533333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.783333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0011",
+            "time": 5.8,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0108",
+        "transitions": [
+          {
+            "id": "B0108",
+            "time": 0.2833333333333333,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0108",
+            "time": 1.95,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0108",
+            "time": 2.3833333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0108",
+            "time": 2.5833333333333335,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.033333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.05,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.35,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.4499999999999997,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.683333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0108",
+            "time": 3.6999999999999997,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.0,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.1,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.333333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.35,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.65,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.75,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0108",
+            "time": 4.983333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.0,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.3,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.4,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.633333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.65,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0108",
+            "time": 5.95,
+            "state": "AIMING"
+          }
+        ]
+      },
+      {
+        "id": "B0109",
+        "transitions": [
+          {
+            "id": "B0109",
+            "time": 0.25,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0109",
+            "time": 1.8333333333333333,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0109",
+            "time": 2.283333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0109",
+            "time": 2.45,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0109",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0109",
+            "time": 2.9833333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0109",
+            "time": 3.0,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0109",
+            "time": 3.3833333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0109",
+            "time": 3.533333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0109",
+            "time": 3.716666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0109",
+            "time": 3.7333333333333334,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.116666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.266666666666667,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.45,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.466666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0109",
+            "time": 4.85,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0109",
+            "time": 5.0,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0109",
+            "time": 5.183333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0109",
+            "time": 5.2,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0109",
+            "time": 5.583333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0109",
+            "time": 5.733333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0109",
+            "time": 5.916666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0109",
+            "time": 5.933333333333334,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0110",
+        "transitions": [
+          {
+            "id": "B0110",
+            "time": 0.2833333333333333,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0110",
+            "time": 1.9333333333333333,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0110",
+            "time": 2.3833333333333333,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0110",
+            "time": 2.5666666666666664,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0110",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.0166666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.033333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.3666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.5,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.716666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0110",
+            "time": 3.7333333333333334,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.066666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.2,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.416666666666667,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.433333333333334,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.766666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0110",
+            "time": 4.9,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.116666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.133333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.466666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.6,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.816666666666666,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0110",
+            "time": 5.833333333333333,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0216",
+        "transitions": [
+          {
+            "id": "B0216",
+            "time": 0.11666666666666667,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0216",
+            "time": 1.2833333333333332,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0216",
+            "time": 1.75,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0216",
+            "time": 1.9666666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.05,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.0666666666666664,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.3333333333333335,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.4166666666666665,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.6666666666666665,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.683333333333333,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 3.9499999999999997,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.033333333333333,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.283333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.3,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.566666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.683333333333334,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.933333333333334,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 4.95,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.216666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.3,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.55,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.566666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.833333333333333,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0216",
+            "time": 5.916666666666667,
+            "state": "DRAWING"
+          }
+        ]
+      },
+      {
+        "id": "B0217",
+        "transitions": [
+          {
+            "id": "B0217",
+            "time": 0.08333333333333333,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0217",
+            "time": 1.2,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0217",
+            "time": 1.65,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0217",
+            "time": 1.8499999999999999,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.0,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.0166666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.3666666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.5,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.6999999999999997,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0217",
+            "time": 3.716666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.066666666666666,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.2,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.4,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.416666666666667,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.766666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 4.9,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.1,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.116666666666666,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.466666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.6,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.8,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0217",
+            "time": 5.816666666666666,
+            "state": "RECOVERING"
+          }
+        ]
+      },
+      {
+        "id": "B0218",
+        "transitions": [
+          {
+            "id": "B0218",
+            "time": 0.1,
+            "state": "MOVING"
+          },
+          {
+            "id": "B0218",
+            "time": 1.2333333333333334,
+            "state": "ARRIVING"
+          },
+          {
+            "id": "B0218",
+            "time": 1.7,
+            "state": "TURNING"
+          },
+          {
+            "id": "B0218",
+            "time": 1.9166666666666667,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 2.8,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.033333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.05,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.35,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.4499999999999997,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.683333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 3.6999999999999997,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.0,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.1,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.333333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.35,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.65,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.75,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 4.983333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.0,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.3,
+            "state": "AIMING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.4,
+            "state": "DRAWING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.633333333333333,
+            "state": "RELEASING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.65,
+            "state": "RECOVERING"
+          },
+          {
+            "id": "B0218",
+            "time": 5.95,
+            "state": "AIMING"
+          }
+        ]
+      }
+    ],
+    "maxIdleOffset": 0.09394838496143,
+    "maxShootingOffset": 0.230207092930574
+  },
+  "deterministicReplay": true,
+  "renderingHelper": {
+    "checks": 40,
+    "releasePhase": 0.64,
+    "independentClock": true,
+    "weightsSumToOne": true
+  },
+  "visualAcceptance": "NOT_RUN: root renders encoded clip after integration"
+}

@@ -1,0 +1,143 @@
+{
+  "status": "BLOCKED_BY_UNCHANGED_SAFETY_CONSTRAINT",
+  "baselineSourceMatchesOriginalVideo": true,
+  "onlyRequestedParameterChange": "duration 2.2 -> 3.5",
+  "newBattleLogicUsed": false,
+  "arrayComparisons": {
+    "trajectories.npy": {
+      "shape": [
+        133,
+        1224,
+        2
+      ],
+      "bitIdentical": true,
+      "maxAbsoluteDifference": 0.0
+    },
+    "blue-control.npy": {
+      "shape": [
+        133,
+        252,
+        12
+      ],
+      "bitIdentical": true,
+      "maxAbsoluteDifference": 0.0
+    },
+    "red-control.npy": {
+      "shape": [
+        133,
+        972,
+        10
+      ],
+      "bitIdentical": true,
+      "maxAbsoluteDifference": 0.0
+    },
+    "gait-distance.npy": {
+      "shape": [
+        133,
+        1224
+      ],
+      "bitIdentical": true,
+      "maxAbsoluteDifference": 0.0
+    },
+    "gait-cycles.npy": {
+      "shape": [
+        133,
+        1224
+      ],
+      "bitIdentical": true,
+      "maxAbsoluteDifference": 0.0
+    },
+    "hit-times.npy": {
+      "shape": [
+        133,
+        972
+      ],
+      "bitIdentical": true,
+      "maxAbsoluteDifference": 0.0
+    },
+    "member-states.npy": {
+      "shape": [
+        133,
+        972
+      ],
+      "bitIdentical": true,
+      "maxAbsoluteDifference": 0.0
+    },
+    "movement-reasons.npy": {
+      "shape": [
+        133,
+        972
+      ],
+      "bitIdentical": true,
+      "maxAbsoluteDifference": 0.0
+    },
+    "avoidance-causes.npy": {
+      "shape": [
+        133,
+        972
+      ],
+      "bitIdentical": true,
+      "maxAbsoluteDifference": 0.0
+    },
+    "response-targets.npy": {
+      "shape": [
+        133,
+        252,
+        2
+      ],
+      "bitIdentical": true,
+      "maxAbsoluteDifference": 0.0
+    }
+  },
+  "fullSimulationJSONIdentical": true,
+  "allShooterEventsIdentical": true,
+  "arrowsIdenticalBecauseAllTrajectoryInputsAndRendererUnchanged": true,
+  "commonSimulationFrames": 133,
+  "commonVideoFrames": 132,
+  "firstRelease": 2.033333333333333,
+  "firstScheduledImpact": 2.2333333333333334,
+  "scheduledImpactIsNotActualHit": true,
+  "actualHitsBeforeCut": 0,
+  "firstMotion": {
+    "red": 0.016666666666666666,
+    "blue": 0.016666666666666666
+  },
+  "lastAcceptedStateTime": 2.2,
+  "termination": {
+    "reason": "SAFETY_AUTOCUT",
+    "requestedDuration": 3.5,
+    "firstRejectedFrame": 133,
+    "firstRejectedTime": 2.216666666666667,
+    "lastAcceptedFrame": 132,
+    "lastAcceptedTime": 2.2,
+    "priorCenterDistance": 10.714667939248221,
+    "rejectedCenterDistance": 10.371561312077718,
+    "rejectedSurfaceClearance": 4.171561312077718,
+    "conservativeSegmentClearance": 3.957281407116132,
+    "requiredSurfaceClearance": 4,
+    "cutBuffer": 0.05,
+    "maximumBlueStep": 0.028283363208174706,
+    "maximumRedStep": 0.40027645230293274
+  },
+  "minimumAcceptedSampleGap": 4.5146683124186735,
+  "minimumAcceptedConservativeGap": 4.296641018736575,
+  "requestedExtension": {
+    "start": 2.2,
+    "end": 3.5,
+    "generated": false,
+    "renderableAdditionalFrames": 0,
+    "realReleases": null,
+    "realHits": null,
+    "minimumSurfaceGap": null,
+    "reason": "No accepted state exists after 2.2; do not count nonexistent events or extrapolated impacts as actual results"
+  },
+  "localBudgetEstimate": {
+    "lastMeasuredGapClosingSpeed": 20.71960250207919,
+    "method": "Linear extrapolation of the last measured nearest-gap change; NOT a new simulation or approved adjustment",
+    "additionalGapAt3Seconds": 16.57568200166335,
+    "additionalGapAt3Point5Seconds": 26.935483252702944,
+    "additionalGapAt4Seconds": 37.295284503742536,
+    "warning": "Moving initial positions would alter range entry and usually shooting times; no placement change authorized or applied"
+  },
+  "redFormationVerdict": "Identical to original in all accepted frames; cannot evaluate an ungenerated extension"
+}

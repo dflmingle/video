@@ -1,0 +1,613 @@
+{
+  "disk": [
+    {
+      "root": "C:\\Users\\89trillion\\My project\\Assets",
+      "fileCount": 2262,
+      "types": {
+        ".png": 133,
+        ".fbx": 63,
+        ".mat": 214,
+        ".prefab": 88,
+        ".unity": 17,
+        ".jpg": 3,
+        ".tga": 4
+      },
+      "scenes": [
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\20260923-公会战：留了一手\\20260923-公会战：留了一手 第一关.unity",
+          "types": {
+            ".prefab": 57,
+            ".fbx": 35,
+            ".mat": 86,
+            ".asset": 10,
+            ".cs": 19,
+            ".rendertexture": 1,
+            ".png": 81,
+            ".playable": 3,
+            ".overridecontroller": 1,
+            ".signal": 1,
+            ".ttf": 1,
+            ".shader": 11,
+            ".tga": 4,
+            ".shadergraph": 2,
+            ".controller": 2,
+            ".psd": 8
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\20260923-公会战：留了一手\\20260923-公会战：留了一手 第二关 1.unity",
+          "types": {
+            ".prefab": 62,
+            ".fbx": 35,
+            ".mat": 86,
+            ".asset": 10,
+            ".cs": 19,
+            ".rendertexture": 1,
+            ".png": 81,
+            ".playable": 3,
+            ".overridecontroller": 1,
+            ".signal": 1,
+            ".ttf": 1,
+            ".shader": 11,
+            ".tga": 4,
+            ".shadergraph": 2,
+            ".controller": 2,
+            ".psd": 8
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\20260923-公会战：留了一手\\20260923-公会战：留了一手 第二关 2.unity",
+          "types": {
+            ".prefab": 60,
+            ".fbx": 35,
+            ".mat": 84,
+            ".asset": 10,
+            ".cs": 19,
+            ".rendertexture": 1,
+            ".png": 79,
+            ".playable": 3,
+            ".overridecontroller": 1,
+            ".signal": 1,
+            ".ttf": 1,
+            ".shader": 11,
+            ".tga": 4,
+            ".shadergraph": 2,
+            ".controller": 2,
+            ".psd": 7
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\20261019-跨河强渡战役\\20261019-跨河强渡战役.unity",
+          "types": {
+            ".fbx": 8,
+            ".mat": 2,
+            ".png": 6,
+            ".shader": 1
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\CrossRiverCampaign\\Scenes\\CrossRiverCampaign.unity",
+          "types": {
+            ".asset": 7,
+            ".cs": 3,
+            ".mat": 19,
+            ".png": 7,
+            ".playable": 1,
+            ".shader": 2,
+            ".otf": 1,
+            ".prefab": 11,
+            ".fbx": 8,
+            ".bytes": 1
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\CrossRiverCampaign\\Scenes\\CrossRiverMap.unity",
+          "types": {
+            ".mat": 1,
+            ".png": 1
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\demo1\\demo1.unity",
+          "types": {
+            ".playable": 1,
+            ".mat": 37,
+            ".fbx": 6,
+            ".asset": 4,
+            ".cs": 1,
+            ".shader": 1,
+            ".controller": 1,
+            ".psd": 3,
+            ".otf": 1,
+            ".png": 9
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\PveDefense\\PveDefense.unity",
+          "types": {
+            ".asset": 193,
+            ".mat": 9,
+            ".playable": 1,
+            ".cs": 3,
+            ".png": 5,
+            ".shader": 2,
+            ".otf": 1
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\Pve压迫感\\Pve压迫感 场景.unity",
+          "types": {
+            ".cs": 1,
+            ".prefab": 1,
+            ".png": 1,
+            ".fbx": 1
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\Scenes\\SampleScene.unity",
+          "types": {
+            ".asset": 1
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\VideoPlugIn\\com.akbiggs.unitytimer@4554e279ae\\com.akbiggs.unitytimer@4554e279ae\\Example\\TimerExampleScene.unity",
+          "types": {}
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\VideoPlugIn\\HideGameobjectPlugIn\\HideGameobjectPlugIn\\Scene\\Demo.unity",
+          "types": {
+            ".cs": 2,
+            ".fbx": 1,
+            ".mat": 1
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\VideoPlugIn\\VideoPlugIn\\VideoPlugIn\\Scene\\Demo.unity",
+          "types": {
+            ".prefab": 5,
+            ".cs": 3,
+            ".fbx": 3,
+            ".controller": 2
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\video_replica\\02_right.unity",
+          "types": {
+            ".prefab": 62,
+            ".fbx": 35,
+            ".mat": 86,
+            ".asset": 10,
+            ".cs": 20,
+            ".rendertexture": 1,
+            ".png": 81,
+            ".playable": 4,
+            ".overridecontroller": 1,
+            ".signal": 1,
+            ".ttf": 1,
+            ".shader": 11,
+            ".tga": 4,
+            ".shadergraph": 2,
+            ".controller": 2,
+            ".psd": 8
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\video_replica\\03_left.unity",
+          "types": {
+            ".prefab": 60,
+            ".fbx": 35,
+            ".mat": 84,
+            ".asset": 10,
+            ".cs": 20,
+            ".rendertexture": 1,
+            ".png": 79,
+            ".playable": 4,
+            ".overridecontroller": 1,
+            ".signal": 1,
+            ".ttf": 1,
+            ".shader": 11,
+            ".tga": 4,
+            ".shadergraph": 2,
+            ".controller": 2,
+            ".psd": 7
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\video_replica\\video_replica.unity",
+          "types": {
+            ".prefab": 57,
+            ".fbx": 35,
+            ".mat": 86,
+            ".asset": 10,
+            ".cs": 20,
+            ".rendertexture": 1,
+            ".png": 81,
+            ".playable": 4,
+            ".overridecontroller": 1,
+            ".signal": 1,
+            ".ttf": 1,
+            ".shader": 11,
+            ".tga": 4,
+            ".shadergraph": 2,
+            ".controller": 2,
+            ".psd": 8
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\My project\\Assets\\video_replica\\Authored\\demo1.unity",
+          "types": {
+            ".fbx": 27,
+            ".mat": 46,
+            ".asset": 10,
+            ".cs": 8,
+            ".rendertexture": 1,
+            ".png": 44,
+            ".prefab": 7,
+            ".controller": 1,
+            ".playable": 1,
+            ".shader": 11,
+            ".shadergraph": 2,
+            ".tga": 1,
+            ".otf": 1,
+            ".psd": 4
+          }
+        }
+      ]
+    },
+    {
+      "root": "C:\\Users\\89trillion\\PveMontageShot01V22\\assets\\imported",
+      "fileCount": 648,
+      "types": {
+        ".unity": 6,
+        ".png": 126,
+        ".fbx": 72,
+        ".mat": 83,
+        ".tga": 3,
+        ".prefab": 24
+      },
+      "scenes": [
+        {
+          "path": "C:\\Users\\89trillion\\PveMontageShot01V22\\assets\\imported\\Assets\\New Scene.unity",
+          "types": {
+            ".mat": 8,
+            ".fbx": 36,
+            ".prefab": 14,
+            ".png": 13
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\PveMontageShot01V22\\assets\\imported\\Assets\\20261019-跨河强渡战役\\20261019-跨河强渡战役.unity",
+          "types": {
+            ".fbx": 8,
+            ".mat": 2,
+            ".png": 6
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\PveMontageShot01V22\\assets\\imported\\Assets\\ArtOfWar-II_Art\\Environment\\Feature\\ArenaScene\\ArenaScene.unity",
+          "types": {
+            ".mat": 7,
+            ".fbx": 18,
+            ".prefab": 10,
+            ".png": 13
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\PveMontageShot01V22\\assets\\imported\\Assets\\ArtOfWar-II_Art\\Environment\\Feature\\CastleExterior\\CastleExterior.unity",
+          "types": {
+            ".mat": 5,
+            ".fbx": 14,
+            ".prefab": 9,
+            ".png": 9
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\PveMontageShot01V22\\assets\\imported\\Assets\\ArtOfWar-II_Art\\Environment\\Feature\\CogworkWastes\\CogworkWastes.unity",
+          "types": {
+            ".fbx": 20,
+            ".png": 8,
+            ".prefab": 6,
+            ".mat": 8,
+            ".tga": 1
+          }
+        },
+        {
+          "path": "C:\\Users\\89trillion\\PveMontageShot01V22\\assets\\imported\\Assets\\Scenes\\SampleScene.unity",
+          "types": {
+            ".asset": 1
+          }
+        }
+      ]
+    }
+  ],
+  "packages": [
+    {
+      "path": "C:\\Users\\89trillion\\Desktop\\20260924-大地图-公会战：留了一手-阿菊&墨芙.unitypackage",
+      "bytes": 47281211,
+      "types": {
+        "": 48,
+        ".prefab": 76,
+        ".fbx": 40,
+        ".png": 98,
+        ".mat": 134,
+        ".cs": 67,
+        ".shader": 16,
+        ".overridecontroller": 1,
+        ".asset": 20,
+        ".md": 1,
+        ".xml": 2,
+        ".txt": 1,
+        ".rar": 3,
+        ".rendertexture": 1,
+        ".psd": 8,
+        ".asmdef": 2,
+        ".playable": 6,
+        ".json": 2,
+        ".tga": 4,
+        ".effect": 1,
+        ".cginc": 2,
+        ".controller": 4,
+        ".unitytimer@4554e279ae": 2,
+        ".jpg": 1,
+        ".ttf": 1,
+        ".shadergraph": 2,
+        ".unity": 7,
+        ".dotween@1e23d99447": 2,
+        ".dll": 2,
+        ".signal": 2,
+        ".mdb": 2
+      },
+      "scenes": [
+        {
+          "guid": "6daf77c9bd12074419d9976f5f54ae36",
+          "bytes": 20834,
+          "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scene/Demo.unity"
+        },
+        {
+          "guid": "6fec7abcffc7bd14baa6bc1b015d58c7",
+          "bytes": 26556536,
+          "path": "Assets/20260923-公会战：留了一手/20260923-公会战：留了一手 第二关 2.unity"
+        },
+        {
+          "guid": "7f78a6ec2f587ef4a8435442b800b309",
+          "bytes": 26376741,
+          "path": "Assets/20260923-公会战：留了一手/20260923-公会战：留了一手 第二关 1.unity"
+        },
+        {
+          "guid": "86fbdfb9d7e5c4336a74fcc892aabb3e",
+          "bytes": 111369,
+          "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae/com.akbiggs.unitytimer@4554e279ae/Example/TimerExampleScene.unity"
+        },
+        {
+          "guid": "99c9720ab356a0642a771bea13969a05",
+          "bytes": 10734,
+          "path": "Assets/Scenes/SampleScene.unity"
+        },
+        {
+          "guid": "be23d20c3df91a745ab359cd825ca313",
+          "bytes": 64292,
+          "path": "Assets/VideoPlugIn/HideGameobjectPlugIn/HideGameobjectPlugIn/Scene/Demo.unity"
+        },
+        {
+          "guid": "d9d45d4bc889c4140b5ee147adcad52d",
+          "bytes": 26161700,
+          "path": "Assets/20260923-公会战：留了一手/20260923-公会战：留了一手 第一关.unity"
+        }
+      ]
+    },
+    {
+      "path": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-09\\20260924-大地图-公会战：留了一手-阿菊&墨芙.unitypackage",
+      "bytes": 47281211,
+      "types": {
+        "": 48,
+        ".prefab": 76,
+        ".fbx": 40,
+        ".png": 98,
+        ".mat": 134,
+        ".cs": 67,
+        ".shader": 16,
+        ".overridecontroller": 1,
+        ".asset": 20,
+        ".md": 1,
+        ".xml": 2,
+        ".txt": 1,
+        ".rar": 3,
+        ".rendertexture": 1,
+        ".psd": 8,
+        ".asmdef": 2,
+        ".playable": 6,
+        ".json": 2,
+        ".tga": 4,
+        ".effect": 1,
+        ".cginc": 2,
+        ".controller": 4,
+        ".unitytimer@4554e279ae": 2,
+        ".jpg": 1,
+        ".ttf": 1,
+        ".shadergraph": 2,
+        ".unity": 7,
+        ".dotween@1e23d99447": 2,
+        ".dll": 2,
+        ".signal": 2,
+        ".mdb": 2
+      },
+      "scenes": [
+        {
+          "guid": "6daf77c9bd12074419d9976f5f54ae36",
+          "bytes": 20834,
+          "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scene/Demo.unity"
+        },
+        {
+          "guid": "6fec7abcffc7bd14baa6bc1b015d58c7",
+          "bytes": 26556536,
+          "path": "Assets/20260923-公会战：留了一手/20260923-公会战：留了一手 第二关 2.unity"
+        },
+        {
+          "guid": "7f78a6ec2f587ef4a8435442b800b309",
+          "bytes": 26376741,
+          "path": "Assets/20260923-公会战：留了一手/20260923-公会战：留了一手 第二关 1.unity"
+        },
+        {
+          "guid": "86fbdfb9d7e5c4336a74fcc892aabb3e",
+          "bytes": 111369,
+          "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae/com.akbiggs.unitytimer@4554e279ae/Example/TimerExampleScene.unity"
+        },
+        {
+          "guid": "99c9720ab356a0642a771bea13969a05",
+          "bytes": 10734,
+          "path": "Assets/Scenes/SampleScene.unity"
+        },
+        {
+          "guid": "be23d20c3df91a745ab359cd825ca313",
+          "bytes": 64292,
+          "path": "Assets/VideoPlugIn/HideGameobjectPlugIn/HideGameobjectPlugIn/Scene/Demo.unity"
+        },
+        {
+          "guid": "d9d45d4bc889c4140b5ee147adcad52d",
+          "bytes": 26161700,
+          "path": "Assets/20260923-公会战：留了一手/20260923-公会战：留了一手 第一关.unity"
+        }
+      ]
+    },
+    {
+      "path": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-10\\Pve压迫感角色+图片.unitypackage",
+      "bytes": 3965181,
+      "types": {
+        ".mat": 4,
+        ".png": 5,
+        "": 10,
+        ".shader": 1,
+        ".fbx": 5,
+        ".unity": 1,
+        ".cs": 2,
+        ".prefab": 1
+      },
+      "scenes": [
+        {
+          "guid": "3c9cca6e07f576d41914f44245d6635c",
+          "bytes": 105957,
+          "path": "Assets/Pve压迫感/Pve压迫感 场景.unity"
+        }
+      ]
+    },
+    {
+      "path": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-10\\PVE混剪.unitypackage",
+      "bytes": 364377842,
+      "types": {
+        "": 165,
+        ".max": 20,
+        ".png": 126,
+        ".mat": 83,
+        ".unity": 6,
+        ".txt": 5,
+        ".shader": 7,
+        ".fbx": 72,
+        ".unitypackage": 9,
+        ".spp": 5,
+        ".mp4": 19,
+        ".prefab": 24,
+        ".tga": 3,
+        ".cs": 3,
+        ".asset": 7,
+        ".jpg": 1,
+        ".preset": 1,
+        ".wlt": 1
+      },
+      "scenes": [
+        {
+          "guid": "0574cb2c0ad317540a466dc6174c2c71",
+          "bytes": 34763,
+          "path": "Assets/New Scene.unity"
+        },
+        {
+          "guid": "101b97e7a9ce75e47bbf6343aa92ebd4",
+          "bytes": 6620878,
+          "path": "Assets/ArtOfWar-II_Art/Environment/Feature/CastleExterior/CastleExterior.unity"
+        },
+        {
+          "guid": "2db29b30fd5b9194d9ed38830452fffb",
+          "bytes": 2682231,
+          "path": "Assets/ArtOfWar-II_Art/Environment/Feature/CogworkWastes/CogworkWastes.unity"
+        },
+        {
+          "guid": "86ca2d141a7526a47b8ede6c43f80b96",
+          "bytes": 6062615,
+          "path": "Assets/ArtOfWar-II_Art/Environment/Feature/ArenaScene/ArenaScene.unity"
+        },
+        {
+          "guid": "99c9720ab356a0642a771bea13969a05",
+          "bytes": 10734,
+          "path": "Assets/Scenes/SampleScene.unity"
+        },
+        {
+          "guid": "d03b732dd6ceb194a93b1c8e7aa81ced",
+          "bytes": 30988,
+          "path": "Assets/20261019-跨河强渡战役/20261019-跨河强渡战役.unity"
+        }
+      ]
+    },
+    {
+      "path": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-10\\使用到的特效资源.unitypackage",
+      "bytes": 1645709,
+      "types": {
+        ".mat": 21,
+        ".shader": 3,
+        "": 3,
+        ".png": 20,
+        ".prefab": 5,
+        ".fbx": 4,
+        ".cs": 1,
+        ".tga": 2
+      },
+      "scenes": []
+    },
+    {
+      "path": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-10\\使用到的防御塔.unitypackage",
+      "bytes": 1312677,
+      "types": {
+        ".png": 10,
+        ".fbx": 11,
+        ".tga": 1,
+        ".mat": 2,
+        ".shader": 2,
+        "": 1
+      },
+      "scenes": []
+    },
+    {
+      "path": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-10\\新贴图Unity包.unitypackage",
+      "bytes": 3314601,
+      "types": {
+        ".png": 12,
+        ".zip": 4,
+        "": 6
+      },
+      "scenes": []
+    },
+    {
+      "path": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-10\\角色资源.unitypackage",
+      "bytes": 329330205,
+      "types": {
+        ".unitypackage": 8,
+        ".fbx": 19,
+        ".txt": 4,
+        ".png": 34,
+        "": 34,
+        ".spp": 5,
+        ".max": 15,
+        ".mp4": 17,
+        ".mat": 2,
+        ".shader": 1,
+        ".jpg": 1,
+        ".unity": 1
+      },
+      "scenes": [
+        {
+          "guid": "d03b732dd6ceb194a93b1c8e7aa81ced",
+          "bytes": 29739,
+          "path": "Assets/20261019-跨河强渡战役/20261019-跨河强渡战役.unity"
+        }
+      ]
+    }
+  ]
+}

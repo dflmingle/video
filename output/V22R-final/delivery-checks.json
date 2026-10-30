@@ -1,0 +1,29 @@
+{
+  "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\V22R-final\\V22R-final-CastleExterior-no-grid-1440x2160-60fps.mp4",
+  "bytes": 11027459,
+  "sha256": "0cd5f4d338055661c9de290cbd8a441b92db0109e789656dcfb1fde51e0e4b2f",
+  "width": 1440,
+  "height": 2160,
+  "fps": 60.0,
+  "decodedFrames": 132,
+  "duration": 2.2,
+  "playbackSpeed": 1.0,
+  "cameraConstant": true,
+  "gridOff": true,
+  "minimumSampledClearance": 4.85999502078666,
+  "minimumConservativeClearance": 4.6399334205783775,
+  "firstRedMotion": 0.016666666666666666,
+  "firstBlueMotion": 0.016666666666666666,
+  "realReleasesVisibleTime": 18,
+  "realImpactsVisibleTime": 0,
+  "firstRelease": 2.033333333333333,
+  "firstImpact": null,
+  "decodedSampleMeanAbsolutePixelErrorMax": 3.1537274948559673,
+  "visualInspection": "Exported-video timestamped stills and consecutive frames inspected; no claim of full normal-speed visual playback acceptance.",
+  "fullRequirementsPassed": false,
+  "limitations": [
+    "Current safe trajectory ends at 2.20 seconds; 2.8–3.2-second combat requirement is not met.",
+    "No real impact occurs before this safe cut; arrows are not retimed and impacts are not fabricated.",
+    "Accepted close view crops rear red troops at opening; native wall crosses the original red approach. This is the retained approved-view output, not a passed battle-space integration."
+  ]
+}

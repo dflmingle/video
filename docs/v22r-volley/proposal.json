@@ -1,0 +1,51 @@
+{
+  "baseline": "b595e1a / V22 battle core",
+  "requestedDurationCandidates": [
+    3.0,
+    3.5,
+    4.0
+  ],
+  "redTranslations": {
+    "red": [
+      0.0,
+      73.72912078207295
+    ],
+    "orange": [
+      9.0,
+      70.30467924310665
+    ],
+    "yellow": [
+      -12.5,
+      49.8586176711868
+    ]
+  },
+  "blueTranslation": [
+    0.0,
+    4.3
+  ],
+  "preserve": [
+    "Scene, materials, geometry, lighting, fixed camera",
+    "Each army and squad internal start offsets",
+    "Red preferred world speeds, original wounds/deaths",
+    "Blue original per-member world walking speed; assembly goal distance explicitly revised",
+    "Original per-shooter aim/draw/recover intervals, range and arrow speed"
+  ],
+  "changes": [
+    "Each colored army translates intact into available ground on the camera side of the wall; internal 3x3 squads remain unchanged.",
+    "Blue U translates intact; assembly goals advance 3 units while original per-ID walking speeds are preserved.",
+    "Per-red-unit stopping-distance bound against actual future defensive occupation, followed by coupled local contact projection before the sole integral.",
+    "Blue locomotion uses independent deployment progress while attack uses individual seeded state and true range. Native sampled walk lower body blends with native attack upper body in renderer."
+  ],
+  "noFinalRenderBeforeUserApproval": true,
+  "sourceHashes": {
+    "src/castle-approved-v22r.js": "c3be4aaf41f0d8bd2f1b9a76b96cfcd705300323f436badfe3033432b28493b6",
+    "src/environment-native-v22.js": "5116f2620a83383ca7dede2c6fe6327b5f1a820b7baf344b60c8a857fa1816fe",
+    "public/native-scenes/CastleExterior-scene/manifest.json": "631e222361b70bf4948ce54deae556ae1f480365e8e7165493c24161e386e833"
+  },
+  "blueAssemblyTargetAdjustment": {
+    "previousDistance": 7.5,
+    "candidateDistance": 3.0,
+    "worldWalkingSpeedUnchanged": true,
+    "reason": "Keep the entire U in the frozen view, reserve safe firing space, avoid original scenery. No idle time added."
+  }
+}

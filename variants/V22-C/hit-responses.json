@@ -1,0 +1,415 @@
+[
+  {
+    "event": "A00000",
+    "memberID": "R0806",
+    "time": 2.7333333333333334,
+    "kind": "DEAD",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00001",
+    "memberID": "R0756",
+    "time": 2.7333333333333334,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00002",
+    "memberID": "R0757",
+    "time": 2.7666666666666666,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00003",
+    "memberID": "R0804",
+    "time": 2.8,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00004",
+    "memberID": "R0807",
+    "time": 2.8166666666666664,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00005",
+    "memberID": "R0805",
+    "time": 2.85,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00006",
+    "memberID": "R0758",
+    "time": 2.85,
+    "kind": "DEAD",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00007",
+    "memberID": "R0763",
+    "time": 2.8666666666666667,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00009",
+    "memberID": "R0761",
+    "time": 2.8833333333333333,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00008",
+    "memberID": "R0810",
+    "time": 2.9,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00010",
+    "memberID": "R0811",
+    "time": 2.9,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00011",
+    "memberID": "R0782",
+    "time": 2.9166666666666665,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00013",
+    "memberID": "R0814",
+    "time": 2.933333333333333,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00014",
+    "memberID": "R0762",
+    "time": 2.933333333333333,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00015",
+    "memberID": "R0765",
+    "time": 2.933333333333333,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00012",
+    "memberID": "R0813",
+    "time": 2.95,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00016",
+    "memberID": "R0821",
+    "time": 2.95,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00017",
+    "memberID": "R0774",
+    "time": 2.95,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00018",
+    "memberID": "R0812",
+    "time": 2.9833333333333334,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00021",
+    "memberID": "R0768",
+    "time": 2.9833333333333334,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00019",
+    "memberID": "R0815",
+    "time": 3.0,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00020",
+    "memberID": "R0788",
+    "time": 3.0,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00022",
+    "memberID": "R0781",
+    "time": 3.0,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00023",
+    "memberID": "R0769",
+    "time": 3.0166666666666666,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00026",
+    "memberID": "R0786",
+    "time": 3.033333333333333,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00024",
+    "memberID": "R0785",
+    "time": 3.05,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00025",
+    "memberID": "R0787",
+    "time": 3.05,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00027",
+    "memberID": "R0817",
+    "time": 3.0666666666666664,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00028",
+    "memberID": "R0766",
+    "time": 3.0666666666666664,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00030",
+    "memberID": "R0827",
+    "time": 3.0666666666666664,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00029",
+    "memberID": "R0820",
+    "time": 3.0833333333333335,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00031",
+    "memberID": "R0819",
+    "time": 3.1,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00032",
+    "memberID": "R0784",
+    "time": 3.1,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00033",
+    "memberID": "R0771",
+    "time": 3.1,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00034",
+    "memberID": "R0764",
+    "time": 3.1,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00035",
+    "memberID": "R0767",
+    "time": 3.1166666666666667,
+    "kind": "DEAD",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00037",
+    "memberID": "R0792",
+    "time": 3.1166666666666667,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00036",
+    "memberID": "R0823",
+    "time": 3.1333333333333333,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00038",
+    "memberID": "R0772",
+    "time": 3.15,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00042",
+    "memberID": "R0759",
+    "time": 3.15,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00039",
+    "memberID": "R0791",
+    "time": 3.183333333333333,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00040",
+    "memberID": "R0816",
+    "time": 3.183333333333333,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00041",
+    "memberID": "R0783",
+    "time": 3.183333333333333,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00044",
+    "memberID": "R0775",
+    "time": 3.183333333333333,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00045",
+    "memberID": "R0828",
+    "time": 3.183333333333333,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00046",
+    "memberID": "R0808",
+    "time": 3.2,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00043",
+    "memberID": "R0818",
+    "time": 3.216666666666667,
+    "kind": "DEAD",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00047",
+    "memberID": "R0830",
+    "time": 3.216666666666667,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00049",
+    "memberID": "R0778",
+    "time": 3.216666666666667,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00050",
+    "memberID": "R0773",
+    "time": 3.216666666666667,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00048",
+    "memberID": "R0878",
+    "time": 3.2333333333333334,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00051",
+    "memberID": "R0779",
+    "time": 3.2333333333333334,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00053",
+    "memberID": "R0770",
+    "time": 3.2666666666666666,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00054",
+    "memberID": "R0801",
+    "time": 3.283333333333333,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00055",
+    "memberID": "R0822",
+    "time": 3.283333333333333,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00052",
+    "memberID": "R0826",
+    "time": 3.3,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00056",
+    "memberID": "R0831",
+    "time": 3.3,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00059",
+    "memberID": "R0881",
+    "time": 3.3,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  },
+  {
+    "event": "A00060",
+    "memberID": "R0790",
+    "time": 3.3,
+    "kind": "STAGGER",
+    "source": "BOUND_ARROW_IMPACT"
+  }
+]

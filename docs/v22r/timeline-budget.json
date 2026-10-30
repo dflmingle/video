@@ -1,0 +1,274 @@
+{
+  "scenarios": [
+    {
+      "name": "V22-C",
+      "frames": 199,
+      "duration": 3.3,
+      "redGlobalHold": 1.0,
+      "redFirstMotion": 1.05,
+      "redMajorityMotion": 1.15,
+      "redAllMotion": 1.25,
+      "blueFirstMotion": 0.03333333333333333,
+      "blueMajorityMotion": 0.21666666666666667,
+      "blueGroupMajorityStart": [
+        0.11666666666666667,
+        0.2,
+        0.2833333333333333,
+        0.3333333333333333,
+        0.26666666666666666,
+        0.2,
+        0.16666666666666666
+      ],
+      "motionOverlapIntervals": [
+        [
+          1.05,
+          3.3
+        ]
+      ],
+      "motionOverlapDuration": 2.25,
+      "blueArrivals": [
+        1.6,
+        2.8166666666666664
+      ],
+      "firstAim": 2.0831590788999987,
+      "firstDraw": 2.2,
+      "firstRelease": 2.4166666666666665,
+      "firstActualHit": 2.7333333333333334,
+      "arrows": 112,
+      "actualHits": 59,
+      "kills": 4,
+      "continuousShootingCoverage": [
+        2.4166666666666665,
+        3.3
+      ],
+      "redMeanForwardDistance": 42.71664047241211,
+      "redForwardDistanceRange": [
+        35.93425750732422,
+        48.3447265625
+      ],
+      "redMeanPathLength": 42.776031494140625,
+      "blueMeanForwardDistance": 7.514278411865234,
+      "minimumSurfaceGap": 4.265375967132351,
+      "betweenFrameConservativeGap": 4.061009461986324,
+      "targetDurationReached": false,
+      "noIdleBuckets": true,
+      "sourceSHA256": {
+        "params.json": "a652a60e78af25c837c2e6a8ee960fc5367b74350481028e93694ae9255ef658",
+        "simulation.json": "7cdf1913c54a1030975e91ff5e9007bf13df8440799047be083933c57ef33bd0",
+        "trajectories.npy": "3bd333265f4d74a5f3d7462766c3e181ca059304f221c5b6d292596eab1cf33f"
+      },
+      "blueArrivalFieldCaveat": "Unit arrival may retain an estimate for not-yet-arrived members at the safe cut; use observed arrival transitions below.",
+      "blueObservedArrivals": {
+        "count": 252,
+        "first": 1.6,
+        "last": 2.8166666666666664,
+        "notObservedBeforeCut": 0
+      }
+    },
+    {
+      "name": "V22R-extended",
+      "frames": 199,
+      "duration": 3.3,
+      "redGlobalHold": 1.0,
+      "redFirstMotion": 1.05,
+      "redMajorityMotion": 1.15,
+      "redAllMotion": 1.25,
+      "blueFirstMotion": 0.03333333333333333,
+      "blueMajorityMotion": 0.21666666666666667,
+      "blueGroupMajorityStart": [
+        0.11666666666666667,
+        0.2,
+        0.2833333333333333,
+        0.3333333333333333,
+        0.26666666666666666,
+        0.2,
+        0.16666666666666666
+      ],
+      "motionOverlapIntervals": [
+        [
+          1.05,
+          3.3
+        ]
+      ],
+      "motionOverlapDuration": 2.25,
+      "blueArrivals": [
+        1.6,
+        2.8166666666666664
+      ],
+      "firstAim": 2.0831590788999987,
+      "firstDraw": 2.2,
+      "firstRelease": 2.4166666666666665,
+      "firstActualHit": 2.7333333333333334,
+      "arrows": 112,
+      "actualHits": 59,
+      "kills": 4,
+      "continuousShootingCoverage": [
+        2.4166666666666665,
+        3.3
+      ],
+      "redMeanForwardDistance": 42.71664047241211,
+      "redForwardDistanceRange": [
+        35.93425750732422,
+        48.3447265625
+      ],
+      "redMeanPathLength": 42.776031494140625,
+      "blueMeanForwardDistance": 7.514278411865234,
+      "minimumSurfaceGap": 4.265375967132351,
+      "betweenFrameConservativeGap": 4.061009461986324,
+      "targetDurationReached": false,
+      "noIdleBuckets": true,
+      "sourceSHA256": {
+        "params.json": "a652a60e78af25c837c2e6a8ee960fc5367b74350481028e93694ae9255ef658",
+        "simulation.json": "cc7e1bea7b98de8c20c1e0e9771070e985875b254585b5aa3dd92b6d4568b44d",
+        "trajectories.npy": "3bd333265f4d74a5f3d7462766c3e181ca059304f221c5b6d292596eab1cf33f"
+      },
+      "blueArrivalFieldCaveat": "Unit arrival may retain an estimate for not-yet-arrived members at the safe cut; use observed arrival transitions below.",
+      "blueObservedArrivals": {
+        "count": 252,
+        "first": 1.6,
+        "last": 2.8166666666666664,
+        "notObservedBeforeCut": 0
+      }
+    },
+    {
+      "name": "V22R-immediate",
+      "frames": 136,
+      "duration": 2.25,
+      "redGlobalHold": 0.0,
+      "redFirstMotion": 0.05,
+      "redMajorityMotion": 0.15,
+      "redAllMotion": 0.25,
+      "blueFirstMotion": 0.03333333333333333,
+      "blueMajorityMotion": 0.21666666666666667,
+      "blueGroupMajorityStart": [
+        0.11666666666666667,
+        0.2,
+        0.2833333333333333,
+        0.3333333333333333,
+        0.26666666666666666,
+        0.2,
+        0.16666666666666666
+      ],
+      "motionOverlapIntervals": [
+        [
+          0.05,
+          2.25
+        ]
+      ],
+      "motionOverlapDuration": 2.2,
+      "blueArrivals": [
+        1.6,
+        2.6369267908878498
+      ],
+      "firstAim": 1.7450051760333334,
+      "firstDraw": 1.8833333333333333,
+      "firstRelease": 2.0833333333333335,
+      "firstActualHit": null,
+      "arrows": 17,
+      "actualHits": 0,
+      "kills": 0,
+      "continuousShootingCoverage": [
+        2.0833333333333335,
+        2.25
+      ],
+      "redMeanForwardDistance": 42.0174446105957,
+      "redForwardDistanceRange": [
+        38.2601318359375,
+        48.17841720581055
+      ],
+      "redMeanPathLength": 42.07453918457031,
+      "blueMeanForwardDistance": 7.460676670074463,
+      "minimumSurfaceGap": 4.3475115006096585,
+      "betweenFrameConservativeGap": 4.113751888764642,
+      "targetDurationReached": false,
+      "noIdleBuckets": true,
+      "sourceSHA256": {
+        "params.json": "f6b275225ed67c63fd605ebf555f0a37557c4e9b00002c393822e67c1efc5ea0",
+        "simulation.json": "1563c8ec01c6307caf7861480e187c31060f6d0d3cd240e308e956897678d013",
+        "trajectories.npy": "7fc54e0e23b4c548ce1cd20bed5cd8e42292032f7a7fc8df6622386b0f773170"
+      },
+      "blueArrivalFieldCaveat": "Unit arrival may retain an estimate for not-yet-arrived members at the safe cut; use observed arrival transitions below.",
+      "blueObservedArrivals": {
+        "count": 83,
+        "first": 1.6,
+        "last": 2.25,
+        "notObservedBeforeCut": 169
+      }
+    },
+    {
+      "name": "V22R-overlap",
+      "frames": 133,
+      "duration": 2.2,
+      "redGlobalHold": 0,
+      "redFirstMotion": 0.016666666666666666,
+      "redMajorityMotion": 0.03333333333333333,
+      "redAllMotion": 0.06666666666666667,
+      "blueFirstMotion": 0.016666666666666666,
+      "blueMajorityMotion": 0.05,
+      "blueGroupMajorityStart": [
+        0.03333333333333333,
+        0.05,
+        0.06666666666666667,
+        0.08333333333333333,
+        0.06666666666666667,
+        0.05,
+        0.03333333333333333
+      ],
+      "motionOverlapIntervals": [
+        [
+          0.016666666666666666,
+          2.2
+        ]
+      ],
+      "motionOverlapDuration": 2.1833333333333336,
+      "blueArrivals": [
+        1.55,
+        2.3103867376502
+      ],
+      "firstAim": 1.7026017979999981,
+      "firstDraw": 1.8499999999999999,
+      "firstRelease": 2.033333333333333,
+      "firstActualHit": null,
+      "arrows": 21,
+      "actualHits": 0,
+      "kills": 0,
+      "continuousShootingCoverage": [
+        2.033333333333333,
+        2.2
+      ],
+      "redMeanForwardDistance": 43.466468811035156,
+      "redForwardDistanceRange": [
+        39.40395736694336,
+        47.90546417236328
+      ],
+      "redMeanPathLength": 43.52773666381836,
+      "blueMeanForwardDistance": 7.532769680023193,
+      "minimumSurfaceGap": 4.5146683124186735,
+      "betweenFrameConservativeGap": 4.296641018736575,
+      "targetDurationReached": false,
+      "noIdleBuckets": true,
+      "sourceSHA256": {
+        "params.json": "690345de12a74d16103093e6b7862d6230df480af20c04f4e2a1a6db0ad080d8",
+        "simulation.json": "0eb127405cb54e9f1882367e707c67cdc28feb6b7cbe6dc94e188c035a8453ed",
+        "trajectories.npy": "d0893db7a4dfd1a377190903f46381c89f977ffb6323609361dc8f4294dadb45"
+      },
+      "blueArrivalFieldCaveat": "Unit arrival may retain an estimate for not-yet-arrived members at the safe cut; use observed arrival transitions below.",
+      "blueObservedArrivals": {
+        "count": 120,
+        "first": 1.55,
+        "last": 2.2,
+        "notObservedBeforeCut": 132
+      }
+    }
+  ],
+  "checks": {
+    "baselineExtendedTrajectoriesEqual": true,
+    "positionsAndSpeedUnchanged": true,
+    "redMajorityByFrame3": true,
+    "blueGroupMajoritiesByFrame6": true,
+    "continuousOverlapOver2Seconds": true,
+    "safeClearance": true,
+    "noIdleBuckets": true
+  },
+  "limitation": "No 4-second production candidate exists: all simulations auto-cut at the original 4.0 clearance; no unsafe frame rendered. Counts and movement are data evidence, not visual approval."
+}

@@ -1,0 +1,3822 @@
+[
+  {
+    "id": "B0000",
+    "group": 0,
+    "firstAim": 0.2,
+    "firstDraw": 1.1666666666666667,
+    "releases": [
+      1.3666666666666667,
+      2.05
+    ],
+    "arrows": [
+      "A00000",
+      "A00076"
+    ],
+    "intervals": [
+      0.6833333333333331
+    ],
+    "drawSeconds": 0.1989949493659,
+    "aimSeconds": 0.11944271910000001,
+    "recoverSeconds": 0.3203444185375,
+    "cycle": 0.6197056274844
+  },
+  {
+    "id": "B0001",
+    "group": 0,
+    "firstAim": 0.15,
+    "firstDraw": 1.25,
+    "releases": [
+      1.4833333333333334,
+      2.1166666666666667
+    ],
+    "arrows": [
+      "A00006",
+      "A00090"
+    ],
+    "intervals": [
+      0.6333333333333333
+    ],
+    "drawSeconds": 0.22798989873180003,
+    "aimSeconds": 0.08888543820000001,
+    "recoverSeconds": 0.270688837075,
+    "cycle": 0.6694112549687999
+  },
+  {
+    "id": "B0002",
+    "group": 0,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 1.25,
+    "releases": [
+      1.45,
+      2.183333333333333
+    ],
+    "arrows": [
+      "A00003",
+      "A00103"
+    ],
+    "intervals": [
+      0.7333333333333332
+    ],
+    "drawSeconds": 0.18698484809770002,
+    "aimSeconds": 0.1383281573,
+    "recoverSeconds": 0.3510332556125,
+    "cycle": 0.5991168824531999
+  },
+  {
+    "id": "B0003",
+    "group": 0,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 1.2666666666666666,
+    "releases": [
+      1.4833333333333334,
+      2.15
+    ],
+    "arrows": [
+      "A00007",
+      "A00097"
+    ],
+    "intervals": [
+      0.6666666666666665
+    ],
+    "drawSeconds": 0.21597979746360002,
+    "aimSeconds": 0.10777087640000002,
+    "recoverSeconds": 0.30137767415,
+    "cycle": 0.6488225099375999
+  },
+  {
+    "id": "B0004",
+    "group": 0,
+    "firstAim": 0.13333333333333333,
+    "firstDraw": 1.3,
+    "releases": [
+      1.4833333333333334,
+      2.033333333333333
+    ],
+    "arrows": [
+      "A00008",
+      "A00075"
+    ],
+    "intervals": [
+      0.5499999999999998
+    ],
+    "drawSeconds": 0.1749747468295,
+    "aimSeconds": 0.07721359550000004,
+    "recoverSeconds": 0.2517220926875,
+    "cycle": 0.5785281374219999
+  },
+  {
+    "id": "B0005",
+    "group": 0,
+    "firstAim": 0.2,
+    "firstDraw": 1.3,
+    "releases": [
+      1.5166666666666666,
+      2.216666666666667
+    ],
+    "arrows": [
+      "A00010",
+      "A00111"
+    ],
+    "intervals": [
+      0.7000000000000002
+    ],
+    "drawSeconds": 0.2039696961954,
+    "aimSeconds": 0.12665631460000001,
+    "recoverSeconds": 0.33206651122499997,
+    "cycle": 0.6282337649063999
+  },
+  {
+    "id": "B0006",
+    "group": 0,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 1.3333333333333333,
+    "releases": [
+      1.5666666666666667,
+      2.2
+    ],
+    "arrows": [
+      "A00014",
+      "A00109"
+    ],
+    "intervals": [
+      0.6333333333333335
+    ],
+    "drawSeconds": 0.23296464556130003,
+    "aimSeconds": 0.09609903370000006,
+    "recoverSeconds": 0.2824109297625001,
+    "cycle": 0.6779393923907999
+  },
+  {
+    "id": "B0007",
+    "group": 0,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 1.3333333333333333,
+    "releases": [
+      1.5333333333333332,
+      2.2666666666666666
+    ],
+    "arrows": [
+      "A00011",
+      "A00122"
+    ],
+    "intervals": [
+      0.7333333333333334
+    ],
+    "drawSeconds": 0.19195959492720002,
+    "aimSeconds": 0.14554175280000003,
+    "recoverSeconds": 0.36275534830000006,
+    "cycle": 0.6076450198751999
+  },
+  {
+    "id": "B0008",
+    "group": 0,
+    "firstAim": 0.2,
+    "firstDraw": 1.35,
+    "releases": [
+      1.5833333333333333,
+      2.2666666666666666
+    ],
+    "arrows": [
+      "A00018",
+      "A00123"
+    ],
+    "intervals": [
+      0.6833333333333333
+    ],
+    "drawSeconds": 0.22095454429310002,
+    "aimSeconds": 0.11498447190000001,
+    "recoverSeconds": 0.3130997668375,
+    "cycle": 0.6573506473596
+  },
+  {
+    "id": "B0009",
+    "group": 0,
+    "firstAim": 0.15,
+    "firstDraw": 1.3833333333333333,
+    "releases": [
+      1.5666666666666667,
+      2.1333333333333333
+    ],
+    "arrows": [
+      "A00015",
+      "A00093"
+    ],
+    "intervals": [
+      0.5666666666666667
+    ],
+    "drawSeconds": 0.179949493659,
+    "aimSeconds": 0.08442719100000005,
+    "recoverSeconds": 0.2634441853750001,
+    "cycle": 0.5870562748439999
+  },
+  {
+    "id": "B0010",
+    "group": 0,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 1.3833333333333333,
+    "releases": [
+      1.6
+    ],
+    "arrows": [
+      "A00020"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.20894444302490003,
+    "aimSeconds": 0.13386991010000004,
+    "recoverSeconds": 0.34378860391250005,
+    "cycle": 0.6367619023284
+  },
+  {
+    "id": "B0011",
+    "group": 0,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 1.4333333333333333,
+    "releases": [
+      1.6833333333333333
+    ],
+    "arrows": [
+      "A00031"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.23793939239080003,
+    "aimSeconds": 0.1033126292,
+    "recoverSeconds": 0.29413302245,
+    "cycle": 0.6864675298127999
+  },
+  {
+    "id": "B0012",
+    "group": 0,
+    "firstAim": 0.13333333333333333,
+    "firstDraw": 1.3833333333333333,
+    "releases": [
+      1.5833333333333333,
+      2.1333333333333333
+    ],
+    "arrows": [
+      "A00019",
+      "A00094"
+    ],
+    "intervals": [
+      0.55
+    ],
+    "drawSeconds": 0.19693434175670005,
+    "aimSeconds": 0.07275534829999998,
+    "recoverSeconds": 0.24447744098749996,
+    "cycle": 0.6161731572972
+  },
+  {
+    "id": "B0013",
+    "group": 0,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 1.4,
+    "releases": [
+      1.6333333333333333
+    ],
+    "arrows": [
+      "A00024"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.22592929112260002,
+    "aimSeconds": 0.12219806740000011,
+    "recoverSeconds": 0.32482185952500015,
+    "cycle": 0.6658787847815999
+  },
+  {
+    "id": "B0014",
+    "group": 0,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 1.4166666666666667,
+    "releases": [
+      1.6166666666666667,
+      2.216666666666667
+    ],
+    "arrows": [
+      "A00022",
+      "A00112"
+    ],
+    "intervals": [
+      0.6000000000000001
+    ],
+    "drawSeconds": 0.18492424048850006,
+    "aimSeconds": 0.09164078650000008,
+    "recoverSeconds": 0.2751662780625001,
+    "cycle": 0.595584412266
+  },
+  {
+    "id": "B0015",
+    "group": 0,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 1.4666666666666666,
+    "releases": [
+      1.6833333333333333
+    ],
+    "arrows": [
+      "A00032"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.21391918985440003,
+    "aimSeconds": 0.14108350560000005,
+    "recoverSeconds": 0.35551069660000006,
+    "cycle": 0.6452900397504
+  },
+  {
+    "id": "B0016",
+    "group": 0,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 1.5166666666666666,
+    "releases": [
+      1.7
+    ],
+    "arrows": [
+      "A00034"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.1729141392203,
+    "aimSeconds": 0.11052622470000004,
+    "recoverSeconds": 0.3058551151375,
+    "cycle": 0.5749956672347999
+  },
+  {
+    "id": "B0017",
+    "group": 0,
+    "firstAim": 0.15,
+    "firstDraw": 1.55,
+    "releases": [
+      1.7666666666666666
+    ],
+    "arrows": [
+      "A00044"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.20190908858620005,
+    "aimSeconds": 0.07996894380000001,
+    "recoverSeconds": 0.256199533675,
+    "cycle": 0.6247012947192
+  },
+  {
+    "id": "B0018",
+    "group": 0,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 1.45,
+    "releases": [
+      1.6833333333333333
+    ],
+    "arrows": [
+      "A00033"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.23090403795210002,
+    "aimSeconds": 0.12941166290000014,
+    "recoverSeconds": 0.3365439522125002,
+    "cycle": 0.6744069222036
+  },
+  {
+    "id": "B0019",
+    "group": 0,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 1.5333333333333334,
+    "releases": [
+      1.7333333333333334
+    ],
+    "arrows": [
+      "A00037"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.18989898731799998,
+    "aimSeconds": 0.0988543820000001,
+    "recoverSeconds": 0.2868883707500002,
+    "cycle": 0.6041125496879999
+  },
+  {
+    "id": "B0020",
+    "group": 0,
+    "firstAim": 0.25,
+    "firstDraw": 1.5666666666666667,
+    "releases": [
+      1.8
+    ],
+    "arrows": [
+      "A00047"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.2188939366839001,
+    "aimSeconds": 0.1482971011000001,
+    "recoverSeconds": 0.36723278928750014,
+    "cycle": 0.6538181771724001
+  },
+  {
+    "id": "B0021",
+    "group": 0,
+    "firstAim": 0.2,
+    "firstDraw": 1.5666666666666667,
+    "releases": [
+      1.75
+    ],
+    "arrows": [
+      "A00040"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.17788888604980005,
+    "aimSeconds": 0.11773982020000007,
+    "recoverSeconds": 0.3175772078250001,
+    "cycle": 0.5835238046568
+  },
+  {
+    "id": "B0022",
+    "group": 0,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 1.6166666666666667,
+    "releases": [
+      1.8333333333333333
+    ],
+    "arrows": [
+      "A00052"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.20688383541570002,
+    "aimSeconds": 0.08718253930000004,
+    "recoverSeconds": 0.26792162636250005,
+    "cycle": 0.6332294321412
+  },
+  {
+    "id": "B0023",
+    "group": 0,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 1.6166666666666667,
+    "releases": [
+      1.8666666666666667
+    ],
+    "arrows": [
+      "A00057"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.23587878478160001,
+    "aimSeconds": 0.1366252584,
+    "recoverSeconds": 0.3482660449,
+    "cycle": 0.6829350596255999
+  },
+  {
+    "id": "B0024",
+    "group": 0,
+    "firstAim": 0.2,
+    "firstDraw": 1.55,
+    "releases": [
+      1.75
+    ],
+    "arrows": [
+      "A00041"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.19487373414749998,
+    "aimSeconds": 0.10606797750000013,
+    "recoverSeconds": 0.2986104634375002,
+    "cycle": 0.6126406871099999
+  },
+  {
+    "id": "B0025",
+    "group": 0,
+    "firstAim": 0.15,
+    "firstDraw": 1.6,
+    "releases": [
+      1.8333333333333333
+    ],
+    "arrows": [
+      "A00053"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.22386868351340006,
+    "aimSeconds": 0.07551069659999997,
+    "recoverSeconds": 0.24895488197499993,
+    "cycle": 0.6623463145944001
+  },
+  {
+    "id": "B0026",
+    "group": 0,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 1.6333333333333333,
+    "releases": [
+      1.8166666666666667
+    ],
+    "arrows": [
+      "A00048"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.18286363287930005,
+    "aimSeconds": 0.12495341570000024,
+    "recoverSeconds": 0.32929930051250034,
+    "cycle": 0.5920519420788
+  },
+  {
+    "id": "B0027",
+    "group": 0,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 1.6833333333333333,
+    "releases": [
+      1.9
+    ],
+    "arrows": [
+      "A00062"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.21185858224520002,
+    "aimSeconds": 0.0943961348000002,
+    "recoverSeconds": 0.2796437190500003,
+    "cycle": 0.6417575695632
+  },
+  {
+    "id": "B0028",
+    "group": 0,
+    "firstAim": 0.25,
+    "firstDraw": 1.7,
+    "releases": [
+      1.8833333333333333
+    ],
+    "arrows": [
+      "A00059"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.17085353161109998,
+    "aimSeconds": 0.14383885390000017,
+    "recoverSeconds": 0.35998813758750026,
+    "cycle": 0.5714631970476
+  },
+  {
+    "id": "B0029",
+    "group": 0,
+    "firstAim": 0.2,
+    "firstDraw": 1.7166666666666666,
+    "releases": [
+      1.9166666666666667
+    ],
+    "arrows": [
+      "A00064"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.1998484809770001,
+    "aimSeconds": 0.11328157300000016,
+    "recoverSeconds": 0.3103325561250002,
+    "cycle": 0.6211688245320001
+  },
+  {
+    "id": "B0030",
+    "group": 0,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 1.6666666666666667,
+    "releases": [
+      1.9
+    ],
+    "arrows": [
+      "A00063"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.22884343034290006,
+    "aimSeconds": 0.08272429210000014,
+    "recoverSeconds": 0.26067697466250017,
+    "cycle": 0.6708744520164001
+  },
+  {
+    "id": "B0031",
+    "group": 0,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 1.6666666666666667,
+    "releases": [
+      1.8666666666666667
+    ],
+    "arrows": [
+      "A00058"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.18783837970880005,
+    "aimSeconds": 0.13216701120000013,
+    "recoverSeconds": 0.34102139320000013,
+    "cycle": 0.6005800795008
+  },
+  {
+    "id": "B0032",
+    "group": 0,
+    "firstAim": 0.2,
+    "firstDraw": 1.7166666666666666,
+    "releases": [
+      1.95
+    ],
+    "arrows": [
+      "A00068"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.21683332907470002,
+    "aimSeconds": 0.10160973030000009,
+    "recoverSeconds": 0.29136581173750015,
+    "cycle": 0.6502857069851999
+  },
+  {
+    "id": "B0033",
+    "group": 0,
+    "firstAim": 0.15,
+    "firstDraw": 1.75,
+    "releases": [
+      1.9333333333333333
+    ],
+    "arrows": [
+      "A00065"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.17582827844059998,
+    "aimSeconds": 0.07105244940000006,
+    "recoverSeconds": 0.24171023027500008,
+    "cycle": 0.5799913344695999
+  },
+  {
+    "id": "B0034",
+    "group": 0,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 1.75,
+    "releases": [
+      1.9666666666666666
+    ],
+    "arrows": [
+      "A00070"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.20482322780650009,
+    "aimSeconds": 0.12049516850000004,
+    "recoverSeconds": 0.32205464881250007,
+    "cycle": 0.629696961954
+  },
+  {
+    "id": "B0035",
+    "group": 0,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 1.8,
+    "releases": [
+      2.05
+    ],
+    "arrows": [
+      "A00077"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.23381817717240005,
+    "aimSeconds": 0.08993788760000002,
+    "recoverSeconds": 0.27239906735,
+    "cycle": 0.6794025894384
+  },
+  {
+    "id": "B0036",
+    "group": 1,
+    "firstAim": 0.25,
+    "firstDraw": 1.6333333333333333,
+    "releases": [
+      1.8499999999999999
+    ],
+    "arrows": [
+      "A00055"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.20492312653830003,
+    "aimSeconds": 0.15738060669999998,
+    "recoverSeconds": 0.3527434858875,
+    "cycle": 0.6298682169227999
+  },
+  {
+    "id": "B0037",
+    "group": 1,
+    "firstAim": 0.2,
+    "firstDraw": 1.8166666666666667,
+    "releases": [
+      2.0666666666666664
+    ],
+    "arrows": [
+      "A00079"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.2339180759042,
+    "aimSeconds": 0.12682332580000025,
+    "recoverSeconds": 0.3030879044250004,
+    "cycle": 0.6795738444071999
+  },
+  {
+    "id": "B0038",
+    "group": 1,
+    "firstAim": 0.15,
+    "firstDraw": 1.85,
+    "releases": [
+      2.05
+    ],
+    "arrows": [
+      "A00078"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.19291302527009999,
+    "aimSeconds": 0.09626604490000024,
+    "recoverSeconds": 0.25343232296250034,
+    "cycle": 0.6092794718915999
+  },
+  {
+    "id": "B0039",
+    "group": 1,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 1.85,
+    "releases": [
+      2.0833333333333335
+    ],
+    "arrows": [
+      "A00082"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.22190797463599982,
+    "aimSeconds": 0.14570876400000018,
+    "recoverSeconds": 0.3337767415000003,
+    "cycle": 0.6589850993759996
+  },
+  {
+    "id": "B0040",
+    "group": 1,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 1.9166666666666667,
+    "releases": [
+      2.1
+    ],
+    "arrows": [
+      "A00086"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.18090292400189992,
+    "aimSeconds": 0.11515148310000019,
+    "recoverSeconds": 0.28412116003750026,
+    "cycle": 0.5886907268603998
+  },
+  {
+    "id": "B0041",
+    "group": 1,
+    "firstAim": 0.25,
+    "firstDraw": 1.9333333333333333,
+    "releases": [
+      2.15
+    ],
+    "arrows": [
+      "A00098"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.20989787336780003,
+    "aimSeconds": 0.16459420220000015,
+    "recoverSeconds": 0.3644655785750002,
+    "cycle": 0.6383963543447999
+  },
+  {
+    "id": "B0042",
+    "group": 1,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 1.8833333333333333,
+    "releases": [
+      2.1333333333333333
+    ],
+    "arrows": [
+      "A00095"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.23889282273369988,
+    "aimSeconds": 0.13403692130000014,
+    "recoverSeconds": 0.31480999711250024,
+    "cycle": 0.6881019818291997
+  },
+  {
+    "id": "B0043",
+    "group": 1,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 1.9333333333333333,
+    "releases": [
+      2.1333333333333333
+    ],
+    "arrows": [
+      "A00096"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.19788777209959996,
+    "aimSeconds": 0.10347964040000011,
+    "recoverSeconds": 0.26515441565000014,
+    "cycle": 0.6178076093135999
+  },
+  {
+    "id": "B0044",
+    "group": 1,
+    "firstAim": 0.25,
+    "firstDraw": 1.95,
+    "releases": [
+      2.183333333333333
+    ],
+    "arrows": [
+      "A00104"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.22688272146549981,
+    "aimSeconds": 0.15292235950000008,
+    "recoverSeconds": 0.34549883418750016,
+    "cycle": 0.6675132367979997
+  },
+  {
+    "id": "B0045",
+    "group": 1,
+    "firstAim": 0.2,
+    "firstDraw": 1.9666666666666666,
+    "releases": [
+      2.1666666666666665
+    ],
+    "arrows": [
+      "A00099"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.18587767083139992,
+    "aimSeconds": 0.12236507860000008,
+    "recoverSeconds": 0.2958432527250001,
+    "cycle": 0.5972188642823998
+  },
+  {
+    "id": "B0046",
+    "group": 1,
+    "firstAim": 0.15,
+    "firstDraw": 1.9833333333333334,
+    "releases": [
+      2.2
+    ],
+    "arrows": [
+      "A00110"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.21487262019730002,
+    "aimSeconds": 0.09180779770000004,
+    "recoverSeconds": 0.24618767126250005,
+    "cycle": 0.6469244917668
+  },
+  {
+    "id": "B0047",
+    "group": 1,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 2.033333333333333,
+    "releases": [
+      2.216666666666667
+    ],
+    "arrows": [
+      "A00113"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.17386756956319988,
+    "aimSeconds": 0.1412505168,
+    "recoverSeconds": 0.32653208980000004,
+    "cycle": 0.5766301192511997
+  },
+  {
+    "id": "B0048",
+    "group": 1,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 1.9666666666666666,
+    "releases": [
+      2.183333333333333
+    ],
+    "arrows": [
+      "A00105"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.20286251892909996,
+    "aimSeconds": 0.11069323590000028,
+    "recoverSeconds": 0.27687650833750044,
+    "cycle": 0.6263357467355999
+  },
+  {
+    "id": "B0049",
+    "group": 1,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": 1.9833333333333334,
+    "releases": [
+      2.216666666666667
+    ],
+    "arrows": [
+      "A00114"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.2318574682949998,
+    "aimSeconds": 0.16013595500000025,
+    "recoverSeconds": 0.3572209268750004,
+    "cycle": 0.6760413742199995
+  },
+  {
+    "id": "B0050",
+    "group": 1,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 2.05,
+    "releases": [
+      2.25
+    ],
+    "arrows": [
+      "A00119"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.19085241766089991,
+    "aimSeconds": 0.12957867410000024,
+    "recoverSeconds": 0.30756534541250036,
+    "cycle": 0.6057470017043998
+  },
+  {
+    "id": "B0051",
+    "group": 1,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 2.1333333333333333,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21984736702680002,
+    "aimSeconds": 0.09902139319999993,
+    "recoverSeconds": 0.25790976394999987,
+    "cycle": 0.6554526291888
+  },
+  {
+    "id": "B0052",
+    "group": 1,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 2.1,
+    "releases": [
+      2.283333333333333
+    ],
+    "arrows": [
+      "A00128"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.17884231639269985,
+    "aimSeconds": 0.1484641122999999,
+    "recoverSeconds": 0.33825418248749983,
+    "cycle": 0.5851582566731997
+  },
+  {
+    "id": "B0053",
+    "group": 1,
+    "firstAim": 0.2,
+    "firstDraw": 2.2,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20783726575859995,
+    "aimSeconds": 0.11790683140000045,
+    "recoverSeconds": 0.28859860102500073,
+    "cycle": 0.6348638841575999
+  },
+  {
+    "id": "B0054",
+    "group": 1,
+    "firstAim": 0.2833333333333333,
+    "firstDraw": 2.0833333333333335,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.23683221512450006,
+    "aimSeconds": 0.16734955050000042,
+    "recoverSeconds": 0.36894301956250064,
+    "cycle": 0.684569511642
+  },
+  {
+    "id": "B0055",
+    "group": 1,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 2.1,
+    "releases": [
+      2.3
+    ],
+    "arrows": [
+      "A00130"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.1958271644903999,
+    "aimSeconds": 0.1367922696000004,
+    "recoverSeconds": 0.31928743810000065,
+    "cycle": 0.6142751391263997
+  },
+  {
+    "id": "B0056",
+    "group": 1,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 2.15,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2248221138563,
+    "aimSeconds": 0.10623498870000038,
+    "recoverSeconds": 0.2696318566375006,
+    "cycle": 0.6639807666108
+  },
+  {
+    "id": "B0057",
+    "group": 1,
+    "firstAim": 0.25,
+    "firstDraw": 2.183333333333333,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18381706322219984,
+    "aimSeconds": 0.15567770780000034,
+    "recoverSeconds": 0.3499762751750006,
+    "cycle": 0.5936863940951996
+  },
+  {
+    "id": "B0058",
+    "group": 1,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 2.2666666666666666,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21281201258809995,
+    "aimSeconds": 0.12512042690000033,
+    "recoverSeconds": 0.30032069371250053,
+    "cycle": 0.6433920215795998
+  },
+  {
+    "id": "B0059",
+    "group": 1,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.17180696195400005,
+    "aimSeconds": 0.0945631460000003,
+    "recoverSeconds": 0.2506651122500005,
+    "cycle": 0.573097649064
+  },
+  {
+    "id": "B0060",
+    "group": 1,
+    "firstAim": 0.25,
+    "firstDraw": 2.2,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20080191131989988,
+    "aimSeconds": 0.14400586510000027,
+    "recoverSeconds": 0.33100953078750045,
+    "cycle": 0.6228032765483997
+  },
+  {
+    "id": "B0061",
+    "group": 1,
+    "firstAim": 0.2,
+    "firstDraw": 2.283333333333333,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2297968606858,
+    "aimSeconds": 0.11344858420000027,
+    "recoverSeconds": 0.2813539493250004,
+    "cycle": 0.6725089040328
+  },
+  {
+    "id": "B0062",
+    "group": 1,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18879181005169984,
+    "aimSeconds": 0.16289130330000023,
+    "recoverSeconds": 0.36169836786250037,
+    "cycle": 0.6022145315171996
+  },
+  {
+    "id": "B0063",
+    "group": 1,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21778675941759995,
+    "aimSeconds": 0.1323340224000002,
+    "recoverSeconds": 0.3120427864000003,
+    "cycle": 0.6519201590015998
+  },
+  {
+    "id": "B0064",
+    "group": 1,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.17678170878350002,
+    "aimSeconds": 0.1017767415000002,
+    "recoverSeconds": 0.2623872049375003,
+    "cycle": 0.5816257864859999
+  },
+  {
+    "id": "B0065",
+    "group": 1,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20577665814939988,
+    "aimSeconds": 0.15121946060000016,
+    "recoverSeconds": 0.34273162347500025,
+    "cycle": 0.6313314139703997
+  },
+  {
+    "id": "B0066",
+    "group": 1,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2347716075153,
+    "aimSeconds": 0.12066217970000015,
+    "recoverSeconds": 0.2930760420125002,
+    "cycle": 0.6810370414547999
+  },
+  {
+    "id": "B0067",
+    "group": 1,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.19376655688119984,
+    "aimSeconds": 0.09010489880000012,
+    "recoverSeconds": 0.2434204605500002,
+    "cycle": 0.6107426689391996
+  },
+  {
+    "id": "B0068",
+    "group": 1,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.22276150624709995,
+    "aimSeconds": 0.1395476179000001,
+    "recoverSeconds": 0.3237648790875001,
+    "cycle": 0.6604482964235998
+  },
+  {
+    "id": "B0069",
+    "group": 1,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18175645561300002,
+    "aimSeconds": 0.10899033700000008,
+    "recoverSeconds": 0.2741092976250001,
+    "cycle": 0.5901539239079999
+  },
+  {
+    "id": "B0070",
+    "group": 1,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21075140497889988,
+    "aimSeconds": 0.15843305610000005,
+    "recoverSeconds": 0.3544537161625001,
+    "cycle": 0.6398595513923997
+  },
+  {
+    "id": "B0071",
+    "group": 1,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.23974635434479996,
+    "aimSeconds": 0.1278757752,
+    "recoverSeconds": 0.30479813470000006,
+    "cycle": 0.6895651788767999
+  },
+  {
+    "id": "B0072",
+    "group": 2,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 2.1333333333333333,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21085130371069996,
+    "aimSeconds": 0.11531849429999999,
+    "recoverSeconds": 0.2551425532375,
+    "cycle": 0.6400308063611998
+  },
+  {
+    "id": "B0073",
+    "group": 2,
+    "firstAim": 0.25,
+    "firstDraw": 2.2333333333333334,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.23984625307660007,
+    "aimSeconds": 0.1647612134,
+    "recoverSeconds": 0.335486971775,
+    "cycle": 0.6897364338456
+  },
+  {
+    "id": "B0074",
+    "group": 2,
+    "firstAim": 0.2,
+    "firstDraw": 2.2666666666666666,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.19884120244250014,
+    "aimSeconds": 0.13420393250000054,
+    "recoverSeconds": 0.2858313903125008,
+    "cycle": 0.6194420613300001
+  },
+  {
+    "id": "B0075",
+    "group": 2,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": 2.283333333333333,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2278361518084,
+    "aimSeconds": 0.18364665160000052,
+    "recoverSeconds": 0.3661758088500008,
+    "cycle": 0.6691476888143999
+  },
+  {
+    "id": "B0076",
+    "group": 2,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 1.7333333333333334,
+    "releases": [
+      1.9333333333333333
+    ],
+    "arrows": [
+      "A00066"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.18683110117429985,
+    "aimSeconds": 0.15308937070000048,
+    "recoverSeconds": 0.31652022738750074,
+    "cycle": 0.5988533162987997
+  },
+  {
+    "id": "B0077",
+    "group": 2,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 2.3,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21582605054019993,
+    "aimSeconds": 0.12253208980000047,
+    "recoverSeconds": 0.2668646459250007,
+    "cycle": 0.6485589437831998
+  },
+  {
+    "id": "B0078",
+    "group": 2,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.17482099990610003,
+    "aimSeconds": 0.17197480890000044,
+    "recoverSeconds": 0.34720906446250066,
+    "cycle": 0.5782645712676
+  },
+  {
+    "id": "B0079",
+    "group": 2,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20381594927199964,
+    "aimSeconds": 0.1414175280000004,
+    "recoverSeconds": 0.2975534830000006,
+    "cycle": 0.6279701987519993
+  },
+  {
+    "id": "B0080",
+    "group": 2,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.23281089863789975,
+    "aimSeconds": 0.11086024710000039,
+    "recoverSeconds": 0.2478979015375006,
+    "cycle": 0.6776758262363994
+  },
+  {
+    "id": "B0081",
+    "group": 2,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.19180584800379985,
+    "aimSeconds": 0.16030296620000037,
+    "recoverSeconds": 0.32824232007500054,
+    "cycle": 0.6073814537207997
+  },
+  {
+    "id": "B0082",
+    "group": 2,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.22080079736969993,
+    "aimSeconds": 0.12974568530000033,
+    "recoverSeconds": 0.27858673861250055,
+    "cycle": 0.6570870812051999
+  },
+  {
+    "id": "B0083",
+    "group": 2,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.17979574673560003,
+    "aimSeconds": 0.1791884044000003,
+    "recoverSeconds": 0.3589311571500005,
+    "cycle": 0.5867927086896
+  },
+  {
+    "id": "B0084",
+    "group": 2,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20879069610149964,
+    "aimSeconds": 0.1486311235000003,
+    "recoverSeconds": 0.30927557568750047,
+    "cycle": 0.6364983361739993
+  },
+  {
+    "id": "B0085",
+    "group": 2,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.23778564546739972,
+    "aimSeconds": 0.11807384260000026,
+    "recoverSeconds": 0.25961999422500043,
+    "cycle": 0.6862039636583994
+  },
+  {
+    "id": "B0086",
+    "group": 2,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.19678059483329982,
+    "aimSeconds": 0.16751656170000026,
+    "recoverSeconds": 0.3399644127625004,
+    "cycle": 0.6159095911427996
+  },
+  {
+    "id": "B0087",
+    "group": 2,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.22577554419919993,
+    "aimSeconds": 0.13695928080000022,
+    "recoverSeconds": 0.29030883130000035,
+    "cycle": 0.6656152186271997
+  },
+  {
+    "id": "B0088",
+    "group": 2,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18477049356510003,
+    "aimSeconds": 0.10640199990000018,
+    "recoverSeconds": 0.2406532498375003,
+    "cycle": 0.5953208461116
+  },
+  {
+    "id": "B0089",
+    "group": 2,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21376544293099964,
+    "aimSeconds": 0.1558447190000002,
+    "recoverSeconds": 0.32099766837500027,
+    "cycle": 0.6450264735959993
+  },
+  {
+    "id": "B0090",
+    "group": 2,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1727603922968997,
+    "aimSeconds": 0.12528743810000015,
+    "recoverSeconds": 0.2713420869125002,
+    "cycle": 0.5747321010803994
+  },
+  {
+    "id": "B0091",
+    "group": 2,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20175534166279982,
+    "aimSeconds": 0.17473015720000015,
+    "recoverSeconds": 0.3516865054500002,
+    "cycle": 0.6244377285647996
+  },
+  {
+    "id": "B0092",
+    "group": 2,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.23075029102869993,
+    "aimSeconds": 0.1441728763000001,
+    "recoverSeconds": 0.30203092398750014,
+    "cycle": 0.6741433560491998
+  },
+  {
+    "id": "B0093",
+    "group": 2,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18974524039460003,
+    "aimSeconds": 0.11361559540000007,
+    "recoverSeconds": 0.2523753425250001,
+    "cycle": 0.6038489835336
+  },
+  {
+    "id": "B0094",
+    "group": 2,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21874018976049964,
+    "aimSeconds": 0.16305831450000005,
+    "recoverSeconds": 0.33271976106250006,
+    "cycle": 0.6535546110179993
+  },
+  {
+    "id": "B0095",
+    "group": 2,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1777351391263997,
+    "aimSeconds": 0.13250103360000004,
+    "recoverSeconds": 0.2830641796,
+    "cycle": 0.5832602385023994
+  },
+  {
+    "id": "B0096",
+    "group": 2,
+    "firstAim": 0.3,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20673008849229982,
+    "aimSeconds": 0.1819437527000006,
+    "recoverSeconds": 0.3634085981375009,
+    "cycle": 0.6329658659867996
+  },
+  {
+    "id": "B0097",
+    "group": 2,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.23572503785819993,
+    "aimSeconds": 0.15138647180000056,
+    "recoverSeconds": 0.3137530166750009,
+    "cycle": 0.6826714934711997
+  },
+  {
+    "id": "B0098",
+    "group": 2,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1947199872241,
+    "aimSeconds": 0.12082919090000052,
+    "recoverSeconds": 0.26409743521250084,
+    "cycle": 0.6123771209555999
+  },
+  {
+    "id": "B0099",
+    "group": 2,
+    "firstAim": 0.2833333333333333,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2237149365899996,
+    "aimSeconds": 0.1702719100000005,
+    "recoverSeconds": 0.3444418537500008,
+    "cycle": 0.6620827484399993
+  },
+  {
+    "id": "B0100",
+    "group": 2,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1827098859558997,
+    "aimSeconds": 0.1397146291000005,
+    "recoverSeconds": 0.29478627228750076,
+    "cycle": 0.5917883759243994
+  },
+  {
+    "id": "B0101",
+    "group": 2,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21170483532179982,
+    "aimSeconds": 0.10915734820000045,
+    "recoverSeconds": 0.24513069082500072,
+    "cycle": 0.6414940034087996
+  },
+  {
+    "id": "B0102",
+    "group": 2,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1706997846876999,
+    "aimSeconds": 0.15860006730000045,
+    "recoverSeconds": 0.3254751093625007,
+    "cycle": 0.5711996308931998
+  },
+  {
+    "id": "B0103",
+    "group": 2,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1996947340536,
+    "aimSeconds": 0.12804278639999986,
+    "recoverSeconds": 0.27581952789999975,
+    "cycle": 0.6209052583775999
+  },
+  {
+    "id": "B0104",
+    "group": 2,
+    "firstAim": 0.3,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2286896834194996,
+    "aimSeconds": 0.17748550549999983,
+    "recoverSeconds": 0.3561639464374997,
+    "cycle": 0.6706108858619992
+  },
+  {
+    "id": "B0105",
+    "group": 2,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1876846327853997,
+    "aimSeconds": 0.1469282245999998,
+    "recoverSeconds": 0.30650836497499967,
+    "cycle": 0.6003165133463995
+  },
+  {
+    "id": "B0106",
+    "group": 2,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2166795821512998,
+    "aimSeconds": 0.11637094370000092,
+    "recoverSeconds": 0.25685278351250146,
+    "cycle": 0.6500221408307996
+  },
+  {
+    "id": "B0107",
+    "group": 2,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1756745315171999,
+    "aimSeconds": 0.1658136628000009,
+    "recoverSeconds": 0.3371972020500014,
+    "cycle": 0.5797277683151998
+  },
+  {
+    "id": "B0108",
+    "group": 3,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 2.15,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21677948088310012,
+    "aimSeconds": 0.09925638190000087,
+    "recoverSeconds": 0.2875416205875014,
+    "cycle": 0.6501933957996001
+  },
+  {
+    "id": "B0109",
+    "group": 3,
+    "firstAim": 0.2833333333333333,
+    "firstDraw": 1.8333333333333333,
+    "releases": [
+      2.0166666666666666
+    ],
+    "arrows": [
+      "A00073"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.17577443024900022,
+    "aimSeconds": 0.14869910100000083,
+    "recoverSeconds": 0.3678860391250014,
+    "cycle": 0.5798990232840003
+  },
+  {
+    "id": "B0110",
+    "group": 3,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 2.2333333333333334,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20476937961489983,
+    "aimSeconds": 0.11814182010000082,
+    "recoverSeconds": 0.3182304576625013,
+    "cycle": 0.6296046507683997
+  },
+  {
+    "id": "B0111",
+    "group": 3,
+    "firstAim": 0.2,
+    "firstDraw": 2.2666666666666666,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2337643289807999,
+    "aimSeconds": 0.0875845392000008,
+    "recoverSeconds": 0.26857487620000126,
+    "cycle": 0.6793102782527998
+  },
+  {
+    "id": "B0112",
+    "group": 3,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": 2.283333333333333,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1927592783467,
+    "aimSeconds": 0.1370272583000008,
+    "recoverSeconds": 0.3489192947375013,
+    "cycle": 0.6090159057372
+  },
+  {
+    "id": "B0113",
+    "group": 3,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.22175422771260012,
+    "aimSeconds": 0.10646997740000075,
+    "recoverSeconds": 0.29926371327500123,
+    "cycle": 0.6587215332216001
+  },
+  {
+    "id": "B0114",
+    "group": 3,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18074917707850022,
+    "aimSeconds": 0.07591269650000072,
+    "recoverSeconds": 0.24960813181250116,
+    "cycle": 0.5884271607060003
+  },
+  {
+    "id": "B0115",
+    "group": 3,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20974412644439983,
+    "aimSeconds": 0.1253554156000007,
+    "recoverSeconds": 0.32995255035000115,
+    "cycle": 0.6381327881903996
+  },
+  {
+    "id": "B0116",
+    "group": 3,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2387390758102999,
+    "aimSeconds": 0.09479813470000067,
+    "recoverSeconds": 0.2802969688875011,
+    "cycle": 0.6878384156747998
+  },
+  {
+    "id": "B0117",
+    "group": 3,
+    "firstAim": 0.2833333333333333,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1977340251762,
+    "aimSeconds": 0.14424085380000068,
+    "recoverSeconds": 0.36064138742500107,
+    "cycle": 0.6175440431592
+  },
+  {
+    "id": "B0118",
+    "group": 3,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.22672897454210011,
+    "aimSeconds": 0.11368357290000064,
+    "recoverSeconds": 0.310985805962501,
+    "cycle": 0.6672496706436001
+  },
+  {
+    "id": "B0119",
+    "group": 3,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1857239239080002,
+    "aimSeconds": 0.08312629200000062,
+    "recoverSeconds": 0.261330224500001,
+    "cycle": 0.5969552981280003
+  },
+  {
+    "id": "B0120",
+    "group": 3,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2147188732738998,
+    "aimSeconds": 0.13256901110000058,
+    "recoverSeconds": 0.34167464303750095,
+    "cycle": 0.6466609256123996
+  },
+  {
+    "id": "B0121",
+    "group": 3,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1737138226397999,
+    "aimSeconds": 0.10201173020000057,
+    "recoverSeconds": 0.2920190615750009,
+    "cycle": 0.5763665530967997
+  },
+  {
+    "id": "B0122",
+    "group": 3,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2027087720057,
+    "aimSeconds": 0.07145444930000054,
+    "recoverSeconds": 0.24236348011250086,
+    "cycle": 0.6260721805812
+  },
+  {
+    "id": "B0123",
+    "group": 3,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2317037213716001,
+    "aimSeconds": 0.12089716840000052,
+    "recoverSeconds": 0.3227078986500008,
+    "cycle": 0.6757778080656001
+  },
+  {
+    "id": "B0124",
+    "group": 3,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1906986707375002,
+    "aimSeconds": 0.09033988750000049,
+    "recoverSeconds": 0.2730523171875008,
+    "cycle": 0.6054834355500003
+  },
+  {
+    "id": "B0125",
+    "group": 3,
+    "firstAim": 0.2833333333333333,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2196936201033998,
+    "aimSeconds": 0.13978260660000047,
+    "recoverSeconds": 0.35339673572500074,
+    "cycle": 0.6551890630343996
+  },
+  {
+    "id": "B0126",
+    "group": 3,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1786885694692999,
+    "aimSeconds": 0.10922532570000044,
+    "recoverSeconds": 0.3037411542625007,
+    "cycle": 0.5848946905187997
+  },
+  {
+    "id": "B0127",
+    "group": 3,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20768351883519998,
+    "aimSeconds": 0.07866804480000042,
+    "recoverSeconds": 0.25408557280000066,
+    "cycle": 0.6346003180031999
+  },
+  {
+    "id": "B0128",
+    "group": 3,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2366784682011001,
+    "aimSeconds": 0.1281107639000004,
+    "recoverSeconds": 0.3344299913375006,
+    "cycle": 0.6843059454876
+  },
+  {
+    "id": "B0129",
+    "group": 3,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.19567341756700019,
+    "aimSeconds": 0.09755348300000038,
+    "recoverSeconds": 0.2847744098750006,
+    "cycle": 0.6140115729720003
+  },
+  {
+    "id": "B0130",
+    "group": 3,
+    "firstAim": 0.3,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2246683669328998,
+    "aimSeconds": 0.14699620210000036,
+    "recoverSeconds": 0.36511882841250054,
+    "cycle": 0.6637172004563996
+  },
+  {
+    "id": "B0131",
+    "group": 3,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1836633162987999,
+    "aimSeconds": 0.11643892120000032,
+    "recoverSeconds": 0.3154632469500005,
+    "cycle": 0.5934228279407997
+  },
+  {
+    "id": "B0132",
+    "group": 3,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21265826566469997,
+    "aimSeconds": 0.08588164030000031,
+    "recoverSeconds": 0.26580766548750046,
+    "cycle": 0.6431284554251999
+  },
+  {
+    "id": "B0133",
+    "group": 3,
+    "firstAim": 0.2833333333333333,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.17165321503060008,
+    "aimSeconds": 0.1353243594000003,
+    "recoverSeconds": 0.3461520840250004,
+    "cycle": 0.5728340829096
+  },
+  {
+    "id": "B0134",
+    "group": 3,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20064816439650018,
+    "aimSeconds": 0.10476707850000026,
+    "recoverSeconds": 0.2964965025625004,
+    "cycle": 0.6225397103940002
+  },
+  {
+    "id": "B0135",
+    "group": 3,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2296431137623998,
+    "aimSeconds": 0.07420979760000024,
+    "recoverSeconds": 0.24684092110000036,
+    "cycle": 0.6722453378783996
+  },
+  {
+    "id": "B0136",
+    "group": 3,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18863806312829987,
+    "aimSeconds": 0.12365251670000021,
+    "recoverSeconds": 0.3271853396375003,
+    "cycle": 0.6019509653627997
+  },
+  {
+    "id": "B0137",
+    "group": 3,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21763301249419997,
+    "aimSeconds": 0.09309523580000019,
+    "recoverSeconds": 0.2775297581750003,
+    "cycle": 0.6516565928471999
+  },
+  {
+    "id": "B0138",
+    "group": 3,
+    "firstAim": 0.3,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.17662796186010007,
+    "aimSeconds": 0.14253795490000015,
+    "recoverSeconds": 0.35787417671250027,
+    "cycle": 0.5813622203316
+  },
+  {
+    "id": "B0139",
+    "group": 3,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20562291122600018,
+    "aimSeconds": 0.11198067400000014,
+    "recoverSeconds": 0.3082185952500002,
+    "cycle": 0.6310678478160002
+  },
+  {
+    "id": "B0140",
+    "group": 3,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.23461786059189976,
+    "aimSeconds": 0.08142339310000012,
+    "recoverSeconds": 0.2585630137875002,
+    "cycle": 0.6807734753003996
+  },
+  {
+    "id": "B0141",
+    "group": 3,
+    "firstAim": 0.2833333333333333,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.19361280995779986,
+    "aimSeconds": 0.1308661122000001,
+    "recoverSeconds": 0.33890743232500015,
+    "cycle": 0.6104791027847997
+  },
+  {
+    "id": "B0142",
+    "group": 3,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.22260775932369997,
+    "aimSeconds": 0.10030883130000007,
+    "recoverSeconds": 0.2892518508625001,
+    "cycle": 0.6601847302691999
+  },
+  {
+    "id": "B0143",
+    "group": 3,
+    "firstAim": 0.31666666666666665,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18160270868960007,
+    "aimSeconds": 0.14975155040000004,
+    "recoverSeconds": 0.36959626940000007,
+    "cycle": 0.5898903577536
+  },
+  {
+    "id": "B0144",
+    "group": 4,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 2.2333333333333334,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2227076580555003,
+    "aimSeconds": 0.13719426950000002,
+    "recoverSeconds": 0.3199406879375,
+    "cycle": 0.6603559852380004
+  },
+  {
+    "id": "B0145",
+    "group": 4,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 2.25,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18170260742139988,
+    "aimSeconds": 0.1066369886,
+    "recoverSeconds": 0.270285106475,
+    "cycle": 0.5900616127223998
+  },
+  {
+    "id": "B0146",
+    "group": 4,
+    "firstAim": 0.25,
+    "firstDraw": 2.3,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21069755678729998,
+    "aimSeconds": 0.1560797077,
+    "recoverSeconds": 0.35062952501249994,
+    "cycle": 0.6397672402067999
+  },
+  {
+    "id": "B0147",
+    "group": 4,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2396925061532001,
+    "aimSeconds": 0.12552242679999995,
+    "recoverSeconds": 0.3009739435499999,
+    "cycle": 0.6894728676912001
+  },
+  {
+    "id": "B0148",
+    "group": 4,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 2.25,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1986874555191002,
+    "aimSeconds": 0.09496514589999994,
+    "recoverSeconds": 0.25131836208749986,
+    "cycle": 0.6191784951756002
+  },
+  {
+    "id": "B0149",
+    "group": 4,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 1.8333333333333333,
+    "releases": [
+      2.0666666666666664
+    ],
+    "arrows": [
+      "A00080"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.2276824048850003,
+    "aimSeconds": 0.14440786500000105,
+    "recoverSeconds": 0.33166278062500165,
+    "cycle": 0.6688841226600004
+  },
+  {
+    "id": "B0150",
+    "group": 4,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18667735425090037,
+    "aimSeconds": 0.11385058410000103,
+    "recoverSeconds": 0.28200719916250166,
+    "cycle": 0.5985897501444005
+  },
+  {
+    "id": "B0151",
+    "group": 4,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21567230361679998,
+    "aimSeconds": 0.163293303200001,
+    "recoverSeconds": 0.3623516177000016,
+    "cycle": 0.6482953776287999
+  },
+  {
+    "id": "B0152",
+    "group": 4,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.17466725298270008,
+    "aimSeconds": 0.13273602230000098,
+    "recoverSeconds": 0.3126960362375016,
+    "cycle": 0.5780010051132001
+  },
+  {
+    "id": "B0153",
+    "group": 4,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20366220234859966,
+    "aimSeconds": 0.10217874140000095,
+    "recoverSeconds": 0.26304045477500154,
+    "cycle": 0.6277066325975994
+  },
+  {
+    "id": "B0154",
+    "group": 4,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2326571517144993,
+    "aimSeconds": 0.15162146050000092,
+    "recoverSeconds": 0.3433848733125015,
+    "cycle": 0.6774122600819987
+  },
+  {
+    "id": "B0155",
+    "group": 4,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.19165210108039987,
+    "aimSeconds": 0.1210641796000009,
+    "recoverSeconds": 0.29372929185000146,
+    "cycle": 0.6071178875663997
+  },
+  {
+    "id": "B0156",
+    "group": 4,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.22064705044629948,
+    "aimSeconds": 0.09050689870000088,
+    "recoverSeconds": 0.24407371038750142,
+    "cycle": 0.6568235150507991
+  },
+  {
+    "id": "B0157",
+    "group": 4,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.17964199981220008,
+    "aimSeconds": 0.13994961780000084,
+    "recoverSeconds": 0.3244181289250014,
+    "cycle": 0.5865291425352
+  },
+  {
+    "id": "B0158",
+    "group": 4,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20863694917809966,
+    "aimSeconds": 0.10939233690000084,
+    "recoverSeconds": 0.27476254746250134,
+    "cycle": 0.6362347700195994
+  },
+  {
+    "id": "B0159",
+    "group": 4,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.23763189854399927,
+    "aimSeconds": 0.1588350560000008,
+    "recoverSeconds": 0.3551069660000013,
+    "cycle": 0.6859403975039987
+  },
+  {
+    "id": "B0160",
+    "group": 4,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.19662684790989987,
+    "aimSeconds": 0.12827777510000077,
+    "recoverSeconds": 0.30545138453750126,
+    "cycle": 0.6156460249883997
+  },
+  {
+    "id": "B0161",
+    "group": 4,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.22562179727579948,
+    "aimSeconds": 0.09772049420000077,
+    "recoverSeconds": 0.2557958030750012,
+    "cycle": 0.665351652472799
+  },
+  {
+    "id": "B0162",
+    "group": 4,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18461674664170005,
+    "aimSeconds": 0.14716321330000073,
+    "recoverSeconds": 0.3361402216125012,
+    "cycle": 0.5950572799572
+  },
+  {
+    "id": "B0163",
+    "group": 4,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21361169600759966,
+    "aimSeconds": 0.11660593240000072,
+    "recoverSeconds": 0.28648464015000114,
+    "cycle": 0.6447629074415994
+  },
+  {
+    "id": "B0164",
+    "group": 4,
+    "firstAim": 0.2833333333333333,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.17260664537349926,
+    "aimSeconds": 0.16604865150000067,
+    "recoverSeconds": 0.36682905868750115,
+    "cycle": 0.5744685349259987
+  },
+  {
+    "id": "B0165",
+    "group": 4,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20160159473939987,
+    "aimSeconds": 0.13549137060000066,
+    "recoverSeconds": 0.31717347722500105,
+    "cycle": 0.6241741624103997
+  },
+  {
+    "id": "B0166",
+    "group": 4,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.23059654410529945,
+    "aimSeconds": 0.10493408970000065,
+    "recoverSeconds": 0.267517895762501,
+    "cycle": 0.673879789894799
+  },
+  {
+    "id": "B0167",
+    "group": 4,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18959149347120005,
+    "aimSeconds": 0.15437680880000063,
+    "recoverSeconds": 0.34786231430000103,
+    "cycle": 0.6035854173792
+  },
+  {
+    "id": "B0168",
+    "group": 4,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21858644283709966,
+    "aimSeconds": 0.1238195279000006,
+    "recoverSeconds": 0.298206732837501,
+    "cycle": 0.6532910448635993
+  },
+  {
+    "id": "B0169",
+    "group": 4,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.17758139220299926,
+    "aimSeconds": 0.09326224700000058,
+    "recoverSeconds": 0.24855115137500092,
+    "cycle": 0.5829966723479987
+  },
+  {
+    "id": "B0170",
+    "group": 4,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20657634156889984,
+    "aimSeconds": 0.14270496610000055,
+    "recoverSeconds": 0.3288955699125009,
+    "cycle": 0.6327022998323997
+  },
+  {
+    "id": "B0171",
+    "group": 4,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.23557129093479945,
+    "aimSeconds": 0.11214768520000053,
+    "recoverSeconds": 0.27923998845000086,
+    "cycle": 0.682407927316799
+  },
+  {
+    "id": "B0172",
+    "group": 4,
+    "firstAim": 0.2833333333333333,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.19456624030070005,
+    "aimSeconds": 0.16159040430000052,
+    "recoverSeconds": 0.3595844069875008,
+    "cycle": 0.6121135548012
+  },
+  {
+    "id": "B0173",
+    "group": 4,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.22356118966659966,
+    "aimSeconds": 0.13103312340000048,
+    "recoverSeconds": 0.3099288255250008,
+    "cycle": 0.6618191822855993
+  },
+  {
+    "id": "B0174",
+    "group": 4,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18255613903249923,
+    "aimSeconds": 0.10047584250000047,
+    "recoverSeconds": 0.26027324406250074,
+    "cycle": 0.5915248097699987
+  },
+  {
+    "id": "B0175",
+    "group": 4,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21155108839839984,
+    "aimSeconds": 0.14991856160000042,
+    "recoverSeconds": 0.3406176626000007,
+    "cycle": 0.6412304372543997
+  },
+  {
+    "id": "B0176",
+    "group": 4,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.17054603776429944,
+    "aimSeconds": 0.11936128070000042,
+    "recoverSeconds": 0.29096208113750066,
+    "cycle": 0.570936064738799
+  },
+  {
+    "id": "B0177",
+    "group": 4,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.19954098713020005,
+    "aimSeconds": 0.0888039998000004,
+    "recoverSeconds": 0.24130649967500062,
+    "cycle": 0.6206416922232
+  },
+  {
+    "id": "B0178",
+    "group": 4,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.22853593649609966,
+    "aimSeconds": 0.13824671890000037,
+    "recoverSeconds": 0.3216509182125006,
+    "cycle": 0.6703473197075993
+  },
+  {
+    "id": "B0179",
+    "group": 4,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18753088586199923,
+    "aimSeconds": 0.10768943800000035,
+    "recoverSeconds": 0.27199533675000054,
+    "cycle": 0.6000529471919986
+  },
+  {
+    "id": "B0180",
+    "group": 5,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 1.95,
+    "releases": [
+      2.183333333333333
+    ],
+    "arrows": [
+      "A00106"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.22863583522789996,
+    "aimSeconds": 0.17513215710000032,
+    "recoverSeconds": 0.3523397552875005,
+    "cycle": 0.6705185746763999
+  },
+  {
+    "id": "B0181",
+    "group": 5,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 1.9666666666666666,
+    "releases": [
+      2.1666666666666665
+    ],
+    "arrows": [
+      "A00100"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.18763078459379956,
+    "aimSeconds": 0.14457487620000029,
+    "recoverSeconds": 0.30268417382500046,
+    "cycle": 0.6002242021607992
+  },
+  {
+    "id": "B0182",
+    "group": 5,
+    "firstAim": 0.15,
+    "firstDraw": 1.8833333333333333,
+    "releases": [
+      2.1
+    ],
+    "arrows": [
+      "A00087"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.21662573395970017,
+    "aimSeconds": 0.11401759530000027,
+    "recoverSeconds": 0.2530285923625004,
+    "cycle": 0.6499298296452002
+  },
+  {
+    "id": "B0183",
+    "group": 5,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 1.5666666666666667,
+    "releases": [
+      1.75
+    ],
+    "arrows": [
+      "A00042"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.17562068332559977,
+    "aimSeconds": 0.16346031440000025,
+    "recoverSeconds": 0.3333730109000004,
+    "cycle": 0.5796354571295995
+  },
+  {
+    "id": "B0184",
+    "group": 5,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 1.8666666666666667,
+    "releases": [
+      2.0833333333333335
+    ],
+    "arrows": [
+      "A00083"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.20461563269149935,
+    "aimSeconds": 0.13290303350000024,
+    "recoverSeconds": 0.28371742943750033,
+    "cycle": 0.6293410846139988
+  },
+  {
+    "id": "B0185",
+    "group": 5,
+    "firstAim": 0.25,
+    "firstDraw": 1.8166666666666667,
+    "releases": [
+      2.0666666666666664
+    ],
+    "arrows": [
+      "A00081"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.23361058205739996,
+    "aimSeconds": 0.18234575260000022,
+    "recoverSeconds": 0.3640618479750003,
+    "cycle": 0.6790467120983998
+  },
+  {
+    "id": "B0186",
+    "group": 5,
+    "firstAim": 0.2,
+    "firstDraw": 2.0833333333333335,
+    "releases": [
+      2.283333333333333
+    ],
+    "arrows": [
+      "A00129"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.19260553142329956,
+    "aimSeconds": 0.15178847170000018,
+    "recoverSeconds": 0.31440626651250025,
+    "cycle": 0.6087523395827992
+  },
+  {
+    "id": "B0187",
+    "group": 5,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 2.066666666666667,
+    "releases": [
+      2.3
+    ],
+    "arrows": [
+      "A00131"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.22160048078920014,
+    "aimSeconds": 0.12123119080000017,
+    "recoverSeconds": 0.2647506850500002,
+    "cycle": 0.6584579670672002
+  },
+  {
+    "id": "B0188",
+    "group": 5,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 1.9833333333333334,
+    "releases": [
+      2.1666666666666665
+    ],
+    "arrows": [
+      "A00101"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.18059543015509974,
+    "aimSeconds": 0.17067390990000014,
+    "recoverSeconds": 0.3450951035875002,
+    "cycle": 0.5881635945515995
+  },
+  {
+    "id": "B0189",
+    "group": 5,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 2.0,
+    "releases": [
+      2.216666666666667
+    ],
+    "arrows": [
+      "A00115"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.20959037952099935,
+    "aimSeconds": 0.1401166290000001,
+    "recoverSeconds": 0.29543952212500013,
+    "cycle": 0.6378692220359988
+  },
+  {
+    "id": "B0190",
+    "group": 5,
+    "firstAim": 0.15,
+    "firstDraw": 1.9333333333333333,
+    "releases": [
+      2.183333333333333
+    ],
+    "arrows": [
+      "A00107"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.23858532888689996,
+    "aimSeconds": 0.10955934810000009,
+    "recoverSeconds": 0.24578394066250012,
+    "cycle": 0.6875748495203998
+  },
+  {
+    "id": "B0191",
+    "group": 5,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 1.9,
+    "releases": [
+      2.1
+    ],
+    "arrows": [
+      "A00088"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.19758027825279956,
+    "aimSeconds": 0.15900206720000007,
+    "recoverSeconds": 0.32612835920000005,
+    "cycle": 0.6172804770047992
+  },
+  {
+    "id": "B0192",
+    "group": 5,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 2.2333333333333334,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.22657522761870014,
+    "aimSeconds": 0.12844478630000117,
+    "recoverSeconds": 0.2764727777375019,
+    "cycle": 0.6669861044892001
+  },
+  {
+    "id": "B0193",
+    "group": 5,
+    "firstAim": 0.25,
+    "firstDraw": 2.1333333333333333,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18557017698459974,
+    "aimSeconds": 0.17788750540000117,
+    "recoverSeconds": 0.35681719627500186,
+    "cycle": 0.5966917319735995
+  },
+  {
+    "id": "B0194",
+    "group": 5,
+    "firstAim": 0.2,
+    "firstDraw": 2.1333333333333333,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21456512635049935,
+    "aimSeconds": 0.14733022450000113,
+    "recoverSeconds": 0.3071616148125018,
+    "cycle": 0.6463973594579988
+  },
+  {
+    "id": "B0195",
+    "group": 5,
+    "firstAim": 0.15,
+    "firstDraw": 2.0833333333333335,
+    "releases": [
+      2.2666666666666666
+    ],
+    "arrows": [
+      "A00124"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.17356007571639995,
+    "aimSeconds": 0.1167729436000011,
+    "recoverSeconds": 0.2575060333500018,
+    "cycle": 0.5761029869423998
+  },
+  {
+    "id": "B0196",
+    "group": 5,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 2.0166666666666666,
+    "releases": [
+      2.2333333333333334
+    ],
+    "arrows": [
+      "A00118"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.20255502508229953,
+    "aimSeconds": 0.16621566270000107,
+    "recoverSeconds": 0.33785045188750173,
+    "cycle": 0.6258086144267991
+  },
+  {
+    "id": "B0197",
+    "group": 5,
+    "firstAim": 0.2,
+    "firstDraw": 2.033333333333333,
+    "releases": [
+      2.2666666666666666
+    ],
+    "arrows": [
+      "A00125"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.23154997444820014,
+    "aimSeconds": 0.13565838180000106,
+    "recoverSeconds": 0.2881948704250017,
+    "cycle": 0.6755142419112001
+  },
+  {
+    "id": "B0198",
+    "group": 5,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.19054492381409974,
+    "aimSeconds": 0.18510110090000104,
+    "recoverSeconds": 0.36853928896250165,
+    "cycle": 0.6052198693955995
+  },
+  {
+    "id": "B0199",
+    "group": 5,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 2.2666666666666666,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21953987317999935,
+    "aimSeconds": 0.15454382000000103,
+    "recoverSeconds": 0.3188837075000016,
+    "cycle": 0.6549254968799988
+  },
+  {
+    "id": "B0200",
+    "group": 5,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 2.25,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.17853482254589992,
+    "aimSeconds": 0.12398653910000099,
+    "recoverSeconds": 0.26922812603750157,
+    "cycle": 0.5846311243643998
+  },
+  {
+    "id": "B0201",
+    "group": 5,
+    "firstAim": 0.25,
+    "firstDraw": 2.15,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.20752977191179953,
+    "aimSeconds": 0.17342925820000096,
+    "recoverSeconds": 0.34957254457500153,
+    "cycle": 0.6343367518487991
+  },
+  {
+    "id": "B0202",
+    "group": 5,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 2.1666666666666665,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.23652472127770013,
+    "aimSeconds": 0.14287197730000095,
+    "recoverSeconds": 0.2999169631125015,
+    "cycle": 0.6840423793332001
+  },
+  {
+    "id": "B0203",
+    "group": 5,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 2.1,
+    "releases": [
+      2.3
+    ],
+    "arrows": [
+      "A00132"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.19551967064359974,
+    "aimSeconds": 0.11231469640000091,
+    "recoverSeconds": 0.25026138165000145,
+    "cycle": 0.6137480068175994
+  },
+  {
+    "id": "B0204",
+    "group": 5,
+    "firstAim": 0.25,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.22451462000949934,
+    "aimSeconds": 0.16175741550000092,
+    "recoverSeconds": 0.3306058001875014,
+    "cycle": 0.6634536343019988
+  },
+  {
+    "id": "B0205",
+    "group": 5,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18350956937539992,
+    "aimSeconds": 0.13120013460000088,
+    "recoverSeconds": 0.2809502187250014,
+    "cycle": 0.5931592617863998
+  },
+  {
+    "id": "B0206",
+    "group": 5,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21250451874129953,
+    "aimSeconds": 0.18064285370000085,
+    "recoverSeconds": 0.3612946372625014,
+    "cycle": 0.6428648892707991
+  },
+  {
+    "id": "B0207",
+    "group": 5,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.17149946810720013,
+    "aimSeconds": 0.15008557279999968,
+    "recoverSeconds": 0.3116390557999995,
+    "cycle": 0.5725705167552001
+  },
+  {
+    "id": "B0208",
+    "group": 5,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 2.3,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2004944174730997,
+    "aimSeconds": 0.11952829189999967,
+    "recoverSeconds": 0.2619834743374994,
+    "cycle": 0.6222761442395994
+  },
+  {
+    "id": "B0209",
+    "group": 5,
+    "firstAim": 0.25,
+    "firstDraw": 2.2,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.22948936683899931,
+    "aimSeconds": 0.16897101099999964,
+    "recoverSeconds": 0.34232789287499943,
+    "cycle": 0.6719817717239988
+  },
+  {
+    "id": "B0210",
+    "group": 5,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.18848431620489992,
+    "aimSeconds": 0.13841373009999963,
+    "recoverSeconds": 0.2926723114124994,
+    "cycle": 0.6016873992083998
+  },
+  {
+    "id": "B0211",
+    "group": 5,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.21747926557079952,
+    "aimSeconds": 0.1078564491999996,
+    "recoverSeconds": 0.24301672994999932,
+    "cycle": 0.6513930266927991
+  },
+  {
+    "id": "B0212",
+    "group": 5,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.1764742149367001,
+    "aimSeconds": 0.15729916829999957,
+    "recoverSeconds": 0.3233611484874993,
+    "cycle": 0.5810986541772001
+  },
+  {
+    "id": "B0213",
+    "group": 5,
+    "firstAim": 0.2,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2054691643025997,
+    "aimSeconds": 0.12674188740000183,
+    "recoverSeconds": 0.2737055670250029,
+    "cycle": 0.6308042816615994
+  },
+  {
+    "id": "B0214",
+    "group": 5,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.2344641136685003,
+    "aimSeconds": 0.1761846065000018,
+    "recoverSeconds": 0.3540499855625029,
+    "cycle": 0.6805099091460004
+  },
+  {
+    "id": "B0215",
+    "group": 5,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": null,
+    "releases": [],
+    "arrows": [],
+    "intervals": [],
+    "drawSeconds": 0.19345906303439991,
+    "aimSeconds": 0.14562732560000177,
+    "recoverSeconds": 0.30439440410000285,
+    "cycle": 0.6102155366303997
+  },
+  {
+    "id": "B0216",
+    "group": 6,
+    "firstAim": 0.15,
+    "firstDraw": 1.35,
+    "releases": [
+      1.6,
+      2.216666666666667
+    ],
+    "arrows": [
+      "A00021",
+      "A00116"
+    ],
+    "intervals": [
+      0.6166666666666667
+    ],
+    "drawSeconds": 0.23456401240029962,
+    "aimSeconds": 0.07907004470000176,
+    "recoverSeconds": 0.2547388226375028,
+    "cycle": 0.6806811641147993
+  },
+  {
+    "id": "B0217",
+    "group": 6,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 1.2666666666666666,
+    "releases": [
+      1.4666666666666666,
+      2.1666666666666665
+    ],
+    "arrows": [
+      "A00004",
+      "A00102"
+    ],
+    "intervals": [
+      0.7
+    ],
+    "drawSeconds": 0.19355896176620022,
+    "aimSeconds": 0.12851276380000173,
+    "recoverSeconds": 0.33508324117500277,
+    "cycle": 0.6103867915992003
+  },
+  {
+    "id": "B0218",
+    "group": 6,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 1.3,
+    "releases": [
+      1.5333333333333332,
+      2.183333333333333
+    ],
+    "arrows": [
+      "A00012",
+      "A00108"
+    ],
+    "intervals": [
+      0.6499999999999999
+    ],
+    "drawSeconds": 0.22255391113209982,
+    "aimSeconds": 0.09795548290000171,
+    "recoverSeconds": 0.2854276597125027,
+    "cycle": 0.6600924190835996
+  },
+  {
+    "id": "B0219",
+    "group": 6,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 1.1833333333333333,
+    "releases": [
+      1.3666666666666667,
+      2.0833333333333335
+    ],
+    "arrows": [
+      "A00001",
+      "A00084"
+    ],
+    "intervals": [
+      0.7166666666666668
+    ],
+    "drawSeconds": 0.18154886049800043,
+    "aimSeconds": 0.1473982020000017,
+    "recoverSeconds": 0.3657720782500027,
+    "cycle": 0.5897980465680006
+  },
+  {
+    "id": "B0220",
+    "group": 6,
+    "firstAim": 0.2,
+    "firstDraw": 1.1833333333333333,
+    "releases": [
+      1.4,
+      2.0833333333333335
+    ],
+    "arrows": [
+      "A00002",
+      "A00085"
+    ],
+    "intervals": [
+      0.6833333333333336
+    ],
+    "drawSeconds": 0.21054380986390003,
+    "aimSeconds": 0.11684092110000166,
+    "recoverSeconds": 0.31611649678750264,
+    "cycle": 0.6395036740523999
+  },
+  {
+    "id": "B0221",
+    "group": 6,
+    "firstAim": 0.15,
+    "firstDraw": 1.2166666666666666,
+    "releases": [
+      1.4666666666666666,
+      2.1
+    ],
+    "arrows": [
+      "A00005",
+      "A00089"
+    ],
+    "intervals": [
+      0.6333333333333335
+    ],
+    "drawSeconds": 0.2395387592297996,
+    "aimSeconds": 0.08628364020000164,
+    "recoverSeconds": 0.26646091532500266,
+    "cycle": 0.6892093015367993
+  },
+  {
+    "id": "B0222",
+    "group": 6,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 1.4166666666666667,
+    "releases": [
+      1.6166666666666667
+    ],
+    "arrows": [
+      "A00023"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.19853370859570021,
+    "aimSeconds": 0.1357263593000016,
+    "recoverSeconds": 0.3468053338625026,
+    "cycle": 0.6189149290212003
+  },
+  {
+    "id": "B0223",
+    "group": 6,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 1.4166666666666667,
+    "releases": [
+      1.65,
+      2.3166666666666664
+    ],
+    "arrows": [
+      "A00026",
+      "A00133"
+    ],
+    "intervals": [
+      0.6666666666666665
+    ],
+    "drawSeconds": 0.22752865796159982,
+    "aimSeconds": 0.10516907840000159,
+    "recoverSeconds": 0.2971497524000026,
+    "cycle": 0.6686205565055996
+  },
+  {
+    "id": "B0224",
+    "group": 6,
+    "firstAim": 0.13333333333333333,
+    "firstDraw": 1.3666666666666667,
+    "releases": [
+      1.5666666666666667,
+      2.1166666666666667
+    ],
+    "arrows": [
+      "A00016",
+      "A00091"
+    ],
+    "intervals": [
+      0.55
+    ],
+    "drawSeconds": 0.18652360732750042,
+    "aimSeconds": 0.07461179750000156,
+    "recoverSeconds": 0.24749417093750253,
+    "cycle": 0.5983261839900006
+  },
+  {
+    "id": "B0225",
+    "group": 6,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 1.35,
+    "releases": [
+      1.5666666666666667,
+      2.2666666666666666
+    ],
+    "arrows": [
+      "A00017",
+      "A00126"
+    ],
+    "intervals": [
+      0.7
+    ],
+    "drawSeconds": 0.21551855669340003,
+    "aimSeconds": 0.12405451660000155,
+    "recoverSeconds": 0.3278385894750025,
+    "cycle": 0.6480318114743999
+  },
+  {
+    "id": "B0226",
+    "group": 6,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 1.35,
+    "releases": [
+      1.5333333333333332,
+      2.1166666666666667
+    ],
+    "arrows": [
+      "A00013",
+      "A00092"
+    ],
+    "intervals": [
+      0.5833333333333335
+    ],
+    "drawSeconds": 0.1745135060592996,
+    "aimSeconds": 0.09349723570000151,
+    "recoverSeconds": 0.27818300801250245,
+    "cycle": 0.5777374389587993
+  },
+  {
+    "id": "B0227",
+    "group": 6,
+    "firstAim": 0.25,
+    "firstDraw": 1.2833333333333334,
+    "releases": [
+      1.5,
+      2.25
+    ],
+    "arrows": [
+      "A00009",
+      "A00120"
+    ],
+    "intervals": [
+      0.75
+    ],
+    "drawSeconds": 0.2035084554252002,
+    "aimSeconds": 0.1429399548000015,
+    "recoverSeconds": 0.3585274265500024,
+    "cycle": 0.6274430664432002
+  },
+  {
+    "id": "B0228",
+    "group": 6,
+    "firstAim": 0.2,
+    "firstDraw": 1.5,
+    "releases": [
+      1.7333333333333334
+    ],
+    "arrows": [
+      "A00038"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.23250340479109982,
+    "aimSeconds": 0.11238267390000148,
+    "recoverSeconds": 0.3088718450875024,
+    "cycle": 0.6771486939275996
+  },
+  {
+    "id": "B0229",
+    "group": 6,
+    "firstAim": 0.15,
+    "firstDraw": 1.5,
+    "releases": [
+      1.7,
+      2.2666666666666666
+    ],
+    "arrows": [
+      "A00035",
+      "A00127"
+    ],
+    "intervals": [
+      0.5666666666666667
+    ],
+    "drawSeconds": 0.1914983541570004,
+    "aimSeconds": 0.08182539300000145,
+    "recoverSeconds": 0.25921626362500233,
+    "cycle": 0.6068543214120006
+  },
+  {
+    "id": "B0230",
+    "group": 6,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 1.4333333333333333,
+    "releases": [
+      1.6666666666666667
+    ],
+    "arrows": [
+      "A00029"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.2204933035229,
+    "aimSeconds": 0.13126811210000142,
+    "recoverSeconds": 0.3395606821625023,
+    "cycle": 0.6565599488963999
+  },
+  {
+    "id": "B0231",
+    "group": 6,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 1.45,
+    "releases": [
+      1.6333333333333333,
+      2.25
+    ],
+    "arrows": [
+      "A00025",
+      "A00121"
+    ],
+    "intervals": [
+      0.6166666666666667
+    ],
+    "drawSeconds": 0.1794882528887996,
+    "aimSeconds": 0.1007108312000014,
+    "recoverSeconds": 0.28990510070000225,
+    "cycle": 0.5862655763807992
+  },
+  {
+    "id": "B0232",
+    "group": 6,
+    "firstAim": 0.13333333333333333,
+    "firstDraw": 1.4333333333333333,
+    "releases": [
+      1.65,
+      2.216666666666667
+    ],
+    "arrows": [
+      "A00027",
+      "A00117"
+    ],
+    "intervals": [
+      0.5666666666666669
+    ],
+    "drawSeconds": 0.2084832022547002,
+    "aimSeconds": 0.07015355030000138,
+    "recoverSeconds": 0.2402495192375022,
+    "cycle": 0.6359712038652002
+  },
+  {
+    "id": "B0233",
+    "group": 6,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 1.4,
+    "releases": [
+      1.65
+    ],
+    "arrows": [
+      "A00028"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.23747815162059982,
+    "aimSeconds": 0.11959626940000136,
+    "recoverSeconds": 0.32059393777500217,
+    "cycle": 0.6856768313495996
+  },
+  {
+    "id": "B0234",
+    "group": 6,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 1.6166666666666667,
+    "releases": [
+      1.8166666666666667
+    ],
+    "arrows": [
+      "A00049"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.1964731009865004,
+    "aimSeconds": 0.08903898850000133,
+    "recoverSeconds": 0.2709383563125021,
+    "cycle": 0.6153824588340006
+  },
+  {
+    "id": "B0235",
+    "group": 6,
+    "firstAim": 0.25,
+    "firstDraw": 1.5333333333333334,
+    "releases": [
+      1.7666666666666666
+    ],
+    "arrows": [
+      "A00045"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.2254680503524,
+    "aimSeconds": 0.1384817076000013,
+    "recoverSeconds": 0.3512827748500021,
+    "cycle": 0.6650880863183999
+  },
+  {
+    "id": "B0236",
+    "group": 6,
+    "firstAim": 0.2,
+    "firstDraw": 1.55,
+    "releases": [
+      1.75
+    ],
+    "arrows": [
+      "A00043"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.1844629997182996,
+    "aimSeconds": 0.10792442670000128,
+    "recoverSeconds": 0.30162719338750205,
+    "cycle": 0.5947937138027992
+  },
+  {
+    "id": "B0237",
+    "group": 6,
+    "firstAim": 0.15,
+    "firstDraw": 1.5166666666666666,
+    "releases": [
+      1.7333333333333334,
+      2.3166666666666664
+    ],
+    "arrows": [
+      "A00039",
+      "A00134"
+    ],
+    "intervals": [
+      0.583333333333333
+    ],
+    "drawSeconds": 0.21345794908420018,
+    "aimSeconds": 0.07736714580000126,
+    "recoverSeconds": 0.251971611925002,
+    "cycle": 0.6444993412872002
+  },
+  {
+    "id": "B0238",
+    "group": 6,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 1.4833333333333334,
+    "releases": [
+      1.6666666666666667
+    ],
+    "arrows": [
+      "A00030"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.17245289845009978,
+    "aimSeconds": 0.12680986490000123,
+    "recoverSeconds": 0.332316030462502,
+    "cycle": 0.5742049687715995
+  },
+  {
+    "id": "B0239",
+    "group": 6,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 1.4833333333333334,
+    "releases": [
+      1.7,
+      2.3166666666666664
+    ],
+    "arrows": [
+      "A00036",
+      "A00135"
+    ],
+    "intervals": [
+      0.6166666666666665
+    ],
+    "drawSeconds": 0.2014478478160004,
+    "aimSeconds": 0.09625258400000121,
+    "recoverSeconds": 0.282660449000002,
+    "cycle": 0.6239105962560005
+  },
+  {
+    "id": "B0240",
+    "group": 6,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": 1.7166666666666666,
+    "releases": [
+      1.95
+    ],
+    "arrows": [
+      "A00069"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.2304427971819,
+    "aimSeconds": 0.14569530310000117,
+    "recoverSeconds": 0.36300486753750194,
+    "cycle": 0.6736162237403999
+  },
+  {
+    "id": "B0241",
+    "group": 6,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 1.6833333333333333,
+    "releases": [
+      1.8833333333333333
+    ],
+    "arrows": [
+      "A00060"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.1894377465477996,
+    "aimSeconds": 0.11513802220000116,
+    "recoverSeconds": 0.3133492860750019,
+    "cycle": 0.6033218512247992
+  },
+  {
+    "id": "B0242",
+    "group": 6,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 1.65,
+    "releases": [
+      1.8833333333333333
+    ],
+    "arrows": [
+      "A00061"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.21843269591370018,
+    "aimSeconds": 0.08458074130000115,
+    "recoverSeconds": 0.26369370461250186,
+    "cycle": 0.6530274787092003
+  },
+  {
+    "id": "B0243",
+    "group": 6,
+    "firstAim": 0.25,
+    "firstDraw": 1.5833333333333333,
+    "releases": [
+      1.7666666666666666
+    ],
+    "arrows": [
+      "A00046"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.17742764527959978,
+    "aimSeconds": 0.13402346040000113,
+    "recoverSeconds": 0.3440381231500018,
+    "cycle": 0.5827331061935995
+  },
+  {
+    "id": "B0244",
+    "group": 6,
+    "firstAim": 0.2,
+    "firstDraw": 1.6,
+    "releases": [
+      1.8166666666666667
+    ],
+    "arrows": [
+      "A00050"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.2064225946455004,
+    "aimSeconds": 0.10346617950000109,
+    "recoverSeconds": 0.2943825416875018,
+    "cycle": 0.6324387336780006
+  },
+  {
+    "id": "B0245",
+    "group": 6,
+    "firstAim": 0.15,
+    "firstDraw": 1.5666666666666667,
+    "releases": [
+      1.8166666666666667
+    ],
+    "arrows": [
+      "A00051"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.23541754401139997,
+    "aimSeconds": 0.07290889860000108,
+    "recoverSeconds": 0.24472696022500173,
+    "cycle": 0.6821443611623998
+  },
+  {
+    "id": "B0246",
+    "group": 6,
+    "firstAim": 0.23333333333333334,
+    "firstDraw": 1.7833333333333334,
+    "releases": [
+      1.9833333333333334
+    ],
+    "arrows": [
+      "A00072"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.19441249337729957,
+    "aimSeconds": 0.12235161770000105,
+    "recoverSeconds": 0.3250713787625017,
+    "cycle": 0.6118499886467992
+  },
+  {
+    "id": "B0247",
+    "group": 6,
+    "firstAim": 0.18333333333333332,
+    "firstDraw": 1.7833333333333334,
+    "releases": [
+      2.0166666666666666
+    ],
+    "arrows": [
+      "A00074"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.22340744274320018,
+    "aimSeconds": 0.09179433680000103,
+    "recoverSeconds": 0.27541579730000165,
+    "cycle": 0.6615556161312002
+  },
+  {
+    "id": "B0248",
+    "group": 6,
+    "firstAim": 0.26666666666666666,
+    "firstDraw": 1.75,
+    "releases": [
+      1.9333333333333333
+    ],
+    "arrows": [
+      "A00067"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.18240239210909978,
+    "aimSeconds": 0.14123705590000102,
+    "recoverSeconds": 0.3557602158375016,
+    "cycle": 0.5912612436155995
+  },
+  {
+    "id": "B0249",
+    "group": 6,
+    "firstAim": 0.21666666666666667,
+    "firstDraw": 1.75,
+    "releases": [
+      1.9666666666666666
+    ],
+    "arrows": [
+      "A00071"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.2113973414750004,
+    "aimSeconds": 0.11067977500000098,
+    "recoverSeconds": 0.30610463437500157,
+    "cycle": 0.6409668711000006
+  },
+  {
+    "id": "B0250",
+    "group": 6,
+    "firstAim": 0.16666666666666666,
+    "firstDraw": 1.6666666666666667,
+    "releases": [
+      1.8499999999999999
+    ],
+    "arrows": [
+      "A00056"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.17039229084089996,
+    "aimSeconds": 0.08012249410000095,
+    "recoverSeconds": 0.25644905291250153,
+    "cycle": 0.5706724985843998
+  },
+  {
+    "id": "B0251",
+    "group": 6,
+    "firstAim": 0.25,
+    "firstDraw": 1.6333333333333333,
+    "releases": [
+      1.8333333333333333
+    ],
+    "arrows": [
+      "A00054"
+    ],
+    "intervals": [],
+    "drawSeconds": 0.19938724020679957,
+    "aimSeconds": 0.12956521320000092,
+    "recoverSeconds": 0.3367934714500015,
+    "cycle": 0.6203781260687992
+  }
+]

@@ -1,0 +1,330 @@
+{
+  "checks": [
+    {
+      "environment": "NewScene",
+      "mode": "battle",
+      "label": "first",
+      "time": 0,
+      "errors": [],
+      "camera": {
+        "position": [
+          0,
+          240,
+          80
+        ],
+        "quaternion": [
+          -0.5547001962252291,
+          0,
+          0,
+          0.8320502943378437
+        ],
+        "zoom": 1.35,
+        "fov": 42,
+        "projection": [
+          5.2753053560049485,
+          0,
+          0,
+          0,
+          0,
+          3.516870237336632,
+          0,
+          0,
+          0,
+          0,
+          -1.0003333888981498,
+          -1,
+          0,
+          0,
+          -0.20003333888981498,
+          0
+        ]
+      }
+    },
+    {
+      "environment": "NewScene",
+      "mode": "battle",
+      "label": "assembly",
+      "time": 1.65,
+      "errors": [],
+      "camera": {
+        "position": [
+          0,
+          240,
+          80
+        ],
+        "quaternion": [
+          -0.5547001962252291,
+          0,
+          0,
+          0.8320502943378437
+        ],
+        "zoom": 1.35,
+        "fov": 42,
+        "projection": [
+          5.2753053560049485,
+          0,
+          0,
+          0,
+          0,
+          3.516870237336632,
+          0,
+          0,
+          0,
+          0,
+          -1.0003333888981498,
+          -1,
+          0,
+          0,
+          -0.20003333888981498,
+          0
+        ]
+      }
+    },
+    {
+      "environment": "NewScene",
+      "mode": "battle",
+      "label": "release",
+      "time": 2.4166666666666665,
+      "errors": [],
+      "camera": {
+        "position": [
+          0,
+          240,
+          80
+        ],
+        "quaternion": [
+          -0.5547001962252291,
+          0,
+          0,
+          0.8320502943378437
+        ],
+        "zoom": 1.35,
+        "fov": 42,
+        "projection": [
+          5.2753053560049485,
+          0,
+          0,
+          0,
+          0,
+          3.516870237336632,
+          0,
+          0,
+          0,
+          0,
+          -1.0003333888981498,
+          -1,
+          0,
+          0,
+          -0.20003333888981498,
+          0
+        ]
+      }
+    },
+    {
+      "environment": "NewScene",
+      "mode": "battle",
+      "label": "hit",
+      "time": 2.7333333333333334,
+      "errors": [],
+      "camera": {
+        "position": [
+          0,
+          240,
+          80
+        ],
+        "quaternion": [
+          -0.5547001962252291,
+          0,
+          0,
+          0.8320502943378437
+        ],
+        "zoom": 1.35,
+        "fov": 42,
+        "projection": [
+          5.2753053560049485,
+          0,
+          0,
+          0,
+          0,
+          3.516870237336632,
+          0,
+          0,
+          0,
+          0,
+          -1.0003333888981498,
+          -1,
+          0,
+          0,
+          -0.20003333888981498,
+          0
+        ]
+      }
+    },
+    {
+      "environment": "CastleExterior",
+      "mode": "battle",
+      "label": "first",
+      "time": 0,
+      "errors": [],
+      "camera": {
+        "position": [
+          0,
+          240,
+          80
+        ],
+        "quaternion": [
+          -0.5547001962252291,
+          0,
+          0,
+          0.8320502943378437
+        ],
+        "zoom": 1.35,
+        "fov": 42,
+        "projection": [
+          5.2753053560049485,
+          0,
+          0,
+          0,
+          0,
+          3.516870237336632,
+          0,
+          0,
+          0,
+          0,
+          -1.0003333888981498,
+          -1,
+          0,
+          0,
+          -0.20003333888981498,
+          0
+        ]
+      }
+    },
+    {
+      "environment": "CastleExterior",
+      "mode": "battle",
+      "label": "assembly",
+      "time": 1.65,
+      "errors": [],
+      "camera": {
+        "position": [
+          0,
+          240,
+          80
+        ],
+        "quaternion": [
+          -0.5547001962252291,
+          0,
+          0,
+          0.8320502943378437
+        ],
+        "zoom": 1.35,
+        "fov": 42,
+        "projection": [
+          5.2753053560049485,
+          0,
+          0,
+          0,
+          0,
+          3.516870237336632,
+          0,
+          0,
+          0,
+          0,
+          -1.0003333888981498,
+          -1,
+          0,
+          0,
+          -0.20003333888981498,
+          0
+        ]
+      }
+    },
+    {
+      "environment": "CastleExterior",
+      "mode": "battle",
+      "label": "release",
+      "time": 2.4166666666666665,
+      "errors": [],
+      "camera": {
+        "position": [
+          0,
+          240,
+          80
+        ],
+        "quaternion": [
+          -0.5547001962252291,
+          0,
+          0,
+          0.8320502943378437
+        ],
+        "zoom": 1.35,
+        "fov": 42,
+        "projection": [
+          5.2753053560049485,
+          0,
+          0,
+          0,
+          0,
+          3.516870237336632,
+          0,
+          0,
+          0,
+          0,
+          -1.0003333888981498,
+          -1,
+          0,
+          0,
+          -0.20003333888981498,
+          0
+        ]
+      }
+    },
+    {
+      "environment": "CastleExterior",
+      "mode": "battle",
+      "label": "hit",
+      "time": 2.7333333333333334,
+      "errors": [],
+      "camera": {
+        "position": [
+          0,
+          240,
+          80
+        ],
+        "quaternion": [
+          -0.5547001962252291,
+          0,
+          0,
+          0.8320502943378437
+        ],
+        "zoom": 1.35,
+        "fov": 42,
+        "projection": [
+          5.2753053560049485,
+          0,
+          0,
+          0,
+          0,
+          3.516870237336632,
+          0,
+          0,
+          0,
+          0,
+          -1.0003333888981498,
+          -1,
+          0,
+          0,
+          -0.20003333888981498,
+          0
+        ]
+      }
+    }
+  ],
+  "noPageErrors": true,
+  "sameCamera": true,
+  "sourcePolicy": "All candidate geometry/material textures routed from designated package-only project; source, simulation and production renderer unchanged. Environment-inspection handedness reflection is candidate only; battle frames use identity.",
+  "sameSoldierWorldRowsAtEachTime": true,
+  "cameraSamples": 8,
+  "cameraMode": "Candidate-only freeze of V22 B opening parameters. Original V22 camera is animated and is not claimed fixed."
+}

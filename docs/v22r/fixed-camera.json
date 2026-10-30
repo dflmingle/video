@@ -1,0 +1,22 @@
+{
+  "position": [
+    0,
+    240,
+    76.53808156214254
+  ],
+  "target": [
+    0,
+    0,
+    -23.461918437857456
+  ],
+  "fov": 42,
+  "zoom": 1.393969278215802,
+  "bounds": {
+    "minX": -20.35,
+    "maxX": 20.35,
+    "minZ": -103.38429442606609,
+    "maxZ": 42.35
+  },
+  "marginNdc": 0.94,
+  "method": "Fixed perspective fit of unchanged opening formation + model height; no runtime refit."
+}

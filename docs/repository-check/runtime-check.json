@@ -1,0 +1,63 @@
+{
+  "checkedAt": "2026-10-30T08:20:24.617Z",
+  "port": 5278,
+  "variant": "V22R-C1",
+  "state": {
+    "version": "V22-SPECIALIST-TEST",
+    "time": 2.3,
+    "cameraPosition": [
+      0,
+      98,
+      65
+    ],
+    "cameraQuaternion": [
+      -0.4887975758744463,
+      0,
+      0,
+      0.8723972316664382
+    ],
+    "cameraProjection": [
+      3.9076335970407023,
+      0,
+      0,
+      0,
+      0,
+      2.6050890646938014,
+      0,
+      0,
+      0,
+      0,
+      -1.0003333888981498,
+      -1,
+      0,
+      0,
+      -0.20003333888981498,
+      0
+    ],
+    "cameraZoom": 1,
+    "battleCamera": {
+      "mode": "APPROVED_FIXED",
+      "position": [
+        0,
+        98,
+        65
+      ],
+      "target": [
+        0,
+        0,
+        5
+      ],
+      "fov": 42,
+      "zoom": 1
+    },
+    "arrows": 95,
+    "nocked": 83,
+    "impactParticles": 160,
+    "aliveRed": 967,
+    "source": "Assets/ArtOfWar-II_Art/Environment/Feature/CastleExterior/CastleExterior.unity",
+    "units": 1224
+  },
+  "errors": [],
+  "failed": [],
+  "scope": "Copied repository runtime load and one actual browser screenshot; not continuation visual acceptance"
+}

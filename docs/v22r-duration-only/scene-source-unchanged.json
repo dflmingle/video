@@ -1,0 +1,17 @@
+{
+  "src/castle-approved-v22r.js": {
+    "sameContentIgnoringCheckoutLineEndings": true,
+    "exactBytes": true,
+    "sha256": "c3be4aaf41f0d8bd2f1b9a76b96cfcd705300323f436badfe3033432b28493b6"
+  },
+  "src/environment-native-v22.js": {
+    "sameContentIgnoringCheckoutLineEndings": true,
+    "exactBytes": false,
+    "sha256": "5116f2620a83383ca7dede2c6fe6327b5f1a820b7baf344b60c8a857fa1816fe"
+  },
+  "public/native-scenes/CastleExterior-scene/manifest.json": {
+    "sameContentIgnoringCheckoutLineEndings": true,
+    "exactBytes": false,
+    "sha256": "631e222361b70bf4948ce54deae556ae1f480365e8e7165493c24161e386e833"
+  }
+}

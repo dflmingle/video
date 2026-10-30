@@ -1,0 +1,20 @@
+{
+  "sourceVariant": "V22R-overlap",
+  "candidateVariant": "V22R-duration-only",
+  "changes": {
+    "duration": {
+      "before": 2.2,
+      "requested": 3.5
+    }
+  },
+  "safetyAutoCutRetained": true,
+  "newVolleyFlagsAbsent": true,
+  "baselineHashes": {
+    "params.json": "690345de12a74d16103093e6b7862d6230df480af20c04f4e2a1a6db0ad080d8",
+    "simulation.json": "0eb127405cb54e9f1882367e707c67cdc28feb6b7cbe6dc94e188c035a8453ed",
+    "trajectories.f32": "52104bd5cd5b10104029552326768afd1bd591e49892ceced944920968b4f135",
+    "blue-control.f32": "1bca2ef8c57c40f0a890fee1aed7de15c9f5431e9ede6f6a4258bdbadaf95689",
+    "red-control.f32": "18a784412dc7e38861a08aa0aac63146ea7e69bca2f6370d37d4c02fed8ab5ed"
+  },
+  "scope": "Duration-only continuation; no battle, placement, scene, camera or safety change. Never render a rejected state."
+}

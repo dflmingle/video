@@ -1,0 +1,245 @@
+[
+  {
+    "platoon": 0,
+    "initialWidth": 5.029930591583252,
+    "finalWidth": 11.026448249816895,
+    "maximumWidth": 11.026448249816895,
+    "initialDepth": 4.2352447509765625,
+    "finalDepth": 7.915950775146484,
+    "maximumPersonalLateralDeviation": 4.402304649353027
+  },
+  {
+    "platoon": 1,
+    "initialWidth": 5.030673027038574,
+    "finalWidth": 10.785472869873047,
+    "maximumWidth": 10.785472869873047,
+    "initialDepth": 4.1402130126953125,
+    "finalDepth": 8.471176147460938,
+    "maximumPersonalLateralDeviation": 3.677678108215332
+  },
+  {
+    "platoon": 2,
+    "initialWidth": 5.122525691986084,
+    "finalWidth": 10.591776847839355,
+    "maximumWidth": 10.591776847839355,
+    "initialDepth": 4.294281005859375,
+    "finalDepth": 7.503681182861328,
+    "maximumPersonalLateralDeviation": 3.884108543395996
+  },
+  {
+    "platoon": 3,
+    "initialWidth": 5.0523834228515625,
+    "finalWidth": 8.277353286743164,
+    "maximumWidth": 8.277353286743164,
+    "initialDepth": 4.188652038574219,
+    "finalDepth": 9.133316040039062,
+    "maximumPersonalLateralDeviation": 2.549787998199463
+  },
+  {
+    "platoon": 4,
+    "initialWidth": 5.208111763000488,
+    "finalWidth": 10.714767456054688,
+    "maximumWidth": 10.714767456054688,
+    "initialDepth": 4.43145751953125,
+    "finalDepth": 8.538772583007812,
+    "maximumPersonalLateralDeviation": 4.140260696411133
+  },
+  {
+    "platoon": 5,
+    "initialWidth": 5.122973918914795,
+    "finalWidth": 10.8330717086792,
+    "maximumWidth": 10.8330717086792,
+    "initialDepth": 4.33172607421875,
+    "finalDepth": 7.301563262939453,
+    "maximumPersonalLateralDeviation": 3.8358993530273438
+  },
+  {
+    "platoon": 6,
+    "initialWidth": 5.0969157218933105,
+    "finalWidth": 9.744294166564941,
+    "maximumWidth": 9.744294166564941,
+    "initialDepth": 4.2636871337890625,
+    "finalDepth": 7.314838409423828,
+    "maximumPersonalLateralDeviation": 3.190694808959961
+  },
+  {
+    "platoon": 7,
+    "initialWidth": 5.1458234786987305,
+    "finalWidth": 9.2179536819458,
+    "maximumWidth": 9.2179536819458,
+    "initialDepth": 4.130401611328125,
+    "finalDepth": 7.685188293457031,
+    "maximumPersonalLateralDeviation": 2.5462303161621094
+  },
+  {
+    "platoon": 8,
+    "initialWidth": 5.157780647277832,
+    "finalWidth": 12.576090812683105,
+    "maximumWidth": 12.576090812683105,
+    "initialDepth": 4.191413879394531,
+    "finalDepth": 6.029964447021484,
+    "maximumPersonalLateralDeviation": 4.384049415588379
+  },
+  {
+    "platoon": 9,
+    "initialWidth": 5.194419860839844,
+    "finalWidth": 10.761734962463379,
+    "maximumWidth": 10.761734962463379,
+    "initialDepth": 5.741661071777344,
+    "finalDepth": 11.692770957946777,
+    "maximumPersonalLateralDeviation": 3.862377166748047
+  },
+  {
+    "platoon": 10,
+    "initialWidth": 5.231603145599365,
+    "finalWidth": 10.214409828186035,
+    "maximumWidth": 10.214409828186035,
+    "initialDepth": 5.9490203857421875,
+    "finalDepth": 10.273077964782715,
+    "maximumPersonalLateralDeviation": 2.6470396518707275
+  },
+  {
+    "platoon": 11,
+    "initialWidth": 5.172544002532959,
+    "finalWidth": 10.3167142868042,
+    "maximumWidth": 10.3167142868042,
+    "initialDepth": 6.099308013916016,
+    "finalDepth": 10.766180992126465,
+    "maximumPersonalLateralDeviation": 3.910454750061035
+  },
+  {
+    "platoon": 12,
+    "initialWidth": 5.212363243103027,
+    "finalWidth": 11.308241844177246,
+    "maximumWidth": 11.308241844177246,
+    "initialDepth": 5.956146240234375,
+    "finalDepth": 11.621963500976562,
+    "maximumPersonalLateralDeviation": 3.960049629211426
+  },
+  {
+    "platoon": 13,
+    "initialWidth": 5.199856758117676,
+    "finalWidth": 10.471778869628906,
+    "maximumWidth": 10.471778869628906,
+    "initialDepth": 5.82635498046875,
+    "finalDepth": 11.376632690429688,
+    "maximumPersonalLateralDeviation": 3.314600944519043
+  },
+  {
+    "platoon": 14,
+    "initialWidth": 5.282794952392578,
+    "finalWidth": 12.551936149597168,
+    "maximumWidth": 12.551936149597168,
+    "initialDepth": 6.1277313232421875,
+    "finalDepth": 11.471952438354492,
+    "maximumPersonalLateralDeviation": 4.425617218017578
+  },
+  {
+    "platoon": 15,
+    "initialWidth": 5.271943092346191,
+    "finalWidth": 13.025909423828125,
+    "maximumWidth": 13.025909423828125,
+    "initialDepth": 6.0930023193359375,
+    "finalDepth": 10.30866813659668,
+    "maximumPersonalLateralDeviation": 4.270214080810547
+  },
+  {
+    "platoon": 16,
+    "initialWidth": 5.2556352615356445,
+    "finalWidth": 9.323473930358887,
+    "maximumWidth": 9.323473930358887,
+    "initialDepth": 6.118339538574219,
+    "finalDepth": 11.110860824584961,
+    "maximumPersonalLateralDeviation": 3.515252113342285
+  },
+  {
+    "platoon": 17,
+    "initialWidth": 5.12644624710083,
+    "finalWidth": 11.06422233581543,
+    "maximumWidth": 11.06422233581543,
+    "initialDepth": 5.722785949707031,
+    "finalDepth": 11.759292602539062,
+    "maximumPersonalLateralDeviation": 3.941173553466797
+  },
+  {
+    "platoon": 18,
+    "initialWidth": 5.240683078765869,
+    "finalWidth": 6.529606819152832,
+    "maximumWidth": 6.701381683349609,
+    "initialDepth": 2.690258026123047,
+    "finalDepth": 11.988862991333008,
+    "maximumPersonalLateralDeviation": 1.6083626747131348
+  },
+  {
+    "platoon": 19,
+    "initialWidth": 4.946108341217041,
+    "finalWidth": 5.581099510192871,
+    "maximumWidth": 5.581099510192871,
+    "initialDepth": 2.7573776245117188,
+    "finalDepth": 10.381684303283691,
+    "maximumPersonalLateralDeviation": 1.9232386350631714
+  },
+  {
+    "platoon": 20,
+    "initialWidth": 4.882326602935791,
+    "finalWidth": 6.442391395568848,
+    "maximumWidth": 6.697394371032715,
+    "initialDepth": 2.6424903869628906,
+    "finalDepth": 14.49203109741211,
+    "maximumPersonalLateralDeviation": 2.445223808288574
+  },
+  {
+    "platoon": 21,
+    "initialWidth": 5.1751556396484375,
+    "finalWidth": 9.349448204040527,
+    "maximumWidth": 9.360600471496582,
+    "initialDepth": 2.824748992919922,
+    "finalDepth": 6.79782247543335,
+    "maximumPersonalLateralDeviation": 3.3136000633239746
+  },
+  {
+    "platoon": 22,
+    "initialWidth": 5.066009521484375,
+    "finalWidth": 8.315629005432129,
+    "maximumWidth": 8.378488540649414,
+    "initialDepth": 2.7449798583984375,
+    "finalDepth": 6.109811305999756,
+    "maximumPersonalLateralDeviation": 2.581744432449341
+  },
+  {
+    "platoon": 23,
+    "initialWidth": 5.160876750946045,
+    "finalWidth": 11.30213451385498,
+    "maximumWidth": 11.30213451385498,
+    "initialDepth": 2.7502479553222656,
+    "finalDepth": 9.96680736541748,
+    "maximumPersonalLateralDeviation": 3.7355833053588867
+  },
+  {
+    "platoon": 24,
+    "initialWidth": 4.982598781585693,
+    "finalWidth": 7.514747142791748,
+    "maximumWidth": 7.514747142791748,
+    "initialDepth": 2.5828819274902344,
+    "finalDepth": 4.801995754241943,
+    "maximumPersonalLateralDeviation": 2.8294267654418945
+  },
+  {
+    "platoon": 25,
+    "initialWidth": 5.0290679931640625,
+    "finalWidth": 7.780190944671631,
+    "maximumWidth": 7.780190944671631,
+    "initialDepth": 2.6894874572753906,
+    "finalDepth": 6.5508904457092285,
+    "maximumPersonalLateralDeviation": 3.398134469985962
+  },
+  {
+    "platoon": 26,
+    "initialWidth": 5.115065574645996,
+    "finalWidth": 10.25241470336914,
+    "maximumWidth": 10.25241470336914,
+    "initialDepth": 2.8965377807617188,
+    "finalDepth": 6.5957794189453125,
+    "maximumPersonalLateralDeviation": 3.651981830596924
+  }
+]

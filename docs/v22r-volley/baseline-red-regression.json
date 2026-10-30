@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "baseline": "b595e1a",
+  "members": 72,
+  "steps": 30,
+  "positionsBitIdentical": true,
+  "velocitiesBitIdentical": true,
+  "scope": "Original red core when safeFrontEngagement is absent; blue baseline regression is independently tested."
+}

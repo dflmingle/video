@@ -1,0 +1,42 @@
+{
+  "files": [
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-fast-charge\\V22R-A-fast-charge-2.317s-preview-720x1080-60fps.mp4",
+      "frames": 139,
+      "width": 720,
+      "height": 1080,
+      "fps": 60.0,
+      "duration": 2.316666666666667,
+      "sha256": "4531ea00f1e85fedb8d2aeb4ddcbc8d906e23897c3edd4c0cf095efb14dff3b7"
+    },
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-fast-charge\\V22R-original-vs-A-common-2.2s-60fps.mp4",
+      "frames": 132,
+      "width": 960,
+      "height": 752,
+      "fps": 60.0,
+      "duration": 2.2,
+      "sha256": "b7a02f0525a6ac9c365b1889b07a3df50293725e0d91df1c4c29e8ba3f81ea37"
+    }
+  ],
+  "allFramesFixedCamera": true,
+  "visibilityRootCounts": {
+    "red": {
+      "min": 291,
+      "max": 972
+    },
+    "blue": {
+      "min": 252,
+      "max": 252
+    }
+  },
+  "totalRed": 972,
+  "totalBlue": 252,
+  "errors": [],
+  "normalSpeed": true,
+  "loop": false,
+  "retime": false,
+  "BRendered": false,
+  "visualReviewMethod": "Decoded actual MP4 timeline samples and consecutive release/impact/ending frames; full normal-speed visual viewing unavailable",
+  "finalFullResolutionRendered": false
+}

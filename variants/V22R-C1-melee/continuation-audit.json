@@ -1,0 +1,33 @@
+{
+  "prefixArraysEqual": {
+    "trajectories": true,
+    "gait-distance": true,
+    "hit-times": true,
+    "red-control": true,
+    "gait-cycles": true,
+    "blue-control": true
+  },
+  "prefixEventsFrozen": true,
+  "winner": "red",
+  "wonAt": 15.683333333333334,
+  "duration": 16.4,
+  "aliveRed": 869,
+  "aliveBlue": 0,
+  "meleeAttempts": 1211,
+  "meleeHits": 756,
+  "meleeKills": 252,
+  "arrowReleases": 1035,
+  "arrowHits": 525,
+  "arrowKills": 103,
+  "minimumBodyCenter": 0.6127840381005625,
+  "minimumSweptBodyCenter": 0.6127828998883187,
+  "physicalBodyDiameter": 0.58,
+  "meleeRules": {
+    "blueHP": 3,
+    "redDamage": 1,
+    "attackDuration": 0.466667,
+    "impactPhase": 0.55,
+    "reach": 1.5
+  },
+  "termination": "SIDE_ELIMINATED"
+}

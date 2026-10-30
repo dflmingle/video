@@ -1,0 +1,18 @@
+{
+    "source": "Assets/ArtOfWar-II_Art/Environment/Feature/CastleExterior/CastleExterior.unity",
+    "output": "Assets/V22R/ApprovedCastle-NoGrid.unity",
+    "gridActive": false,
+    "disabledGridCount": 1,
+    "cameraPosition": {
+        "x": 0.0,
+        "y": 98.0,
+        "z": -65.0
+    },
+    "cameraEuler": {
+        "x": 58.52315902709961,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "fov": 42.0,
+    "scope": "Approved environment-only scene copy. No actor placement, speed, asset geometry, or source scene edits. Camera is fixed; battle framing remains separate."
+}

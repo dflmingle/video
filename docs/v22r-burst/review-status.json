@@ -1,0 +1,49 @@
+{
+  "baseline": "2c821e1",
+  "stage": "LOW_COST_CANDIDATES",
+  "recommendation": "C1 as a restrained comparison/reference, not a fully accepted final",
+  "durationTargetMet": false,
+  "candidates": {
+    "C1": {
+      "actualDuration": 2.65,
+      "visualStatus": "PARTIAL_ONLY",
+      "reviewedEncodedFrames": [
+        "C1 F158",
+        "common F138"
+      ],
+      "notPassed": [
+        "3?4 second duration",
+        "original scene crossing",
+        "initial rear visibility",
+        "fully stable small-squad silhouettes"
+      ]
+    },
+    "C2": {
+      "actualDuration": 2.6666666666666665,
+      "visualStatus": "PARTIAL_ONLY",
+      "reviewedEncodedFrames": [
+        "timeline F0/F60/F120/F138",
+        "release F83?85",
+        "impact F101?103",
+        "ending F157?159",
+        "common F138"
+      ],
+      "notPassed": [
+        "3?4 second duration",
+        "original scene crossing",
+        "initial rear visibility",
+        "fully stable small-squad silhouettes"
+      ]
+    }
+  },
+  "visualWholeNormalSpeedVideoWatched": false,
+  "noFormalRender": true,
+  "limitations": "Actual encoded samples and consecutive frames inspected; no claim to full normal-speed visual viewing or fully collision-free animated meshes.",
+  "build": {
+    "entry": "v22.html",
+    "status": "PASS",
+    "modules": 19
+  },
+  "syntax": "PASS",
+  "baselineBlueRegression": "PASS"
+}

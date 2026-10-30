@@ -1,0 +1,2 @@
+# Optional V22-R sustained-front local velocity projection; V22 baseline does not import it.
+osqp>=1.0,<2

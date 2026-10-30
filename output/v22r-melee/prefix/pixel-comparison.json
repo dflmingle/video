@@ -1,0 +1,1323 @@
+{
+  "reference": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-burst\\C1-preview\\frames",
+  "candidate": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-melee\\prefix\\frames",
+  "frames": 159,
+  "resolution": [
+    720,
+    1080
+  ],
+  "fps": 60,
+  "exactPixels": false,
+  "differentFrames": 159,
+  "maximumChannelDifference": 6,
+  "meanChannelDifference": 4.672496570644719e-05,
+  "arrayChecks": [
+    {
+      "name": "trajectories",
+      "sourceFrames": 160,
+      "exactOpening160States": true
+    },
+    {
+      "name": "blue-control",
+      "sourceFrames": 160,
+      "exactOpening160States": true
+    },
+    {
+      "name": "red-control",
+      "sourceFrames": 160,
+      "exactOpening160States": true
+    },
+    {
+      "name": "gait-distance",
+      "sourceFrames": 160,
+      "exactOpening160States": true
+    },
+    {
+      "name": "gait-cycles",
+      "sourceFrames": 160,
+      "exactOpening160States": true
+    },
+    {
+      "name": "hit-times",
+      "sourceFrames": 160,
+      "exactOpening160States": true
+    }
+  ],
+  "exactData": true,
+  "toleranceApplied": false,
+  "scope": "Pixel and authoritative array audit; event-prefix equivalence is separately required.",
+  "perFrame": [
+    {
+      "frame": 0,
+      "time": 0.0,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 1,
+      "time": 0.016666666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 2,
+      "time": 0.03333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 3,
+      "time": 0.05,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 4,
+      "time": 0.06666666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 5,
+      "time": 0.08333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 6,
+      "time": 0.1,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 7,
+      "time": 0.11666666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 8,
+      "time": 0.13333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 9,
+      "time": 0.15,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 10,
+      "time": 0.16666666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 11,
+      "time": 0.18333333333333332,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 12,
+      "time": 0.2,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 13,
+      "time": 0.21666666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 14,
+      "time": 0.23333333333333334,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 15,
+      "time": 0.25,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 16,
+      "time": 0.26666666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 17,
+      "time": 0.2833333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 18,
+      "time": 0.3,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 19,
+      "time": 0.31666666666666665,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 20,
+      "time": 0.3333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 21,
+      "time": 0.35,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 22,
+      "time": 0.36666666666666664,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 23,
+      "time": 0.38333333333333336,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 24,
+      "time": 0.4,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 25,
+      "time": 0.4166666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 26,
+      "time": 0.43333333333333335,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 27,
+      "time": 0.45,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 28,
+      "time": 0.4666666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 29,
+      "time": 0.48333333333333334,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 30,
+      "time": 0.5,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 31,
+      "time": 0.5166666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 32,
+      "time": 0.5333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 33,
+      "time": 0.55,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 34,
+      "time": 0.5666666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 35,
+      "time": 0.5833333333333334,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 36,
+      "time": 0.6,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 37,
+      "time": 0.6166666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 38,
+      "time": 0.6333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 39,
+      "time": 0.65,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 40,
+      "time": 0.6666666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 41,
+      "time": 0.6833333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 42,
+      "time": 0.7,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 43,
+      "time": 0.7166666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 44,
+      "time": 0.7333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 45,
+      "time": 0.75,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 46,
+      "time": 0.7666666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 47,
+      "time": 0.7833333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 48,
+      "time": 0.8,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 49,
+      "time": 0.8166666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 50,
+      "time": 0.8333333333333334,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 51,
+      "time": 0.85,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 52,
+      "time": 0.8666666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 53,
+      "time": 0.8833333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 54,
+      "time": 0.9,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 55,
+      "time": 0.9166666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 56,
+      "time": 0.9333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 57,
+      "time": 0.95,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 58,
+      "time": 0.9666666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 59,
+      "time": 0.9833333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 60,
+      "time": 1.0,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 61,
+      "time": 1.0166666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 62,
+      "time": 1.0333333333333334,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 63,
+      "time": 1.05,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 64,
+      "time": 1.0666666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 65,
+      "time": 1.0833333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 66,
+      "time": 1.1,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 67,
+      "time": 1.1166666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 68,
+      "time": 1.1333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 69,
+      "time": 1.15,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 70,
+      "time": 1.1666666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 71,
+      "time": 1.1833333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 72,
+      "time": 1.2,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 73,
+      "time": 1.2166666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 74,
+      "time": 1.2333333333333334,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 75,
+      "time": 1.25,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 76,
+      "time": 1.2666666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 77,
+      "time": 1.2833333333333334,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 78,
+      "time": 1.3,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 79,
+      "time": 1.3166666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 80,
+      "time": 1.3333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 81,
+      "time": 1.35,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 82,
+      "time": 1.3666666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 83,
+      "time": 1.3833333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 84,
+      "time": 1.4,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 85,
+      "time": 1.4166666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 86,
+      "time": 1.4333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 87,
+      "time": 1.45,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 88,
+      "time": 1.4666666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 89,
+      "time": 1.4833333333333334,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 90,
+      "time": 1.5,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 91,
+      "time": 1.5166666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 92,
+      "time": 1.5333333333333334,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 93,
+      "time": 1.55,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 94,
+      "time": 1.5666666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 95,
+      "time": 1.5833333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 96,
+      "time": 1.6,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 97,
+      "time": 1.6166666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 98,
+      "time": 1.6333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 99,
+      "time": 1.65,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 100,
+      "time": 1.6666666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 101,
+      "time": 1.6833333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 102,
+      "time": 1.7,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 103,
+      "time": 1.7166666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 104,
+      "time": 1.7333333333333334,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 105,
+      "time": 1.75,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 106,
+      "time": 1.7666666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 107,
+      "time": 1.7833333333333334,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 108,
+      "time": 1.8,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 109,
+      "time": 1.8166666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 110,
+      "time": 1.8333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 111,
+      "time": 1.85,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 112,
+      "time": 1.8666666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 113,
+      "time": 1.8833333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 114,
+      "time": 1.9,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 115,
+      "time": 1.9166666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 116,
+      "time": 1.9333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 117,
+      "time": 1.95,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 118,
+      "time": 1.9666666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 119,
+      "time": 1.9833333333333334,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 120,
+      "time": 2.0,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 121,
+      "time": 2.0166666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 122,
+      "time": 2.033333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 123,
+      "time": 2.05,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 124,
+      "time": 2.066666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 125,
+      "time": 2.0833333333333335,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 126,
+      "time": 2.1,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 127,
+      "time": 2.1166666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 128,
+      "time": 2.1333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 129,
+      "time": 2.15,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 130,
+      "time": 2.1666666666666665,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 131,
+      "time": 2.183333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 132,
+      "time": 2.2,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 133,
+      "time": 2.216666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 134,
+      "time": 2.2333333333333334,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 135,
+      "time": 2.25,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 136,
+      "time": 2.2666666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 137,
+      "time": 2.283333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 138,
+      "time": 2.3,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 139,
+      "time": 2.316666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 140,
+      "time": 2.3333333333333335,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 141,
+      "time": 2.35,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 142,
+      "time": 2.3666666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 143,
+      "time": 2.3833333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 144,
+      "time": 2.4,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 145,
+      "time": 2.4166666666666665,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 146,
+      "time": 2.433333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 147,
+      "time": 2.45,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 148,
+      "time": 2.466666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 149,
+      "time": 2.4833333333333334,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 150,
+      "time": 2.5,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 151,
+      "time": 2.5166666666666666,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 152,
+      "time": 2.533333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 153,
+      "time": 2.55,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 154,
+      "time": 2.566666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 155,
+      "time": 2.5833333333333335,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 156,
+      "time": 2.6,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 157,
+      "time": 2.6166666666666667,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    },
+    {
+      "frame": 158,
+      "time": 2.6333333333333333,
+      "maximumChannelDifference": 6,
+      "meanChannelDifference": 4.672496570644719e-05,
+      "changedChannels": 28,
+      "changedPixels": 12
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "environment": "CastleExterior-scene",
+    "source": "Assets/ArtOfWar-II_Art/Environment/Feature/CastleExterior/CastleExterior.unity",
+    "objects": 34,
+    "meshes": 10,
+    "materials": 7,
+    "boundsMaxError": 2.86102294921875e-06,
+    "finiteVertices": true,
+    "validIndices": true,
+    "warnings": [],
+    "passed": true
+  },
+  {
+    "environment": "ArenaScene-scene",
+    "source": "Assets/ArtOfWar-II_Art/Environment/Feature/ArenaScene/ArenaScene.unity",
+    "objects": 35,
+    "meshes": 13,
+    "materials": 9,
+    "boundsMaxError": 2.6232519303448498e-05,
+    "finiteVertices": true,
+    "validIndices": true,
+    "warnings": [],
+    "passed": true
+  },
+  {
+    "environment": "NewScene",
+    "source": "Assets/New Scene.unity",
+    "objects": 77,
+    "meshes": 31,
+    "materials": 19,
+    "boundsMaxError": 3.672293678391725e-05,
+    "finiteVertices": true,
+    "validIndices": true,
+    "warnings": [],
+    "passed": true
+  },
+  {
+    "environment": "CogworkWastes",
+    "source": "Assets/ArtOfWar-II_Art/Environment/Feature/CogworkWastes/CogworkWastes.unity",
+    "objects": 8,
+    "meshes": 8,
+    "materials": 3,
+    "boundsMaxError": 5.7220458984375e-06,
+    "finiteVertices": true,
+    "validIndices": true,
+    "warnings": [],
+    "passed": true
+  }
+]

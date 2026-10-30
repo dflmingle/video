@@ -1,0 +1,60 @@
+{
+  "candidates": [
+    {
+      "label": "A",
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-volley\\V22R-A-3.0s-preview-720x1080-60fps.mp4",
+      "bytes": 6099323,
+      "sha256": "056ec50b9242270fd3894db346e2b1d0ecc178d6b33d43d5491470b95a7c3595",
+      "frames": 180,
+      "fps": 60.0,
+      "width": 720,
+      "height": 1080,
+      "duration": 3.0,
+      "cameraConstant": true,
+      "looped": false,
+      "retimed": false,
+      "addedStillFrames": 0,
+      "numericStatus": "NUMERIC_PASS_VISUAL_PENDING",
+      "visualWholeVideoWatched": false
+    },
+    {
+      "label": "B",
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-volley\\V22R-B-3.5s-preview-720x1080-60fps.mp4",
+      "bytes": 6943980,
+      "sha256": "42312fba80ad0d8aac44e917f90dfc3021f2ac1b5f159259ba454953dd03ab44",
+      "frames": 210,
+      "fps": 60.0,
+      "width": 720,
+      "height": 1080,
+      "duration": 3.5,
+      "cameraConstant": true,
+      "looped": false,
+      "retimed": false,
+      "addedStillFrames": 0,
+      "numericStatus": "NUMERIC_PASS_VISUAL_PENDING",
+      "visualWholeVideoWatched": false
+    },
+    {
+      "label": "C",
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\output\\v22r-volley\\V22R-C-4.0s-preview-720x1080-60fps.mp4",
+      "bytes": 7802483,
+      "sha256": "4c7a8daaa304bacfc38cc24a1dd5a2174c4272aa843918b3d8649f1261d12ffb",
+      "frames": 240,
+      "fps": 60.0,
+      "width": 720,
+      "height": 1080,
+      "duration": 4.0,
+      "cameraConstant": true,
+      "looped": false,
+      "retimed": false,
+      "addedStillFrames": 0,
+      "numericStatus": "NUMERIC_PASS_VISUAL_PENDING",
+      "visualWholeVideoWatched": false
+    }
+  ],
+  "sourceVariant": "V22R-volley",
+  "sameSimulationForABC": true,
+  "sameSceneAndCamera": true,
+  "visualReviewMethod": "Actual encoded frames sampled across full timeline, with consecutive frames around release/impact; not a claim of normal-speed full video visual inspection.",
+  "fullResolutionFinalRendered": false
+}

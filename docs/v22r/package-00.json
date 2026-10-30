@@ -1,0 +1,2813 @@
+{
+  "path": "C:\\Users\\89trillion\\Desktop\\20260924-大地图-公会战：留了一手-阿菊&墨芙.unitypackage",
+  "bytes": 47281211,
+  "entries": [
+    {
+      "guid": "003cf207a6558f24cb737fc6865fa31b",
+      "path": "Assets/0000000/Script/弹动触发器"
+    },
+    {
+      "guid": "009c0c92a89398242b92f5c74fae675f",
+      "bytes": 37112,
+      "path": "Assets/20260923-公会战：留了一手/蓝方首领 3.prefab"
+    },
+    {
+      "guid": "00ed403885dc76143b9970a6d111c397",
+      "bytes": 51712,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/Massif_01.fbx"
+    },
+    {
+      "guid": "00eea7c5f069be04ca1ecee61dcf68d3",
+      "bytes": 25103,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/ClanWarTower_Red_C.png"
+    },
+    {
+      "guid": "01261fa802a5aff4d9feca9e0abbc95a",
+      "bytes": 84688,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/ClanWarTower_Lv1.fbx"
+    },
+    {
+      "guid": "0191065febb0d584d8bc23b85663a44f",
+      "bytes": 15584,
+      "path": "Assets/Polygon Arsenal/Models/PolyDiamond.FBX"
+    },
+    {
+      "guid": "01993db3833024fd2ae699e25575ea55",
+      "bytes": 3038,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Materials/Gate.mat"
+    },
+    {
+      "guid": "026d1e49fccf12b42b78b35482aac575",
+      "bytes": 3270,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Mask_07_Tex.png"
+    },
+    {
+      "guid": "02e673a4635933d418c6d4bd0b7d9302",
+      "bytes": 19792,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/Sea.fbx"
+    },
+    {
+      "guid": "03d36465e5f9a404e83ea08aacadbefa",
+      "bytes": 25077,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/ClanWarTower_Purple_C.png"
+    },
+    {
+      "guid": "04cbfb98afcaffd46b090fb65faa21be",
+      "bytes": 6699,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Red_Mat 描边版本.mat"
+    },
+    {
+      "guid": "0543135adc70944ac9eb625fd200925d",
+      "bytes": 14807,
+      "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae/com.akbiggs.unitytimer@4554e279ae/Source/Timer.cs"
+    },
+    {
+      "guid": "0625757cbf166a741b5e2686fe7d268f",
+      "bytes": 93149,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Shaders/VFX_All_URP1.0.shader"
+    },
+    {
+      "guid": "06b9209f0cbafed4c8f1f8644b7a7317",
+      "bytes": 7815,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Clan_Yellow_Mat.mat"
+    },
+    {
+      "guid": "07ce423003cc8164b8f3ef6936f1d3a3",
+      "bytes": 47073,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/AO/RoleAO/RoleAOTex.png"
+    },
+    {
+      "guid": "0894a57433fa412459c2e038296bf6f8",
+      "bytes": 15391,
+      "path": "Assets/20260923-公会战：留了一手/Infantry 黄 4-大.prefab"
+    },
+    {
+      "guid": "08fff094f51d06945bc5d48e2c4e79bc",
+      "bytes": 24784,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/AroundIsland_01.fbx"
+    },
+    {
+      "guid": "093c06a370dd81f4da9b1416fcd68d1f",
+      "bytes": 733959,
+      "path": "Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_41/BattleUnit_41_VFX_Bip001 Head.prefab"
+    },
+    {
+      "guid": "0a013882246844f41b85dad4b94e4a1d",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/2.FBX/Army/Infantry"
+    },
+    {
+      "guid": "0a94ba62be696414093b1960a1072c15",
+      "bytes": 7858,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Phases/Base/Massif_Mat.mat"
+    },
+    {
+      "guid": "0acb1cb7d66740546b402f95e7c81d02",
+      "bytes": 4002,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts/MoveUnitHealth.cs"
+    },
+    {
+      "guid": "0b0b8d6a0ebbd84438373888fb5f2b16",
+      "bytes": 2791,
+      "path": "Assets/20260923-公会战：留了一手/Watchtower_Purple.prefab"
+    },
+    {
+      "guid": "0b23b2d1878c840488d0eaed4518e26a",
+      "bytes": 15418,
+      "path": "Assets/20260923-公会战：留了一手/Infantry 绿 4.prefab"
+    },
+    {
+      "guid": "0b80626ab1683804fb8726a6356cb43b",
+      "bytes": 7337,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/GuildMap_Mat2 1.mat"
+    },
+    {
+      "guid": "0bbdccb346fa786459b2582a954ec881",
+      "bytes": 140661,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/Clan_Blue_C.png"
+    },
+    {
+      "guid": "0d57e577bbf09744992e515fcd530d11",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/2.FBX/Army/Archer"
+    },
+    {
+      "guid": "0d67e8906dec7c34fb3b3d722d64b43a",
+      "bytes": 10957,
+      "path": "Assets/0000000/Script/涂色笔刷出现控制/SplatPainterTimelineSwitch.cs"
+    },
+    {
+      "guid": "0d7dd0024c7524ac58659327b54ce5c8",
+      "bytes": 2606,
+      "path": "Assets/ArtOfWar-II_Art/BattleEditor/GenAssets/BattleUnitSkins/BattleUnitSkin_41_1/AnimCtrl_41_1.overrideController"
+    },
+    {
+      "guid": "0e3616058d1e3f14da9cff8b539228b4",
+      "bytes": 6088,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Smoke_009_Mat.mat"
+    },
+    {
+      "guid": "0ebaba6ff8bee6c4685347785ab00f2b",
+      "bytes": 14598,
+      "path": "Assets/0000000/Script/涂色笔刷出现控制/SplatPainterWavyExpansion.cs"
+    },
+    {
+      "guid": "0f288fbbb43343a4eb5128125ce6518b",
+      "bytes": 4886,
+      "path": "Assets/Scripts/SoldierAnimationController/WeaponLauncher.cs"
+    },
+    {
+      "guid": "0f40f59ff29a3be448d62b02c0eb936f",
+      "bytes": 22192,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts/MoveUnit.cs"
+    },
+    {
+      "guid": "0f504fdd718814e028ed8dd15f36db5a",
+      "bytes": 3469,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Temp/Generated/ClanWarSlgVoronoi/mesh_faction_-1.asset"
+    },
+    {
+      "guid": "1062eb9e152ba974e881c51ba569ba00",
+      "bytes": 11247,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts/OverlayWorldUIFollower.cs"
+    },
+    {
+      "guid": "10fe55fc5e966234d881e75039bca009",
+      "bytes": 16535,
+      "path": "Assets/Scenes/SplatMapGridDissolve_WorldUV_Merged.shader"
+    },
+    {
+      "guid": "110d0c566106e420698865bbc7ff737e",
+      "bytes": 571,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Modules/DestroyCaller.cs"
+    },
+    {
+      "guid": "115e2dacd23d0b14aa43b09b1c1584e1",
+      "bytes": 44377,
+      "path": "Assets/0000000/Script/死亡击飞烟雾效果/ClashMiniDeathLaunchEffect.cs"
+    },
+    {
+      "guid": "119491bb8a5866c4e9b7f6bd84b2afcf",
+      "bytes": 7814,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Clan_Green_Mat.mat"
+    },
+    {
+      "guid": "122741fd6fb474c64bbf52bb358771bf",
+      "bytes": 3043,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Materials/Big_BOSS.mat"
+    },
+    {
+      "guid": "1284f23bf2cea974798d3fc936144cd7",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/1.Effect/Common FX/Materials"
+    },
+    {
+      "guid": "13394039b1f906545a6752dd0a4c13ea",
+      "bytes": 52416,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/Massif_04.fbx"
+    },
+    {
+      "guid": "13b25cb2842514fe69ae512f4424b4b9",
+      "bytes": 5805,
+      "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae/com.akbiggs.unitytimer@4554e279ae/README.md"
+    },
+    {
+      "guid": "13f1b09a367a9f047b98065bd58ae084",
+      "bytes": 6274,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_002_Tex.png"
+    },
+    {
+      "guid": "1583a21174396d143a3ac1c193556616",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/2.FBX/BattleUnit"
+    },
+    {
+      "guid": "15cdf1a44caede84c80a6580d4d0e1f1",
+      "bytes": 81417,
+      "path": "Assets/Synty/PolygonMech/Textures/FX/Circle_02_Soft.png"
+    },
+    {
+      "guid": "165771ff21126174e92f161e74197d0a",
+      "bytes": 6536,
+      "path": "Assets/Script/TowerUIItem（塔的UI）/TowerMatrixGarrisonLink.cs"
+    },
+    {
+      "guid": "165e3e94124b40f9bc39a69770f09bfa",
+      "bytes": 2254,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/ClanWarSlg/URP_StencilClip_Unlit.shader"
+    },
+    {
+      "guid": "16ebdfa6a8c1a47fd8c8c1e1b13a7e7b",
+      "bytes": 1558,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColor_7.mat"
+    },
+    {
+      "guid": "179a11d541caf274a96c205d644eb922",
+      "bytes": 6743,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/GuildMap_Edge_V02_Mat.mat"
+    },
+    {
+      "guid": "17a298406b2eedf4fa3876885097fc4c",
+      "bytes": 149584,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/ClanWarTower_Lv7.fbx"
+    },
+    {
+      "guid": "1806c2d0b4cebbc438e0bd7457c5fed4",
+      "bytes": 4529,
+      "path": "Assets/20260923-公会战：留了一手/等级数字-blue 1.prefab"
+    },
+    {
+      "guid": "180d679074385a240af297d0190f8dea",
+      "bytes": 6053,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_028_Mat02.mat"
+    },
+    {
+      "guid": "187c379c852c944e9a593361c99a215f",
+      "bytes": 202229,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/DOTween.XML"
+    },
+    {
+      "guid": "18cb7e7cb51505043b3e50075435e6ad",
+      "bytes": 50715,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/新旗帜/HeroFlag_Yellow_C.png"
+    },
+    {
+      "guid": "18f0b69365680476a9706ba0990f69e9",
+      "bytes": 2190,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/readme.txt"
+    },
+    {
+      "guid": "193eceba7390d421bb938a331b7b7250",
+      "bytes": 7202,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Temp/Generated/ClanWarSlgVoronoi/mesh_faction_4.asset"
+    },
+    {
+      "guid": "194d9a40761cfb34c82afbc50a7b4efe",
+      "bytes": 4541,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/新旗帜/HeroFlag_Yellow.mat"
+    },
+    {
+      "guid": "196b2ec60a196864aaf235c7cbbed703",
+      "bytes": 4541,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/新旗帜/HeroFlag_Purple.mat"
+    },
+    {
+      "guid": "19abdfa45e081854cb68b658389afc79",
+      "bytes": 47731,
+      "path": "Assets/Lana Studio/Casual RPG VFX/Textures/ring03.png"
+    },
+    {
+      "guid": "1b08a0448fd652b4daa67f972339c267",
+      "bytes": 27040,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/Bone_01.fbx"
+    },
+    {
+      "guid": "1b0f2dd66d85c4730a4aa4507338c2a8",
+      "bytes": 2080,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_0.mat"
+    },
+    {
+      "guid": "1b25f624f5beaa74cab75c53a9105784",
+      "bytes": 6252,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/ClanWar/Material/Fx_Wave_Mat.mat"
+    },
+    {
+      "guid": "1b2e79554bd05264ea9ad23f6aa1213b",
+      "bytes": 6589,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/NeedNot/FX_Glow_06_Tex02.png"
+    },
+    {
+      "guid": "1b9b9adf491ebdb41b3519928f8a048b",
+      "bytes": 49573,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/RisingUnit.shader"
+    },
+    {
+      "guid": "1b9bc73c18728004285a91128fbe3fa7",
+      "bytes": 2797,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv4 Yellow.prefab"
+    },
+    {
+      "guid": "1c56bb5d5888a3448b2e9e87c1fc509b",
+      "bytes": 1191129,
+      "path": "Assets/20260909-大地图 空城陷阱/Level_up 主塔 2.prefab"
+    },
+    {
+      "guid": "1c62d9feb9569b44c8ed7a2f35c2abf9",
+      "bytes": 62613,
+      "path": "Assets/Polygon Arsenal/Textures/polySpriteGlow.png"
+    },
+    {
+      "guid": "1c666c1c6702f4cf296f6965b30a9b5e",
+      "bytes": 2073,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_7.mat"
+    },
+    {
+      "guid": "1cce123248e77e64c812b7de99f9b5c3",
+      "bytes": 24732,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/ClanWarTower_Neutral_C.png"
+    },
+    {
+      "guid": "1ce4aa379c83b0646be465f08e0f1270",
+      "bytes": 15416,
+      "path": "Assets/20260923-公会战：留了一手/Infantry 紫 4.prefab"
+    },
+    {
+      "guid": "1d0b8e1eefa244d4f96af03cab2f2c7a",
+      "bytes": 177194,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447.rar"
+    },
+    {
+      "guid": "1e4287a2f026f274d97ad18922d7b077",
+      "bytes": 3115,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv7.prefab"
+    },
+    {
+      "guid": "1f19e56c837e5b24cb2f0e5731a58c69",
+      "bytes": 1909,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_700/Infantry_Mat.mat"
+    },
+    {
+      "guid": "1f6690c7cfdd38d4381d1ada8086838f",
+      "bytes": 938,
+      "path": "Assets/20260923-公会战：留了一手/公会战：留了一手 第一关.renderTexture"
+    },
+    {
+      "guid": "1f6d809819756ab48837f7257bcd34b1",
+      "bytes": 18560,
+      "path": "Assets/Polygon Arsenal/Models/PolyShield01.FBX"
+    },
+    {
+      "guid": "1f993d14e6c451f408b2086e8be82850",
+      "bytes": 2788,
+      "path": "Assets/20260923-公会战：留了一手/Watchtower_Red.prefab"
+    },
+    {
+      "guid": "2141d48416ea09d48aded6a619eedae7",
+      "bytes": 23950,
+      "path": "Assets/Script/MeshPainter/PrefabSetHandler.cs"
+    },
+    {
+      "guid": "2155f3ef25ce5744aade0ee5f708ab03",
+      "bytes": 86160,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/ClanWarTower_Lv2.fbx"
+    },
+    {
+      "guid": "218cd092764aad44bb0cfe3e1727188c",
+      "bytes": 1077750,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/seamless_watercolor_green_1024.png"
+    },
+    {
+      "guid": "21d3e844a4b34aa468e27b85f9b73949",
+      "bytes": 27236,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/ClanWarTower_Yellow_C.png"
+    },
+    {
+      "guid": "21e261d1e24acc04f815b3e8838248a7",
+      "bytes": 36862,
+      "path": "Assets/20260923-公会战：留了一手/红方首领 1.prefab"
+    },
+    {
+      "guid": "221c93ec14edc6e489771154ac28f801",
+      "bytes": 2880,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_68_Mat.mat"
+    },
+    {
+      "guid": "22e02de81813143419d46ed3113fbfb6",
+      "bytes": 592061,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Hero_VFX_Glow02.prefab"
+    },
+    {
+      "guid": "235a0cbd70893864ea958f5913fd7f95",
+      "bytes": 647847,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Green_C 1.psd"
+    },
+    {
+      "guid": "235ad3a3dae02284ca38e9011166c4cb",
+      "bytes": 70880,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Models/FX_Water_GuildMap_Mod.fbx"
+    },
+    {
+      "guid": "237cbb5df8d2d4f479a9e1f12e52df95",
+      "bytes": 333,
+      "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae/com.akbiggs.unitytimer@4554e279ae/Source/Timer.asmdef"
+    },
+    {
+      "guid": "2390e1e9f2a9b2d4a9cd63f9975498e2",
+      "bytes": 131919,
+      "path": "Assets/20260923-公会战：留了一手/TL-20260923-公会战：留了一手 第二关 2.playable"
+    },
+    {
+      "guid": "247e639fe6f7a47f582cc884f7777099",
+      "bytes": 299,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/package.json"
+    },
+    {
+      "guid": "25916eebff5d042fb908c057779e7a67",
+      "bytes": 1559,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColor_4.mat"
+    },
+    {
+      "guid": "25f13de2c9f513d43916fdf80821d244",
+      "bytes": 478568,
+      "path": "Assets/Polygon Arsenal/Prefabs/Combat/Aura/ShieldAura/ShieldAuraYellow.prefab"
+    },
+    {
+      "guid": "25ffae6047fa24e41b78801695bfddf5",
+      "bytes": 1532980,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/GuildMap_1_C.png"
+    },
+    {
+      "guid": "263d5c613c779d342a61d59e263c2209",
+      "bytes": 196652,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Noise_101_Tex.tga"
+    },
+    {
+      "guid": "269b3c138cc648b47adcfac823207d00",
+      "bytes": 52544,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/Massif_02.fbx"
+    },
+    {
+      "guid": "27140b9f722a4071aac86deaa9cc6ac6",
+      "bytes": 2743,
+      "path": "Assets/Scenes/SplatBrush.shader"
+    },
+    {
+      "guid": "2773aca75fc241d4f9bb910ff6b066ea",
+      "bytes": 3096,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts/TimelineAoEDamageCaster.cs"
+    },
+    {
+      "guid": "27d33608418142f449a468682bb25684",
+      "bytes": 4641,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/红色斯巴达/Material Blue.mat"
+    },
+    {
+      "guid": "28e778fcdbb69614b8f8ecd42d336b8f",
+      "bytes": 5967,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Prefabs/MoveUnit/Archer.prefab"
+    },
+    {
+      "guid": "299a029e2c4786249b6c214694ef8f4f",
+      "bytes": 23104,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/AroundIsland_04.fbx"
+    },
+    {
+      "guid": "2a796eef324ab4f94adcd7a05d4f1e07",
+      "bytes": 335744,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/2.FBX/Army/Infantry/Infantry.FBX"
+    },
+    {
+      "guid": "2abc409df72d4d8438737c925a33ef26",
+      "bytes": 3656,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/New Material.mat"
+    },
+    {
+      "guid": "2abe64c4032a18a41aa86eb68fa89700",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/1.Effect"
+    },
+    {
+      "guid": "2b2d85bb5d8ddc24891f43b730ee98be",
+      "bytes": 4802,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Green_Mat 描边版本.mat"
+    },
+    {
+      "guid": "2c95532c084bd49c2944c053e61c64bd",
+      "bytes": 101633,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/ClanWar/Shader/SceneCommonNoShadow.shader"
+    },
+    {
+      "guid": "2f3f789aad8546a488298feff43c3082",
+      "bytes": 3226,
+      "path": "Assets/Polygon Arsenal/Materials/Gradients/PolySpriteGlow_ADD.mat"
+    },
+    {
+      "guid": "2fdc7d875b79c284db35119384ed1aea",
+      "bytes": 5907,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Circle_007_Mat.mat"
+    },
+    {
+      "guid": "2fe13d655b05e4546893760df1713072",
+      "path": "Assets/0000000/Script/死亡击飞烟雾效果"
+    },
+    {
+      "guid": "303f3ffda9ff2354d95d21de6dfb4d32",
+      "bytes": 2789,
+      "path": "Assets/20260923-公会战：留了一手/Watchtower_Blue.prefab"
+    },
+    {
+      "guid": "306e908d91f5e644d8800963b57a10c7",
+      "bytes": 337750,
+      "path": "Assets/IslandWar_ArtResource/2.FBX/Scene/Terrain/Island/Common/Texture/Common_Island_Scenes.png"
+    },
+    {
+      "guid": "307c5c190b8d5d842bb31758b09879b9",
+      "bytes": 1595,
+      "path": "Assets/Scenes/SplatFactionProfile.cs"
+    },
+    {
+      "guid": "308fff2cd517a2d44a59be39c47276c9",
+      "bytes": 143166,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/Clan_Purple_C.png"
+    },
+    {
+      "guid": "313694647bec18b44b416cab3fa3eeb0",
+      "bytes": 7827,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanWarTower_Cyan_Mat.mat"
+    },
+    {
+      "guid": "313bdc8874c99c141924a14304592d5b",
+      "path": "Assets/Scenes"
+    },
+    {
+      "guid": "32d136932b35d814a9a31c24a3fa2958",
+      "bytes": 5909,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Fire_003_Mat.mat"
+    },
+    {
+      "guid": "3351eb8316c426b4d824f491b83b57fc",
+      "bytes": 7812,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Clan_Red_Mat.mat"
+    },
+    {
+      "guid": "33a290e56ae0b4c25a30da71b153cf3a",
+      "bytes": 1560,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColor_5.mat"
+    },
+    {
+      "guid": "349eead6704df5043904c44214d00969",
+      "bytes": 2075,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_16.mat"
+    },
+    {
+      "guid": "34dfa16aee47cf8448b7fb9fbdeb6cba",
+      "bytes": 16977,
+      "path": "Assets/Script/DashedLineGenerator/MultiPointCurveGenerator.cs"
+    },
+    {
+      "guid": "35da0f2fd6106674aa8f1e1815d69c0c",
+      "path": "Assets/Script/DashedLineGenerator"
+    },
+    {
+      "guid": "377ba81082bb083439362cde691ab390",
+      "bytes": 20506,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Shaders/VFX_Additive.shader"
+    },
+    {
+      "guid": "37d12cd2d03e4dd40a396b56653910bd",
+      "bytes": 53179,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Fire_24_Tex.png"
+    },
+    {
+      "guid": "3835574a3e021b54fb0b9b69c0226d48",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/2.FBX"
+    },
+    {
+      "guid": "38c8199f8e2d7c24ea21bad521349e6e",
+      "bytes": 17321,
+      "path": "Assets/Scripts/SoldierAnimationController/SoldierAnimationController.cs"
+    },
+    {
+      "guid": "392cb6b8f37d2f14d9cc535b1b651592",
+      "bytes": 1023,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts/TimelineSignalBridge.cs"
+    },
+    {
+      "guid": "3997e2241185407d80309a82f9148466",
+      "bytes": 2843,
+      "path": "Assets/ArtOfWar-II_Art/ThirdParty/TextMesh Pro/Shaders/TMPro_Properties.cginc"
+    },
+    {
+      "guid": "3a388d19da85f7a4c8eee31200b6cfca",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Prefabs/MoveUnit"
+    },
+    {
+      "guid": "3a87c6ee59e004c4fbfe16285cd910e6",
+      "bytes": 58203,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/新旗帜/HeroFlag_Red_C.png"
+    },
+    {
+      "guid": "3abfb1c21f8cf473f8f957fa87bce027",
+      "bytes": 255171,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Prefabs/cell_r0_c0.asset"
+    },
+    {
+      "guid": "3b72eb4e5fb936e498baef300e97e171",
+      "bytes": 5747,
+      "path": "Assets/Scripts/SoldierAnimationController/HitFeelManager.cs"
+    },
+    {
+      "guid": "3b8ac7a6ccafaaf44a72fda5cb26315a",
+      "bytes": 5920,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/GuildMap_Mat3.mat"
+    },
+    {
+      "guid": "3b95e148dbba0e44899f79026b146877",
+      "bytes": 57432,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/新旗帜/HeroFlag_Green_C.png"
+    },
+    {
+      "guid": "3cc8d527c67aa87478b2e5033ceec76b",
+      "bytes": 4642,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/红色斯巴达/Material Green.mat"
+    },
+    {
+      "guid": "3d20903c6ba4bdd48807575eed22f8c6",
+      "bytes": 5012,
+      "path": "Assets/Scripts/SoldierAnimationController/BombTrap.cs"
+    },
+    {
+      "guid": "3d24a369d15126841a4d1fd9e05d3643",
+      "bytes": 20131,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/Dec_Ramp/Dec_Ramp_01_C.png"
+    },
+    {
+      "guid": "3d67b5c335d66e74d81f6f34263a17be",
+      "bytes": 60337,
+      "path": "Assets/Lana Studio/Casual RPG VFX/Textures/circle_boke01.png"
+    },
+    {
+      "guid": "3d7be5ef9a032446b9a9b5d96b507996",
+      "bytes": 3043,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Materials/Small_BOSS.mat"
+    },
+    {
+      "guid": "3e401df2e45954b4580b52f5d0ef94e6",
+      "bytes": 196652,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_FlowMap_001_Tex.tga"
+    },
+    {
+      "guid": "3e44c74f0451b964a86d8bc436f40bc3",
+      "bytes": 8030,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/Canvas.prefab"
+    },
+    {
+      "guid": "3e6a2ad2b65ffa545a38a6f329c0571f",
+      "path": "Assets/VideoPlugIn/HideGameobjectPlugIn/HideGameobjectPlugIn/Scripts"
+    },
+    {
+      "guid": "3eb6f17384f3b6d4baa5a0f0a6b9cf57",
+      "path": "Assets/VideoPlugIn/HideGameobjectPlugIn/HideGameobjectPlugIn"
+    },
+    {
+      "guid": "3ece4a900ccccf342bc7a17d536f6757",
+      "path": "Assets/VideoPlugIn/HideGameobjectPlugIn/HideGameobjectPlugIn/Scene"
+    },
+    {
+      "guid": "3f31e22ee351e1f41b0018b848c6d9ed",
+      "bytes": 7857,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Bone_Mat.mat"
+    },
+    {
+      "guid": "3f46bef14507db44fb6dcb71e227f620",
+      "bytes": 1006,
+      "path": "Assets/VideoPlugIn/HideGameobjectPlugIn/HideGameobjectPlugIn/Scripts/TriggerGameobject.cs"
+    },
+    {
+      "guid": "3f537abfbb13ddc44a4ebfdee89a910a",
+      "bytes": 1634,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/BaseWater_Mat.mat"
+    },
+    {
+      "guid": "3f9d9d99c03014911ab1f3ec249eed87",
+      "bytes": 9878,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Temp/Generated/ClanWarSlgVoronoi/mesh_faction_2.asset"
+    },
+    {
+      "guid": "4003ffe55a93243489ce70b2a9575a07",
+      "bytes": 24224,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/2.FBX/Army/IceMan/Snowball.FBX"
+    },
+    {
+      "guid": "4072c668bae06714cbdb7862015890fb",
+      "bytes": 25023,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/ClanWarTower_Blue_C.png"
+    },
+    {
+      "guid": "407bc68d299748449bbf7f48ee690f8d",
+      "bytes": 2277,
+      "path": "Assets/ArtOfWar-II_Art/ThirdParty/TextMesh Pro/Shaders/TMPro.cginc"
+    },
+    {
+      "guid": "408af5e9b1577874b9f5b1f1181ac8ea",
+      "bytes": 4388,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Animator/Archer.controller"
+    },
+    {
+      "guid": "409d4fb36966080409617595cd1992fd",
+      "bytes": 2797,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv4 Purple.prefab"
+    },
+    {
+      "guid": "415b4124d16c95c428e2fb7851e0f4ed",
+      "bytes": 5901,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Niose_005_Mat.mat"
+    },
+    {
+      "guid": "41b196689eb16b143a694652c42e8aed",
+      "bytes": 15419,
+      "path": "Assets/20260923-公会战：留了一手/Infantry 蓝 4-大.prefab"
+    },
+    {
+      "guid": "434f61d808c5db742a907103fe716dcf",
+      "bytes": 31007,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_030_Tex.png"
+    },
+    {
+      "guid": "435c1c156cd7ae24392f0a417fd076dc",
+      "bytes": 6081,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Mask_02_Mat19.mat"
+    },
+    {
+      "guid": "4459bace06e34c64b97da07c12919f01",
+      "bytes": 228,
+      "path": "Assets/Scripts/Billboard/BillboardNew.cs"
+    },
+    {
+      "guid": "446dd26925342474b8851951aebf5d7d",
+      "bytes": 4816,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Yellow_Mat 描边版本.mat"
+    },
+    {
+      "guid": "44ad720e764a8c94b8ed7d477a3113fb",
+      "bytes": 2096,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_13.mat"
+    },
+    {
+      "guid": "44f53485b1604f64a89c89df1e81c578",
+      "bytes": 478632,
+      "path": "Assets/Polygon Arsenal/Prefabs/Combat/Aura/ShieldAura/ShieldAuraRed.prefab"
+    },
+    {
+      "guid": "452099517dc90094887de534e164cf4a",
+      "bytes": 435439,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_41/TwoHeadedDragon_C.png"
+    },
+    {
+      "guid": "45b434085946707499eefa9f9e1112e8",
+      "bytes": 33613912,
+      "path": "Assets/TextMesh Pro/Fonts/BigBalooBhai2-ExtraBold SDF.asset"
+    },
+    {
+      "guid": "45b69bb80604cb7408236ce17e12f115",
+      "bytes": 7823,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanWarTower_Yellow_Mat.mat"
+    },
+    {
+      "guid": "45fbc7bfa9aeda04f804a1710479c92e",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Prefabs/Army"
+    },
+    {
+      "guid": "467f4b3788408442c98d7d06b81d5a03",
+      "bytes": 9668,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Prefabs/Edit/CellSpline.prefab"
+    },
+    {
+      "guid": "46c46885d5e9e194ba96e80d167e7a05",
+      "bytes": 4235,
+      "path": "Assets/Polygon Arsenal/Materials/Main/PolySolidGlow.mat"
+    },
+    {
+      "guid": "477dc8c5f8eca984fa20085e3f0dc667",
+      "path": "Assets/VideoPlugIn/HideGameobjectPlugIn/HideGameobjectPlugIn/Recourse"
+    },
+    {
+      "guid": "47b9085cd2ac24d7a819c30e0bc71ad7",
+      "bytes": 6044,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Temp/Generated/ClanWarSlgVoronoi/mesh_faction_0.asset"
+    },
+    {
+      "guid": "484b7cff31daaf34fa34228a7f7b1abe",
+      "bytes": 2091,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_14.mat"
+    },
+    {
+      "guid": "4979a001c51023544be9726bb64d2484",
+      "bytes": 15418,
+      "path": "Assets/20260923-公会战：留了一手/Infantry 蓝 4.prefab"
+    },
+    {
+      "guid": "49ccf43d19592b3458e2359e3826277f",
+      "bytes": 7260,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/GuildMap_Mat2.mat"
+    },
+    {
+      "guid": "49ce86c293e6da544a7c4d6c4fbd7e52",
+      "bytes": 8081632,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_41/TwoHeadedDragon.FBX"
+    },
+    {
+      "guid": "4a7682bbbe8a8415794e95a6f51a560d",
+      "bytes": 3029,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Materials/Base.mat"
+    },
+    {
+      "guid": "4a853b08d466ecd4a888ad0c6c120b23",
+      "bytes": 8206,
+      "path": "Assets/Lana Studio/Casual RPG VFX/Textures/line03.png"
+    },
+    {
+      "guid": "4c7ba1d756e7c45e2a16cfc891cd6a2e",
+      "bytes": 3029,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Materials/Cell.mat"
+    },
+    {
+      "guid": "4ccbc9c0b5fe451f8924b687b1f9c5fa",
+      "bytes": 3794,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/ClanWarSlg/URP_PolylineGlow.shader"
+    },
+    {
+      "guid": "4cfa85a6b1dc5b646a854c0343a4bc2d",
+      "bytes": 5967,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Prefabs/MoveUnit/Infantry.prefab"
+    },
+    {
+      "guid": "4d8f3b2f9683c4141b27bb5e9f94ec2b",
+      "bytes": 142943,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/Clan_Cyan_C.png"
+    },
+    {
+      "guid": "4e22840dfe78241d8ad7b25d3b18c782",
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Editor/Imgs"
+    },
+    {
+      "guid": "4e383e9a5b7334560be644668d89578c",
+      "bytes": 266839,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Prefabs/cell_r2_c0.asset"
+    },
+    {
+      "guid": "4eebec3c48651074ca175b8d232adf7b",
+      "bytes": 492,
+      "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae/com.akbiggs.unitytimer@4554e279ae/package.json"
+    },
+    {
+      "guid": "4f1b06acb8ab94b8daa44d22ea4a3e40",
+      "bytes": 1555,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColor_6.mat"
+    },
+    {
+      "guid": "500738c3535c2e14a9b8c99a66ad2170",
+      "bytes": 31161,
+      "path": "Assets/Scripts/SoldierAnimationController/SoldierHealth.cs"
+    },
+    {
+      "guid": "5018d33835bf96c48a182f7af1fb4292",
+      "bytes": 23536,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/AroundIsland_03.fbx"
+    },
+    {
+      "guid": "5045d49e7d40acd4d83a0baa7f6b5f72",
+      "bytes": 4727,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts/TimelineAoECaster.cs"
+    },
+    {
+      "guid": "505fa16edea304ba19331d4212964ee4",
+      "bytes": 1565,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Editor/Imgs/DOTweenIcon.png"
+    },
+    {
+      "guid": "507d356987256bb4aa5a19e41c7aaec5",
+      "bytes": 5993,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_002_Mat.mat"
+    },
+    {
+      "guid": "508320310679cd04faa9136c316f113c",
+      "bytes": 27033,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/XiaoBin_Grey_Texture.png"
+    },
+    {
+      "guid": "50f3c8c3bb15dd844bb357715a04ce9e",
+      "path": "Assets/Scripts"
+    },
+    {
+      "guid": "51201c2fa6ff24a168b719ca870067be",
+      "bytes": 1550,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColor_2.mat"
+    },
+    {
+      "guid": "513a773703466ff4d9124686ae94d619",
+      "bytes": 455,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Line_057_Tex.png"
+    },
+    {
+      "guid": "514a1de44c724694fbf3d43f9595e163",
+      "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae/com.akbiggs.unitytimer@4554e279ae"
+    },
+    {
+      "guid": "5202c8c054bf8034bb234ce562a49bd1",
+      "bytes": 1122497,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/seamless_watercolor_blue_center_zoom_2x_1024.png"
+    },
+    {
+      "guid": "520e9d268d8cde041a54d42162d81e03",
+      "bytes": 4539,
+      "path": "Assets/20260923-公会战：留了一手/等级数字-Purple.prefab"
+    },
+    {
+      "guid": "52c06f3d152427148a33271516869cf8",
+      "bytes": 4531,
+      "path": "Assets/20260923-公会战：留了一手/等级数字-Yellow.prefab"
+    },
+    {
+      "guid": "52c98694eb13c4a268fc75855f094488",
+      "bytes": 2085,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_1.mat"
+    },
+    {
+      "guid": "52f096a82710848a3b6a3e0daac25b07",
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Modules"
+    },
+    {
+      "guid": "53184a68e33cd4fd9b13d689798b499c",
+      "bytes": 22787,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Editor/Imgs/Header.jpg"
+    },
+    {
+      "guid": "53ad15d529d78604ba9c779d323eb012",
+      "bytes": 1168,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Line_058_Tex.png"
+    },
+    {
+      "guid": "54ca07690c0b3d4419d27acbd461dca3",
+      "bytes": 1151808,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_700/Infantry.fbx"
+    },
+    {
+      "guid": "54f2ab7d02365aa4db6847cade9b00bb",
+      "bytes": 128246,
+      "path": "Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_543/Low/Textures/543_TinGiant_Crack_Tex.png"
+    },
+    {
+      "guid": "54f33447902256548bca7bb3cb70a8be",
+      "bytes": 4153,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_Mat02.mat"
+    },
+    {
+      "guid": "553eedde19c264348b4d7ff67614e0a0",
+      "bytes": 420792,
+      "path": "Assets/TextMesh Pro/Fonts/BalooBhai2-ExtraBold.ttf"
+    },
+    {
+      "guid": "55925551c9d93b146a0f472ab1bb4cb1",
+      "bytes": 19502,
+      "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae.rar"
+    },
+    {
+      "guid": "55e693d1fd26a064b82c061d2d861db6",
+      "bytes": 24320,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/AroundIsland_02.fbx"
+    },
+    {
+      "guid": "5605c5e058f461d4288df8b35522307e",
+      "bytes": 9437,
+      "path": "Assets/Scripts/SoldierAnimationController/TagBasedChaser.cs"
+    },
+    {
+      "guid": "563830b708ec2b34f8ff629cb646c2be",
+      "bytes": 21456,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Models/FX_Circle_013_Mod.fbx"
+    },
+    {
+      "guid": "56795443b76e22c49a5bae786654f5c5",
+      "bytes": 4528,
+      "path": "Assets/20260923-公会战：留了一手/等级数字-Red.prefab"
+    },
+    {
+      "guid": "58623b729a52ed5459b3b1d94b49862d",
+      "bytes": 37082,
+      "path": "Assets/20260923-公会战：留了一手/黄方首领 2.prefab"
+    },
+    {
+      "guid": "591c37ccd453af546935936f3e8c0da3",
+      "bytes": 8809,
+      "path": "Assets/Script/MeshPainter/PrefabPainter.cs"
+    },
+    {
+      "guid": "592e653d4391b6944be8accb26d669f2",
+      "bytes": 4591,
+      "path": "Assets/20260923-公会战：留了一手/透明.mat"
+    },
+    {
+      "guid": "595d94cc57362a944bd55db7b79bde8a",
+      "bytes": 7790,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanWarTower_Blue_Mat.mat"
+    },
+    {
+      "guid": "599b23ad7710b37498164f149f85742e",
+      "bytes": 3861,
+      "path": "Assets/Script/DashedLineGenerator/Line.mat"
+    },
+    {
+      "guid": "5a7239594e797b74a8138922e339eedb",
+      "bytes": 2612,
+      "path": "Assets/Scenes/Custom_Splat.mat"
+    },
+    {
+      "guid": "5a9b97a7395fd494eb0efbafc5ad7bc5",
+      "bytes": 116928,
+      "path": "Assets/20260909-大地图 空城陷阱/消失特效.prefab"
+    },
+    {
+      "guid": "5b3524d22cb2e184886312899a936ac1",
+      "bytes": 6079,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Mask_03_Mat20.mat"
+    },
+    {
+      "guid": "5ba655f1e9ed34eaa885d8c607f539c7",
+      "bytes": 4267,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Modules/DOTweenModuleSprite.cs"
+    },
+    {
+      "guid": "5bade9fc565e48045ba56e66efcc308b",
+      "bytes": 2022,
+      "path": "Assets/Scripts/SoldierAnimationController/StepRotator.cs"
+    },
+    {
+      "guid": "5bb82e528808994489697fa375b918dc",
+      "bytes": 104122,
+      "path": "Assets/Polygon Arsenal/Shaders/URP/PolygonArsenal-SpriteShaderSoftADD.shadergraph"
+    },
+    {
+      "guid": "5c5d15698b0ee4f448f5cedf611a9041",
+      "bytes": 223300,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Prefabs/cell_r0_c2.asset"
+    },
+    {
+      "guid": "5d6abe28aefa8449a8630ebec0c4402e",
+      "bytes": 3122,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Prefabs/Edit/MapCell.prefab"
+    },
+    {
+      "guid": "5dda745ddb53017468961bbd199ad3c4",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/2.FBX/BattleUnit/Texture"
+    },
+    {
+      "guid": "5e098ac4e0a944041888199889a60c88",
+      "bytes": 6231,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Modules/DOTweenModuleUtils.cs"
+    },
+    {
+      "guid": "5f8831405604ac346baeae9b8bc1b001",
+      "bytes": 5832,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_68_Tex.png"
+    },
+    {
+      "guid": "5f94c902388044d558e1c505792279b1",
+      "bytes": 2086,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_3.mat"
+    },
+    {
+      "guid": "5fc0da9da2df93e47af536862dac3cdb",
+      "bytes": 23750,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/RaidMat.shader"
+    },
+    {
+      "guid": "5fd460959b872224094adb89a7c5ff48",
+      "bytes": 606678,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_13_Tex.png"
+    },
+    {
+      "guid": "61059b093973c65488cd1580a7b27b31",
+      "bytes": 143994,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/Clan_Pink_C.png"
+    },
+    {
+      "guid": "616df89a0ec0b4b6cbcd4e421dea45a2",
+      "bytes": 4429,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Editor/Imgs/Footer_dark.png"
+    },
+    {
+      "guid": "620e159be3e374f0c9526bc17da291af",
+      "bytes": 14241,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Modules/DOTweenModuleUnityVersion.cs"
+    },
+    {
+      "guid": "622c6069ea8240a4b5dd8f5fc73308fe",
+      "bytes": 11299,
+      "path": "Assets/Scenes/SplatPainter.cs"
+    },
+    {
+      "guid": "6271161f6bc077645b1497eb00d0035e",
+      "bytes": 53760,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/Massif_03.fbx"
+    },
+    {
+      "guid": "627f36e4ff9118d469eb2bef50adfc58",
+      "bytes": 18743,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_04_Tex.png"
+    },
+    {
+      "guid": "62eba8d561397974eaaa78dbab5499ed",
+      "bytes": 64181,
+      "path": "Assets/WFL_Art/Environment/Common/GuildMap/Texture/Watchtower_Pink_C.png"
+    },
+    {
+      "guid": "631acec4916c1074e80fc40c19e462e0",
+      "bytes": 489440,
+      "path": "Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_41/BattleUnit_41_VFX_Bone_FireHead.prefab"
+    },
+    {
+      "guid": "6389237bf06c81c488f6bad8d14b07fc",
+      "bytes": 5925,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_04_Mat02.mat"
+    },
+    {
+      "guid": "638b953eaddc2484fb53a1c0627cbe3b",
+      "bytes": 348053,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Prefabs/cell_r0_c1.asset"
+    },
+    {
+      "guid": "63a9ede241910074b93165e4c823cb38",
+      "bytes": 161909,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/Bone_C.png"
+    },
+    {
+      "guid": "641abdbec76a1fc4097224dca89c9d7d",
+      "bytes": 4819,
+      "path": "Assets/Polygon Arsenal/Textures/polyGradientMirrored.png"
+    },
+    {
+      "guid": "6442386837fcb7046b9b98ff00490897",
+      "bytes": 2794,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv4 Red.prefab"
+    },
+    {
+      "guid": "6474be68a66a1144b92ee93848b27ce3",
+      "bytes": 54960,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/Massif_05.fbx"
+    },
+    {
+      "guid": "647884b9f03f6db44b457e5ecae9985b",
+      "bytes": 55402,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/新旗帜/HeroFlag_Blue_C.png"
+    },
+    {
+      "guid": "65951361c2b40c6499b6354babcda3e3",
+      "bytes": 75209,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/StarvingDec/Texture/Noise 20.png"
+    },
+    {
+      "guid": "66ad520aada8eb3408f833f074549e1b",
+      "bytes": 7366,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv7 Purple.prefab"
+    },
+    {
+      "guid": "67bf156575d12074682ecd33cc2acdcc",
+      "bytes": 19989,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts/MoveUnitCombat.cs"
+    },
+    {
+      "guid": "67e337d392cf3e04e8137438f47dfc04",
+      "bytes": 18966,
+      "path": "Assets/Lana Studio/Casual RPG VFX/Textures/arrow04.png"
+    },
+    {
+      "guid": "68e6db2ebdc24f95958faec2be5558d6",
+      "bytes": 10600,
+      "path": "Assets/ArtOfWar-II_Art/ThirdParty/TextMesh Pro/Shaders/TMP_SDF.shader"
+    },
+    {
+      "guid": "6908ce397e2f69c439354afb4106431f",
+      "bytes": 4535,
+      "path": "Assets/Script/DashedLineGenerator/Line 3.mat"
+    },
+    {
+      "guid": "69819dd5baeef14439d9a19f119f83d6",
+      "bytes": 14055,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Prefabs/Manager/VideoManager.prefab"
+    },
+    {
+      "guid": "69aef9c25792abf409032746d5a0bd94",
+      "bytes": 2453,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv4.prefab"
+    },
+    {
+      "guid": "6a7db745cae890c4c9c7dd3d5f7555c6",
+      "bytes": 37114,
+      "path": "Assets/20260923-公会战：留了一手/紫方首领 2.prefab"
+    },
+    {
+      "guid": "6ab1886322dc0cf49be211ea938a2a82",
+      "bytes": 707861,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Prefabs/Effect/CFXR Lightning Impact.prefab"
+    },
+    {
+      "guid": "6ab5ef72712ce184eb7a5f0cfd9b0d57",
+      "bytes": 2083,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_12.mat"
+    },
+    {
+      "guid": "6b142da5ef3ae624ebb96bd1d9bf5e3a",
+      "bytes": 5642447,
+      "path": "Assets/000/夜晚天空.png"
+    },
+    {
+      "guid": "6b3be592c21aea04cb0b6f81e1b9d278",
+      "bytes": 8085,
+      "path": "Assets/Scripts/SoldierAnimationController/RoguelikeRingEnemySpawner.cs"
+    },
+    {
+      "guid": "6ba841f720e1040caaa5248aa99ff2e6",
+      "bytes": 8020,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Temp/Generated/ClanWarSlgVoronoi/mesh_faction_5.asset"
+    },
+    {
+      "guid": "6c028c24aee327f4b8979743fd04ce69",
+      "bytes": 1191115,
+      "path": "Assets/20260909-大地图 空城陷阱/Level_up 主塔 2 大.prefab"
+    },
+    {
+      "guid": "6c4813181a1854780a72a8a098cf65bd",
+      "bytes": 28576,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/LandOutline.fbx"
+    },
+    {
+      "guid": "6cf64827e5d898747ab3ed790031699b",
+      "bytes": 3355,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Phases/Base/BaseWater_Flow_Mat.mat"
+    },
+    {
+      "guid": "6d0b15cc4e790f54795ab9b14e42d363",
+      "bytes": 1187945,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/红色斯巴达/SpartanKing_Leonidas_Purple.psd"
+    },
+    {
+      "guid": "6d3d6fafb204751428ba9160312bb294",
+      "bytes": 2596,
+      "path": "Assets/Lana Studio/Casual RPG VFX/Textures/gradient01.png"
+    },
+    {
+      "guid": "6daf77c9bd12074419d9976f5f54ae36",
+      "bytes": 20834,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scene/Demo.unity"
+    },
+    {
+      "guid": "6de4f363510347a489237bd2fc1ecba8",
+      "bytes": 25029,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/ClanWarTower_Orange_C.png"
+    },
+    {
+      "guid": "6e46eb022277fe44eb5eeb162a4551b4",
+      "bytes": 28329,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/DecShadow.shader"
+    },
+    {
+      "guid": "6eb1dc34b8597f542a5c7350fde046fd",
+      "bytes": 7006,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/TL-批量生成插件.playable"
+    },
+    {
+      "guid": "6ec153588af1747be8d2da585c2f4c39",
+      "bytes": 316567,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Prefabs/cell_r1_c2.asset"
+    },
+    {
+      "guid": "6f249d013960e9d409d40911934b352d",
+      "bytes": 7828,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanWarTower_Green_Mat.mat"
+    },
+    {
+      "guid": "6fec7abcffc7bd14baa6bc1b015d58c7",
+      "bytes": 26556536,
+      "path": "Assets/20260923-公会战：留了一手/20260923-公会战：留了一手 第二关 2.unity"
+    },
+    {
+      "guid": "700b776b3826f9240839668e02cf3883",
+      "bytes": 269585,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Smoke_009_Tex.png"
+    },
+    {
+      "guid": "70d7b7e599c35604ba60bda6b56c3184",
+      "bytes": 3363,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv4 Yellow 1.prefab"
+    },
+    {
+      "guid": "71688f2208ad14095a11bf9f27cefcfb",
+      "bytes": 1558,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColor_3.mat"
+    },
+    {
+      "guid": "72232b13003035344a92cf7a38d3f543",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scene"
+    },
+    {
+      "guid": "72511cbbbeab84013a8e8ee930369661",
+      "bytes": 3029,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Materials/Boss.mat"
+    },
+    {
+      "guid": "73c2abeafdee99845abdd7890bae9d5f",
+      "bytes": 5920,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Niose_030_Mat20.mat"
+    },
+    {
+      "guid": "73d89520cf55dc844b4a033452aedc87",
+      "bytes": 3360,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv4 Red 1.prefab"
+    },
+    {
+      "guid": "7447d2ca8b68bad4caad80929487b6c6",
+      "bytes": 6675,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/GuildMap_V02_Mat.mat"
+    },
+    {
+      "guid": "74cd7c27c7dd0a04398cdc5ba17474f5",
+      "bytes": 37242,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_030_Tex.png"
+    },
+    {
+      "guid": "75661cd06cdd6954b81206b96f411c62",
+      "bytes": 15412,
+      "path": "Assets/20260923-公会战：留了一手/Infantry 红 4.prefab"
+    },
+    {
+      "guid": "76587997eb489e54693a35634f1a3987",
+      "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae"
+    },
+    {
+      "guid": "767534756c85435469d21303f3908530",
+      "bytes": 11089,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/Don'tStarveWithRaidMat.shader"
+    },
+    {
+      "guid": "768500ad7df50420690e5315da32eb77",
+      "bytes": 2097,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_4.mat"
+    },
+    {
+      "guid": "77530f0c2937065409250b983174a578",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/2.FBX/Army"
+    },
+    {
+      "guid": "77b0f6d81749b164f8962671d120959f",
+      "bytes": 7774,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Clan_Blue_Mat.mat"
+    },
+    {
+      "guid": "77d8f7b2891413d4b811ed5691048af3",
+      "bytes": 2443,
+      "path": "Assets/20260923-公会战：留了一手/Watchtower.prefab"
+    },
+    {
+      "guid": "791f8e5c56d01da43bbf06bfa134ea26",
+      "bytes": 142536,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/Clan_Orange_C.png"
+    },
+    {
+      "guid": "792ae51ddf769714cad2548669fd27bd",
+      "bytes": 5923,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_002_Mat03.mat"
+    },
+    {
+      "guid": "7a06173713d46d44582c7c6df31cb55d",
+      "bytes": 7826,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanWarTower_Red_Mat.mat"
+    },
+    {
+      "guid": "7a5cbdaed0db47c4fa265e4c9d881543",
+      "bytes": 4814,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_Mat 描边版本.mat"
+    },
+    {
+      "guid": "7acf3a204a87548898eeecad818ae3a8",
+      "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae/com.akbiggs.unitytimer@4554e279ae/Example"
+    },
+    {
+      "guid": "7b352264e18926e4d830a8996613f6ec",
+      "bytes": 20796,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Feature/DesertBazaar/Camera_ConTimeline.playable"
+    },
+    {
+      "guid": "7b453bd879a172f4c8ad0601f58312c4",
+      "bytes": 23991,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_028_Tex.png"
+    },
+    {
+      "guid": "7bf689b52e24eff4ebb123978bff9f5f",
+      "path": "Assets/Script/SortChildrenHelper（按顺序排序修改后缀）"
+    },
+    {
+      "guid": "7c547102eb6044f47b10c5b60fdacaf0",
+      "bytes": 3361,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv4 Blue 1.prefab"
+    },
+    {
+      "guid": "7c8a13a5cb424c74ebc4754c6c3fe187",
+      "bytes": 56228,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts/MatrixVideoManager.cs"
+    },
+    {
+      "guid": "7cffcee11d3eedf419de2716338d3c91",
+      "bytes": 1734,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts/GlobalSignalManager.cs"
+    },
+    {
+      "guid": "7d2c7a326f71b8a48a29774672fae2c8",
+      "path": "Assets/0000000/Script/死亡动画烟雾触发"
+    },
+    {
+      "guid": "7d58d9c31e57e443581fc052b9c2ff0b",
+      "bytes": 7086,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Temp/Generated/ClanWarSlgVoronoi/mesh_faction_6.asset"
+    },
+    {
+      "guid": "7e25bf5b54f1570438b9c4beb5c104f4",
+      "bytes": 6195,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_06_Mat02.mat"
+    },
+    {
+      "guid": "7ec4da9e8cd75334ca2c19c23dee9dc9",
+      "bytes": 65580,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Mask_70_Tex.tga"
+    },
+    {
+      "guid": "7f46bce2d681185469899e91b9fe9143",
+      "bytes": 4389,
+      "path": "Assets/Polygon Arsenal/Materials/Main/PolySolidGlowIntense.mat"
+    },
+    {
+      "guid": "7f78a6ec2f587ef4a8435442b800b309",
+      "bytes": 26376741,
+      "path": "Assets/20260923-公会战：留了一手/20260923-公会战：留了一手 第二关 1.unity"
+    },
+    {
+      "guid": "8009e8e0ec1ced944a6fa5695a83effe",
+      "bytes": 19259,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Prefabs/Army/SnowBallUpdate.prefab"
+    },
+    {
+      "guid": "8055333f0c50653459b678f8334a99b4",
+      "bytes": 623359,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/ClanWar/Texture/BaseWater_02_C.png"
+    },
+    {
+      "guid": "81c783af9d57c464ea8652754d3d1ecf",
+      "bytes": 25098,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/ClanWarTower_Green_C.png"
+    },
+    {
+      "guid": "824b1dbff6011411b977e999e9fc5dfb",
+      "bytes": 2081,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_10.mat"
+    },
+    {
+      "guid": "828d77dc9b636084c9ce241ee22f8e40",
+      "bytes": 141454,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/Clan_Yellow_C.png"
+    },
+    {
+      "guid": "8324e45eb2cb04d2ca7a50f5437b6ac2",
+      "bytes": 3099,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Modules/DOTweenExt.cs"
+    },
+    {
+      "guid": "834deb17090391b48b6858b3b78dc82f",
+      "bytes": 89680,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/ClanWarTower_Lv3.fbx"
+    },
+    {
+      "guid": "834ed360645d74b40bbdc7eb9813d420",
+      "bytes": 6584,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv7 Blue.prefab"
+    },
+    {
+      "guid": "83d369a61d8ac5a40af5a742de91164b",
+      "bytes": 7506,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/ClanWar/Texture/fx_waves_ocean.png"
+    },
+    {
+      "guid": "83dd1958c1df83b4da62210d0182638e",
+      "bytes": 1735,
+      "path": "Assets/Scripts/SoldierAnimationController/NavMeshChaser.cs"
+    },
+    {
+      "guid": "83e72e65a70fb384493087f1f098a762",
+      "bytes": 262188,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Building/Building_1011/Textures/1011_LightningTower_Glow_Tex.tga"
+    },
+    {
+      "guid": "844b565924916364883e05c5baf322f4",
+      "bytes": 25968,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/Bone_02.fbx"
+    },
+    {
+      "guid": "84bb2b806ca3e26458070ef120a3225a",
+      "bytes": 4755,
+      "path": "Assets/Script/AESliderCounter/AESliderCounter.cs"
+    },
+    {
+      "guid": "84e1e658cfb8b594da774e94c36fe456",
+      "bytes": 3362,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv4 Green 1.prefab"
+    },
+    {
+      "guid": "855d56ee45fbfad46921116a5f866082",
+      "bytes": 1177981,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/红色斯巴达/SpartanKing_Leonidas_Yellow.psd"
+    },
+    {
+      "guid": "85e8e2da0b76a4962ad16ed6bf216b0d",
+      "bytes": 5821,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Temp/Generated/ClanWarSlgVoronoi/mesh_faction_1.asset"
+    },
+    {
+      "guid": "8697a875bf572c44abdec53f094946af",
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447"
+    },
+    {
+      "guid": "86fbdfb9d7e5c4336a74fcc892aabb3e",
+      "bytes": 111369,
+      "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae/com.akbiggs.unitytimer@4554e279ae/Example/TimerExampleScene.unity"
+    },
+    {
+      "guid": "87b5b7cfe5e62f84e8b669c263454ff3",
+      "bytes": 24849,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/ClanWarTower_Cyan_C.png"
+    },
+    {
+      "guid": "88f8c0642bd3680449a61fe763cfcd1c",
+      "bytes": 49482,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/新旗帜/HeroFlag_Purple_C.png"
+    },
+    {
+      "guid": "896fde80504b3934fa1c9b5ff54a7f00",
+      "bytes": 7877,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Floatisland_Mat.mat"
+    },
+    {
+      "guid": "8c976a85d4bc089408f27e391cb9845f",
+      "bytes": 25106794,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Temp/ArtClanWarSlgScene.prefab"
+    },
+    {
+      "guid": "8d10de0983d8e40979056539ff484afc",
+      "bytes": 17350,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Materials/dash.PNG"
+    },
+    {
+      "guid": "8e57d766629b7c24d8af4e8859082e21",
+      "bytes": 6589,
+      "path": "Assets/Lana Studio/Casual RPG VFX/Textures/circle_soft02.png"
+    },
+    {
+      "guid": "8f0579c1cfc724a478761772848811a0",
+      "bytes": 4476,
+      "path": "Assets/Script/DashedLineGenerator/Line 1.mat"
+    },
+    {
+      "guid": "8f6e5f3ce25591c4bb64c432aba5b722",
+      "bytes": 175662,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Fire_003_Tex.png"
+    },
+    {
+      "guid": "9096a23b32f7440e6a17796c640dc9bf",
+      "bytes": 5159,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Temp/Generated/ClanWarSlgVoronoi/mesh_faction_7.asset"
+    },
+    {
+      "guid": "9142392807b6d1b4da5ae2b04475b09e",
+      "bytes": 11309,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Circle_007_Tex.png"
+    },
+    {
+      "guid": "920c4df662f2948c4880795ea0922d96",
+      "bytes": 327467,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Prefabs/cell_r2_c1.asset"
+    },
+    {
+      "guid": "92f25dadd4c216d4da5030d1cdee0716",
+      "bytes": 4535,
+      "path": "Assets/Script/DashedLineGenerator/Line 2.mat"
+    },
+    {
+      "guid": "93fd0cec28473fc41a675c7591f0c296",
+      "bytes": 5654,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Snowflake_01_Mat02.mat"
+    },
+    {
+      "guid": "9463b9293ddf41143acddfb524bdc43e",
+      "bytes": 352871,
+      "path": "Assets/Polygon Arsenal/Prefabs/Combat/Dash/DashYellow.prefab"
+    },
+    {
+      "guid": "948b46d01c870104ebcce42ab233d839",
+      "bytes": 143717,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/Clan_Green_C.png"
+    },
+    {
+      "guid": "9519719f33426499293032b5f64b90a4",
+      "bytes": 19252185,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Prefabs/Edit/GuildWarMapEditor.prefab"
+    },
+    {
+      "guid": "9592000f6c51e467aaacfefc139e6a65",
+      "bytes": 9194,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Modules/DOTweenModuleAudio.cs"
+    },
+    {
+      "guid": "95ca7eab6674af7469f323f0607c944e",
+      "path": "Assets/Script/TowerUIItem（塔的UI）"
+    },
+    {
+      "guid": "9653ad563a3f1bd4b857cad35f6d5483",
+      "bytes": 283044,
+      "path": "Assets/VideoPlugIn/VideoPlugIn.rar"
+    },
+    {
+      "guid": "965b2afd9e1cf0442b3d3ecf843caa42",
+      "bytes": 578479,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/GuildMap_C2.png"
+    },
+    {
+      "guid": "9689aa430ab33af4cbc5f766d7301570",
+      "bytes": 2153,
+      "path": "Assets/Script/DashedLineGenerator/line.png"
+    },
+    {
+      "guid": "969aed0207dad63438b10666e6ed6071",
+      "bytes": 6121,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Noise_009_Mat02.mat"
+    },
+    {
+      "guid": "96edaf460fbaa460b92fbebcf5fad264",
+      "bytes": 2897,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/1.Effect/Common FX/Textures/FX_Shadow_03_Tex.png"
+    },
+    {
+      "guid": "97be48b99e26b0149a4d633ff6c8630c",
+      "bytes": 9098,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_700/小兵Moveunit.controller"
+    },
+    {
+      "guid": "97d3989b0f1824b81978c017e4282dc7",
+      "bytes": 50688,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Editor/DOTweenEditor.dll"
+    },
+    {
+      "guid": "98086ea9d35d24dea828c7522eddc3e8",
+      "bytes": 1687,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/1.Effect/Common FX/Materials/FX_Shadow_03_Mat.mat"
+    },
+    {
+      "guid": "985706ce45fb68d4c96174dc8703df6f",
+      "bytes": 4280,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_Mat.mat"
+    },
+    {
+      "guid": "98663383bad2be549bc8e49e1fce1bff",
+      "bytes": 749616,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/Tree_01.fbx"
+    },
+    {
+      "guid": "991429c92d7d90c43b388c0f6813661c",
+      "bytes": 106565,
+      "path": "Assets/20260923-公会战：留了一手/TL-20260923-公会战：留了一手 第二关 1.playable"
+    },
+    {
+      "guid": "994bff44e24df45efbfb6d196febb5b5",
+      "bytes": 4513,
+      "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae/com.akbiggs.unitytimer@4554e279ae/Example/TestTimerBehaviour.cs"
+    },
+    {
+      "guid": "998fb7945eb88d34e8ca16d2009a62df",
+      "bytes": 4414,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_41/TwoHeadedDragon_Mat.mat"
+    },
+    {
+      "guid": "99c8a4a9ad5bb7d47b816e1bc4da79de",
+      "bytes": 7368,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts/MoveUnitArrow.cs"
+    },
+    {
+      "guid": "99c9720ab356a0642a771bea13969a05",
+      "bytes": 10734,
+      "path": "Assets/Scenes/SampleScene.unity"
+    },
+    {
+      "guid": "99ce174cad0c58c40ad19244d2bfa5ee",
+      "bytes": 4540,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/新旗帜/HeroFlag_Green.mat"
+    },
+    {
+      "guid": "99ec1a73f3730f048bcc366743a15f49",
+      "bytes": 11618,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/Homepage_NPC/MatchingPage_NPC/Camera_Begin.playable"
+    },
+    {
+      "guid": "9a45f9f5d6ee4a84dba3e3e347c61e95",
+      "bytes": 2791,
+      "path": "Assets/20260923-公会战：留了一手/Watchtower_Yellow.prefab"
+    },
+    {
+      "guid": "9a4daa9e7048b0f48bbefb30722250a7",
+      "bytes": 1598,
+      "path": "Assets/Script/ArmySpawner/ArmySpawner.cs"
+    },
+    {
+      "guid": "9a68fe15a7ee243459fbc857cd0601d8",
+      "bytes": 31135,
+      "path": "Assets/ArtOfWar-II_Art/Effects/UI/Steer/Sign/Textures/UI_SignIn_Streamer_Glow02_Tex.png"
+    },
+    {
+      "guid": "9af6ea1297f59ab47b794d28d9693ac1",
+      "bytes": 7364,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv7 Green.prefab"
+    },
+    {
+      "guid": "9b219e0464dc30e439ea89eed177f1c4",
+      "bytes": 2158,
+      "path": "Assets/Script/TowerUIItem（塔的UI）/TowerUIItem.cs"
+    },
+    {
+      "guid": "9b6f974a6701846f597dc73f06bfeb80",
+      "bytes": 1534,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColor_0.mat"
+    },
+    {
+      "guid": "9c129a2e555a80540bea4155220b16d5",
+      "bytes": 3363,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv4 Purple 1.prefab"
+    },
+    {
+      "guid": "9c560e2ad907f91449256232c2d32f29",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Prefabs/Manager"
+    },
+    {
+      "guid": "9c6696746f4b5394598cf876be26125a",
+      "bytes": 143280,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/Watchtower.fbx"
+    },
+    {
+      "guid": "9c7578762d4f1f94ba169a506d2a2f93",
+      "bytes": 1919,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Iw_Grey_Mat.mat"
+    },
+    {
+      "guid": "9d38c490f158344ab9beaf13f6d26163",
+      "bytes": 8316,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Temp/Generated/ClanWarSlgVoronoi/mesh_faction_3.asset"
+    },
+    {
+      "guid": "9da52a8965507fd40a40e76012ffc305",
+      "bytes": 5863,
+      "path": "Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_543/Low/Materials/543_TinGiant_Crack_Mat.mat"
+    },
+    {
+      "guid": "9dbbd281c22224c48a1e0f5c0adf6797",
+      "bytes": 24432,
+      "path": "Assets/Polygon Arsenal/Models/PolyGlowTubeCentered.FBX"
+    },
+    {
+      "guid": "9eac2af45d687ea40a8607d27272523f",
+      "bytes": 21456,
+      "path": "Assets/Lana Studio/Casual RPG VFX/Models/Cylinder01.fbx"
+    },
+    {
+      "guid": "9ece563fd5cc04e488b7daddec97adae",
+      "bytes": 9890,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Noise_009_Tex.png"
+    },
+    {
+      "guid": "9f8ec9b19a6a17c499b233028e438146",
+      "bytes": 6010,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_002_Mat02.mat"
+    },
+    {
+      "guid": "9ff423a4e024c7345a6fc0fa2327a438",
+      "path": "Assets/VideoPlugIn/VideoPlugIn"
+    },
+    {
+      "guid": "a01a82c0c8070b244a88b198caadab5d",
+      "bytes": 398,
+      "path": "Assets/Scripts/SoldierAnimationController/BombStart.signal"
+    },
+    {
+      "guid": "a2189ca00ba0fc941a55cfa481042684",
+      "path": "Assets/VideoPlugIn"
+    },
+    {
+      "guid": "a414e6458d3f4fc4e9a4f94ed66507d1",
+      "path": "Assets/Script"
+    },
+    {
+      "guid": "a4e89449d730fc24590bfbb23c3a3414",
+      "bytes": 459925,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_700/Infantry_C.png"
+    },
+    {
+      "guid": "a4ef7c8c33c48a648b7a3053d6c9f322",
+      "bytes": 1181521,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/红色斯巴达/SpartanKing_Leonidas_Green.psd"
+    },
+    {
+      "guid": "a5169dd48d2b8b942bd1ec97d88ac52e",
+      "bytes": 15808,
+      "path": "Assets/Polygon Arsenal/Models/PolySpikeSimple.FBX"
+    },
+    {
+      "guid": "a518900a97491b04098b82eb04c6cd33",
+      "bytes": 4816,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Purple_Mat 描边版本.mat"
+    },
+    {
+      "guid": "a519d8a60c2c06e46b63df227d94f525",
+      "bytes": 5906,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Mask_03_Mat02.mat"
+    },
+    {
+      "guid": "a5297295c7446da41bedece31c32f292",
+      "bytes": 2707,
+      "path": "Assets/Script/SortChildrenHelper（按顺序排序修改后缀）/SortChildrenHelper.cs"
+    },
+    {
+      "guid": "a5f4fde1bc57344568b469fed5cb7483",
+      "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae/com.akbiggs.unitytimer@4554e279ae/Source"
+    },
+    {
+      "guid": "a6396d4441d78954b9dd253b3014bb35",
+      "bytes": 502428,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/GuildMap_V02_C.png"
+    },
+    {
+      "guid": "a6442216cf86f604485942c6ff20ab16",
+      "bytes": 7604,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanWarTower_Pink_Mat.mat"
+    },
+    {
+      "guid": "a6560a915ef98420e9faacc1c7438823",
+      "bytes": 2803,
+      "path": "Assets/Settings/SampleSceneProfile.asset"
+    },
+    {
+      "guid": "a99eeb1aa313347d4817597d2def7a56",
+      "bytes": 9289,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Editor/DOTweenEditor.dll.mdb"
+    },
+    {
+      "guid": "a9d10c1bbda2dc343b2eea2dafe3fecc",
+      "bytes": 403,
+      "path": "Assets/20260909-大地图 空城陷阱/变色.signal"
+    },
+    {
+      "guid": "a9df3d22a064426fb27b8ede4d71f324",
+      "bytes": 14773,
+      "path": "Assets/Scenes/SplatPainterManager.cs"
+    },
+    {
+      "guid": "a9e69c94406f1479fbe1993abb377cf6",
+      "bytes": 6211,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Modules/DOTweenModulePhysics2D.cs"
+    },
+    {
+      "guid": "aaac2c662b2d6964aa32bd72cab882db",
+      "bytes": 3775,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/Material #42.mat"
+    },
+    {
+      "guid": "aad14d765b5bf984593420a93e61d389",
+      "bytes": 1840,
+      "path": "Assets/0000000/Script/死亡动画烟雾触发/DeathEffectCorrectRotation.cs"
+    },
+    {
+      "guid": "abbf6a2c30ba34a119ad4f9af7524cb3",
+      "bytes": 1106,
+      "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae/com.akbiggs.unitytimer@4554e279ae/LICENSE"
+    },
+    {
+      "guid": "abf47a2fe79594f5c86686e745e55107",
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Editor"
+    },
+    {
+      "guid": "ac06ca7546ab65f42ba1ace4b7a9554b",
+      "bytes": 5925,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Crack_003_Mat.mat"
+    },
+    {
+      "guid": "ad0044d8e9fd57d43b3760ac70442bb8",
+      "bytes": 2052,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_11.mat"
+    },
+    {
+      "guid": "ad21601b675086b4aa78efb71dac75c5",
+      "path": "Assets/Script/ArmySpawner"
+    },
+    {
+      "guid": "ad59a7f1548ef894cbaaf3447783e0a6",
+      "bytes": 4390,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Animator/Infantry.controller"
+    },
+    {
+      "guid": "ad647effe60ad0c4a8334471807baec5",
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447"
+    },
+    {
+      "guid": "aef1de8d255f02341bed0dbef5cee6bb",
+      "bytes": 17080,
+      "path": "Assets/Script/TowerUIItem（塔的UI）/TowerOccupationController.cs"
+    },
+    {
+      "guid": "af5515bfe14f1af4a9b8b3bf306b9261",
+      "bytes": 44236,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_NoTileNoise.png"
+    },
+    {
+      "guid": "afbe5e251cdd3964a8a23dbd47e10ae0",
+      "bytes": 646501,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Purple_C 1.psd"
+    },
+    {
+      "guid": "b0733eb6a077c9a4a8c09de9e48bcc0f",
+      "bytes": 5797,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_58_Mat.mat"
+    },
+    {
+      "guid": "b0cbbf7a2d1d70145ad7ca63766f0513",
+      "bytes": 7913,
+      "path": "Assets/Scripts/SoldierAnimationController/DirectChaser.cs"
+    },
+    {
+      "guid": "b138e849c7e67ed469cdebf4d3517da8",
+      "bytes": 7599,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanWarTower_Neutral_Mat.mat"
+    },
+    {
+      "guid": "b145980bb94124220a9ab2063af2fea5",
+      "bytes": 2085,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_2.mat"
+    },
+    {
+      "guid": "b20ca2817b4f14ac78032d3e00fa55ba",
+      "bytes": 4421,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Prefabs/Edit/GuildMap.prefab"
+    },
+    {
+      "guid": "b239af2a82cf07d4593a62a965be5cda",
+      "bytes": 7813,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Clan_Cyan_Mat.mat"
+    },
+    {
+      "guid": "b2fadd772653448638dc6cda9bcc3887",
+      "bytes": 129652,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Prefabs/cell_r1_c1.asset"
+    },
+    {
+      "guid": "b33eb11527b674d81bac181612b36b24",
+      "bytes": 155648,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/DOTween.dll"
+    },
+    {
+      "guid": "b3c42a160a3e2334d872c9f0bed7f7ff",
+      "bytes": 15419,
+      "path": "Assets/20260923-公会战：留了一手/Infantry 红 4-大.prefab"
+    },
+    {
+      "guid": "b3ed9e83085d95542b762dd15b306e7a",
+      "bytes": 2269,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/NeedNot/1Add_mat.mat"
+    },
+    {
+      "guid": "b3f319b0c048bc14ab6492b362270399",
+      "bytes": 10728,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Smoke_025_Tex.png"
+    },
+    {
+      "guid": "b4a1a6e7f3284d647bcf62baeb8262f4",
+      "bytes": 2795,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv4 Blue.prefab"
+    },
+    {
+      "guid": "b51b85f541cd1874bbfcdb4c6ab8e80f",
+      "bytes": 478392,
+      "path": "Assets/Polygon Arsenal/Prefabs/Combat/Aura/ShieldAura/ShieldAuraBlue.prefab"
+    },
+    {
+      "guid": "b58b7d55b1174db3bdb5da78cfc72335",
+      "bytes": 1434,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/ClanWarSlg/URP_StencilMask.shader"
+    },
+    {
+      "guid": "b5dc74afe8dad06428e114d7f262c68d",
+      "bytes": 325872,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/GuildMap_V02.fbx"
+    },
+    {
+      "guid": "b63320cf584db0c45aea08b71f3abdb4",
+      "bytes": 26779,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/2.FBX/BattleUnit/Texture/XiaoBin_Blue_Texture.png"
+    },
+    {
+      "guid": "b6e60ce88d7ecd54c918485a89cd5fbe",
+      "bytes": 4640,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/红色斯巴达/Material Red.mat"
+    },
+    {
+      "guid": "b7ce546aff1aff64a8f41c1c39eaee1e",
+      "bytes": 2505,
+      "path": "Assets/VideoPlugIn/HideGameobjectPlugIn/HideGameobjectPlugIn/Scripts/ScaleGameobject.cs"
+    },
+    {
+      "guid": "b7cf3fca4b0df1049b04e62cf91d7955",
+      "bytes": 9227,
+      "path": "Assets/20260923-公会战：留了一手/Canvas-lv.5 1.prefab"
+    },
+    {
+      "guid": "b7db410b3a41e4095ab5fcfd601b706c",
+      "bytes": 1558,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColor_8.mat"
+    },
+    {
+      "guid": "b834034d2ded48645a3fd6009d280ebd",
+      "bytes": 73725,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/Shadow.png"
+    },
+    {
+      "guid": "b8c61e2e5a268174a8eb0451a3e82f27",
+      "bytes": 1179480,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/红色斯巴达/SpartanKing_Leonidas_Blue.psd"
+    },
+    {
+      "guid": "b8d07a5b7e6294d1ab565523bb0b4b43",
+      "bytes": 3038,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Materials/LV.6.mat"
+    },
+    {
+      "guid": "b8d27a17f523b7649b4a687ad437063a",
+      "bytes": 163579,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/红色斯巴达/SpartanKing_Leonidas_C.png"
+    },
+    {
+      "guid": "b9148ee21e4bd7c4db83a5a00e643988",
+      "bytes": 749616,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/Tree_02.fbx"
+    },
+    {
+      "guid": "b965f5a75867a6945a837b6ea27e2363",
+      "bytes": 4539,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/新旗帜/HeroFlag_Blue.mat"
+    },
+    {
+      "guid": "ba0489ee1ae1eea4a86874975aac794e",
+      "bytes": 642432,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Orange_C 1.psd"
+    },
+    {
+      "guid": "ba11f661495766c40acd70c2c821c819",
+      "bytes": 3643,
+      "path": "Assets/20260428-火车收割版本/Flash 2.mat"
+    },
+    {
+      "guid": "ba1879b602f979444a47d95204fc6dd4",
+      "bytes": 26624,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/Bone_03.fbx"
+    },
+    {
+      "guid": "ba2134306d9050941b1b1ec0b2d12a16",
+      "bytes": 15423,
+      "path": "Assets/20260923-公会战：留了一手/Infantry 紫 4-大.prefab"
+    },
+    {
+      "guid": "baaa6734e1111b84eab9e3e41aeffdd6",
+      "bytes": 101920,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/GuildMap.fbx"
+    },
+    {
+      "guid": "badba13f21a63418395d697bdda29c6c",
+      "bytes": 299085,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Prefabs/cell_r1_c0.asset"
+    },
+    {
+      "guid": "bb96112b42767684a857d98c07e5964e",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Animator"
+    },
+    {
+      "guid": "bbc2507e5b41cee4db5f45760e2df692",
+      "bytes": 649857,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Yellow_C 1.psd"
+    },
+    {
+      "guid": "bbf2e33265c5d4ed795460153ec8c7d0",
+      "bytes": 1398,
+      "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae/com.akbiggs.unitytimer@4554e279ae/Source/TimerExtensions.cs"
+    },
+    {
+      "guid": "bccfd41a2a8cf23459a76e93792e361d",
+      "bytes": 42088,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/ClanWar/Texture/BaseWaterFoam_C.png"
+    },
+    {
+      "guid": "be23d20c3df91a745ab359cd825ca313",
+      "bytes": 64292,
+      "path": "Assets/VideoPlugIn/HideGameobjectPlugIn/HideGameobjectPlugIn/Scene/Demo.unity"
+    },
+    {
+      "guid": "bfe846ed445d85b40b06112db6c70931",
+      "bytes": 4113,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts/ArmUnitManager.cs"
+    },
+    {
+      "guid": "c0302a86018324641bf690621d3a06eb",
+      "bytes": 7353,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv7 Yellow.prefab"
+    },
+    {
+      "guid": "c0bf0a85493341379c71b62fd34ebcf3",
+      "bytes": 34,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Modules/DOTween.Modules.asmdef"
+    },
+    {
+      "guid": "c207f9650320fab41841ab73d55f7cbe",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/1.Effect/Common FX"
+    },
+    {
+      "guid": "c35c24adbdaaf85458434d63ffbd3036",
+      "bytes": 4538,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/新旗帜/HeroFlag_Red.mat"
+    },
+    {
+      "guid": "c3f0fba47947b465284167e08c87114a",
+      "bytes": 14090,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Modules/DOTweenModulePhysics.cs"
+    },
+    {
+      "guid": "c42047238c6a1ca4280abec89a518fb4",
+      "bytes": 2991,
+      "path": "Assets/Polygon Arsenal/Materials/Gradients/PolyGradientSoftMirror_ADD.mat"
+    },
+    {
+      "guid": "c5c17eb599164c9489853ae1a388576f",
+      "path": "Assets/Script/MeshPainter"
+    },
+    {
+      "guid": "c667c1f13f3c81045be171a5cd6cac0b",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource"
+    },
+    {
+      "guid": "c670ff45f04f4d74c9ecd25ec32abd8a",
+      "bytes": 6543,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Phases/Base/GuildMap_Mat.mat"
+    },
+    {
+      "guid": "c6b6cbbe20b3b9648ba8b6f02840c8e8",
+      "bytes": 18571,
+      "path": "Assets/0000000/Script/弹动触发器/StableContactBounce.cs"
+    },
+    {
+      "guid": "c6fb617a6436f69408f942ca9a1420d8",
+      "bytes": 7776,
+      "path": "Assets/Scripts/SoldierAnimationController/HomingArrow.cs"
+    },
+    {
+      "guid": "c70e4bdb33b5fdf468f6d0d9ec0fbff4",
+      "bytes": 5871,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Mask_07_Mat20.mat"
+    },
+    {
+      "guid": "c7aa634aba6f94215bfdcd76cda11756",
+      "bytes": 2092,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_8.mat"
+    },
+    {
+      "guid": "c876efe1622c641daa4ca6bf702c6f09",
+      "bytes": 379872,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/2.FBX/Army/Archer/Archer.FBX"
+    },
+    {
+      "guid": "c8d5401f73e27b548aec1e31852cea39",
+      "bytes": 478563,
+      "path": "Assets/Polygon Arsenal/Prefabs/Combat/Aura/ShieldAura/ShieldAuraPurple.prefab"
+    },
+    {
+      "guid": "c8fa4a5bf31170148be38160ee613b8e",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts"
+    },
+    {
+      "guid": "c902d832c9f69bf45beca9d1f97ae936",
+      "path": "Assets/0000000/Script/涂色笔刷出现控制"
+    },
+    {
+      "guid": "c9a0f7b204af2b947bad7e1687b9bfd6",
+      "bytes": 1212667,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/seamless_watercolor_coral_center_zoom_2x_1024.png"
+    },
+    {
+      "guid": "cad6229c72049ab4ba6ce7570c95ae99",
+      "bytes": 4600,
+      "path": "Assets/20260923-公会战：留了一手/透明 1.mat"
+    },
+    {
+      "guid": "cb1ff39e9363be947a12a44846296b8e",
+      "bytes": 3796117,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Scene/GuildMap_VFX_Effect.prefab"
+    },
+    {
+      "guid": "cb4e822db518f0345af07a402740f649",
+      "bytes": 4527,
+      "path": "Assets/20260923-公会战：留了一手/等级数字-blue.prefab"
+    },
+    {
+      "guid": "cb5a169b4c44f534fb9ef944de767068",
+      "bytes": 3616,
+      "path": "Assets/Scenes/SplatMapEdgeController.cs"
+    },
+    {
+      "guid": "cbf3a6b4a4dbd0b4db3e736fa6c4916d",
+      "bytes": 2081,
+      "path": "Assets/Script/MeshPainter/PrefabTileHelper.cs"
+    },
+    {
+      "guid": "cc7ef5a87d79f2c41b4f6b53a329cfa7",
+      "bytes": 3754,
+      "path": "Assets/Script/TowerUIItem（塔的UI）/Tower.cs"
+    },
+    {
+      "guid": "ccad9b0732473ee4e95de81e50e9050f",
+      "bytes": 118,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_Ramp_UnityGradient.png"
+    },
+    {
+      "guid": "ce499f2dc1371ba41b5222f2c8566035",
+      "bytes": 2790,
+      "path": "Assets/20260923-公会战：留了一手/Watchtower_Green.prefab"
+    },
+    {
+      "guid": "ce53b307912c9f2469c161412882f294",
+      "bytes": 24661,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Red_C.png"
+    },
+    {
+      "guid": "cf27978e31f3e004d99d7be4aaeae995",
+      "bytes": 6030,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_030_Mat.mat"
+    },
+    {
+      "guid": "cfab2d4a93f13224f977bf86c03d6bbe",
+      "bytes": 7832,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/SkyBackground_Mat.mat"
+    },
+    {
+      "guid": "cfb0b3f05b8b36447bf8beecf4a3324e",
+      "bytes": 28912,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/WaterPlane.fbx"
+    },
+    {
+      "guid": "d0b6857b1e6e7af4ba2bf5e30f191bbf",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/1.Effect/Common FX/Textures"
+    },
+    {
+      "guid": "d10466d04f64bcd479b18094624da754",
+      "path": "Assets/Scripts/SoldierAnimationController"
+    },
+    {
+      "guid": "d1305379d14996f4094572029e367d65",
+      "bytes": 1128443,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/seamless_watercolor_orange_yellow_1024.png"
+    },
+    {
+      "guid": "d1eabd908124eff49b29813a816db958",
+      "bytes": 7933,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Phases/Base/Massif_Mat 1.mat"
+    },
+    {
+      "guid": "d2288e8f95e24be48bac234aedd6afc0",
+      "bytes": 2796,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv4 Green.prefab"
+    },
+    {
+      "guid": "d28d00681bece5d4ea9e814823b7695a",
+      "bytes": 7599,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/Massif_C.png"
+    },
+    {
+      "guid": "d4f726de8e5991643a6e6d57db77a7a8",
+      "bytes": 4537,
+      "path": "Assets/20260923-公会战：留了一手/等级数字 1.prefab"
+    },
+    {
+      "guid": "d5570628c602fe2448f5bae24a37e2ed",
+      "bytes": 2064,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/红色斯巴达/SpartanKing_Leonidas_Move.controller"
+    },
+    {
+      "guid": "d55cb2c35e08f864d8a4a6e8f818be48",
+      "bytes": 7598,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanWarTower_Purple_Mat.mat"
+    },
+    {
+      "guid": "d5dca5fb45e4f4c45ae7e9f2c92b02cc",
+      "bytes": 491466,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/BattleWeapon_BombThrower_VFX_Explode_Fire.prefab"
+    },
+    {
+      "guid": "d5dedc593c0840289a85b002229c1858",
+      "bytes": 8150,
+      "path": "Assets/Scenes/FactionTextureManager.cs"
+    },
+    {
+      "guid": "d666a047a55f2474c98b376fc90deb0b",
+      "bytes": 3657,
+      "path": "Assets/VideoPlugIn/HideGameobjectPlugIn/HideGameobjectPlugIn/Recourse/New Material.mat"
+    },
+    {
+      "guid": "d6b2b73e232a5784f8240a941953e752",
+      "bytes": 7813,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Clan_Pink_Mat.mat"
+    },
+    {
+      "guid": "d6ff4c99bf5d70149bf6b8d2d0c69dec",
+      "bytes": 37114,
+      "path": "Assets/20260923-公会战：留了一手/蓝方首领 2.prefab"
+    },
+    {
+      "guid": "d81fbd2688722784eb84848f24b48adf",
+      "bytes": 9917,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts/VideoManager.cs"
+    },
+    {
+      "guid": "d84f1f39583a12d4782b093ebff379e0",
+      "bytes": 24533,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_C.png"
+    },
+    {
+      "guid": "d8e41b2ac672fd043ab428374957e30b",
+      "bytes": 7441,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_005_Tex.png"
+    },
+    {
+      "guid": "d936206daa56c734fa91c2b23417cf2f",
+      "bytes": 18885,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_05_Tex.png"
+    },
+    {
+      "guid": "d93de89561b832b4b95f2a578af84112",
+      "bytes": 15425,
+      "path": "Assets/20260923-公会战：留了一手/Infantry 绿 4-大.prefab"
+    },
+    {
+      "guid": "d9b096b452ea0ea47bafe96f4a6c1fc7",
+      "bytes": 4350,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts/ArmUnitUpdate.cs"
+    },
+    {
+      "guid": "d9d45d4bc889c4140b5ee147adcad52d",
+      "bytes": 26161700,
+      "path": "Assets/20260923-公会战：留了一手/20260923-公会战：留了一手 第一关.unity"
+    },
+    {
+      "guid": "da772d0849f1c454a94490f58908d602",
+      "bytes": 8095,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Shadow_Mat.mat"
+    },
+    {
+      "guid": "dab5d48a769e0ba41b1773b93c062cf9",
+      "bytes": 64641,
+      "path": "Assets/WFL_Art/Environment/Common/GuildMap/Texture/Watchtower_Yellow_C.png"
+    },
+    {
+      "guid": "dac2a9119c36d4bfcad9bb8f04953525",
+      "bytes": 2091,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_5.mat"
+    },
+    {
+      "guid": "db16c1a3224c8431eb41376468a79368",
+      "bytes": 5264,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Editor/DOTweenEditor.XML"
+    },
+    {
+      "guid": "dc2778b912132b6489f000a57446cbfc",
+      "bytes": 2067,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_15.mat"
+    },
+    {
+      "guid": "dc74cb86bdfce53408bca02966cf8764",
+      "bytes": 2962,
+      "path": "Assets/Script/TowerUIItem（塔的UI）/TowerUIManager.cs"
+    },
+    {
+      "guid": "dd3735b8a8883674f878cb6285a4c9a0",
+      "bytes": 50534,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_88_Tex.png"
+    },
+    {
+      "guid": "dd434f9e2d983834ba5f80186b2e05c8",
+      "bytes": 16607,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Mask_02_Tex02.png"
+    },
+    {
+      "guid": "de11b030f2625144f82a653d87230afe",
+      "bytes": 15384,
+      "path": "Assets/20260923-公会战：留了一手/Infantry 黄 4.prefab"
+    },
+    {
+      "guid": "de2105106de630045bff2fa6cacbb645",
+      "bytes": 4643,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/红色斯巴达/Material Yellow.mat"
+    },
+    {
+      "guid": "df2b9af092761834a84455648e378490",
+      "bytes": 7108,
+      "path": "Assets/20260923-公会战：留了一手/ClanWarTower_Lv7 Red.prefab"
+    },
+    {
+      "guid": "df838692d9566c641bb1695cd08649fc",
+      "bytes": 194588,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Feature/GuildMap/GuildMap_V01.prefab"
+    },
+    {
+      "guid": "dfba81d0fa124b242a762d8fce65ea92",
+      "bytes": 12091,
+      "path": "Assets/Scripts/SoldierAnimationController/SoldierFormationController.cs"
+    },
+    {
+      "guid": "e002e8be2019dd74baf0f32be4efe017",
+      "bytes": 2086,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_18.mat"
+    },
+    {
+      "guid": "e061f3cf160661a40a95ab267becf295",
+      "bytes": 1534,
+      "path": "Assets/Scripts/SoldierAnimationController/DamageText.cs"
+    },
+    {
+      "guid": "e1f6442593ca29045aa5d614cbdc210c",
+      "bytes": 44345,
+      "path": "Assets/Lana Studio/Casual RPG VFX/Textures/ring06.png"
+    },
+    {
+      "guid": "e22ae84025ce20e4bb71ed006ac0bc4d",
+      "bytes": 7815,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Clan_Orange_Mat.mat"
+    },
+    {
+      "guid": "e2379343faedb42278190c2f29a0cd88",
+      "bytes": 40205,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Modules/DOTweenModuleUI.cs"
+    },
+    {
+      "guid": "e24b42c7c5a126a4c98b413809fa0913",
+      "bytes": 4643,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/红色斯巴达/Material Purple.mat"
+    },
+    {
+      "guid": "e25765b50a5845842b93e752abab4579",
+      "bytes": 118558,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/12721-normal.png"
+    },
+    {
+      "guid": "e276c27040772f0409007e4724e14a98",
+      "bytes": 37116,
+      "path": "Assets/20260923-公会战：留了一手/绿方首领 2.prefab"
+    },
+    {
+      "guid": "e2b193fce78230b46ae3653b04ae024c",
+      "path": "Assets/Scripts/Billboard"
+    },
+    {
+      "guid": "e443ced7611cdb845ad383a2f5d23327",
+      "bytes": 1099490,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/seamless_watercolor_purple_1024.png"
+    },
+    {
+      "guid": "e4f8729e6426b8e42baa69893165daef",
+      "bytes": 157,
+      "path": "Assets/Scripts/SoldierAnimationController/TargetBuilding.cs"
+    },
+    {
+      "guid": "e525a31775657844ea9918c6f0b2e774",
+      "bytes": 1025064,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/GuildMap_3_C.png"
+    },
+    {
+      "guid": "e536390ccc1c05d46b96ed6b679268c3",
+      "bytes": 108159,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/ClanWar/Shader/SceneCommon.shader"
+    },
+    {
+      "guid": "e53e8737353b8a744b7961adb3473eb1",
+      "bytes": 46625,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Crack_003_Tex.png"
+    },
+    {
+      "guid": "e68f7200cbf38c148aea4166d61e7a69",
+      "bytes": 5927,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_04_Mat02 1.mat"
+    },
+    {
+      "guid": "e75ba6fac4369fb419ea161de15799e6",
+      "bytes": 478554,
+      "path": "Assets/Polygon Arsenal/Prefabs/Combat/Aura/ShieldAura/ShieldAuraGreen.prefab"
+    },
+    {
+      "guid": "e8b9b67d62a2ebb499b4a52a9ace1c3d",
+      "path": "Assets/Script/AESliderCounter"
+    },
+    {
+      "guid": "e915f2be90b717348aa91f47f3e2f4ca",
+      "bytes": 9091,
+      "path": "Assets/Scripts/SoldierAnimationController/LauncherProjectile.cs"
+    },
+    {
+      "guid": "ea063f8655f0e8044a0eeb25e63141f2",
+      "bytes": 98192,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Modle/ClanWarTower_Lv4.fbx"
+    },
+    {
+      "guid": "ea57b032eb03fab45a9de44af26493b5",
+      "bytes": 4913,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_110_Mat.mat"
+    },
+    {
+      "guid": "eb4a1cb215ddba643a0f4b209d53c7a1",
+      "bytes": 7815,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Clan_Purple_Mat.mat"
+    },
+    {
+      "guid": "ec05cd280ae22174f8bd8bc747f0fb02",
+      "bytes": 16651,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Prefabs/Army/SnowBall.prefab"
+    },
+    {
+      "guid": "ec1860b12587948a4be97e1d508ec1b6",
+      "bytes": 816,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/ClanWarSlg/Custom_URP_StencilMask.mat"
+    },
+    {
+      "guid": "eca4d20c0300a7d4794f94f351f41249",
+      "bytes": 438384,
+      "path": "Assets/VideoPlugIn/HideGameobjectPlugIn/HideGameobjectPlugIn/Recourse/Mod_Desert_Cabin.fbx"
+    },
+    {
+      "guid": "ed64bd7db0746674f95272a273b31937",
+      "path": "Assets/VideoPlugIn/HideGameobjectPlugIn"
+    },
+    {
+      "guid": "ee4eb1ca9c1c64949a0e370da021552b",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn"
+    },
+    {
+      "guid": "eeec3ca38abdf98438a43313a01330ae",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Prefabs"
+    },
+    {
+      "guid": "ef65a5caf96f04c44b77c664e28d4fa9",
+      "bytes": 144206,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/Clan_Red_C.png"
+    },
+    {
+      "guid": "ef67da609dabffb4bb8a5ad8de0a03f2",
+      "bytes": 4547,
+      "path": "Assets/20260923-公会战：留了一手/等级数字-Green.prefab"
+    },
+    {
+      "guid": "ef94160a3ba8d4806861243ed9dba6ed",
+      "bytes": 2181,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/1.Effect/Common FX/Materials/FX_XiaoBin_Blue_02_Mat.mat"
+    },
+    {
+      "guid": "f059f76a52d0b374c85c681ed571185e",
+      "bytes": 12046,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_DitherPattern_BlueNoise_64.png"
+    },
+    {
+      "guid": "f0615084ddeb315429fbfa69ee896811",
+      "bytes": 5734,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Mask_03_Tex.png"
+    },
+    {
+      "guid": "f23539c52477cfa49b0670f749d074d9",
+      "bytes": 8937,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts/MoveUnitStatusEffect.cs"
+    },
+    {
+      "guid": "f28c8329987c540409045cdaed9c7e8d",
+      "path": "Assets/20260923-公会战：留了一手"
+    },
+    {
+      "guid": "f357cd2b88ac2184b9bfbea024efc978",
+      "bytes": 83192,
+      "path": "Assets/Polygon Arsenal/Shaders/URP/PolygonArsenal-SolidGlowSoft.shadergraph"
+    },
+    {
+      "guid": "f3bb4466b339c2e4c93ee0a2b5e054fa",
+      "bytes": 134944,
+      "path": "Assets/20260923-公会战：留了一手/TL-20260923-公会战：留了一手 第一关.playable"
+    },
+    {
+      "guid": "f3ceb173fb8a747479cd0d1a56ca6ef7",
+      "bytes": 1691952,
+      "path": "Assets/20260921-策略可视化设计 剧情2诱惑大佬/角色/红色斯巴达/SpartanKing_Leonidas.fbx"
+    },
+    {
+      "guid": "f4e5882e7bdfe4e2880c84d0c17f6b4e",
+      "bytes": 3039,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Materials/Lv.7.mat"
+    },
+    {
+      "guid": "f5fd902658b742b4abf1b75b03780385",
+      "bytes": 16047,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_snowflake_01_Tex.png"
+    },
+    {
+      "guid": "f6eb3f6b6e0964a13bcba0b8f0de8b58",
+      "bytes": 59574,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/DOTween.dll.mdb"
+    },
+    {
+      "guid": "f7d420caf00b4e74c88b3682321312dd",
+      "bytes": 3055,
+      "path": "Assets/ArtResource/Effects/Common_FX/Materials/NeedNot/1AB_mat.mat"
+    },
+    {
+      "guid": "f7dbf236c5bc27b4aa4b7b6ce24f7699",
+      "bytes": 25050,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Texture/ClanWarTower_Pink_C.png"
+    },
+    {
+      "guid": "f848c1dd6b96f40e9a80e00b9803fdf0",
+      "bytes": 62117502,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Prefabs/Map_2.prefab"
+    },
+    {
+      "guid": "f88152eb861cc7a48857feaa9fbcba68",
+      "bytes": 7943,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/Bone_Mat 1.mat"
+    },
+    {
+      "guid": "f894c9a6fa4394f9f8dd44121b24c924",
+      "bytes": 2074,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_6.mat"
+    },
+    {
+      "guid": "f926ff31b59c24db9a34466f32a89b43",
+      "bytes": 4409,
+      "path": "Assets/VideoPlugIn/com.i89.dotween@1e23d99447/com.i89.dotween@1e23d99447/Editor/Imgs/Footer.png"
+    },
+    {
+      "guid": "fa5c51ce3436b0f4284378ac714dc90a",
+      "bytes": 43127,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/ClanWar/Shader/DepthWater.shader"
+    },
+    {
+      "guid": "fa80f8e16a8051c45bf373daac1668c5",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/IslandWar_ArtResource/2.FBX/Army/IceMan"
+    },
+    {
+      "guid": "fad9fbc24d95076449b838980d83532f",
+      "bytes": 7598,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanWarTower_Orange_Mat.mat"
+    },
+    {
+      "guid": "faeb88c246231cb4aafcb2bc5b5b0427",
+      "bytes": 3011,
+      "path": "Assets/Polygon Arsenal/Lights/PolygonLight.prefab"
+    },
+    {
+      "guid": "fb79ec4c9ea321643bdeab2bafcad45c",
+      "bytes": 7370,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scripts/ArmUnit.cs"
+    },
+    {
+      "guid": "fc3110983a0674d9988b7d3deb358841",
+      "bytes": 2911,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Materials/Dash.mat"
+    },
+    {
+      "guid": "fce7ef877dbf34e159480bbc9a26d961",
+      "bytes": 1559,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColor_1.mat"
+    },
+    {
+      "guid": "fde52b7b377b79c439b15a61352584c7",
+      "bytes": 2074,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/Material/ClanColorLine_17.mat"
+    },
+    {
+      "guid": "fdf3dc7e9ad4d464aa1a0638e60c13ce",
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Prefabs/Effect"
+    },
+    {
+      "guid": "fe365c5f8a431384faf9dc4dcb7be7d3",
+      "bytes": 13241,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_110_Tex.png"
+    },
+    {
+      "guid": "fe9c6748d74e74b06a31cbfb5fdad21c",
+      "bytes": 246243,
+      "path": "Assets/ArtOfWar-II_Art/Environment/Common/GuildMap/MapEditor/Prefabs/cell_r2_c2.asset"
+    },
+    {
+      "guid": "fec627cf09bc31b4d9e1b1958d998ef6",
+      "bytes": 6194,
+      "path": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_05_Mat03.mat"
+    },
+    {
+      "guid": "fed1f8e7ad5e5f94784024ed507cb41e",
+      "bytes": 29777,
+      "path": "Assets/Scenes/DecShadow_Tintable.shader"
+    }
+  ],
+  "types": {
+    "": 48,
+    ".prefab": 76,
+    ".fbx": 40,
+    ".png": 98,
+    ".mat": 134,
+    ".cs": 67,
+    ".shader": 16,
+    ".overridecontroller": 1,
+    ".asset": 20,
+    ".md": 1,
+    ".xml": 2,
+    ".txt": 1,
+    ".rar": 3,
+    ".rendertexture": 1,
+    ".psd": 8,
+    ".asmdef": 2,
+    ".playable": 6,
+    ".json": 2,
+    ".tga": 4,
+    ".effect": 1,
+    ".cginc": 2,
+    ".controller": 4,
+    ".unitytimer@4554e279ae": 2,
+    ".jpg": 1,
+    ".ttf": 1,
+    ".shadergraph": 2,
+    ".unity": 7,
+    ".dotween@1e23d99447": 2,
+    ".dll": 2,
+    ".signal": 2,
+    ".mdb": 2
+  },
+  "scenes": [
+    {
+      "guid": "6daf77c9bd12074419d9976f5f54ae36",
+      "bytes": 20834,
+      "path": "Assets/VideoPlugIn/VideoPlugIn/VideoPlugIn/Scene/Demo.unity"
+    },
+    {
+      "guid": "6fec7abcffc7bd14baa6bc1b015d58c7",
+      "bytes": 26556536,
+      "path": "Assets/20260923-公会战：留了一手/20260923-公会战：留了一手 第二关 2.unity"
+    },
+    {
+      "guid": "7f78a6ec2f587ef4a8435442b800b309",
+      "bytes": 26376741,
+      "path": "Assets/20260923-公会战：留了一手/20260923-公会战：留了一手 第二关 1.unity"
+    },
+    {
+      "guid": "86fbdfb9d7e5c4336a74fcc892aabb3e",
+      "bytes": 111369,
+      "path": "Assets/VideoPlugIn/com.akbiggs.unitytimer@4554e279ae/com.akbiggs.unitytimer@4554e279ae/Example/TimerExampleScene.unity"
+    },
+    {
+      "guid": "99c9720ab356a0642a771bea13969a05",
+      "bytes": 10734,
+      "path": "Assets/Scenes/SampleScene.unity"
+    },
+    {
+      "guid": "be23d20c3df91a745ab359cd825ca313",
+      "bytes": 64292,
+      "path": "Assets/VideoPlugIn/HideGameobjectPlugIn/HideGameobjectPlugIn/Scene/Demo.unity"
+    },
+    {
+      "guid": "d9d45d4bc889c4140b5ee147adcad52d",
+      "bytes": 26161700,
+      "path": "Assets/20260923-公会战：留了一手/20260923-公会战：留了一手 第一关.unity"
+    }
+  ]
+}

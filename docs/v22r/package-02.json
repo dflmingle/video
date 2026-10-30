@@ -1,0 +1,158 @@
+{
+  "path": "C:\\Users\\89trillion\\Documents\\WXWork\\1688855976628529\\Cache\\File\\2026-10\\Pve压迫感角色+图片.unitypackage",
+  "bytes": 3965181,
+  "entries": [
+    {
+      "guid": "018a340bf34921e4786f092819f9e144",
+      "bytes": 4130,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Red_Mat.mat"
+    },
+    {
+      "guid": "07bb5a1d6a189ce4bac0edcae0fddfd6",
+      "bytes": 537939,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_712/Beowulf_C.png"
+    },
+    {
+      "guid": "10079a53c5edd8b4780feae0cd25f39c",
+      "bytes": 1109539,
+      "path": "Assets/Pve压迫感/Textures/Background/底图.png"
+    },
+    {
+      "guid": "1a04f7dce203b0647b0f1b1d74101797",
+      "path": "Assets/Pve压迫感/Textures"
+    },
+    {
+      "guid": "1b9b9adf491ebdb41b3519928f8a048b",
+      "bytes": 49573,
+      "path": "Assets/ArtOfWar-II_Art/Shaders/RisingUnit.shader"
+    },
+    {
+      "guid": "2f1df30ab6e44e94487226712942bbb1",
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_835"
+    },
+    {
+      "guid": "344cdb92eb856c047841e7051f02465e",
+      "bytes": 1375664,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_835/Paladin.fbx"
+    },
+    {
+      "guid": "3a717711ff7838949bbe6d22656cfc75",
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_843"
+    },
+    {
+      "guid": "3c9cca6e07f576d41914f44245d6635c",
+      "bytes": 105957,
+      "path": "Assets/Pve压迫感/Pve压迫感 场景.unity"
+    },
+    {
+      "guid": "45051287d5220c4488ec6571c8f71446",
+      "bytes": 4243,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_712/Beowulf_Mat.mat"
+    },
+    {
+      "guid": "6d7c93853d70f894c82d4e4312e3f42b",
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_840"
+    },
+    {
+      "guid": "8fce58049667c914f9f04afa0b3ccd3e",
+      "bytes": 1014,
+      "path": "Assets/Script/ArmySpawner/Editor/ArmySpawnerEditor.cs"
+    },
+    {
+      "guid": "985706ce45fb68d4c96174dc8703df6f",
+      "bytes": 4280,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_Mat.mat"
+    },
+    {
+      "guid": "996101be40234be4abe58f1ef09e13af",
+      "bytes": 2582992,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_712/Beowulf.fbx"
+    },
+    {
+      "guid": "9a4daa9e7048b0f48bbefb30722250a7",
+      "bytes": 3484,
+      "path": "Assets/Script/ArmySpawner/ArmySpawner.cs"
+    },
+    {
+      "guid": "a1fef79a7291fb545adca05b770264b5",
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_712"
+    },
+    {
+      "guid": "a9d20fafb3853da48ba72e682f434893",
+      "bytes": 2540,
+      "path": "Assets/Pve压迫感/RoyalArcher.prefab"
+    },
+    {
+      "guid": "ab84051864c0c664d8778719211f18e0",
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_730"
+    },
+    {
+      "guid": "ad21601b675086b4aa78efb71dac75c5",
+      "path": "Assets/Script/ArmySpawner"
+    },
+    {
+      "guid": "b0bd6264fa207e84eadb0bdec87ae9cf",
+      "path": "Assets/Pve压迫感/Textures/Background"
+    },
+    {
+      "guid": "b66272e9698e77a4d8eeb3cde136aafb",
+      "bytes": 227183,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_730/Halaer_C.png"
+    },
+    {
+      "guid": "b68bd434a2051ea44b043b2c9304a610",
+      "bytes": 1115168,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_730/Halaer.fbx"
+    },
+    {
+      "guid": "c096b32e59b2b7a40a330c50d57d567d",
+      "path": "Assets/Script/ArmySpawner/Editor"
+    },
+    {
+      "guid": "c284becff23cd7242a44cb70165f89bf",
+      "bytes": 1385184,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_840/DwarfBerserker.fbx"
+    },
+    {
+      "guid": "c41e32e97e8e7e9458ecdfb71e28763c",
+      "bytes": 4297,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_730/Halaer_Mat.mat"
+    },
+    {
+      "guid": "c6556cb8b03ed914b8483031aa881994",
+      "path": "Assets/Pve压迫感"
+    },
+    {
+      "guid": "ce53b307912c9f2469c161412882f294",
+      "bytes": 24661,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Red_C.png"
+    },
+    {
+      "guid": "d84f1f39583a12d4782b093ebff379e0",
+      "bytes": 45744,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_C.png"
+    },
+    {
+      "guid": "e0c023ea6101362468e6d7e3d3b84b04",
+      "bytes": 1753152,
+      "path": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_843/RoyalArcher.fbx"
+    }
+  ],
+  "types": {
+    ".mat": 4,
+    ".png": 5,
+    "": 10,
+    ".shader": 1,
+    ".fbx": 5,
+    ".unity": 1,
+    ".cs": 2,
+    ".prefab": 1
+  },
+  "scenes": [
+    {
+      "guid": "3c9cca6e07f576d41914f44245d6635c",
+      "bytes": 105957,
+      "path": "Assets/Pve压迫感/Pve压迫感 场景.unity"
+    }
+  ]
+}

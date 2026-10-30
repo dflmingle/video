@@ -1,0 +1,140 @@
+diff --git a/src/main-v22.js b/src/main-v22.js
+index 2ba7d37..bc98135 100644
+--- a/src/main-v22.js
++++ b/src/main-v22.js
+@@ -14,6 +14,10 @@ const [pos,hitTimes,gait]=await Promise.all([load('trajectories.f32'),load('hit-
+ const blueControl=await load('blue-control.f32');
+ const BLUE_CONTROL_STRIDE=Math.max(4,Math.round(blueControl.length/(S.frames*S.blueCount)));
+ const [redControl,gaitCycles]=await Promise.all([load('red-control.f32'),load('gait-cycles.f32')]);
++// Continuation data is opt-in. Original C1 variants retain the exact old path.
++const [meleeControl,blueHitTimes]=C.meleeContinuation
++ ? await Promise.all([load('melee-control.f32'),load('blue-hit-times.f32')]) : [null,null];
++function meleeAt(frame,j){return meleeControl?Array.from({length:4},(_,k)=>meleeControl[(frame*S.redCount+j)*4+k]):null}
+ function controlAt(t,j){const f=T.MathUtils.clamp(t*C.simulationFps,0,S.frames-1),a=Math.floor(f),b=Math.min(S.frames-1,a+1),w=f-a;return Array.from({length:10},(_,k)=>redControl[(a*S.redCount+j)*10+k]*(1-w)+redControl[(b*S.redCount+j)*10+k]*w)}
+ const query=new URLSearchParams(location.search);let motionData=null;if(query.has('motionOnly')){const [mp,mg]=await Promise.all([load('motion-trajectories.f32'),load('motion-gait-distance.f32')]);motionData={pos:mp,gait:mg};}
+ const capture=query.has('capture');document.body.classList.toggle('capture',capture);
+@@ -46,37 +50,45 @@ function segment(mesh,i,a,b,width=1){const d=b.clone().sub(a);dummy.position.cop
+ function renderAt(t,{diagnostics=false}={}){
+  t=T.MathUtils.clamp(t,0,C.duration-1/C.fps);setCamera(t);const combat=!C.previewOnly&&!(new URLSearchParams(location.search).has('motionOnly'));const motionPos=motionData?.pos||pos;diag.visible=diagnostics;for(const b of armies.batches.values())b.n=0;let sn=0,an=0,hn=0,tn=0,flashes=0,nocked=0;
+  const frame=Math.min(S.frames-1,Math.round(t*C.simulationFps));const behavior=[];
++ // Already emitted C1 arrows and shooter looks must keep their original data.
++ // New future events must not reach backward into the approved opening.
++ const frozenPrefix=C.meleeContinuation&&t<=(S.prefixCutTime??2.65)+1e-9;
++ const visibleEvents=frozenPrefix?S.prefixEvents:S.events;
++ const visibleShooterEvents=frozenPrefix?S.prefixShooterEvents:S.shooterEvents;
+  for(let i=0;i<n;i++){
+   const u=S.units[i],p=row(t,i),before=row(Math.max(0,t-.035),i),vel=[(p[0]-before[0])/.035,(p[1]-before[1])/.035],speed=Math.hypot(...vel),distance=sample(t,i,motionData?.gait||gait,1),a=armies.audit[u.model];let bluePose=null;let action='idle',clock=t+u.phase,yaw=i<nb?Math.PI:0,lean=0,phaseFraction=null;
+-  const hitAge=i<nb||!combat?10:t-hitTimes[frame*S.redCount+i-nb],ctrl=i>=nb?controlAt(t,i-nb):null;
++  const hitAge=!combat?10:i<nb?(blueHitTimes?t-blueHitTimes[frame*nb+i]:10):t-hitTimes[frame*S.redCount+i-nb],ctrl=i>=nb?controlAt(t,i-nb):null;
++  const mc=i>=nb&&C.meleeContinuation&&!frozenPrefix?meleeAt(frame,i-nb):null;
+   let memberState='WAIT',currentEvent=null,bluePhase=null,blueWalkPhase=null,blueFacing=null,blueTargetYaw=null,blueProgress=null,blueReleaseId=null;
+-  if(i<nb){
++  if(i<nb&&!(C.meleeContinuation&&combat&&Number.isFinite(u.deathTime)&&t>=u.deathTime)){
+    const bc=Array.from({length:BLUE_CONTROL_STRIDE},(_,k)=>blueControl[(frame*nb+i)*BLUE_CONTROL_STRIDE+k]),state=Math.round(bc[0]),timer=bc[1],target=Math.round(bc[2]);
+    memberState=['WAITING','MOVING','ARRIVING','AIMING','DRAWING','RELEASING','RECOVERING','TURNING'][state]||'WAIT'; bluePhase=Number.isFinite(bc[6])?bc[6]:null; blueWalkPhase=Number.isFinite(bc[4])?bc[4]:null; blueFacing=Number.isFinite(bc[8])?bc[8]:null; blueTargetYaw=Number.isFinite(bc[9])?bc[9]:null; blueProgress=Number.isFinite(bc[10])?Math.min(1,Math.max(0,bc[10])):null; blueReleaseId=Number.isFinite(bc[11])?Math.round(bc[11]):null;
+    if(state===1||state===2){const arrivalProgress=state===2?T.MathUtils.clamp(timer/.16,0,1):0;action='move';clock=(((bc[4]??(distance/C.blueStride+u.phase))%1)+arrivalProgress*.035)*a.clips.move.duration;lean=.045*Math.min(1,speed/4)*(1-arrivalProgress*.85)} else if(state===7){action='move';clock=(.08+(blueProgress??0)*.04)*a.clips.move.duration;lean=0;yaw=blueFacing??Math.PI}
+    else if(state>=3){
+     if(Number.isFinite(blueTargetYaw)){yaw=blueTargetYaw}else if(target>=0){const goal=row(t,nb+target);yaw=Math.atan2(goal[0]-p[0],goal[1]-p[1])}
+-    let e=null;for(const k of S.shooterEvents[i]){const v=S.events[k];if(t>=v.aimStart&&t<v.release+u.recoverSeconds+.04)e=v}
++    let e=null;for(const k of visibleShooterEvents[i]){const v=visibleEvents[k];if(t>=v.aimStart&&t<v.release+u.recoverSeconds+.04)e=v}
+     if(e){currentEvent=e.id;yaw=Math.atan2(e.destination[0]-p[0],e.destination[2]-p[1])}
+     action='attack';phaseFraction=Number.isFinite(bc[6])?Math.min(.999,Math.max(0,bc[6])):(state===3?.10+.03*(blueProgress??0):state===4?.12+.52*(blueProgress??Math.min(1,timer/u.drawSeconds)):state===5?.64:.64+.359*(blueProgress??Math.min(1,timer/u.recoverSeconds)));
+     if(state===4){yaw=blueFacing??yaw;const ix=Math.min(a.clips.attack.phases-1,Math.floor(phaseFraction*a.clips.attack.phases)),loc=a.poseAnchors.attack[ix].leftHand;const h=new T.Vector3(p[0]+loc[0]*Math.cos(yaw)+loc[2]*Math.sin(yaw),loc[1],p[1]-loc[0]*Math.sin(yaw)+loc[2]*Math.cos(yaw)),d=new T.Vector3(Math.sin(yaw),.03,Math.cos(yaw));segment(arrowMesh,an++,h.clone().addScaledVector(d,-.4),h.clone().addScaledVector(d,.6));nocked++}
+    }
+    bluePose=resolveArcherPose({bc,speed,unit:u,time:t,attackDuration:a.clips.attack.duration,moveDuration:a.clips.move.duration});
+    action=bluePose.action;phaseFraction=bluePose.phaseFraction;yaw=bluePose.yaw;
+-  }else if(combat&&u.deathTime!==null&&t>=u.deathTime){action='death';memberState='DEAD';clock=Math.min(a.clips.death.duration-.001,(t-u.deathTime)/C.deathSeconds*a.clips.death.duration)}
++  }else if(combat&&u.deathTime!==null&&t>=u.deathTime){action='death';memberState='DEAD';clock=Math.min(a.clips.death.duration-.001,(t-u.deathTime)/C.deathSeconds*a.clips.death.duration);if(i<nb)yaw=blueControl[(frame*nb+i)*BLUE_CONTROL_STRIDE+8];}
++  else if(mc&&Math.round(mc[0])===2){action='attack';memberState='MELEE_ATTACK';phaseFraction=T.MathUtils.clamp(mc[1],0,.999);yaw=mc[3];}
+   else if(speed>.02){action='move';memberState=hitAge>=0&&hitAge<C.hitPoseSeconds?'STAGGER':hitAge>=0&&hitAge<10?'WOUNDED':t<u.delay+u.accelerationSeconds?'ACCELERATE':Math.round(ctrl[9])===3?'YIELD':Math.round(ctrl[9])===2?'PASS':ctrl[2]>.55?'PUSH':ctrl[2]<-.55?'SETTLE':'CHARGE';clock=(sample(t,i,gaitCycles,1)+u.phase)*a.clips.move.duration;yaw=ctrl[7];lean=C.runLean*Math.min(1,speed/8);}
+   else if(i>=nb&&t>=u.delay){memberState='YIELD';yaw=ctrl[7];}
++  if(mc&&Math.round(mc[0])===1&&action!=='death'){yaw=mc[3];memberState=speed>.02?'MELEE_APPROACH':'MELEE_BLOCKED';}
+   // Hit response affects upper body only; distance-driven running legs continue.
+   const impactPoseScale=C.impactPoseScale??1;
+   const clip=a.clips[action];let phase=phaseFraction!==null?Math.floor(phaseFraction*clip.phases):action==='death'?Math.floor(clock/clip.duration*clip.phases):Math.floor(((clock%clip.duration+clip.duration)%clip.duration)/clip.duration*clip.phases);phase=Math.min(clip.phases-1,phase);
+   const phaseFloat=phaseFraction!==null?phaseFraction*clip.phases:action==='death'?clock/clip.duration*clip.phases:((clock%clip.duration+clip.duration)%clip.duration)/clip.duration*clip.phases;const b=armies.batches.get(`${u.model}/${action}/${phase}`);b.moveWeight.setX(b.n,bluePose?(action==='move'?bluePose.walkWeight:action==='attack'?bluePose.attackWeight:1):i>=nb&&action==='move'?T.MathUtils.smoothstep(speed,0,4):1);b.blend.setX(b.n,Math.min(1,Math.max(0,phaseFloat-phase)));const runningLift=i>=nb&&action==='move'?.025*Math.pow(Math.sin(clock/a.clips.move.duration*Math.PI*2),2):0;dummy.position.set(p[0],.015+runningLift,p[1]);dummy.rotation.set(lean,yaw,0,'YXZ');dummy.scale.setScalar(1);dummy.updateMatrix();b.mesh.setMatrixAt(b.n,dummy.matrix);b.memberPose.setXYZW(b.n,action!=='death'&&i>=nb&&hitAge>=0&&hitAge<C.hitPoseSeconds?impactPoseScale*Math.sin(Math.PI*hitAge/C.hitPoseSeconds):0,i>=nb&&action==='move'?ctrl[5]:0,i>=nb&&action==='move'?ctrl[3]/C.runStride:1,i>=nb&&action==='move'?ctrl[6]:0);b.hit.setX(b.n++,hitAge>=0&&hitAge<C.flashSeconds?.25*(1-hitAge/C.flashSeconds):0);
+   if(b.locomotion)b.locomotion.setXY(b.n-1,bluePose?.gaitPhase??0,action==='attack'?T.MathUtils.smoothstep(speed,.02,u.walkSpeed*.65):0);
+-  behavior.push({id:u.id,index:i,state:memberState,action,phase,phaseFloat,archerPhase:bluePhase,archerWalkPhase:blueWalkPhase,archerFacing:blueFacing,archerTargetYaw:blueTargetYaw,archerProgress:blueProgress,releaseEventId:blueReleaseId,speed,x:p[0],z:p[1],event:currentEvent,hitAge:i>=nb?hitAge:null,targetSpeed:ctrl?.[0]??null,acceleration:ctrl?.[2]??null,stride:ctrl?.[3]??null,cadence:ctrl?.[4]??null,posture:ctrl?.[5]??null,armSwing:ctrl?.[6]??null,turn:ctrl?.[7]??null,effort:ctrl?.[8]??null,reason:ctrl?Math.round(ctrl[9]):null,gaitCycles:i>=nb?sample(t,i,gaitCycles,1):null});
++  behavior.push({id:u.id,index:i,state:memberState,action,phase,phaseFloat,archerPhase:bluePhase,archerWalkPhase:blueWalkPhase,archerFacing:blueFacing,archerTargetYaw:blueTargetYaw,archerProgress:blueProgress,releaseEventId:blueReleaseId,speed,x:p[0],z:p[1],event:currentEvent,hitAge:i>=nb||blueHitTimes?hitAge:null,targetSpeed:ctrl?.[0]??null,acceleration:ctrl?.[2]??null,stride:ctrl?.[3]??null,cadence:ctrl?.[4]??null,posture:ctrl?.[5]??null,armSwing:ctrl?.[6]??null,turn:ctrl?.[7]??null,effort:ctrl?.[8]??null,reason:ctrl?Math.round(ctrl[9]):null,gaitCycles:i>=nb?sample(t,i,gaitCycles,1):null,...(mc?{meleePhase:mc[1],meleeTarget:Math.round(mc[2])}:{} )});
+   dummy.position.set(p[0],-p[1],.01);dummy.rotation.set(0,0,0);dummy.scale.set(1,1,1);dummy.updateMatrix();shadows.setMatrixAt(sn++,dummy.matrix);
+  }
+  window.lastBehavior=behavior;
+  for(const b of armies.batches.values()){b.mesh.count=b.n;b.mesh.instanceMatrix.needsUpdate=true;b.hit.needsUpdate=true;b.response.needsUpdate=true;b.posture.needsUpdate=true;b.gaitScale.needsUpdate=true;b.memberPose.needsUpdate=true;b.blend.needsUpdate=true;b.moveWeight.needsUpdate=true;if(b.locomotion)b.locomotion.needsUpdate=true}shadows.count=sn;shadows.instanceMatrix.needsUpdate=true;
+- for(const e of (combat?S.events:[])){
++ for(const e of (combat?visibleEvents:[])){
+   if(t>=e.release&&t<e.impact){const p=arrowPoint(e,t),q=arrowPoint(e,Math.min(e.impact,t+.012)),d=q.clone().sub(p).normalize(),a=p.clone().addScaledVector(d,-1);segment(arrowMesh,an++,a,p);dummy.position.copy(p);dummy.quaternion.setFromUnitVectors(yAxis,d);dummy.scale.setScalar(1);dummy.updateMatrix();heads.setMatrixAt(hn,dummy.matrix);dummy.position.copy(p).addScaledVector(d,-.85);dummy.updateMatrix();feathers.setMatrixAt(hn++,dummy.matrix);const from=Math.max(e.release,t-C.arrowTailSeconds),to=Math.max(from,t-.016);for(let k=0;k<3;k++){const ta=from+(to-from)*k/3,tb=from+(to-from)*(k+1)/3;segment(trails,tn++,arrowPoint(e,ta),arrowPoint(e,tb),1-k*.15)}}
+   const age=t-e.impact;if(e.resolution==='IMPACT_IN_SHOT'&&age>=0&&age<.2){const p=row(t,e.target);for(let k=0;k<4;k++){dummy.position.set(p[0]+Math.sin(k*2.4)*age*2,.8+age*1.2,p[1]+Math.cos(k*2.4)*age*2);dummy.rotation.set(age*5,k,0);dummy.scale.setScalar((1-age/.2)*.48);dummy.updateMatrix();sparks.setMatrixAt(flashes++,dummy.matrix)}}
+  }
+diff --git a/tools/archers_v22.py b/tools/archers_v22.py
+index 5b8e0e7..6285d27 100644
+--- a/tools/archers_v22.py
++++ b/tools/archers_v22.py
+@@ -144,6 +144,9 @@ class Archers:
+         self.previous[:] = self.position
+         desired = np.zeros_like(self.velocity)
+         for j, u in enumerate(self.units):
++            if getattr(self,'deadMask',None) is not None and self.deadMask[j]:
++                self.state[j]=0
++                continue
+             if t < u['delay']:
+                 continue
+             if self.state[j] == 0:
+@@ -178,12 +181,14 @@ class Archers:
+                 # Bounded spring + damping. This is a velocity target, not
+                 # direct slot placement or a post-render additive displacement.
+                 desired_velocity = _limit(error * 8., .85)
++            if getattr(self,'evasionVelocity',None) is not None and self.melee_blocked(j):
++                desired_velocity=self.evasionVelocity[j]
+             acceleration = _limit((desired_velocity - self.velocity[j]) * 14.,
+                                   u['walkAccel'] if np.dot(desired_velocity, self.velocity[j]) >= 0
+                                   else u['walkBrake'])
+             desired[j] = self.velocity[j] + acceleration * dt
+             self.targetYaw[j] = self._threat_yaw(j)
+-            if independent_deployment and self.state[j] in (1,2) and t >= u['delay'] + .10 + .12*u['phaseOffset']:
++            if independent_deployment and not self.melee_blocked(j) and self.state[j] in (1,2) and t >= u['delay'] + .10 + .12*u['phaseOffset']:
+                 # Preparation may overlap assembly, but target selection and
+                 # release still use real range, individual aim/draw and facing.
+                 self.enter(j,3,t)
+@@ -199,7 +204,8 @@ class Archers:
+                 if self.turnPhase[j] >= 1 and abs(delta) < .10:
+                     u['readyAt'] = float(t)
+                     self.enter(j, 3)
+-        self.velocity[:] = self._safe_velocity(desired, dt)
++        projector=getattr(self,'jointVelocityProjector',None)
++        self.velocity[:] = projector(desired,dt) if projector else self._safe_velocity(desired, dt)
+         self.position += self.velocity * dt
+         actual_step = np.linalg.norm(self.position - self.previous, axis=1)
+         self.pathDistance += actual_step
+@@ -327,6 +333,9 @@ class Archers:
+     def reserved_for_member(self, j, reserved):
+         return reserved
+ 
++    def melee_blocked(self,j):
++        return getattr(self,'meleeBlocked',None) is not None and bool(self.meleeBlocked[j])
++
+     def ready_to_draw(self, j, t):
+         return True
+ 
+@@ -340,6 +349,7 @@ class Archers:
+                    if v >= 0 and self.state[j] in (3, 4)}
+         for j, u in enumerate(self.units):
+             st = int(self.state[j])
++            if self.melee_blocked(j) or (getattr(self,'deadMask',None) is not None and self.deadMask[j]):continue
+             if st not in (3, 4, 5, 6): continue
+             member_reserved = self.reserved_for_member(j, reserved)
+             target = int(self.target[j])
+diff --git a/tools/build_simulation_v22.py b/tools/build_simulation_v22.py
+index d9c5913..31b040b 100644
+--- a/tools/build_simulation_v22.py
++++ b/tools/build_simulation_v22.py
+@@ -126,6 +126,10 @@ for f in range(N):
+    fired[j].append(len(events)-1);return e
+   archers.update_fire(t,dt,rp,hp,reserved,spawn)
+  blueControls[f]=archers.control()
++ if C.get('checkpointFrame')==f:
++  import pickle
++  checkpoint=dict(frame=f,config=dict(C),motion=motion,archers=archers,blueResponse=blueResponse,red=red,blue=blue,hp=hp,death=death,hit=hit,events=events,scheduled=scheduled,nextAllowed=nextAllowed,responses=responses)
++  with (O/'continuation-checkpoint.pkl').open('wb') as checkpointFile:pickle.dump(checkpoint,checkpointFile,protocol=5)
+  if f%120==0:print('SIM',round(t,2),'alive',int(alive.sum()),'arrows',len(events),flush=True)
+ if terminationEvidence is None:
+  terminationEvidence=dict(reason='REQUESTED_DURATION_REACHED',requestedDuration=requestedDuration,lastAcceptedFrame=N-1,lastAcceptedTime=(N-1)*dt)

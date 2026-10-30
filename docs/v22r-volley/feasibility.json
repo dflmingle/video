@@ -1,0 +1,139 @@
+{
+  "variant": "V22R-volley",
+  "frames": 241,
+  "lastComputedTime": 4.0,
+  "candidates": [
+    {
+      "label": "A",
+      "duration": 3.0,
+      "available": true,
+      "status": "NUMERIC_PASS_VISUAL_PENDING",
+      "releases": 1052,
+      "hits": 932,
+      "kills": 93,
+      "shootersTwoOrMore": 252,
+      "shootersThreeOrMore": 252,
+      "firstRelease": 0.3833333333333333,
+      "lastRelease": 2.9833333333333334,
+      "firstHit": 0.5666666666666667,
+      "continuousFlightCoverageSeconds": 2.6166666666666667,
+      "releaseSpanSeconds": 2.6,
+      "minimumSurfaceGap": 4.644583228357779,
+      "minimumConservativeGap": 4.583025445767382,
+      "gapAtEnd": 4.6444848028261125,
+      "minimumRedSpacing": 0.6144205353977291,
+      "minimumBlueSpacing": 0.614997109470643,
+      "redMeanAdvance": 15.905444145202637,
+      "redTailMeanSpeed": 0.3236729383468628,
+      "redTailMovingMean": 807.4,
+      "blueMeanAssembly": 3.0953357219696045,
+      "noAllArmyFreeze": true,
+      "allBodyDeathRootsFixed": true
+    },
+    {
+      "label": "B",
+      "duration": 3.5,
+      "available": true,
+      "status": "NUMERIC_PASS_VISUAL_PENDING",
+      "releases": 1229,
+      "hits": 1123,
+      "kills": 223,
+      "shootersTwoOrMore": 252,
+      "shootersThreeOrMore": 252,
+      "firstRelease": 0.3833333333333333,
+      "lastRelease": 3.4833333333333334,
+      "firstHit": 0.5666666666666667,
+      "continuousFlightCoverageSeconds": 3.1166666666666667,
+      "releaseSpanSeconds": 3.1,
+      "minimumSurfaceGap": 4.612188493447918,
+      "minimumConservativeGap": 4.5701481290005885,
+      "gapAtEnd": 4.609170879661419,
+      "minimumRedSpacing": 0.6144050348633874,
+      "minimumBlueSpacing": 0.614997109470643,
+      "redMeanAdvance": 16.015159606933594,
+      "redTailMeanSpeed": 0.267803418636322,
+      "redTailMovingMean": 700.4,
+      "blueMeanAssembly": 3.113792896270752,
+      "noAllArmyFreeze": true,
+      "allBodyDeathRootsFixed": true
+    },
+    {
+      "label": "C",
+      "duration": 4.0,
+      "available": true,
+      "status": "NUMERIC_PASS_VISUAL_PENDING",
+      "releases": 1414,
+      "hits": 1301,
+      "kills": 364,
+      "shootersTwoOrMore": 252,
+      "shootersThreeOrMore": 252,
+      "firstRelease": 0.3833333333333333,
+      "lastRelease": 3.9833333333333334,
+      "firstHit": 0.5666666666666667,
+      "continuousFlightCoverageSeconds": 3.6166666666666667,
+      "releaseSpanSeconds": 3.6,
+      "minimumSurfaceGap": 4.597516084754987,
+      "minimumConservativeGap": 4.536218221261122,
+      "gapAtEnd": 4.628480826542462,
+      "minimumRedSpacing": 0.6144050348633874,
+      "minimumBlueSpacing": 0.6149969451168512,
+      "redMeanAdvance": 16.10791778564453,
+      "redTailMeanSpeed": 0.26460538506507875,
+      "redTailMovingMean": 591.2,
+      "blueMeanAssembly": 3.126497983932495,
+      "noAllArmyFreeze": true,
+      "allBodyDeathRootsFixed": true
+    }
+  ],
+  "firstMotion": {
+    "red": 0.016666666666666666,
+    "blue": 0.016666666666666666
+  },
+  "firstRange": 0.0,
+  "initialCenterDistance": 14.85158507455348,
+  "initialSurfaceGap": 8.65158507455348,
+  "redStartsBounds": {
+    "x": [
+      -22.88300895690918,
+      19.316221237182617
+    ],
+    "z": [
+      -28.655174255371094,
+      11.100000381469727
+    ]
+  },
+  "blueStartsBounds": {
+    "x": [
+      -19.350000381469727,
+      19.350000381469727
+    ],
+    "z": [
+      25.950000762939453,
+      45.650001525878906
+    ]
+  },
+  "wallFrontZ": -29.7378,
+  "allRedStartsInFrontOfWall": true,
+  "translationMaxError": 2.6645352591003757e-15,
+  "releasePhaseMaxError": 1.4305114759416426e-08,
+  "invalidReleaseEvents": [],
+  "sceneAndCameraFilesUnchanged": true,
+  "sourceHashes": {
+    "src/castle-approved-v22r.js": "c3be4aaf41f0d8bd2f1b9a76b96cfcd705300323f436badfe3033432b28493b6",
+    "src/environment-native-v22.js": "5116f2620a83383ca7dede2c6fe6327b5f1a820b7baf344b60c8a857fa1816fe",
+    "public/native-scenes/CastleExterior-scene/manifest.json": "631e222361b70bf4948ce54deae556ae1f480365e8e7165493c24161e386e833"
+  },
+  "simulationHashes": {
+    "params.json": "5fd9289761398333a972940818cedb39136c6c5347c9fda6bb71d68f25ca3ca5",
+    "simulation.json": "7dc4121b417f494c60562ce09de08e10cbc0a0a87a4fd1b3726613ae9b45b366",
+    "trajectories.f32": "a32cbde6ba55893a29e331de506e5cc27b0caf34819c6ba9d9e3c5fdae54ea4d",
+    "blue-control.f32": "3488dcc34d57ab877826b7ea278e9174e47bded34a53efe2cdebdf73b543f085"
+  },
+  "visualAcceptance": "PENDING: numeric tests cannot establish normal-speed visual acceptance",
+  "staticOccupancy": {
+    "meshIslands": 29,
+    "minimumSignedClearance": 0.3325542605202578,
+    "requiredBodyRadius": 0.29,
+    "method": "Original world mesh disconnected islands, convex hull of vertices in living-body height band; conservative boundary, not hand-drawn arena sectors"
+  }
+}

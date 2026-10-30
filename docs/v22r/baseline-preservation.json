@@ -1,0 +1,33 @@
+{
+  "baseline": "dfcb24c",
+  "sources": [
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V23\\output\\V22-V23-INDIVIDUAL-same-time-normal-speed.mp4",
+      "bytes": 4372120,
+      "sha256": "0260bdd61064283405636cc8c66ae98af9f559e6b76058d46152ca4b4e4fcbaa"
+    },
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22\\output\\V22-C-B-formal-native-recapture.mp4",
+      "bytes": 13683359,
+      "sha256": "389750d0fbe20b485ff167e739a25e9d9294096691f7e578b94905fdf8cdbda0"
+    },
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22\\output\\V22-C-B-scene-image-final.mp4",
+      "bytes": 13964240,
+      "sha256": "25849e8b6b32d6b7028b38fc5472ab3e92379b309a52a5b21261afa4671f5d0a"
+    },
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\variants\\V22-C\\trajectories.npy",
+      "bytes": 1948736,
+      "sha256": "3bd333265f4d74a5f3d7462766c3e181ca059304f221c5b6d292596eab1cf33f"
+    },
+    {
+      "path": "C:\\Users\\89trillion\\PveMontageShot01V22R\\docs\\v22r\\user-reference.png",
+      "bytes": 84062,
+      "sha256": "1ab511f8f350c013df7f4498ff2ad7c020fbb8587cc611b0ee60c228128dd0e0"
+    }
+  ],
+  "productionRendererCameraAndBaselineUnchanged": true,
+  "oldVideosNotOverwritten": true,
+  "scope": "V22-R audit and opt-in opening simulation experiment; no V23 backport or formal scene replacement"
+}

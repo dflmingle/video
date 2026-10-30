@@ -1,0 +1,1247 @@
+{
+    "source": "Assets/ArtOfWar-II_Art/Environment/Feature/CogworkWastes/CogworkWastes.unity",
+    "unityVersion": "6000.0.54f1",
+    "matrixLayout": "column-major, Unity world coordinates; use Matrix4.fromArray",
+    "objects": [
+        {
+            "path": "CogworkWastes_Grp/CogworkWastes_Land/CogworkWastes_Land",
+            "mesh": 0,
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "materials": [
+                0
+            ],
+            "boundsCenter": {
+                "x": -22.05074691772461,
+                "y": -1.1255751848220826,
+                "z": 0.0
+            },
+            "boundsSize": {
+                "x": 184.52130126953126,
+                "y": 2.2050344944000246,
+                "z": 183.0155487060547
+            }
+        },
+        {
+            "path": "CogworkWastes_Grp/CogworkWastes_Land/CogworkWastes_Gird",
+            "mesh": 1,
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "materials": [
+                1
+            ],
+            "boundsCenter": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 81.43766784667969
+            },
+            "boundsSize": {
+                "x": 238.38999938964845,
+                "y": 0.0,
+                "z": 223.3946533203125
+            }
+        },
+        {
+            "path": "CogworkWastes_Grp/CogworkWastes_Dec/CogworkWastes_Floortile01",
+            "mesh": 2,
+            "matrix": [
+                -5.79897928237915,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -6.593148782485514e-7,
+                5.530734539031982,
+                0.0,
+                0.0,
+                4.802344799041748,
+                -5.724840548282373e-7,
+                0.0,
+                -56.900001525878909,
+                -0.25,
+                37.13766860961914,
+                1.0
+            ],
+            "materials": [
+                2
+            ],
+            "boundsCenter": {
+                "x": -32.32551193237305,
+                "y": -0.2762141227722168,
+                "z": 35.07170867919922
+            },
+            "boundsSize": {
+                "x": 6.773629188537598,
+                "y": 1.0503506660461426,
+                "z": 10.53513240814209
+            }
+        },
+        {
+            "path": "CogworkWastes_Grp/CogworkWastes_Dec/CogworkWastes_Gear01",
+            "mesh": 3,
+            "matrix": [
+                -4.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                4.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -4.0,
+                0.0,
+                22.889999389648439,
+                0.0,
+                -24.52233123779297,
+                1.0
+            ],
+            "materials": [
+                2
+            ],
+            "boundsCenter": {
+                "x": 22.889999389648439,
+                "y": 0.29015809297561648,
+                "z": -24.52233123779297
+            },
+            "boundsSize": {
+                "x": 3.477870464324951,
+                "y": 0.5803161859512329,
+                "z": 3.4818315505981447
+            }
+        },
+        {
+            "path": "CogworkWastes_Grp/CogworkWastes_Dec/CogworkWastes_Gear02",
+            "mesh": 4,
+            "matrix": [
+                -7.051037311553955,
+                0.0,
+                -3.5603575706481935,
+                0.0,
+                -3.5603575706481935,
+                0.0,
+                7.051036834716797,
+                0.0,
+                0.0,
+                7.898939609527588,
+                0.0,
+                0.0,
+                -2.200000047683716,
+                -0.0402350015938282,
+                29.837669372558595,
+                1.0
+            ],
+            "materials": [
+                2
+            ],
+            "boundsCenter": {
+                "x": -26.351247787475587,
+                "y": 0.11699658632278443,
+                "z": 17.614824295043947
+            },
+            "boundsSize": {
+                "x": 10.327372550964356,
+                "y": 7.605484485626221,
+                "z": 11.087186813354493
+            }
+        },
+        {
+            "path": "CogworkWastes_Grp/CogworkWastes_Dec/CogworkWastes_House01",
+            "mesh": 5,
+            "matrix": [
+                -5.230731010437012,
+                0.0,
+                0.8182181715965271,
+                0.0,
+                0.0,
+                4.88414192199707,
+                0.0,
+                0.0,
+                -0.8182181119918823,
+                0.0,
+                -5.2307305335998539,
+                0.0,
+                -27.940000534057618,
+                0.0,
+                50.06999969482422,
+                1.0
+            ],
+            "materials": [
+                2
+            ],
+            "boundsCenter": {
+                "x": -30.026596069335939,
+                "y": 4.815389156341553,
+                "z": 49.22051239013672
+            },
+            "boundsSize": {
+                "x": 17.328815460205079,
+                "y": 12.01811695098877,
+                "z": 17.05323600769043
+            }
+        },
+        {
+            "path": "CogworkWastes_Grp/CogworkWastes_Dec/CogworkWastes_Waterpipe01",
+            "mesh": 6,
+            "matrix": [
+                -2.42267107963562,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -2.8880478453174876e-7,
+                2.422670364379883,
+                0.0,
+                0.0,
+                2.1036078929901125,
+                -2.507695739950577e-7,
+                0.0,
+                19.959999084472658,
+                0.0,
+                -28.162330627441408,
+                1.0
+            ],
+            "materials": [
+                2
+            ],
+            "boundsCenter": {
+                "x": 19.959999084472658,
+                "y": 0.5589643120765686,
+                "z": -28.162330627441408
+            },
+            "boundsSize": {
+                "x": 2.1953675746917726,
+                "y": 1.113146185874939,
+                "z": 2.195366382598877
+            }
+        },
+        {
+            "path": "CogworkWastes_Grp/CogworkWastes_Dec/CogworkWastes_Floortile02",
+            "mesh": 7,
+            "matrix": [
+                4.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                4.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                4.0,
+                0.0,
+                14.75,
+                -0.4099999964237213,
+                -32.94232940673828,
+                1.0
+            ],
+            "materials": [
+                2
+            ],
+            "boundsCenter": {
+                "x": 14.749999046325684,
+                "y": -0.09458711743354798,
+                "z": -32.94232940673828
+            },
+            "boundsSize": {
+                "x": 2.641225814819336,
+                "y": 0.6308257579803467,
+                "z": 2.5996313095092775
+            }
+        }
+    ],
+    "materials": [
+        {
+            "name": "CogworkWastes_Land_Mat",
+            "path": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material/CogworkWastes_Land_Mat.mat",
+            "shader": "Hidden/InternalErrorShader",
+            "authoredShaderGuid": "1b9b9adf491ebdb41b3519928f8a048b",
+            "authoredShaderPath": "",
+            "textureProperty": "_MainTexture",
+            "texturePath": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Land_C.png",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "renderQueue": 2000,
+            "textures": [
+                {
+                    "property": "_MainTexture",
+                    "path": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Land_C.png",
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ],
+            "floats": [
+                {
+                    "property": "_AddPrecomputedVelocity",
+                    "value": 0.0
+                },
+                {
+                    "property": "_Alpha",
+                    "value": 0.0
+                },
+                {
+                    "property": "_AlphaClip",
+                    "value": 0.0
+                },
+                {
+                    "property": "_AlphaCliping",
+                    "value": 0.5
+                },
+                {
+                    "property": "_AlphaCutoff",
+                    "value": 0.5
+                },
+                {
+                    "property": "_AlphaToMask",
+                    "value": 0.0
+                },
+                {
+                    "property": "_Blend",
+                    "value": 0.0
+                },
+                {
+                    "property": "_BlendModePreserveSpecular",
+                    "value": 1.0
+                },
+                {
+                    "property": "_BumpScale",
+                    "value": 1.0
+                },
+                {
+                    "property": "_ClearCoatMask",
+                    "value": 0.0
+                },
+                {
+                    "property": "_ClearCoatSmoothness",
+                    "value": 0.0
+                },
+                {
+                    "property": "_Cull",
+                    "value": 2.0
+                },
+                {
+                    "property": "_Cutoff",
+                    "value": 0.5
+                },
+                {
+                    "property": "_Dark",
+                    "value": 0.0
+                },
+                {
+                    "property": "_DarkRange",
+                    "value": -1.0
+                },
+                {
+                    "property": "_DarkSmooth",
+                    "value": 0.5
+                },
+                {
+                    "property": "_DetailAlbedoMapScale",
+                    "value": 1.0
+                },
+                {
+                    "property": "_DetailNormalMapScale",
+                    "value": 1.0
+                },
+                {
+                    "property": "_DstBlend",
+                    "value": 0.0
+                },
+                {
+                    "property": "_DstBlendAlpha",
+                    "value": 0.0
+                },
+                {
+                    "property": "_EnvironmentReflections",
+                    "value": 1.0
+                },
+                {
+                    "property": "_GlossMapScale",
+                    "value": 0.0
+                },
+                {
+                    "property": "_Glossiness",
+                    "value": 0.0
+                },
+                {
+                    "property": "_GlossyReflections",
+                    "value": 0.0
+                },
+                {
+                    "property": "_Metallic",
+                    "value": 0.0
+                },
+                {
+                    "property": "_OcclusionStrength",
+                    "value": 1.0
+                },
+                {
+                    "property": "_Parallax",
+                    "value": 0.004999999888241291
+                },
+                {
+                    "property": "_QueueControl",
+                    "value": 0.0
+                },
+                {
+                    "property": "_QueueOffset",
+                    "value": 0.0
+                },
+                {
+                    "property": "_ReceiveShadows",
+                    "value": 1.0
+                },
+                {
+                    "property": "_Smoothness",
+                    "value": 0.5
+                },
+                {
+                    "property": "_SmoothnessTextureChannel",
+                    "value": 0.0
+                },
+                {
+                    "property": "_SpecularHighlights",
+                    "value": 1.0
+                },
+                {
+                    "property": "_SrcBlend",
+                    "value": 1.0
+                },
+                {
+                    "property": "_SrcBlendAlpha",
+                    "value": 1.0
+                },
+                {
+                    "property": "_Surface",
+                    "value": 0.0
+                },
+                {
+                    "property": "_WorkflowMode",
+                    "value": 1.0
+                },
+                {
+                    "property": "_ZWrite",
+                    "value": 1.0
+                }
+            ],
+            "colors": [
+                {
+                    "property": "_BaseColor",
+                    "value": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_Color",
+                    "value": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_DarkColor",
+                    "value": {
+                        "r": 0.40197789669036868,
+                        "g": 0.51491779088974,
+                        "b": 0.679542601108551,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_EmissionColor",
+                    "value": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_Maincolor",
+                    "value": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_SpecColor",
+                    "value": {
+                        "r": 0.19999995827674867,
+                        "g": 0.19999995827674867,
+                        "b": 0.19999995827674867,
+                        "a": 1.0
+                    }
+                }
+            ]
+        },
+        {
+            "name": "CogworkWastes_Gird_Mat",
+            "path": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material/CogworkWastes_Gird_Mat.mat",
+            "shader": "Grid",
+            "authoredShaderGuid": "736974b9f28792b4a8cbc2a70e792395",
+            "authoredShaderPath": "Assets/ArtOfWar-II_Art/Shaders/Grid.shader",
+            "textureProperty": "",
+            "texturePath": "",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "renderQueue": 2001,
+            "textures": [
+                {
+                    "property": "_Mask",
+                    "path": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Land_Mask.png",
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "property": "_ShapeTex",
+                    "path": "Assets/ArtOfWar-II_Art/Environment/Common/SunkenCity/Texture/SunkenCity_Gird_C.png",
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ],
+            "floats": [
+                {
+                    "property": "_AlphaCutoff",
+                    "value": 0.5
+                },
+                {
+                    "property": "_Offest",
+                    "value": -0.25
+                },
+                {
+                    "property": "_QueueControl",
+                    "value": 0.0
+                },
+                {
+                    "property": "_QueueOffset",
+                    "value": -2.0
+                },
+                {
+                    "property": "_ReceiveShadows",
+                    "value": 1.0
+                },
+                {
+                    "property": "_Scale",
+                    "value": 6.0
+                },
+                {
+                    "property": "_UseShapeControl",
+                    "value": 1.0
+                }
+            ],
+            "colors": [
+                {
+                    "property": "_Color0",
+                    "value": {
+                        "r": 0.9405660629272461,
+                        "g": 0.900943398475647,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_Color1",
+                    "value": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_EmissionColor",
+                    "value": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_GirdColor01",
+                    "value": {
+                        "r": 0.8828999996185303,
+                        "g": 0.9109286069869995,
+                        "b": 0.9810000061988831,
+                        "a": 0.5098039507865906
+                    }
+                },
+                {
+                    "property": "_GirdColor02",
+                    "value": {
+                        "r": 0.60842365026474,
+                        "g": 0.7010098695755005,
+                        "b": 0.8949999809265137,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_Offset",
+                    "value": {
+                        "r": 0.25,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "name": "CogworkWastes_Mat",
+            "path": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material/CogworkWastes_Mat.mat",
+            "shader": "Raid/DecShadow",
+            "authoredShaderGuid": "6e46eb022277fe44eb5eeb162a4551b4",
+            "authoredShaderPath": "Assets/ArtOfWar-II_Art/Shaders/DecShadow.shader",
+            "textureProperty": "_MainTexture",
+            "texturePath": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Dec_C.png",
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "renderQueue": 3000,
+            "textures": [
+                {
+                    "property": "_MainTex",
+                    "path": "Assets/ArtOfWar-II_Art/Environment/Common/FarmHome/Texture/Mining_C.png",
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "property": "_MainTexture",
+                    "path": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Dec_C.png",
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "offset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ],
+            "floats": [
+                {
+                    "property": "_AddIntensity",
+                    "value": 1.0
+                },
+                {
+                    "property": "_AddSpeed",
+                    "value": 2.0
+                },
+                {
+                    "property": "_Alpha",
+                    "value": 0.0
+                },
+                {
+                    "property": "_AlphaClip",
+                    "value": 0.0
+                },
+                {
+                    "property": "_AlphaCliping",
+                    "value": 0.5
+                },
+                {
+                    "property": "_AlphaCutoff",
+                    "value": 0.5
+                },
+                {
+                    "property": "_AlphaToMask",
+                    "value": 0.0
+                },
+                {
+                    "property": "_Blend",
+                    "value": 0.0
+                },
+                {
+                    "property": "_BlendModePreserveSpecular",
+                    "value": 1.0
+                },
+                {
+                    "property": "_BumpScale",
+                    "value": 1.0
+                },
+                {
+                    "property": "_ClearCoatMask",
+                    "value": 0.0
+                },
+                {
+                    "property": "_ClearCoatSmoothness",
+                    "value": 0.0
+                },
+                {
+                    "property": "_Cull",
+                    "value": 2.0
+                },
+                {
+                    "property": "_Cutoff",
+                    "value": 0.5
+                },
+                {
+                    "property": "_Dark",
+                    "value": 1.0
+                },
+                {
+                    "property": "_DarkRange",
+                    "value": -0.5
+                },
+                {
+                    "property": "_DarkSmooth",
+                    "value": 1.0
+                },
+                {
+                    "property": "_DetailAlbedoMapScale",
+                    "value": 1.0
+                },
+                {
+                    "property": "_DetailNormalMapScale",
+                    "value": 1.0
+                },
+                {
+                    "property": "_DstBlend",
+                    "value": 0.0
+                },
+                {
+                    "property": "_DstBlendAlpha",
+                    "value": 0.0
+                },
+                {
+                    "property": "_EnvironmentReflections",
+                    "value": 1.0
+                },
+                {
+                    "property": "_FloatInstensity",
+                    "value": 0.0
+                },
+                {
+                    "property": "_FresnelPower",
+                    "value": 5.0
+                },
+                {
+                    "property": "_FresnelScale1",
+                    "value": 6.269999980926514
+                },
+                {
+                    "property": "_GlobalAddWind",
+                    "value": 0.0
+                },
+                {
+                    "property": "_GlobalWindIntensity",
+                    "value": 2.0
+                },
+                {
+                    "property": "_GlobalWindSpeed",
+                    "value": 1.0
+                },
+                {
+                    "property": "_GlossMapScale",
+                    "value": 0.0
+                },
+                {
+                    "property": "_Glossiness",
+                    "value": 0.0
+                },
+                {
+                    "property": "_GlossyReflections",
+                    "value": 0.0
+                },
+                {
+                    "property": "_GroundHeight",
+                    "value": 0.44999998807907107
+                },
+                {
+                    "property": "_LeavesWind",
+                    "value": 0.5
+                },
+                {
+                    "property": "_Light",
+                    "value": 1.0
+                },
+                {
+                    "property": "_MatcapToggle",
+                    "value": 0.0
+                },
+                {
+                    "property": "_Metallic",
+                    "value": 0.0
+                },
+                {
+                    "property": "_Night",
+                    "value": 0.0
+                },
+                {
+                    "property": "_NightMaskIntesity",
+                    "value": 1.0
+                },
+                {
+                    "property": "_OcclusionStrength",
+                    "value": 1.0
+                },
+                {
+                    "property": "_Parallax",
+                    "value": 0.004999999888241291
+                },
+                {
+                    "property": "_QueueControl",
+                    "value": 1.0
+                },
+                {
+                    "property": "_QueueOffset",
+                    "value": 0.0
+                },
+                {
+                    "property": "_Ramp",
+                    "value": 0.0
+                },
+                {
+                    "property": "_RampHue",
+                    "value": 0.0
+                },
+                {
+                    "property": "_ReceiveShadows",
+                    "value": 1.0
+                },
+                {
+                    "property": "_RenderMode",
+                    "value": 0.0
+                },
+                {
+                    "property": "_ShadowAddObjY",
+                    "value": 0.0
+                },
+                {
+                    "property": "_Smoothness",
+                    "value": 0.5
+                },
+                {
+                    "property": "_SmoothnessTextureChannel",
+                    "value": 0.0
+                },
+                {
+                    "property": "_SpecularHighlights",
+                    "value": 1.0
+                },
+                {
+                    "property": "_SrcBlend",
+                    "value": 1.0
+                },
+                {
+                    "property": "_SrcBlendAlpha",
+                    "value": 1.0
+                },
+                {
+                    "property": "_Surface",
+                    "value": 0.0
+                },
+                {
+                    "property": "_VC_GrassColor",
+                    "value": 0.0
+                },
+                {
+                    "property": "_Wind",
+                    "value": 0.0
+                },
+                {
+                    "property": "_Wind2Intensity",
+                    "value": 1.0
+                },
+                {
+                    "property": "_Wind2NoiseScale",
+                    "value": 0.05000000074505806
+                },
+                {
+                    "property": "_Wind2Speed",
+                    "value": 0.10000000149011612
+                },
+                {
+                    "property": "_WindMode",
+                    "value": 0.0
+                },
+                {
+                    "property": "_WorkflowMode",
+                    "value": 1.0
+                },
+                {
+                    "property": "_ZWrite",
+                    "value": 1.0
+                }
+            ],
+            "colors": [
+                {
+                    "property": "_AddWindDir",
+                    "value": {
+                        "r": -1.0,
+                        "g": 1.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "property": "_BaseColor",
+                    "value": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_Color",
+                    "value": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_DarkColor",
+                    "value": {
+                        "r": 0.47801709175109866,
+                        "g": 0.5545480251312256,
+                        "b": 0.7735849022865295,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_EmissionColor",
+                    "value": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_FresnelColor",
+                    "value": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "property": "_GlobalWindDirection",
+                    "value": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 1.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "property": "_GrassColor",
+                    "value": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "property": "_Maincolor",
+                    "value": {
+                        "r": 1.3195079565048218,
+                        "g": 1.3195079565048218,
+                        "b": 1.3195079565048218,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_MatcapColor",
+                    "value": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_NightMask_Scale",
+                    "value": {
+                        "r": 150.0,
+                        "g": 200.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "property": "_Render02_DarkColor",
+                    "value": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_Render02_DarkLerpColor",
+                    "value": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "property": "_Render02_HighLightColor",
+                    "value": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_Render02_RefColor",
+                    "value": {
+                        "r": 0.31132081151008608,
+                        "g": 0.31132081151008608,
+                        "b": 0.31132081151008608,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_ShadowColor",
+                    "value": {
+                        "r": 0.7876468300819397,
+                        "g": 0.8945792317390442,
+                        "b": 0.9433962106704712,
+                        "a": 1.0
+                    }
+                },
+                {
+                    "property": "_SpecColor",
+                    "value": {
+                        "r": 0.19999995827674867,
+                        "g": 0.19999995827674867,
+                        "b": 0.19999995827674867,
+                        "a": 1.0
+                    }
+                }
+            ]
+        }
+    ],
+    "meshes": [
+        {
+            "name": "IcefloeRift_Land",
+            "asset": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Land.fbx",
+            "file": "mesh-0.bin",
+            "vertexCount": 143,
+            "normalCount": 143,
+            "uvCount": 143,
+            "positionOffset": 0,
+            "normalOffset": 1716,
+            "uvOffset": 3432,
+            "submeshes": [
+                {
+                    "offset": 4576,
+                    "count": 438,
+                    "topology": 0
+                }
+            ]
+        },
+        {
+            "name": "pPlane1",
+            "asset": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Gird.fbx",
+            "file": "mesh-1.bin",
+            "vertexCount": 77,
+            "normalCount": 77,
+            "uvCount": 77,
+            "positionOffset": 0,
+            "normalOffset": 924,
+            "uvOffset": 1848,
+            "submeshes": [
+                {
+                    "offset": 2464,
+                    "count": 360,
+                    "topology": 0
+                }
+            ]
+        },
+        {
+            "name": "Object001",
+            "asset": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Floortile01.fbx",
+            "file": "mesh-2.bin",
+            "vertexCount": 120,
+            "normalCount": 120,
+            "uvCount": 120,
+            "positionOffset": 0,
+            "normalOffset": 1440,
+            "uvOffset": 2880,
+            "submeshes": [
+                {
+                    "offset": 3840,
+                    "count": 198,
+                    "topology": 0
+                }
+            ]
+        },
+        {
+            "name": "CogworkWastes_Gear01",
+            "asset": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Gear01.fbx",
+            "file": "mesh-3.bin",
+            "vertexCount": 706,
+            "normalCount": 706,
+            "uvCount": 706,
+            "positionOffset": 0,
+            "normalOffset": 8472,
+            "uvOffset": 16944,
+            "submeshes": [
+                {
+                    "offset": 22592,
+                    "count": 1836,
+                    "topology": 0
+                }
+            ]
+        },
+        {
+            "name": "Cylinder006",
+            "asset": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Gear02.fbx",
+            "file": "mesh-4.bin",
+            "vertexCount": 3317,
+            "normalCount": 3317,
+            "uvCount": 3317,
+            "positionOffset": 0,
+            "normalOffset": 39804,
+            "uvOffset": 79608,
+            "submeshes": [
+                {
+                    "offset": 106144,
+                    "count": 7530,
+                    "topology": 0
+                }
+            ]
+        },
+        {
+            "name": "CogworkWastes_House01",
+            "asset": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_House01.fbx",
+            "file": "mesh-5.bin",
+            "vertexCount": 5364,
+            "normalCount": 5364,
+            "uvCount": 5364,
+            "positionOffset": 0,
+            "normalOffset": 64368,
+            "uvOffset": 128736,
+            "submeshes": [
+                {
+                    "offset": 171648,
+                    "count": 14496,
+                    "topology": 0
+                }
+            ]
+        },
+        {
+            "name": "Object002",
+            "asset": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Waterpipe01.fbx",
+            "file": "mesh-6.bin",
+            "vertexCount": 220,
+            "normalCount": 220,
+            "uvCount": 220,
+            "positionOffset": 0,
+            "normalOffset": 2640,
+            "uvOffset": 5280,
+            "submeshes": [
+                {
+                    "offset": 7040,
+                    "count": 606,
+                    "topology": 0
+                }
+            ]
+        },
+        {
+            "name": "Object001",
+            "asset": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Floortile02.fbx",
+            "file": "mesh-7.bin",
+            "vertexCount": 40,
+            "normalCount": 40,
+            "uvCount": 40,
+            "positionOffset": 0,
+            "normalOffset": 480,
+            "uvOffset": 960,
+            "submeshes": [
+                {
+                    "offset": 1280,
+                    "count": 66,
+                    "topology": 0
+                }
+            ]
+        }
+    ],
+    "warnings": []
+}

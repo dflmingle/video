@@ -1,0 +1,345 @@
+{
+  "archer": {
+    "file": "/assets/runtime/archer.fbx",
+    "texture": "/assets/runtime/archer.png",
+    "guid": "81bce00f2c6154140a8a251a16e36a8e",
+    "source": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube.fbx",
+    "sourceSHA256": "01aba65fbb67d9b2f449204853feb32e99e7a74951f1247cad469693e8a9fd81",
+    "textureSource": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_C.png",
+    "textureSHA256": "8a2e921b1d6a6d006cc01c86aa2a3eccd6ce241013efa54d8f7e93008a149b1f",
+    "clips": [
+      {
+        "name": "idle",
+        "start": 10.0,
+        "end": 34.0
+      },
+      {
+        "name": "attack",
+        "start": 80.0,
+        "end": 95.0
+      },
+      {
+        "name": "victory",
+        "start": 110.0,
+        "end": 140.0
+      },
+      {
+        "name": "move",
+        "start": 40.0,
+        "end": 56.0
+      },
+      {
+        "name": "fail_1",
+        "start": 160.0,
+        "end": 170.0
+      },
+      {
+        "name": "fail",
+        "start": 180.0,
+        "end": 196.0
+      },
+      {
+        "name": "ready",
+        "start": 270.0,
+        "end": 288.0
+      },
+      {
+        "name": "die",
+        "start": 220.0,
+        "end": 260.0
+      },
+      {
+        "name": "walk",
+        "start": 320.0,
+        "end": 350.0
+      },
+      {
+        "name": "idle_4",
+        "start": 360.0,
+        "end": 375.0
+      },
+      {
+        "name": "idle_1",
+        "start": 430.0,
+        "end": 455.0
+      },
+      {
+        "name": "idle_2",
+        "start": 390.0,
+        "end": 420.0
+      },
+      {
+        "name": "idle_3",
+        "start": 470.0,
+        "end": 505.0
+      },
+      {
+        "name": "idle_9",
+        "start": 600.0,
+        "end": 616.0
+      },
+      {
+        "name": "idle_6",
+        "start": 520.0,
+        "end": 570.0
+      },
+      {
+        "name": "idle_7",
+        "start": 571.0,
+        "end": 582.0
+      },
+      {
+        "name": "idle_8",
+        "start": 583.0,
+        "end": 590.0
+      },
+      {
+        "name": "idle_5",
+        "start": 520.0,
+        "end": 590.0
+      }
+    ],
+    "height": 1.12
+  },
+  "sword": {
+    "file": "/assets/runtime/sword.fbx",
+    "texture": "/assets/runtime/sword.png",
+    "guid": "e0fa0ce96cbf07c44bdd0a77cb56af40",
+    "source": "Assets/000/素材/700_剑士/Infantry.fbx",
+    "sourceSHA256": "a81f2faedb51dd045b01ae0b594a39fa4b8768515e6ef2497184148b44e34c9f",
+    "textureSource": "Assets/000/素材/700_剑士/Blue_C.png",
+    "textureSHA256": "f6d333297306f2921e6ab8afc0ad1abb299bd3b5ef3d4c9f3a5c4a44f2515093",
+    "clips": [
+      {
+        "name": "move",
+        "start": 40.0,
+        "end": 56.0
+      },
+      {
+        "name": "idle",
+        "start": 10.0,
+        "end": 34.0
+      },
+      {
+        "name": "attack",
+        "start": 80.0,
+        "end": 95.0
+      },
+      {
+        "name": "victory",
+        "start": 110.0,
+        "end": 140.0
+      },
+      {
+        "name": "death",
+        "start": 220.0,
+        "end": 260.0
+      },
+      {
+        "name": "ready",
+        "start": 270.0,
+        "end": 288.0
+      },
+      {
+        "name": "move_to_assemble_idle",
+        "start": 430.0,
+        "end": 455.0
+      },
+      {
+        "name": "assemble_idle",
+        "start": 390.0,
+        "end": 420.0
+      },
+      {
+        "name": "assemble_greeting",
+        "start": 470.0,
+        "end": 505.0
+      },
+      {
+        "name": "shake_begin",
+        "start": 520.0,
+        "end": 570.0
+      },
+      {
+        "name": "shake_idle",
+        "start": 571.0,
+        "end": 583.0
+      },
+      {
+        "name": "shake",
+        "start": 520.0,
+        "end": 590.0
+      },
+      {
+        "name": "move_2",
+        "start": 600.0,
+        "end": 616.0
+      },
+      {
+        "name": "fail_1",
+        "start": 160.0,
+        "end": 170.0
+      },
+      {
+        "name": "fail",
+        "start": 180.0,
+        "end": 196.0
+      },
+      {
+        "name": "walk",
+        "start": 320.0,
+        "end": 350.0
+      }
+    ],
+    "height": 1.2
+  },
+  "flail": {
+    "file": "/assets/runtime/flail.fbx",
+    "texture": "/assets/runtime/flail.png",
+    "guid": "99c19c628ea57a14f8fc81dc49eb922d",
+    "source": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/Flail.fbx",
+    "sourceSHA256": "493820e57e417784b1ca1f4a8678b10808d29f9517988fca70f62b8b56d02440",
+    "textureSource": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_C.png",
+    "textureSHA256": "abcefbcb1e5997b373a2fba9182896d0b332f836e69c3daa423c340da5a619a3",
+    "clips": [
+      {
+        "name": "take 001",
+        "start": 0.0,
+        "end": 616.0
+      },
+      {
+        "name": "idle",
+        "start": 10.0,
+        "end": 34.0
+      },
+      {
+        "name": "move",
+        "start": 40.0,
+        "end": 56.0
+      },
+      {
+        "name": "attack",
+        "start": 80.0,
+        "end": 95.0
+      },
+      {
+        "name": "victory",
+        "start": 110.0,
+        "end": 140.0
+      },
+      {
+        "name": "death",
+        "start": 220.0,
+        "end": 260.0
+      }
+    ],
+    "height": 1.2
+  },
+  "samurai": {
+    "file": "/assets/runtime/samurai.fbx",
+    "texture": "/assets/runtime/samurai.png",
+    "guid": "23a79487331244ad08ffd7e813a78d5a",
+    "source": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_621/Genichirou.fbx",
+    "sourceSHA256": "2d405072c5826418039cdb60e22d05357c71755bb1412e9634f49f06efa67114",
+    "textureSource": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_C.png",
+    "textureSHA256": "8a2e921b1d6a6d006cc01c86aa2a3eccd6ce241013efa54d8f7e93008a149b1f",
+    "clips": [
+      {
+        "name": "idle",
+        "start": 610.0,
+        "end": 634.0
+      },
+      {
+        "name": "attack",
+        "start": 510.0,
+        "end": 525.0
+      },
+      {
+        "name": "victory",
+        "start": 375.0,
+        "end": 413.0
+      },
+      {
+        "name": "skill",
+        "start": 130.0,
+        "end": 154.0
+      },
+      {
+        "name": "move",
+        "start": 180.0,
+        "end": 196.0
+      },
+      {
+        "name": "fail",
+        "start": 570.0,
+        "end": 600.0
+      },
+      {
+        "name": "ready",
+        "start": 650.0,
+        "end": 668.0
+      },
+      {
+        "name": "die",
+        "start": 680.0,
+        "end": 714.0
+      },
+      {
+        "name": "walk",
+        "start": 720.0,
+        "end": 750.0
+      },
+      {
+        "name": "idle_4",
+        "start": 760.0,
+        "end": 775.0
+      },
+      {
+        "name": "idle_2",
+        "start": 790.0,
+        "end": 820.0
+      },
+      {
+        "name": "idle_1",
+        "start": 830.0,
+        "end": 855.0
+      },
+      {
+        "name": "idle_3",
+        "start": 870.0,
+        "end": 905.0
+      },
+      {
+        "name": "idle_9",
+        "start": 1000.0,
+        "end": 1016.0
+      },
+      {
+        "name": "idle_6",
+        "start": 920.0,
+        "end": 970.0
+      },
+      {
+        "name": "idle_7",
+        "start": 971.0,
+        "end": 982.0
+      },
+      {
+        "name": "idle_8",
+        "start": 983.0,
+        "end": 990.0
+      },
+      {
+        "name": "idle_5",
+        "start": 920.0,
+        "end": 990.0
+      },
+      {
+        "name": "waiting",
+        "start": 916.0,
+        "end": 1016.0
+      }
+    ],
+    "height": 1.2
+  }
+}

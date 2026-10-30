@@ -1,0 +1,16 @@
+{
+  "reason": "SAFETY_AUTOCUT",
+  "requestedDuration": 3.5,
+  "firstRejectedFrame": 160,
+  "firstRejectedTime": 2.6666666666666665,
+  "lastAcceptedFrame": 159,
+  "lastAcceptedTime": 2.65,
+  "priorCenterDistance": 10.598139096246742,
+  "rejectedCenterDistance": 10.364578284047086,
+  "rejectedSurfaceClearance": 4.164578284047086,
+  "conservativeSegmentClearance": 3.956322948358495,
+  "requiredSurfaceClearance": 4,
+  "cutBuffer": 0.05,
+  "maximumBlueStep": 0.014915847219526768,
+  "maximumRedStep": 0.4015948176383972
+}

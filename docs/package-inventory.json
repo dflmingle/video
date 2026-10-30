@@ -1,0 +1,3435 @@
+[
+  {
+    "guid": "00f815e660de8ae48a043a1f38319efd",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_746",
+    "bytes": 0
+  },
+  {
+    "guid": "01855ef793e5a72479f88f4cb70885e6",
+    "original": "Assets/730_玄铁战熊改动作/Halaer@skin.max",
+    "bytes": 1396736
+  },
+  {
+    "guid": "02327ef89d77d23459cde000999a6ca0",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Blue_C.png",
+    "bytes": 30729,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Blue_C.png",
+    "sha256": "6b7b267859406a2dc4e0e4890baf95d1ec2bf5490427c73f7dc49f186337a0c3"
+  },
+  {
+    "guid": "034c8c9c8bf245c42ad0920a63a19da4",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_04_Mat003.mat",
+    "bytes": 5926,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_04_Mat003.mat",
+    "sha256": "e3e033037087f54c2f63e80c95b163dcbed5619129d7b38f10c5aa2ab221a80d"
+  },
+  {
+    "guid": "04785346953a17540af5015ca4d39d22",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LandA_Mat.mat",
+    "bytes": 6502,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LandA_Mat.mat",
+    "sha256": "304645e6f425e24f891b50e3003c2951ecd482c541b3e3fa639b3c1456a9f72b"
+  },
+  {
+    "guid": "0574cb2c0ad317540a466dc6174c2c71",
+    "original": "Assets/New Scene.unity",
+    "bytes": 34763,
+    "local": "assets/imported/Assets/New Scene.unity",
+    "sha256": "a8126cbbbd93be8400b04a9757e4cd983606f7acceb95b8826f24fb62dd54153"
+  },
+  {
+    "guid": "05858466dcb49c5419e5d47fd6b7e568",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/AO/RoleAO",
+    "bytes": 0
+  },
+  {
+    "guid": "059ed2c42905e4447929a22e6d551145",
+    "original": "Assets/645_见习法师/动作模型/旧/白蓝色角色帧数 再加动作.txt",
+    "bytes": 341
+  },
+  {
+    "guid": "061d35bf26fbbeb4ca7b173873279478",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Shared/Common_FX/Meshes",
+    "bytes": 0
+  },
+  {
+    "guid": "0625757cbf166a741b5e2686fe7d268f",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Shaders/All_ShadersUPR/VFX_All_URP1.0.shader",
+    "bytes": 93149
+  },
+  {
+    "guid": "07abca382dbbbb543b94cb4bda8a8fb8",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_739/Hohenheim_C.png",
+    "bytes": 209416,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_739/Hohenheim_C.png",
+    "sha256": "70e7ef4d655bb265aac4b3569363bb7d88cee9f2c47aa7d36c52263eb708dc24"
+  },
+  {
+    "guid": "07ce423003cc8164b8f3ef6936f1d3a3",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/AO/RoleAO/RoleAOTex.png",
+    "bytes": 47073,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/AO/RoleAO/RoleAOTex.png",
+    "sha256": "290293a11906a965394d942634db828491f3e8074c74a973a9dd61eb7b2e2b44"
+  },
+  {
+    "guid": "083f099e4ef16424eb425e9a43a40df6",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Flag.fbx",
+    "bytes": 29664,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Flag.fbx",
+    "sha256": "1fb43944bfffbda765ae4c3fca3e2e9caaa453417269c902278c5085a14463f3"
+  },
+  {
+    "guid": "08fa2d89adf07c74b9197c02fe89b796",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab",
+    "bytes": 0
+  },
+  {
+    "guid": "09775ca6b12c66a45916b1ffd4cd00a9",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube_C_3.png",
+    "bytes": 124402,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube_C_3.png",
+    "sha256": "221a896e01e9acd50b698100dbf6fdf79a538c9798f5a13518a12d417ad5743d"
+  },
+  {
+    "guid": "098c53a831508784da596d252b4c931b",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/特效/狼牙兵展示特效.unitypackage",
+    "bytes": 937171
+  },
+  {
+    "guid": "09c0441d8e9e9df4a94255ae1ee304d2",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/特效/重锤卫士特效.unitypackage",
+    "bytes": 482478
+  },
+  {
+    "guid": "0a31b07047c2c4d4ca3fc9d15e001c9e",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/Mod_BlackKnight_01.fbx",
+    "bytes": 97776,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/Mod_BlackKnight_01.fbx",
+    "sha256": "775dc287d838479a5d584d40efb396635220ae546b9af0b34e1f95ed3e689970"
+  },
+  {
+    "guid": "0a92a04f7e5de0042aa234118dcd52dd",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_744",
+    "bytes": 0
+  },
+  {
+    "guid": "0ab56b34d0096b8438cc0d58b4f11a4a",
+    "original": "Assets/ArtResource/Effects/Common_FX/Models",
+    "bytes": 0
+  },
+  {
+    "guid": "0dca9a5ef1df23640aeac42bc4835e57",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_706/Copernicus_C.png",
+    "bytes": 161774,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_706/Copernicus_C.png",
+    "sha256": "9bad0c967da9f239be6a918ec43d7805c082a936067d1a224b80eb4b4ccc83bd"
+  },
+  {
+    "guid": "0e58d7e1c408cf34e92c57d65766bbc0",
+    "original": "Assets/20261019-跨河强渡战役/831_大炮战车/模型动画/白蓝色角色帧数 再加动作.txt",
+    "bytes": 341
+  },
+  {
+    "guid": "0e8b5a5cb3278af4a9d6dab51ba0ff20",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Steps_Mat.mat",
+    "bytes": 6255,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Steps_Mat.mat",
+    "sha256": "32b7eb73269820337d1e7a79042a69e61b79a245c9f1e6746f1efcb771081d1a"
+  },
+  {
+    "guid": "0eae5e86e9941a146a4f5f225e010439",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Red_C.png",
+    "bytes": 24661,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Red_C.png",
+    "sha256": "a61e5e5accb9bece2e9a1412671a1087b617ba30a024df12fff65cd28f2fbf70"
+  },
+  {
+    "guid": "0f857de654bb8f94ab2e0591f22e8459",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/火枪手",
+    "bytes": 0
+  },
+  {
+    "guid": "0f9492ff636171245b4d8bb0817da422",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/帧数.png",
+    "bytes": 24103,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/帧数.png",
+    "sha256": "cac1649bebfa49f7101ec826ceb7eadfc3988de557e883178a79f0988fcdb616"
+  },
+  {
+    "guid": "101b97e7a9ce75e47bbf6343aa92ebd4",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Feature/CastleExterior/CastleExterior.unity",
+    "bytes": 6620878,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/CastleExterior/CastleExterior.unity",
+    "sha256": "983f55a7c739c00210c7733dcefb11934e3f78d589beb7085fbffcab4317df95"
+  },
+  {
+    "guid": "11458a3808ea3074abb53d45eb45bdf4",
+    "original": "Assets/000/jingjichang/战场页_备战ui.png",
+    "bytes": 182340,
+    "local": "assets/imported/Assets/000/jingjichang/战场页_备战ui.png",
+    "sha256": "b9d485dede0d74bccda01eb4f137afb9279eef210108d09abe2aa5d539161051"
+  },
+  {
+    "guid": "11665bef00266e244ab054bae1d302d9",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/GriffinKnight.fbx",
+    "bytes": 2018528,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/GriffinKnight.fbx",
+    "sha256": "875913106c3b6970e77c5499fc99e0757e98094e33dd4bc733bdf28c7bc01c43"
+  },
+  {
+    "guid": "116ddf9a94f31d64d85cc43ce8262983",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_744/Dullahan_C.png",
+    "bytes": 164595,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_744/Dullahan_C.png",
+    "sha256": "e799fa986d4fd7a313543949a13950b6e2d87a21cf7891b754de838bbc42f975"
+  },
+  {
+    "guid": "13f1b09a367a9f047b98065bd58ae084",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_002_Tex.png",
+    "bytes": 6274,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_002_Tex.png",
+    "sha256": "dbbfe31b8fd11d9c91ffc5ec75a63df1139a8530f939c09a88b552b3b599be1a"
+  },
+  {
+    "guid": "14fd855986642d24e9da16a2276c1056",
+    "original": "Assets/aaaa/UI.png",
+    "bytes": 72351,
+    "local": "assets/imported/Assets/aaaa/UI.png",
+    "sha256": "21424efa02664797842ec37942c3bfcc68c9ea73268f956b5bb825ddccc09890"
+  },
+  {
+    "guid": "153165ff1eb797346ba30f8ba1a0f219",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/FarmHome",
+    "bytes": 0
+  },
+  {
+    "guid": "159a7855d2ee8ac429116bb70f7837a8",
+    "original": "Assets/20261019-跨河强渡战役/831_大炮战车",
+    "bytes": 0
+  },
+  {
+    "guid": "160a2e7685f207a4892e5cd055737a24",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Steps_C.png",
+    "bytes": 398985,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Steps_C.png",
+    "sha256": "b40f0078629951bd9c5125e82ddc297cb141697f7067ebdc87214dc7faf116f1"
+  },
+  {
+    "guid": "162f07d27cfe20b49b72f5b2ffc77882",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_640/CristalLantern_C.png",
+    "bytes": 208210,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_640/CristalLantern_C.png",
+    "sha256": "ecb8e9cf62b67bfdad0a150547e4d9e9b3b11e9a407eade61ba393c7cbaa49d0"
+  },
+  {
+    "guid": "17a1f067619bcaf46b559a0389631157",
+    "original": "Assets/730_玄铁战熊改动作",
+    "bytes": 0
+  },
+  {
+    "guid": "17bc0ddac1db9af4e9cad90bf3f75506",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/效果图.png",
+    "bytes": 64742,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/效果图.png",
+    "sha256": "8f094414f7d73a9681c479a502cb197ab5e822d3d07a5da56b80843a13d51af7"
+  },
+  {
+    "guid": "18e27d1aec497be4f968f5eac85ce0e5",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Tree_04.fbx",
+    "bytes": 29872,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Tree_04.fbx",
+    "sha256": "d0c0a726ae2feb85fe2e96b381b1b46b0f71bee4d24c8f40ae2639ebac46d1d0"
+  },
+  {
+    "guid": "1917bc95b401d76439e9c9c7223668dd",
+    "original": "Assets/20261019-跨河强渡战役/841_骑士/模型动画/Knight.fbx",
+    "bytes": 2218544,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/841_骑士/模型动画/Knight.fbx",
+    "sha256": "6c679005ff9e63be8f7af8c36b052e82cd0c0b931257e1885715004431ddccfd"
+  },
+  {
+    "guid": "198bb0d82ea711949b5dfc765ef42c2a",
+    "original": "Assets/Scripts/SoldierAnimationController",
+    "bytes": 0
+  },
+  {
+    "guid": "1998cd43f63c73544bb485c0a9bdd224",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/源文件/黑骑士（展示页）.spp",
+    "bytes": 89201147
+  },
+  {
+    "guid": "19e62a919f77592459a96b9b02bd01a2",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_736/DanDing_C.png",
+    "bytes": 143024,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_736/DanDing_C.png",
+    "sha256": "ac6427df566aabc78400ff84aeb8a5bc0f023da22e4ca6cafa07bb4698c4842b"
+  },
+  {
+    "guid": "1a10ab9eea2d7f8458abdfbbd6853458",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_742/RobinHood_Mat.mat",
+    "bytes": 4323,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_742/RobinHood_Mat.mat",
+    "sha256": "2a99aa8128463b92f320c0acf6e85dea7ac4a93be7d2c40663fb2f16819d5e8b"
+  },
+  {
+    "guid": "1b9b9adf491ebdb41b3519928f8a048b",
+    "original": "Assets/ArtOfWar-II_Art/Shaders/RisingUnit.shader",
+    "bytes": 49425
+  },
+  {
+    "guid": "1bb97b2ad6e008b4498e31338148e031",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士/动作模型",
+    "bytes": 0
+  },
+  {
+    "guid": "1ccd467c55ad6724f992a9ad97bf4bac",
+    "original": "Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader",
+    "bytes": 0
+  },
+  {
+    "guid": "1d304ca4a62604448a53c884bb17be98",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/GriffinKnight_C.png",
+    "bytes": 112266,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/GriffinKnight_C.png",
+    "sha256": "d5297d57140ac4e11b028f6d7e0b181518ade8c81776d6f67c647a3a9cacf6be"
+  },
+  {
+    "guid": "1d6eada6f1359bd4989034639145a194",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Smoke_002_Mat.mat",
+    "bytes": 5925,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Smoke_002_Mat.mat",
+    "sha256": "c8632bb5f72ae587f1a5c6a6e75225418c9178cff766a7bfc35ec528d6fd44f9"
+  },
+  {
+    "guid": "1dfba39657e5c0f449459439bc38b517",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Floortile01.fbx",
+    "bytes": 19808,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Floortile01.fbx",
+    "sha256": "6d59ea83292c3fc4572c5f8de14de98fb807df491e8985f0fde3e7ed689b04c4"
+  },
+  {
+    "guid": "1e0d6e9a66c9dd64a92b8e1a4cce3955",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Shurb_02.fbx",
+    "bytes": 42448,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Shurb_02.fbx",
+    "sha256": "537454ef6aae3da7d285553e88d9161e8029fda6ed4df176a376246a07237be6"
+  },
+  {
+    "guid": "1e2d646b427e2244a9703824cd803ac1",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/RoyalArena/Textures/RoyalArena_Land_C.png",
+    "bytes": 66432,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/RoyalArena/Textures/RoyalArena_Land_C.png",
+    "sha256": "8e53bef44cd46a2f1d016904ee44d5b05515c681306108ee1ffe96b7c11c7178"
+  },
+  {
+    "guid": "1e68d41cf16654448824f49c5a01bd8e",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail@Skin.max",
+    "bytes": 2265088
+  },
+  {
+    "guid": "1e823bbb11627c749b9040f56b8fa66e",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Shaders/All_ShadersUPR",
+    "bytes": 0
+  },
+  {
+    "guid": "1eb312658c2115a439e7331a245ba616",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Land_C.png",
+    "bytes": 297835,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Land_C.png",
+    "sha256": "55959d2343eab3be6ef46e18bff9d6d2904654bfd0a3699d97eacb7591afb987"
+  },
+  {
+    "guid": "1ed5455854b60f847b29ae4aa1a669f2",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/增加细节/Shotgunner.fbx",
+    "bytes": 69472,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/增加细节/Shotgunner.fbx",
+    "sha256": "97f28f38b0652aa75f721f1a6ee29764ac32b9bc0ee2618642e3ad2cca2d9fdd"
+  },
+  {
+    "guid": "1f1ee9d5f401c1740a47add954975b2a",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/特效/连枷特效.unitypackage",
+    "bytes": 1252629
+  },
+  {
+    "guid": "1f6e2f1d06bef174a9251bc74289c56e",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene",
+    "bytes": 0
+  },
+  {
+    "guid": "1f75f2edcd8d8ac4b80fec643efd2a16",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/流星锤 新模型.max",
+    "bytes": 3473408
+  },
+  {
+    "guid": "1fc6e67261252c64ea3f153b2496d1e0",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/神话死亡_1.mp4",
+    "bytes": 1113330
+  },
+  {
+    "guid": "1ff3942deb542fe45a41d37f9e0919f2",
+    "original": "Assets/000/素材/700_剑士",
+    "bytes": 0
+  },
+  {
+    "guid": "211147ceb83971048a06cfc014dd9a33",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Castle_C.png",
+    "bytes": 178788,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Castle_C.png",
+    "sha256": "68b20dc6a956246d015170fda581107963ec26655ae0d20b0429f5ea383e49b4"
+  },
+  {
+    "guid": "221137ebe2354e344912462afff232a7",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Stakes_01.prefab",
+    "bytes": 4195,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Stakes_01.prefab",
+    "sha256": "a2bce7d0788f5a02d3973fb2f7f6ef36b312a968dc717d89e5bb66ce89105c57"
+  },
+  {
+    "guid": "230eb6a5fda1da64b8c97e2a656a5ccb",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/StarvingDec/Texture",
+    "bytes": 0
+  },
+  {
+    "guid": "2325c0346a3456049b95505b7fd2491b",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_626/BombThrower_Mat.mat",
+    "bytes": 2892,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_626/BombThrower_Mat.mat",
+    "sha256": "1f15a09a04a63545d319143b62bc6ab0a06f00374d278f5d94c0d1fefdfbddee"
+  },
+  {
+    "guid": "2350e7561ad8439498448a9910f67c16",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Gear01.fbx",
+    "bytes": 79824,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Gear01.fbx",
+    "sha256": "9ee8a77ded6fdccf5e675c106fe06a9dddd3b8339a926339976636b3178544a3"
+  },
+  {
+    "guid": "23a79487331244ad08ffd7e813a78d5a",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_621/Genichirou.fbx",
+    "bytes": 2482224,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_621/Genichirou.fbx",
+    "sha256": "2d405072c5826418039cdb60e22d05357c71755bb1412e9634f49f06efa67114"
+  },
+  {
+    "guid": "2488b665a01888f4c838ab26c08c05e0",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/特效/狼牙兵展示特效.mp4",
+    "bytes": 6189945
+  },
+  {
+    "guid": "25d79c1719323484ba65b01ac4fef4bf",
+    "original": "Assets/20261019-跨河强渡战役/831_大炮战车/模型动画/CannonChariot.fbx",
+    "bytes": 260048,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/831_大炮战车/模型动画/CannonChariot.fbx",
+    "sha256": "de4ea77532a490bb5a0535fe15086fad3cdcec15dd1c5090c49e7ed839e14818"
+  },
+  {
+    "guid": "266d65d37b26f0c4c8a68e716624ece2",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画",
+    "bytes": 0
+  },
+  {
+    "guid": "26808a0449336784bb5957a6891be292",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Materials/Flail_New_C.mat",
+    "bytes": 3732,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Materials/Flail_New_C.mat",
+    "sha256": "b848a403664fc398c920ceed3802d0ae6492c765d5992154a585ee05bff7ca00"
+  },
+  {
+    "guid": "27ec49d0376a98d4695c2808f65a312a",
+    "original": "Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_51",
+    "bytes": 0
+  },
+  {
+    "guid": "2939aee9e57ddd245b92b1fe02df63c7",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight",
+    "bytes": 0
+  },
+  {
+    "guid": "29a5d44bf4cb9744781ee953feec1c6d",
+    "original": "Assets/ArtOfWar-II_Art",
+    "bytes": 0
+  },
+  {
+    "guid": "29f524691911b6f45aacc45241c33683",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/特效/重锤卫士特效.mp4",
+    "bytes": 473599
+  },
+  {
+    "guid": "2a1baf1f69c096144aa53aa8ac6f6078",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Fre_005_Mat.mat",
+    "bytes": 5877,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Fre_005_Mat.mat",
+    "sha256": "f7c10c7c102bbf8f374a9d90b69a1d39ff7ca03d5e7e048a323ff23f62eebd8b"
+  },
+  {
+    "guid": "2a24142f7dde8e247ba981d318bc62c0",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_626/BombThrower_C.png",
+    "bytes": 216078,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_626/BombThrower_C.png",
+    "sha256": "732172465dba9b86e400a449e020213120f33b313a2629c0a555cf03f015c795"
+  },
+  {
+    "guid": "2a89553c2c28a6543916437d15ca5923",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material",
+    "bytes": 0
+  },
+  {
+    "guid": "2acbd6d3fe1610343a3a2a846e0f3cdf",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士/模型源文件",
+    "bytes": 0
+  },
+  {
+    "guid": "2b2d37c5cf585974eb6d66b64e344c3d",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit",
+    "bytes": 0
+  },
+  {
+    "guid": "2bad50578c8de1446a0d2cd17bc1304f",
+    "original": "Assets/645_见习法师/动作模型/旧/Grenade.fbx",
+    "bytes": 1389360,
+    "local": "assets/imported/Assets/645_见习法师/动作模型/旧/Grenade.fbx",
+    "sha256": "11ec3069a474f1e8a48b817f19cdb015a5e828fa4471388c9c2761912b000152"
+  },
+  {
+    "guid": "2d23710189dc556409ac226d9b1a0dc6",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Feature",
+    "bytes": 0
+  },
+  {
+    "guid": "2d7dc18c31e4a3c41a0ccd80a5150adb",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_LongShrub_C.png",
+    "bytes": 154204,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_LongShrub_C.png",
+    "sha256": "ff5f384481da38224846bcd6ad90de7759f71995b6b774dd84e8ce238cb73787"
+  },
+  {
+    "guid": "2db29b30fd5b9194d9ed38830452fffb",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Feature/CogworkWastes/CogworkWastes.unity",
+    "bytes": 2682231,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/CogworkWastes/CogworkWastes.unity",
+    "sha256": "a72a28726a43dbbdefe32a8bef2c6ae02ed286a253c2c63006d12a347a053d2d"
+  },
+  {
+    "guid": "2f16e02bde5b078449dfd0fd37110a29",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/特效/狮鹫骑士特效优化.mp4",
+    "bytes": 742758
+  },
+  {
+    "guid": "2f6c580a69c4cc544a92b3b3f5604104",
+    "original": "Assets/645_见习法师/动作模型/旧/帧数.png",
+    "bytes": 41743,
+    "local": "assets/imported/Assets/645_见习法师/动作模型/旧/帧数.png",
+    "sha256": "3e068aebfc27406223a195cc0fa3b5ed2837429490517251431b4ddfb5225562"
+  },
+  {
+    "guid": "2f7b48a0a0e9d5a4788bf2d584f5a2d9",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material/CogworkWastes_Land_Mat.mat",
+    "bytes": 4350,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material/CogworkWastes_Land_Mat.mat",
+    "sha256": "124c5a6d187b6a431f8288521dc82ffb751fe987d078f322e44cd9d041aaa224"
+  },
+  {
+    "guid": "2f971c86587c797429cfb13aa4530025",
+    "original": "Assets/645_见习法师/V1/Grenade.fbx",
+    "bytes": 43408,
+    "local": "assets/imported/Assets/645_见习法师/V1/Grenade.fbx",
+    "sha256": "83bb338b3a0e04dc46a4bcc700d2a32990367a453a76ad22b0dd89e92184bfd0"
+  },
+  {
+    "guid": "304dcb0b43353f24a954f3db475d58e3",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_748/Zeller_Mat.mat",
+    "bytes": 4317,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_748/Zeller_Mat.mat",
+    "sha256": "c2674d4c784f7a4ed259f15f60df9fedb4b5109031bfc478f06ea47dd7bed1bf"
+  },
+  {
+    "guid": "30d7f4e15ccf144438fc088b98e0b3ba",
+    "original": "Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_51/Low/Textures",
+    "bytes": 0
+  },
+  {
+    "guid": "31ac1eeed8a04714286e7344766cb9bd",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_638/Airbender_C.png",
+    "bytes": 93152,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_638/Airbender_C.png",
+    "sha256": "4748b4cb627d7b85209453398ee5e0b58813f868200222f3248cba0af60c8563"
+  },
+  {
+    "guid": "31bf40744a93388479fbe01d4dd0f065",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/SunkenCity/Texture/SunkenCity_Gird_C.png",
+    "bytes": 6244,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/SunkenCity/Texture/SunkenCity_Gird_C.png",
+    "sha256": "f1882a75386b4bb14607693f0e1ddb33e8cc7eda4a69348d09dd6bdb2a30d7b5"
+  },
+  {
+    "guid": "321b521d9e334b140ab2ae54e80352e0",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_New.fbx",
+    "bytes": 63248,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_New.fbx",
+    "sha256": "02ebc9585d27e390e5362aaff981f59739a749c31fc0c2e0e46926ad42b3ccd1"
+  },
+  {
+    "guid": "321f8342794098245a1ce74e47c56079",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/AO",
+    "bytes": 0
+  },
+  {
+    "guid": "333b7c2fa7235ba4390686912fdeeba0",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_734/Fox.fbx",
+    "bytes": 3803696,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_734/Fox.fbx",
+    "sha256": "567aaba112e3c86f9f1524d6afe8c686ca18fba3ce769a28d7997bb38a86f1b1"
+  },
+  {
+    "guid": "34b2105874fc4a6458a63fd8c8815bc7",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型源文件/GriffinKnight.FBX",
+    "bytes": 3012944,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型源文件/GriffinKnight.FBX",
+    "sha256": "8ac4d2c5337c2518e0d804917001e7ab4bbcdeaa3c8d2942dd7cf3e03acee462"
+  },
+  {
+    "guid": "367f2e4f49eb942448ee25c5b177f541",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/V02/Shotgunner_C.png",
+    "bytes": 116711,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/V02/Shotgunner_C.png",
+    "sha256": "30ec55aea6dee2fa53b77c5a60465adf509fceeb0e4d677a608c5622193b0ab2"
+  },
+  {
+    "guid": "369416b8cc5f2ac4b97db8cda272d8e2",
+    "original": "Assets/ArtOfWar-II_Art/Environment/备战页UI.png",
+    "bytes": 146056,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/备战页UI.png",
+    "sha256": "21a3269b7a44a5e50f5efe404356c4a1309f1af80c28d1573774a7ce41a8db6c"
+  },
+  {
+    "guid": "37457babbca19864fb422fd008ee7700",
+    "original": "Assets/ArtResource/Effects",
+    "bytes": 0
+  },
+  {
+    "guid": "377ba81082bb083439362cde691ab390",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Shaders/All_ShadersUPR/VFX_Additive.shader",
+    "bytes": 20953
+  },
+  {
+    "guid": "37f3bd0fede579a4187e80dee7cc485d",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_TreeB_Mat.mat",
+    "bytes": 5986,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_TreeB_Mat.mat",
+    "sha256": "f5e326ef3fe7b4bd17326b51826871159d395acc750c441275ac6314d443ded1"
+  },
+  {
+    "guid": "381ce1aa810e8144f9cb974936c9b3ff",
+    "original": "Assets/20261019-跨河强渡战役/841_骑士/模型动画/Knight@Skin.max",
+    "bytes": 1474560
+  },
+  {
+    "guid": "3944121a1e05ae8429faa939edeaa996",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture",
+    "bytes": 0
+  },
+  {
+    "guid": "3972acdf086c94b8fa2a103e15be88c9",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_621/Genichirou_Mat.mat",
+    "bytes": 1935,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_621/Genichirou_Mat.mat",
+    "sha256": "0717c5101ca2d2a8d5e980feee53f9b1876c57fd7e2bc69b9befd829fcea9102"
+  },
+  {
+    "guid": "39a6d04b05f92e249818329f46b1d277",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_631/Boomerang_C.png",
+    "bytes": 78982,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_631/Boomerang_C.png",
+    "sha256": "9037ea087468af0eb4e79399d98cc1316ed94812780f12757b426f07a50a20f9"
+  },
+  {
+    "guid": "39dee29e2d4d6ab44ab22f9c8dbcad08",
+    "original": "Assets/20261019-跨河强渡战役/841_骑士/模型动画",
+    "bytes": 0
+  },
+  {
+    "guid": "39f968297429c114d82daa11f176d6ca",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷",
+    "bytes": 0
+  },
+  {
+    "guid": "3a15dafe63775b247add784aef41ec72",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_621",
+    "bytes": 0
+  },
+  {
+    "guid": "3a5511ebd1042944e9049fbedbf03392",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/效果图.png",
+    "bytes": 26676,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/效果图.png",
+    "sha256": "8643616d3947e61210a1f7f8c742b15ebff90797ca6791fa7afeab64411296a3"
+  },
+  {
+    "guid": "3aa32796d5de4e5438ea88482d3cbcc4",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Shared/Common_FX",
+    "bytes": 0
+  },
+  {
+    "guid": "3ad26a6f3d981324e87048deadd2d240",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX",
+    "bytes": 0
+  },
+  {
+    "guid": "3ad9b87dffba344c89909c6d1b1c17e1",
+    "original": "Assets/TutorialInfo/Scripts/Editor",
+    "bytes": 0
+  },
+  {
+    "guid": "3b07bdf3e5043444b9b53e1fce2e775a",
+    "original": "Assets/20261019-跨河强渡战役/833_铁卫战车/模型动画/参考 (954).mp4",
+    "bytes": 3145713
+  },
+  {
+    "guid": "3b33cd5d725ca47429f3ff0e903c224f",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/Dec_Ramp",
+    "bytes": 0
+  },
+  {
+    "guid": "3b379bb3790f2c04fa50a1cedb30a9cd",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_632",
+    "bytes": 0
+  },
+  {
+    "guid": "3b5f1fbacd9794047a58d0d7f763111e",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Mountain_Mat.mat",
+    "bytes": 5991,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Mountain_Mat.mat",
+    "sha256": "09c64b62a7f133242ccc5e68fb958f3a0fe29722332bfee38925c1c3bbdde28a"
+  },
+  {
+    "guid": "3b80a742362608243b6a082dff21b44e",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_631/Boomerang.FBX",
+    "bytes": 1149824,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_631/Boomerang.FBX",
+    "sha256": "3946ae5041d69a96b9a35b9b7d1fb1de616259fb68bd79e91979cc83fca170d9"
+  },
+  {
+    "guid": "3bbcac481d548dc4ba46426f345509dd",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Materials/Flail_C 1.mat",
+    "bytes": 3729,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Materials/Flail_C 1.mat",
+    "sha256": "b115e3a7cbf6812501bf39b3e3376ab0506b98b1f6bd198f6307e87b7346c56f"
+  },
+  {
+    "guid": "3bd013a2e052a3d4894cec48fff04af5",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_632/Astrologer.FBX",
+    "bytes": 2623232,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_632/Astrologer.FBX",
+    "sha256": "6f2ee4c04afd74c5a5034af6c031833807fa4615f5f8412ae5ccf76e0282fdcb"
+  },
+  {
+    "guid": "3c90d8fdbb383194283207a51a867eda",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_71_Mat.mat",
+    "bytes": 6070,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_71_Mat.mat",
+    "sha256": "31e5b542bf3ee0f3d64278b88726bd072985887de137ad084f1717d95c704cbf"
+  },
+  {
+    "guid": "3d12bc4f0df463d478fe708a8b9ee02a",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_638/Airbender.FBX",
+    "bytes": 2779232,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_638/Airbender.FBX",
+    "sha256": "ba6ba7680c78a14c0980db2f7df93231d536951f48e6e681b1efa50ca1fd6268"
+  },
+  {
+    "guid": "3d24a369d15126841a4d1fd9e05d3643",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/Dec_Ramp/Dec_Ramp_01_C.png",
+    "bytes": 20131,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/Dec_Ramp/Dec_Ramp_01_C.png",
+    "sha256": "7976e2db4d2447e96284ad710d2795193c383841e0f0484b158d3987f21b0e8d"
+  },
+  {
+    "guid": "3e391aee7800e604e87f6262caf8bb5d",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Feature/CogworkWastes/CogworkWastes_Grp.prefab",
+    "bytes": 32972,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/CogworkWastes/CogworkWastes_Grp.prefab",
+    "sha256": "b4328f9829c312448fd8d4bdbb3ea48dceaff85fa8267f409e156f7f1a5b44b9"
+  },
+  {
+    "guid": "3e3fcb251e7fc1f44acef9a441250f52",
+    "original": "Assets/20250513-Rising-防御撤退-镜糕&Sherry/623_炸弹人",
+    "bytes": 0
+  },
+  {
+    "guid": "3e401df2e45954b4580b52f5d0ef94e6",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_FlowMap_001_Tex.tga",
+    "bytes": 196652,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_FlowMap_001_Tex.tga",
+    "sha256": "d91a2b6a3aaf1aa8fe8523d2848c5d826ff08710b88b7409adb355bdddf2d68a"
+  },
+  {
+    "guid": "3e7cf115b42e1664ca36e41373d93ec8",
+    "original": "Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_51/Low",
+    "bytes": 0
+  },
+  {
+    "guid": "3ecbf68f3898335459bf406da6f11652",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube_Mat_1.mat",
+    "bytes": 2726,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube_Mat_1.mat",
+    "sha256": "8e56b4a6320b4e398b59f0b17ec7233065fee4642af10be70e1771f126ae13d8"
+  },
+  {
+    "guid": "3eebda07a3fdddd418cffc4b8e74d7f3",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士/动作模型/Mod_BlackKnight_01.fbx",
+    "bytes": 50592,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士/动作模型/Mod_BlackKnight_01.fbx",
+    "sha256": "70716efc07df9aa19a3879ba9a2e82356d9064fa4f25c8912eda0385debca0d0"
+  },
+  {
+    "guid": "3eff0c78f11bfef45a62da8f69b28e51",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Stakes_01.fbx",
+    "bytes": 23440,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Stakes_01.fbx",
+    "sha256": "74d637d523e9b949717147f1921bbad0583adc2add50a24454207fc4a17bd6c0"
+  },
+  {
+    "guid": "3f58c3ddf11e04142b077c126c884c64",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_640",
+    "bytes": 0
+  },
+  {
+    "guid": "3fe480f3ab1d1dc4ca6c971da708bd5c",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Land.fbx",
+    "bytes": 36208,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Land.fbx",
+    "sha256": "4d9a87d2054a066f3d9b23dce57459fd5ef8105dec34b98fce0372a4f8f512aa"
+  },
+  {
+    "guid": "40549440643cf694e98225ce26c8db6d",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_746/Athena_Mat.mat",
+    "bytes": 4319,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_746/Athena_Mat.mat",
+    "sha256": "e4eedb645a06a22a41a2c84fc6268ef9d4e1ffd5271a46f8f7d3458348107b99"
+  },
+  {
+    "guid": "40a551d98db21fa49b77c91263a91e54",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Aow_Blue_Mat.mat",
+    "bytes": 1968,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Aow_Blue_Mat.mat",
+    "sha256": "082db223a1ad01fdb0bb2c5a35d46807632c3589e6aac17142236b76811facb0"
+  },
+  {
+    "guid": "4104a7b9c00c51941886c2028b2d54bd",
+    "original": "Assets/ArtResource/Effect/Models",
+    "bytes": 0
+  },
+  {
+    "guid": "416b10f4f80d1c44482658fbba14fd6d",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common",
+    "bytes": 0
+  },
+  {
+    "guid": "419dd27f9aa4ece47a077b509a841e3d",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_FlowMap_001_Mat12.mat",
+    "bytes": 6137,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_FlowMap_001_Mat12.mat",
+    "sha256": "75d5ea14ba99782dfa29c846578dab9933729339f946e2e4dd045141c244855a"
+  },
+  {
+    "guid": "42c003af26633c347bd26ccdf510e806",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型源文件/GriffinKnight_C.png",
+    "bytes": 113013,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型源文件/GriffinKnight_C.png",
+    "sha256": "fc188a7205ee17f42c828c8c1f24d7f5ad7a2ca1e8693ed5d9f9ffd08f1017e5"
+  },
+  {
+    "guid": "42d9176a399ecf3498fbc8236c8ac946",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_627/FlameMage.FBX",
+    "bytes": 2201760,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_627/FlameMage.FBX",
+    "sha256": "d053bd79fd7796b713b6bd546041d69f84924ae86c19b6f5303b656be9217e00"
+  },
+  {
+    "guid": "43b2fb709c076764b84af03e6b6c1508",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Shrub_C.png",
+    "bytes": 93918,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Shrub_C.png",
+    "sha256": "d09a5972d17cbf28f381286877a20f979a88b74710a2b1d9b614822f05444e01"
+  },
+  {
+    "guid": "444a6af3829657146933e083d8f11434",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LowWall_Mat.mat",
+    "bytes": 6285,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LowWall_Mat.mat",
+    "sha256": "bd7f14bfa5f288bfcf07ce930056f962ccdfc6e6f038baea512e6d458102594f"
+  },
+  {
+    "guid": "45d160b19fbba3840a3b1c6c1ea3ab08",
+    "original": "Assets/20261019-跨河强渡战役/833_铁卫战车/模型动画/帧数.txt",
+    "bytes": 238
+  },
+  {
+    "guid": "4670a8e08909da3479a17ad6a28e2456",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_LowWall_C.png",
+    "bytes": 391172,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_LowWall_C.png",
+    "sha256": "ed89ff99b70ecb34977d2977678656a713317ff324c53526c2c6d953792e9272"
+  },
+  {
+    "guid": "4715d38cdeaf0444b95cf03123f7f804",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Steps.fbx",
+    "bytes": 102432,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Steps.fbx",
+    "sha256": "d96d85ffe0813db356cd5868ede40f2541c6c311fb4afb7d0cee1800503e9803"
+  },
+  {
+    "guid": "4738c54c57c2b7a40ad348844f4c0eb6",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Models",
+    "bytes": 0
+  },
+  {
+    "guid": "4739cfeeae1481349b99b38f08d20fbf",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_704",
+    "bytes": 0
+  },
+  {
+    "guid": "476cc7d7cd9874016adc216baab94a0a",
+    "original": "Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs",
+    "bytes": 6677,
+    "local": "assets/imported/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs",
+    "sha256": "d2023934bc2be23af69cd930ade85eff41c5db0a6f6666b05324b975befdb5b5"
+  },
+  {
+    "guid": "47aec4c87f1be0b45982a57703883edd",
+    "original": "Assets/ArtResource/Effect/Materials/FX_Fre_001_Mat.mat",
+    "bytes": 5878,
+    "local": "assets/imported/Assets/ArtResource/Effect/Materials/FX_Fre_001_Mat.mat",
+    "sha256": "57bddaae27f51a7ed0d86910b213a5503fcac87a4cc9cf03ffed368d677d9ed8"
+  },
+  {
+    "guid": "48dcc76c2cc93b9478c4797dcdb93522",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Smoke_171_Tex.png",
+    "bytes": 18549,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Smoke_171_Tex.png",
+    "sha256": "244de0da645a4048889ae5517e28a3a2cdd217413624aee75d720ed876103180"
+  },
+  {
+    "guid": "495b8655684c6a64c926808eb7f5eaa1",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_736",
+    "bytes": 0
+  },
+  {
+    "guid": "49a922027a005f344818f1a028526b00",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_638",
+    "bytes": 0
+  },
+  {
+    "guid": "4a1838d9444682546a2502a7c323eec0",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Mountain_C.png",
+    "bytes": 284688,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Mountain_C.png",
+    "sha256": "435f9e5910afbfc8b3f24520bbbb4e69d5417b25dc9717c0a2c29e3576f1a73a"
+  },
+  {
+    "guid": "4a41aa9ba7ef00f498e9f538ff773573",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material",
+    "bytes": 0
+  },
+  {
+    "guid": "4a4a3e743fe7a024d985453df4adc881",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结",
+    "bytes": 0
+  },
+  {
+    "guid": "4a9026df7d59df048aa3961566360ecb",
+    "original": "Assets/645_见习法师/特效/645_见习法师.unitypackage",
+    "bytes": 116339
+  },
+  {
+    "guid": "4abc928054b18734290d8a48f0975791",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Land_Mat.mat",
+    "bytes": 4528,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Land_Mat.mat",
+    "sha256": "7551217df89d41339b204f347e946bc49679cd0dec016892c53bb17a32d5a1e1"
+  },
+  {
+    "guid": "4aff017a533d417478a4e67ebd28ffbd",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型",
+    "bytes": 0
+  },
+  {
+    "guid": "4b00896d637e61542a637781d988923e",
+    "original": "Assets/645_见习法师/动作模型/旧/Grenade.max",
+    "bytes": 2392064
+  },
+  {
+    "guid": "4b22d34eb51c3c14ab36c4d6ccb19bfa",
+    "original": "Assets/ArtResource/Effects/Common_FX/Materials/FX_Trail_29_Mat.mat",
+    "bytes": 6007,
+    "local": "assets/imported/Assets/ArtResource/Effects/Common_FX/Materials/FX_Trail_29_Mat.mat",
+    "sha256": "afcebacf4930ff5aed445e31405438a3fe0f87824c5f882052245a4e40fedb46"
+  },
+  {
+    "guid": "4b53ce90893600143b830b32af29adfc",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_739/Alchemist_Mat.mat",
+    "bytes": 4323,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_739/Alchemist_Mat.mat",
+    "sha256": "220717ceefe14f22901709d0461e97cbcd807b2ba77f7e55156a8cda6fc613aa"
+  },
+  {
+    "guid": "4b7002e9f32f7c040bfcce0dca618bd6",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士",
+    "bytes": 0
+  },
+  {
+    "guid": "4bcbca81104da4e008617dfced5f465e",
+    "original": "Assets/ArtOfWar-II_Art/Sprites/Feature/MGGrid/Game_Grid_White.png",
+    "bytes": 1426,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Sprites/Feature/MGGrid/Game_Grid_White.png",
+    "sha256": "e96dbe7cdd16ad5e72afd05881ec2051c028bae9461af0eb620c72c5f6e7c4f7"
+  },
+  {
+    "guid": "4c95a2eea107fb14daf93a840456af71",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Trail_016_Tex.png",
+    "bytes": 1659,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Trail_016_Tex.png",
+    "sha256": "51a800e875c0ac40dbb885187076137c5b293d27dc6fa7981b3bb0e16264984c"
+  },
+  {
+    "guid": "4d1227db40bcdd64a8336357722150f1",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_FarLand.fbx",
+    "bytes": 31488,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_FarLand.fbx",
+    "sha256": "3c85ec3bf70b6b016f8ded297daf2b2c4337354ced8a2118924614d1e6e5cabf"
+  },
+  {
+    "guid": "4d1cd2d55d480e344a9b54e007470aa8",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material/CogworkWastes_Mat.mat",
+    "bytes": 6164,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material/CogworkWastes_Mat.mat",
+    "sha256": "1f934a5dc4623ac903f635222bcad1239938675e347efc2940fa349ff188d94c"
+  },
+  {
+    "guid": "4d7453a008461dc4f98cb4afc6f1f270",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_632/Astrologer_C.png",
+    "bytes": 176063,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_632/Astrologer_C.png",
+    "sha256": "fed36c955056d0986d9618ca37e317ecdfa7ca48fead5d343de4dfb41ef54ec3"
+  },
+  {
+    "guid": "4e426ec3b5f16de41b88da552380357f",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_New_C.png",
+    "bytes": 72566,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_New_C.png",
+    "sha256": "1bcd31860a081f940c81024d0c743c7503b40ee75e8bdd522a8b7f821cb73057"
+  },
+  {
+    "guid": "4e6f6d7f5402c7b48b97882d8e78481c",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_C.png",
+    "bytes": 195940,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail_C.png",
+    "sha256": "abcefbcb1e5997b373a2fba9182896d0b332f836e69c3daa423c340da5a619a3"
+  },
+  {
+    "guid": "4f4d7edf58eea33479263b95de89ed6f",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_742/RobinHood.fbx",
+    "bytes": 2761632,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_742/RobinHood.fbx",
+    "sha256": "091b65a9de66283b42b4fe22c23c54af045332ee320213608700a2df9cdebee8"
+  },
+  {
+    "guid": "4fad4817cd34a05419702d920dc081a4",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Knife_006_Tex.png",
+    "bytes": 16659,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Knife_006_Tex.png",
+    "sha256": "f4f857c65ff6a911f3f82b5b76a21500a8224d4135fb0d21206948cf7a7ca20e"
+  },
+  {
+    "guid": "502dd366227741940add6df8cae44a28",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_14_Mat04.mat",
+    "bytes": 6134,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_14_Mat04.mat",
+    "sha256": "93fadea7aa705729f9de59896359ce4807f8f1d1de33c064c095ddc5479df6e1"
+  },
+  {
+    "guid": "508320310679cd04faa9136c316f113c",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/XiaoBin_Grey_Texture.png",
+    "bytes": 27033,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/XiaoBin_Grey_Texture.png",
+    "sha256": "10272488bb88083406bd3818e52513f48aa32af5a6773a7236f226eb4927afc5"
+  },
+  {
+    "guid": "50c7a401cc04dda4da90d22bff6f8383",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/BlackKnight_01_C.png",
+    "bytes": 113531,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/BlackKnight_01_C.png",
+    "sha256": "b494255c85cf892bbed622891f56b0cc366191b8c3f1b96ef6bcb037258b125b"
+  },
+  {
+    "guid": "50d8accd43034aa4f8fa3fa74b0e07b7",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/大炮/BattleUnit_831_VFX_Skill01_Explode.prefab",
+    "bytes": 1303806,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/大炮/BattleUnit_831_VFX_Skill01_Explode.prefab",
+    "sha256": "272c2d1a2c61d56f588f9ceba7cb13adaa2ccac2a080782ae32f0db4b2c19d3d"
+  },
+  {
+    "guid": "50e539d1680f6864da6fcb989430366f",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Crack_001_Tex.png",
+    "bytes": 11493,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Crack_001_Tex.png",
+    "sha256": "9af63978f1b606de88fab3831d49bba4ece0363ac0280d0015996cf9d1a7efcd"
+  },
+  {
+    "guid": "5233174cf69933c4ba8ec043ee03e76f",
+    "original": "Assets/20250513-Rising-防御撤退-镜糕&Sherry/623_炸弹人/V1",
+    "bytes": 0
+  },
+  {
+    "guid": "53afdac34a455e545987579a21dce843",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/Shotgunner@Skin.max",
+    "bytes": 1482752
+  },
+  {
+    "guid": "5414534b1cfc7c74384455c283fe2608",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_706/Copernicus_Mat.mat",
+    "bytes": 4700,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_706/Copernicus_Mat.mat",
+    "sha256": "ab908c9eeec3dd02c81e346bc3050a3270634e8197b3c4f7cfe52523b87d52b8"
+  },
+  {
+    "guid": "543beb4a050d5944981aa56659631d8e",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_C_2.png",
+    "bytes": 184980,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_C_2.png",
+    "sha256": "509bc5ed6a438f44bae5bfdc035e53b17e4af5407b3555dd0d4888b3571d6bab"
+  },
+  {
+    "guid": "545282bd7c941fa4584eaa0525bdba83",
+    "original": "Assets/20261019-跨河强渡战役/833_铁卫战车/模型动画/GuardChario.fbx",
+    "bytes": 530288,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/833_铁卫战车/模型动画/GuardChario.fbx",
+    "sha256": "b68d6b3a5e12fe93c094e5a45ae1787fae80694d3eccee303ddb8bc113a219be"
+  },
+  {
+    "guid": "55084ee541b04214b885eec6e56a794f",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_701/Genichirou_C.png",
+    "bytes": 139126,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_701/Genichirou_C.png",
+    "sha256": "c9337799440867b366b4ce49dcdf598754629a85cfa98c82cc0aabdbef2f26c5"
+  },
+  {
+    "guid": "55ddc684d843ed944ba0cae1c586818e",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Flower_03.prefab",
+    "bytes": 4189,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Flower_03.prefab",
+    "sha256": "71d0aa915a2e55b2d30269c145dcf3a5584779b3ba04d78f25948f1526e8c6f6"
+  },
+  {
+    "guid": "568155a9001bd2d4dbfd5146c4da93de",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Mat.mat",
+    "bytes": 1942,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Mat.mat",
+    "sha256": "0257118371cba2aec6a1f1f48b9407556224b3ce8f3630965b5deb16c4723dc5"
+  },
+  {
+    "guid": "5689ceb978980bf4e82119797178ca7b",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Tree_05.prefab",
+    "bytes": 4194,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Tree_05.prefab",
+    "sha256": "e918e3bfa08ac6d44da05ece36742c27731f0571410c27dc5e526c019a13d37e"
+  },
+  {
+    "guid": "5754e221156e34f4d9ee77070b2e0d5a",
+    "original": "Assets/20261019-跨河强渡战役/841_骑士",
+    "bytes": 0
+  },
+  {
+    "guid": "57aff91577fd5284e91c92ce8f39f42b",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/SunkenCity",
+    "bytes": 0
+  },
+  {
+    "guid": "57f587bc5cd587f4a946e0d3229934f8",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_C.png",
+    "bytes": 206017,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_C.png",
+    "sha256": "06c86b31e1dba7527de15caf6f1e0ddbc0b10cdb529b8b6e90676a0ff5bf32ea"
+  },
+  {
+    "guid": "5848951e7f5edf642b59d166fc3bd3f4",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_734/Fox_Mat.mat",
+    "bytes": 4311,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_734/Fox_Mat.mat",
+    "sha256": "10a924cb6ae932c3cfbae0e6a2b0c09c48e55c5e9d47b3f0e08e4695a6a92337"
+  },
+  {
+    "guid": "5879bf0dc3daae8429364238621ccf14",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/FarmHome/Texture",
+    "bytes": 0
+  },
+  {
+    "guid": "59717afd6ea27ab4cbd312db71a5c38d",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_70_Tex.png",
+    "bytes": 46599,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_70_Tex.png",
+    "sha256": "ad603d333f81e2a0504ced1e660ae440d8e424a337be2a909270ceecc723abc7"
+  },
+  {
+    "guid": "59f4c9a79f4dbe34383c8a4b1aa8872f",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Polygon_003_Mat.mat",
+    "bytes": 5927,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Polygon_003_Mat.mat",
+    "sha256": "3080eb9a4f2c5a8a8cd615ef0290af5c73590201f9a6c2c9a9511c725db1463a"
+  },
+  {
+    "guid": "5a2c5176564a8c940a60e79f813474ab",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_HighWalls.fbx",
+    "bytes": 112128,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_HighWalls.fbx",
+    "sha256": "3a3a6e86e611d82ba349793f4b34c4a188abd532265c181b0500154858454d7e"
+  },
+  {
+    "guid": "5a6662b946631f04b9694b1f1beed415",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Cage.prefab",
+    "bytes": 3609,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Cage.prefab",
+    "sha256": "33fcc27324c1ea1711c716e55d5cd939bfffe675125f5eba31025a4e5cc780b7"
+  },
+  {
+    "guid": "5a9bcd70e6a4b4b05badaa72e827d8e0",
+    "original": "Assets/TutorialInfo/Scripts",
+    "bytes": 0
+  },
+  {
+    "guid": "5abe5eb0661d55d4cbc2e2bc7073ac76",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/V02/Shotgunner.fbx",
+    "bytes": 524432,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/V02/Shotgunner.fbx",
+    "sha256": "ce1132bb6d7019b34bcf57b93463e901dbce159c4e7d22a9484cbc3d43d0795a"
+  },
+  {
+    "guid": "5b8f384fc3ab4284eb9fad95566023fa",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/源文件/冰雪老人、皇家猎手、皇家守卫.spp",
+    "bytes": 67248871
+  },
+  {
+    "guid": "5c1d9210b5905a8499f3b449976c9255",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Feature/ArenaScene",
+    "bytes": 0
+  },
+  {
+    "guid": "5c5f7196db2a3c949874f382e9b9e7b1",
+    "original": "Assets/645_见习法师/动作模型/Grenade_New.fbx",
+    "bytes": 44960,
+    "local": "assets/imported/Assets/645_见习法师/动作模型/Grenade_New.fbx",
+    "sha256": "cd1482d7e0ea000ab1de5ed5006a5d098902df3be8b913362ed68c9d1c24feda"
+  },
+  {
+    "guid": "5c9a9d9b072d6b645bafc882b7a3168f",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Gird_Mat.mat",
+    "bytes": 2200,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Gird_Mat.mat",
+    "sha256": "f8cf1b7d8040bfbe2378a51680e2d0a2bcfd938aed44d388aaed69e07f703aca"
+  },
+  {
+    "guid": "5cf5809e9a2b10742bc7b1b7bf859441",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Red_Mat.mat",
+    "bytes": 4279,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Red_Mat.mat",
+    "sha256": "36a3169b7deabb2fdc331297148ce2c7cf81e4fe574dd531c77d09ad74832efc"
+  },
+  {
+    "guid": "5d6413d2b1830ee4ea1b8c3574ba5e56",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/演示视频.mp4",
+    "bytes": 2281941
+  },
+  {
+    "guid": "5e3e6e690b444ac4a92bf8eb386891d3",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Crack_001_Mat.mat",
+    "bytes": 5925,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Crack_001_Mat.mat",
+    "sha256": "ad5af1cfa0d670008a98ccf64e408d65a6f2091149cc6699e7dea160f81af5cf"
+  },
+  {
+    "guid": "5e8ccddee5cda714b9e290e64af3dbfb",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Flower_03.fbx",
+    "bytes": 26384,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Flower_03.fbx",
+    "sha256": "eeca16663f1cc57b19a808d2efe58fce0aaa349be648594c528a8643bc72b03e"
+  },
+  {
+    "guid": "5efaf26a06e14b141b8683fef24edb48",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Grass.fbx",
+    "bytes": 32000,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Grass.fbx",
+    "sha256": "8bb9fb48d81e975e9962f10ebb6e04a789e6c28fb21c6867f3e6605c5efc7a45"
+  },
+  {
+    "guid": "5f0d290bd1606c3428d4ea35c51fba98",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_742",
+    "bytes": 0
+  },
+  {
+    "guid": "5fbcf3d687bee7849b8ad55441e1cc4d",
+    "original": "Assets/ArtOfWar-II_Art/Sprites/Feature",
+    "bytes": 0
+  },
+  {
+    "guid": "5fd460959b872224094adb89a7c5ff48",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_13_Tex.png",
+    "bytes": 606678,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_13_Tex.png",
+    "sha256": "e5df7321f492b76a51ad32a70a6fb3a6928191e4a17d2446e48f2fa6b0ce09f3"
+  },
+  {
+    "guid": "603716e05e0a23f43bac6efc549e3bda",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Land.fbx",
+    "bytes": 31680,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Land.fbx",
+    "sha256": "004e18b62353ae11463057f242522ca89c522877b6a5873a0b0cadebfd129618"
+  },
+  {
+    "guid": "604fdcdce9c823745ba34c242da9fda6",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle",
+    "bytes": 0
+  },
+  {
+    "guid": "609c710c78a01a74ba1a3a73a1545aa0",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Arrow.fbx",
+    "bytes": 20080,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Arrow.fbx",
+    "sha256": "3e5a328f981613f519ea3685506479d5e39754c641cc43147f66f9ee0085bb00"
+  },
+  {
+    "guid": "60b2f581e4c866641a190486de2be354",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/演示视频.mp4",
+    "bytes": 2147723
+  },
+  {
+    "guid": "6232ad481ad5e094eb661e75217444b5",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_739",
+    "bytes": 0
+  },
+  {
+    "guid": "623954af2d778a94abe36fefcf82e88b",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Brick_C.png",
+    "bytes": 302554,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Brick_C.png",
+    "sha256": "d4f9e04e7aebe321b9bfa2a31ee6063d2df8d19ed0902c3e1a5a7ff21f44d388"
+  },
+  {
+    "guid": "626a3497fa5513341a6ac4aa5ff8775c",
+    "original": "Assets/ArtOfWar-II_Art/Effects/BattleUnit",
+    "bytes": 0
+  },
+  {
+    "guid": "627f36e4ff9118d469eb2bef50adfc58",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Shared/Common_FX/Textures/FX_Glow_04_Tex.png",
+    "bytes": 18743,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Shared/Common_FX/Textures/FX_Glow_04_Tex.png",
+    "sha256": "709c5b64a43fdc9eb0c7311d7e460bdf5caa4d185883f3ed66f0bd75c235b166"
+  },
+  {
+    "guid": "62be36853e283704b996be003d50a26f",
+    "original": "Assets/BattleAnimationController",
+    "bytes": 0
+  },
+  {
+    "guid": "6493abca1a314794a9e7425b9f2e8a4d",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_742/RobinHood_C.png",
+    "bytes": 74830,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_742/RobinHood_C.png",
+    "sha256": "359962d30a962456404fa393818e69ffaa3e82e32bf724f217c958d23c5e3b61"
+  },
+  {
+    "guid": "657d117dedb3bc0468a07db228340a52",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Cage_C.png",
+    "bytes": 130420,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Cage_C.png",
+    "sha256": "b10d5d172f966eeab9261142ae7f63c1ed2b97832dafb70842a9e10b599cc493"
+  },
+  {
+    "guid": "657f6014aa6577d4eabf0dec07b48afc",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_629",
+    "bytes": 0
+  },
+  {
+    "guid": "65951361c2b40c6499b6354babcda3e3",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/StarvingDec/Texture/Noise 20.png",
+    "bytes": 75209,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/StarvingDec/Texture/Noise 20.png",
+    "sha256": "f5e3fae77fac9d741beae4a2b27fb06b66b1b64c2e1a06494c8da20fca617e84"
+  },
+  {
+    "guid": "65c7d2610461bf3429c09375fdf02409",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/BlackKnight_01.fbx",
+    "bytes": 1122016,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/BlackKnight_01.fbx",
+    "sha256": "5efe9fd01c1ca149f782edc48f014b24995e8882ff31ebd0010d9caabcd87a8a"
+  },
+  {
+    "guid": "671275f14de986d47bc67e545a6a7292",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_743/Beott_C.png",
+    "bytes": 190232,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_743/Beott_C.png",
+    "sha256": "82c69272b548f64a18caec40e48d51743a9abde0d53fab2ae4b6c4cb0b698948"
+  },
+  {
+    "guid": "68f0367ea9e26f24d90bd0ba74170f07",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Shared/Common_FX/Textures",
+    "bytes": 0
+  },
+  {
+    "guid": "69807fdb6d9b9a249b911be91de85fc7",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Line_015_Tex.png",
+    "bytes": 979,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Line_015_Tex.png",
+    "sha256": "a17c0c55dd8970028d622844d0aac98ae4db4fbc84db6d95ab0fce08549a05d6"
+  },
+  {
+    "guid": "69d9cbcd8b6468946ae98e791bdd004f",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_701",
+    "bytes": 0
+  },
+  {
+    "guid": "69df13e57e2d01d47a195943b1bb87c8",
+    "original": "Assets/ArtOfWar-II_Art/Environment",
+    "bytes": 0
+  },
+  {
+    "guid": "69e39736f3947c94baad54b55d68a1e5",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Lights_015_Mat.mat",
+    "bytes": 5926,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Lights_015_Mat.mat",
+    "sha256": "ad72c80dc4554ac73d809f581369e0f7e7f43025983d68759c87bb89090daf0c"
+  },
+  {
+    "guid": "6ac82539de2bb1a4583be4cf778e7ad3",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_631",
+    "bytes": 0
+  },
+  {
+    "guid": "6b487ef3d1830a74687f42b515cb038f",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Building.fbx",
+    "bytes": 86128,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Building.fbx",
+    "sha256": "4d5c4866f56946cca10eb94702b41ed4dc6fd39e55cfdcd502573aae6647588f"
+  },
+  {
+    "guid": "6c19fa745a8ab1e43a25cd337718a9d6",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Tree_04.prefab",
+    "bytes": 4190,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Tree_04.prefab",
+    "sha256": "49237c79a67fdfac21c0d12a69755009b16032db138610522705f0734df529a9"
+  },
+  {
+    "guid": "6c52675b28c1e0c43805ec645a1498cf",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior",
+    "bytes": 0
+  },
+  {
+    "guid": "6c52bbcbe96120a419c8df6b72a89760",
+    "original": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/旧/Shotgunner.fbx",
+    "bytes": 1229424,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/旧/Shotgunner.fbx",
+    "sha256": "f0eb9b6698a13ef353ce8b29979a0b786ff4d374081b892ac90ce16f6b10e2ff"
+  },
+  {
+    "guid": "6e46eb022277fe44eb5eeb162a4551b4",
+    "original": "Assets/ArtOfWar-II_Art/Shaders/DecShadow.shader",
+    "bytes": 28756
+  },
+  {
+    "guid": "6ee14feac534d434fbaadfedd77cf780",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Cage.fbx",
+    "bytes": 42112,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Cage.fbx",
+    "sha256": "2560046faa97ba52910cfc4b5e7cdc0d8f2adeeca71a6b8902a133ad14bff96b"
+  },
+  {
+    "guid": "6fcf62ac236fc674a87c84a18aabc28c",
+    "original": "Assets/20261019-跨河强渡战役/831_大炮战车/特效/大炮战车特效.unitypackage",
+    "bytes": 1509881
+  },
+  {
+    "guid": "706947d98b4848d4da1863e4d39c75c0",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/黑骑士.png",
+    "bytes": 878154,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/黑骑士.png",
+    "sha256": "f521a348c5d589c2a16e5dca1f3e9599a1903d6db31f53e64a4cf36e43a2acbb"
+  },
+  {
+    "guid": "707360a9c581a4bd7aa53bfeb1429f71",
+    "original": "Assets/Settings/URP-Performant-Renderer.asset",
+    "bytes": 1854,
+    "local": "assets/imported/Assets/Settings/URP-Performant-Renderer.asset",
+    "sha256": "11d4463a714b8572792a6818dece9e3c84ee2635dff9048575155b064e056bb9"
+  },
+  {
+    "guid": "709f11a7f3c4041caa4ef136ea32d874",
+    "original": "Assets/Settings",
+    "bytes": 0
+  },
+  {
+    "guid": "711dddbf3515585439684751bdc07d59",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/Shotgunner.fbx",
+    "bytes": 548880,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/Shotgunner.fbx",
+    "sha256": "57fa30dd94945269bf646645bf1d09f3d0a0f55a0b7be9fafe486e11b492ac8a"
+  },
+  {
+    "guid": "718e680b717f7bc4cac1d29dbbf4388c",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_Mat 1.mat",
+    "bytes": 4721,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_Mat 1.mat",
+    "sha256": "4b2c984a71c5ca07390b22f52fe328d96c7b81e85c0f5c898685b478ae9100bf"
+  },
+  {
+    "guid": "7225a4f4a24adb64a84775de21c520d2",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Dec_C.png",
+    "bytes": 590593,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Dec_C.png",
+    "sha256": "63af4d85fdc0eeefa456f00dabd4dddc22185a959822315594db058842e10b1d"
+  },
+  {
+    "guid": "727a75301c3d24613a3ebcec4a24c2c8",
+    "original": "Assets/TutorialInfo/Icons/URP.png",
+    "bytes": 24069,
+    "local": "assets/imported/Assets/TutorialInfo/Icons/URP.png",
+    "sha256": "1d17a9ff3537859abe2c008603d29d90cf43191ae77aa386167cc65e53ba03d9"
+  },
+  {
+    "guid": "73144c561b743ec48bac59104786ae70",
+    "original": "Assets/20261019-跨河强渡战役/831_大炮战车/模型动画",
+    "bytes": 0
+  },
+  {
+    "guid": "736974b9f28792b4a8cbc2a70e792395",
+    "original": "Assets/ArtOfWar-II_Art/Shaders/Grid.shader",
+    "bytes": 4980
+  },
+  {
+    "guid": "737a8e82abee00140964c4d57aa61d45",
+    "original": "Assets/ArtResource/Effects/Common_FX/Materials/B_FX_Glow_11_Mat.mat",
+    "bytes": 5549,
+    "local": "assets/imported/Assets/ArtResource/Effects/Common_FX/Materials/B_FX_Glow_11_Mat.mat",
+    "sha256": "f17a66433fd1df0ba2dcbc7ab93eb8ef533f4d0fa6a4fc0b16be5e5656aa4e39"
+  },
+  {
+    "guid": "73fda1e000caa3d4598b24fd142a4ae0",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Shrub_Mat.mat",
+    "bytes": 6280,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Shrub_Mat.mat",
+    "sha256": "5bd40aade4a00d416922dcc7ebaea6424359e220203db6f9e39bed305ecc152a"
+  },
+  {
+    "guid": "744820e554d939e4fbb144b79d4506f2",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail.fbx",
+    "bytes": 829952,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail.fbx",
+    "sha256": "13509eb1337ff1df34dfc3fcd15b742c12206919b8bf7de3a9e2aa09c75b4da8"
+  },
+  {
+    "guid": "745ef81807a49c5498697ab82109ee3c",
+    "original": "Assets/20261019-跨河强渡战役/831_大炮战车/模型动画/演示视频.mp4",
+    "bytes": 3145713
+  },
+  {
+    "guid": "746e04250a6748542bde166a28a8d20d",
+    "original": "Assets/BattleAnimationController/Effects/Shaders(有报错删除这个就好)/RaidMat.shader",
+    "bytes": 23750
+  },
+  {
+    "guid": "74dacfbb0492c534e8037533b7ab75ba",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/SnowBridge",
+    "bytes": 0
+  },
+  {
+    "guid": "754b2729e091c4b44b54adf1e185bd8e",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_632/Astrologer_Mat.mat",
+    "bytes": 1949,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_632/Astrologer_Mat.mat",
+    "sha256": "1d9990a990868be5a6e20cfa3eed3e61925931572f012fa464bf780eee2c7ab1"
+  },
+  {
+    "guid": "754bb0937eca4c1498d4ef2a9e3394cf",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_626",
+    "bytes": 0
+  },
+  {
+    "guid": "75770be5ba0b79941a452735150fe546",
+    "original": "Assets/20261019-跨河强渡战役",
+    "bytes": 0
+  },
+  {
+    "guid": "75e03af23ed84d645bca8062b596f211",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab",
+    "bytes": 0
+  },
+  {
+    "guid": "7603d62b6515d344b83518427050f97c",
+    "original": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/参考 (1015).mp4",
+    "bytes": 22062158
+  },
+  {
+    "guid": "7646fb9d6d0c82546b9c7c0de5c98d1d",
+    "original": "Assets/20261019-跨河强渡战役/833_铁卫战车/特效/铁卫战车特效02.unitypackage",
+    "bytes": 95218
+  },
+  {
+    "guid": "767368ffe2f7343469ff96e8741497bc",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_746/Athena_C.png",
+    "bytes": 556822,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_746/Athena_C.png",
+    "sha256": "376abe8b790d8695b5e4b668f14e7ee905b06806dfeb72cc97fa1e624a4bf0e9"
+  },
+  {
+    "guid": "77b29b7cd1d759141a409d84008b815f",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Feature/CastleExterior",
+    "bytes": 0
+  },
+  {
+    "guid": "787f14a01912c144496f3f8d1d168c5f",
+    "original": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/旧",
+    "bytes": 0
+  },
+  {
+    "guid": "792dcb4342a543741bb6678e66559c1c",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/火枪手/BattleWeapon_41_VFX_Effect 1.prefab",
+    "bytes": 359518,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/火枪手/BattleWeapon_41_VFX_Effect 1.prefab",
+    "sha256": "19fcefa089f511977b63688a8d9c8ad5b23f9d77cda3198ff1b991f7ca9fc9ae"
+  },
+  {
+    "guid": "797a958c6cb2cdf49835a1aad3d355b5",
+    "original": "Assets/ArtOfWar-II_Art/Shaders",
+    "bytes": 0
+  },
+  {
+    "guid": "7a9e34934c074fa48984f306abe56ae7",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_640/CristalLantern.fbx",
+    "bytes": 1780880,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_640/CristalLantern.fbx",
+    "sha256": "a7060ee532ffb52414500c728150b5c9eaff74dd578349bf22f94dc344c5408e"
+  },
+  {
+    "guid": "7ad6f1c05ed7e8540a68d06d4fe26f10",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618",
+    "bytes": 0
+  },
+  {
+    "guid": "7b7fd9122c28c4d15b667c7040e3b3fd",
+    "original": "Assets/Settings/URP-HighFidelity.asset",
+    "bytes": 3649,
+    "local": "assets/imported/Assets/Settings/URP-HighFidelity.asset",
+    "sha256": "cbcdbff289e5270128fb8333f49b484c71cfaf61564713d403bd351356feddb5"
+  },
+  {
+    "guid": "7c8dd884d9248164cb3fbfa3af95bb7b",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_C 1.png",
+    "bytes": 24533,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_C 1.png",
+    "sha256": "8a2e921b1d6a6d006cc01c86aa2a3eccd6ce241013efa54d8f7e93008a149b1f"
+  },
+  {
+    "guid": "7cdc3068e864f0d4383f259084552202",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Tree_C.png",
+    "bytes": 90793,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Tree_C.png",
+    "sha256": "6805cea79bece1d74fb4b92de0407b132d5b740f5cc2a86b84df33e51706e1cc"
+  },
+  {
+    "guid": "7ed06b30f21626840b690e8a977707ed",
+    "original": "Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_550/Low/Textures",
+    "bytes": 0
+  },
+  {
+    "guid": "7fd92765e28f80b4f96aa883f1a203dd",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_631/Boomerang_Mat.mat",
+    "bytes": 1921,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_631/Boomerang_Mat.mat",
+    "sha256": "6899c11c2225f71e4a4b821bf776a0579a4b6b991f2fd3b383db75b177d3775c"
+  },
+  {
+    "guid": "80220f59cf644c344af1147c37e9396a",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Brick.fbx",
+    "bytes": 118592,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Brick.fbx",
+    "sha256": "73df8c2a957447af266bda5eaa3404ca3100a932e62a6923781ca1fb32ea0c40"
+  },
+  {
+    "guid": "80930a874f3af004fb3416d3e02db88d",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_05_Tex.png",
+    "bytes": 54347,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_05_Tex.png",
+    "sha256": "1d94464387a2b2a93e44c8bb097bf5c1e61fcc9633f9e559280406482b40de4e"
+  },
+  {
+    "guid": "80ada9b853b10c2499eaec9e3617a96f",
+    "original": "Assets/20261019-跨河强渡战役/841_骑士/模型动画/帧数.png",
+    "bytes": 47023,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/841_骑士/模型动画/帧数.png",
+    "sha256": "049ba2441f9df550a7c32a61d5224cb31405667ad65399a23975e17d68ad403a"
+  },
+  {
+    "guid": "810418528f1721c438b147f448759d0a",
+    "original": "Assets/645_见习法师/效果图.png",
+    "bytes": 19519,
+    "local": "assets/imported/Assets/645_见习法师/效果图.png",
+    "sha256": "362b8b1c299ef4f97245ad11a550d53fb1f7fe7520bbb4b42bf4a249f59a0040"
+  },
+  {
+    "guid": "818897a9743db8e4b8a58d286d9b4d0a",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_026_Tex.png",
+    "bytes": 14636,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Niose_026_Tex.png",
+    "sha256": "07d036c28483e58a56e4f382740fdfae19f55f5af5d0071475cc3e68bee9afce"
+  },
+  {
+    "guid": "818d23f2c5a58bd4b8c01bf359e87c4b",
+    "original": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/白蓝色角色帧数 再加动作.txt",
+    "bytes": 341
+  },
+  {
+    "guid": "81bce00f2c6154140a8a251a16e36a8e",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube.fbx",
+    "bytes": 1283184,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube.fbx",
+    "sha256": "01aba65fbb67d9b2f449204853feb32e99e7a74951f1247cad469693e8a9fd81"
+  },
+  {
+    "guid": "81e8d0deb88e81e47a84bc0f866cc0ec",
+    "original": "Assets/645_见习法师/特效",
+    "bytes": 0
+  },
+  {
+    "guid": "820a1e2a22db9a345b289737a77a033e",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Land_C.png",
+    "bytes": 514083,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Land_C.png",
+    "sha256": "c969b68729e298ed9be3894fc69a1b8488d0da82a7730fbbaedad8135516f063"
+  },
+  {
+    "guid": "835a226962c3b2f45a22dd1b48f587f5",
+    "original": "Assets/20261019-跨河强渡战役/629_散弹枪/V1/Shotgunner.fbx",
+    "bytes": 46560,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/V1/Shotgunner.fbx",
+    "sha256": "7f4ef3087a4efa96298b18ec394fa0631a276d4eb09381844756dc798327e308"
+  },
+  {
+    "guid": "835d3845b8d891345a9a432ac5d01f51",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_629/Shotgunner_Mat.mat",
+    "bytes": 1922,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_629/Shotgunner_Mat.mat",
+    "sha256": "47826c8e0ce5cfb2f8c53d77fb1743081c5f5f84fb11e491bf152037608b6339"
+  },
+  {
+    "guid": "83f54f5b2376f9c449f494ba6074b665",
+    "original": "Assets/645_见习法师/动作模型/旧",
+    "bytes": 0
+  },
+  {
+    "guid": "842da9dd9f31f8f4692b3f2181ff950f",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model",
+    "bytes": 0
+  },
+  {
+    "guid": "8512003021e29534abf8508cc461e9a8",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/BattleWeapon_630_VFX_Hit.prefab",
+    "bytes": 356510,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/BattleWeapon_630_VFX_Hit.prefab",
+    "sha256": "b79d3b91131e6faf51c9c960f7d914bfc64292cd81ef814890ac6752e7dd07a9"
+  },
+  {
+    "guid": "856815e0fa43ba142883ce459308249e",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_643/RockWand_Mat.mat",
+    "bytes": 1920,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_643/RockWand_Mat.mat",
+    "sha256": "79cae8148274aba56b2185b4cfefcc205d1ad5d458efab80af35ea8f82fdbc31"
+  },
+  {
+    "guid": "85e2a8eea87039f4888e9110e32b1eeb",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures",
+    "bytes": 0
+  },
+  {
+    "guid": "85fb2cce68ee8d14a82b74bf89f7ad85",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Flail.max",
+    "bytes": 2904064
+  },
+  {
+    "guid": "8649c104803a16549a154e19a713369a",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Castle.prefab",
+    "bytes": 3792,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Castle.prefab",
+    "sha256": "315e2a704f05968f2979e5c9faf061b5618b796e326f3543edde214dc4b25915"
+  },
+  {
+    "guid": "867f1b029539463448dcbb646e1d52cd",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/白蓝色角色帧数 再加动作.txt",
+    "bytes": 341
+  },
+  {
+    "guid": "86ca2d141a7526a47b8ede6c43f80b96",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Feature/ArenaScene/ArenaScene.unity",
+    "bytes": 6062615,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/ArenaScene/ArenaScene.unity",
+    "sha256": "00160a9e0934a2dd6b1b825da3078959cebb9117a8ff0a1a81d16984e720f047"
+  },
+  {
+    "guid": "8719d446b9efe4811abb73bbfe603609",
+    "original": "Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_51/Low/Textures/08ce35de.png",
+    "bytes": 22000,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_51/Low/Textures/08ce35de.png",
+    "sha256": "b86be144213dbe4f3c0e17b210ccc6a30db2e6d923aa950584fde37856b44f02"
+  },
+  {
+    "guid": "8720891f0e954884b8526c62fb819793",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Cage_Mat.mat",
+    "bytes": 6271,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Cage_Mat.mat",
+    "sha256": "3178fd2b072a98bccab1c4b69b6de85f059ae048677aafc1df91f9e83b68fb6e"
+  },
+  {
+    "guid": "87431e32ef4b94822add381e7cae134e",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Line_015_Mat04.mat",
+    "bytes": 6071,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Line_015_Mat04.mat",
+    "sha256": "7843bbcb0d1922d754bd4a5cda58156f5fb935275ce80cc0aeb06cb347a0f14d"
+  },
+  {
+    "guid": "8832034e54f1f254aa5df39cb33d90e3",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/源文件",
+    "bytes": 0
+  },
+  {
+    "guid": "883897a6c6ab4fc489a8290109e677e9",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_FarLand_C.png",
+    "bytes": 201422,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_FarLand_C.png",
+    "sha256": "2f747eddb2caa00964a82e18ef2736c63ce6a0a06c3fcd47724e5e42ad0c1ca5"
+  },
+  {
+    "guid": "8857d2441d6fa7d44b35fbb741c8badf",
+    "original": "Assets/730_玄铁战熊改动作/Halaer.fbx",
+    "bytes": 2904000,
+    "local": "assets/imported/Assets/730_玄铁战熊改动作/Halaer.fbx",
+    "sha256": "ebb65391548e810f525da3a709acfc76e55a61269c38b41f7dcce681f3693112"
+  },
+  {
+    "guid": "894f85b541732814b919a43987e84374",
+    "original": "Assets/ArtOfWar-II_Art/Fbx",
+    "bytes": 0
+  },
+  {
+    "guid": "89742ca334fc14648ae84d52a23bf5ec",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Castle.fbx",
+    "bytes": 148080,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Castle.fbx",
+    "sha256": "29deb7865b653b162a2a73fbe4e510920f243fb669c61be0ba9e41f3e6b8622b"
+  },
+  {
+    "guid": "898538d83b594684f843fc54ddca73be",
+    "original": "Assets/645_见习法师/动作模型/旧/演示视频.mp4",
+    "bytes": 2281941
+  },
+  {
+    "guid": "89c29d17319bab44b90511cfefe0b790",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_Mat_2.mat",
+    "bytes": 1949,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_Mat_2.mat",
+    "sha256": "69066c77dc50491775535b9e1af465c3ded684b10969b9bb3541617f7b0fc4d3"
+  },
+  {
+    "guid": "8a0c9218a650547d98138cd835033977",
+    "original": "Assets/TutorialInfo/Icons",
+    "bytes": 0
+  },
+  {
+    "guid": "8a6c1ac97fde64f48b420c846ecd91ef",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/RoyalArena/Textures",
+    "bytes": 0
+  },
+  {
+    "guid": "8c24fdb36a378b743939dee439f6a9af",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/特效/皇家猎手动效演示.mp4",
+    "bytes": 1183108
+  },
+  {
+    "guid": "8cb3612d373897b4291044eb8244c5d0",
+    "original": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/狼牙棒.max",
+    "bytes": 3178496
+  },
+  {
+    "guid": "8e1abd7268cafcd42b60944f73d3ccd6",
+    "original": "Assets/20261019-跨河强渡战役/841_骑士/模型动画/演示视频.mp4",
+    "bytes": 2463280
+  },
+  {
+    "guid": "8ed4fabee8a967b4f87a64efc1c357be",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/源文件/皇家猎手.spp",
+    "bytes": 33012295
+  },
+  {
+    "guid": "8f667a28a96165d458bb6e7268b8d9d4",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_736/DanDing_Mat.mat",
+    "bytes": 4283,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_736/DanDing_Mat.mat",
+    "sha256": "d0ce92cdd06b1911f5aed1a925ef8604ac31d723e16c7eb3bc2811f0c24cc547"
+  },
+  {
+    "guid": "8fb971c315dc6904fa690b6e99a9da80",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_LowWall.prefab",
+    "bytes": 3628,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_LowWall.prefab",
+    "sha256": "f65efffd7e9eaf47c46ec8be3343102acd7bc46697008c0ef03165e47e4ba56f"
+  },
+  {
+    "guid": "90285a1833001f64181cdca4525f9c56",
+    "original": "Assets/645_见习法师/动作模型",
+    "bytes": 0
+  },
+  {
+    "guid": "9035b1f6b4f0ff541a8cda9fdc02a01a",
+    "original": "Assets/ArtResource",
+    "bytes": 0
+  },
+  {
+    "guid": "90a088fd9fca0834995b7b7bc09db64c",
+    "original": "Assets/20261019-跨河强渡战役/833_铁卫战车/效果图.png",
+    "bytes": 44331,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/833_铁卫战车/效果图.png",
+    "sha256": "cd2f6e4336877ce3c5d8a3493913e586efec0c1b21370163c07f5cb48c19a997"
+  },
+  {
+    "guid": "90aa0d0c813ad844ea3dc99c89ab5467",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士",
+    "bytes": 0
+  },
+  {
+    "guid": "915b3a22aeceda24facf8947db630427",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/大炮",
+    "bytes": 0
+  },
+  {
+    "guid": "917594957a643494092a07726b6e3d11",
+    "original": "Assets/645_见习法师/动作模型/Grenade.max",
+    "bytes": 1331200
+  },
+  {
+    "guid": "921d237421ddb1d41923537bf7b96400",
+    "original": "Assets/pvp更大景别.png",
+    "bytes": 3655931,
+    "local": "assets/imported/Assets/pvp更大景别.png",
+    "sha256": "96f54c39ba8cc10f6a0748166cd1357aecc8d57ce6dd647de3a6d86e5ef2f12f"
+  },
+  {
+    "guid": "9288b07d0d7ce5b42939e637f1745abc",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_626/BombThrower.fbx",
+    "bytes": 1263008,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_626/BombThrower.fbx",
+    "sha256": "a78d4ea3c0d788c3b59bdaffeecfc4540c43528d6ca2fe15200c61b61c3fd585"
+  },
+  {
+    "guid": "92b6c221f44d9e34cb3252975a898bbf",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Shurb_02.prefab",
+    "bytes": 3630,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Shurb_02.prefab",
+    "sha256": "26b29731fdb25652258a6845562423e70f55ceb51ce78fe20357e5beabf62de6"
+  },
+  {
+    "guid": "9316b58eeaeba644381d951839893535",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LandB_Mat.mat",
+    "bytes": 6542,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LandB_Mat.mat",
+    "sha256": "40e63ceea7c69fb61fd4da3bf77c701084a62b3f6703703def6d4db32cd958fc"
+  },
+  {
+    "guid": "9331c9427e4af9745989dfb7d6604550",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Purple02.prefab",
+    "bytes": 368985,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Purple02.prefab",
+    "sha256": "8823dcd6cbcfb753da42249c2e78bd2b0111d6851a1c56172e001e1d2c17e6bf"
+  },
+  {
+    "guid": "9358bf34a9417444bb805b709ad0b6af",
+    "original": "Assets/20250513-Rising-防御撤退-镜糕&Sherry/623_炸弹人/V1/Blue_C.png",
+    "bytes": 14454,
+    "local": "assets/imported/Assets/20250513-Rising-防御撤退-镜糕&Sherry/623_炸弹人/V1/Blue_C.png",
+    "sha256": "f6d333297306f2921e6ab8afc0ad1abb299bd3b5ef3d4c9f3a5c4a44f2515093"
+  },
+  {
+    "guid": "937de2fbe0a1cfd429ce9c0602c817ec",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Shaders",
+    "bytes": 0
+  },
+  {
+    "guid": "942da259bad5d1d4e941c4a955168cda",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/DesertBazaar/Texture/DesertBazaar_Land_C.png",
+    "bytes": 130541,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/DesertBazaar/Texture/DesertBazaar_Land_C.png",
+    "sha256": "0548fabd8e70acc5b95adf43865c701332fee1a0add167b1740a2146f5fcf59c"
+  },
+  {
+    "guid": "94577174eb12e3c45b9408c3dd8c3998",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/SnowBridge/Mesh/SnowBridge_Gird.fbx",
+    "bytes": 18192,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/SnowBridge/Mesh/SnowBridge_Gird.fbx",
+    "sha256": "76e2a535b233094fbe9f68fb9821adb03512ec3a659cbfc80d37d427b001f9d3"
+  },
+  {
+    "guid": "94a4b52b175749542aaff749dd1600fa",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Niose_026_Mat.mat",
+    "bytes": 4109,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Niose_026_Mat.mat",
+    "sha256": "92bdb8c19b755e38ab147316949fc3d891a0aa06d8cf49b406536d1ce47b7473"
+  },
+  {
+    "guid": "966170baeb876ae4f8798ea2e1f7edc8",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Land_C.png",
+    "bytes": 254577,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Land_C.png",
+    "sha256": "a32e7e935c32d55e982dafdd86d1d0d37220fd960eaaf5cf260bbf09a8fef466"
+  },
+  {
+    "guid": "96cd9b1840592ad46ad189f101d1e24a",
+    "original": "Assets/aaaa",
+    "bytes": 0
+  },
+  {
+    "guid": "978ada1a4163ae74097e88d8ba2abbb0",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials",
+    "bytes": 0
+  },
+  {
+    "guid": "97c9a10a32a282a47bec3032b7365fa6",
+    "original": "Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets",
+    "bytes": 0
+  },
+  {
+    "guid": "985706ce45fb68d4c96174dc8703df6f",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_Mat.mat",
+    "bytes": 4280,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_Mat.mat",
+    "sha256": "7067b5d86db7455793103e80a2732846b091a6637dc426ee3e337090b85c7b69"
+  },
+  {
+    "guid": "98f8657ba4554b14489e72ccf5f4dc29",
+    "original": "Assets/20261019-跨河强渡战役/833_铁卫战车",
+    "bytes": 0
+  },
+  {
+    "guid": "991969d9ba2b62c4f990828ae0c301b8",
+    "original": "Assets/20261019-跨河强渡战役/831_大炮战车/效果图.png",
+    "bytes": 23071,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/831_大炮战车/效果图.png",
+    "sha256": "ba03763331f723b6638e4b0c0161080db5a0dd52da218b4276845b93eeaba032"
+  },
+  {
+    "guid": "9950f7db35dc2d145b1d85c0af66cde8",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_TreeB_C.png",
+    "bytes": 242251,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_TreeB_C.png",
+    "sha256": "b11bd365c2a80af237aaec3fb9038c283f9ec1fa035ced68caea94a6f60d587b"
+  },
+  {
+    "guid": "999cd22a0e6a04b4b99cb4aa8f676e0b",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/GriffinKnight.max",
+    "bytes": 3895296
+  },
+  {
+    "guid": "99a08684ff7cc6f4f8a933bdb7aff2cc",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/特效",
+    "bytes": 0
+  },
+  {
+    "guid": "99c19c628ea57a14f8fc81dc49eb922d",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/Flail.fbx",
+    "bytes": 1333184,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/Flail.fbx",
+    "sha256": "493820e57e417784b1ca1f4a8678b10808d29f9517988fca70f62b8b56d02440"
+  },
+  {
+    "guid": "99c9720ab356a0642a771bea13969a05",
+    "original": "Assets/Scenes/SampleScene.unity",
+    "bytes": 10734,
+    "local": "assets/imported/Assets/Scenes/SampleScene.unity",
+    "sha256": "93ff4bd5410520f04df9f14709ad4e8d5136a12a22d1361adf66e075c1947c92"
+  },
+  {
+    "guid": "9a08a2e3be5db614d82c78d2a7b64c4a",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_704/Boreas_C.png",
+    "bytes": 174140,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_704/Boreas_C.png",
+    "sha256": "29ccee789d3b173bcd810890587789dbacad751d319e7eef90dfad5974e567f4"
+  },
+  {
+    "guid": "9a5b770cc1ede5d4b927dbc3975df6fd",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Knife_006_Mat.mat",
+    "bytes": 6137,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Knife_006_Mat.mat",
+    "sha256": "dd5f936e54b36398d47f39d2d3845cb7a7d5a22a16836098096daa31a8a7ebb5"
+  },
+  {
+    "guid": "9bef0d2733019944d97f6d3b6a9a1d1d",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_LandB_Mat.mat",
+    "bytes": 5971,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_LandB_Mat.mat",
+    "sha256": "2bc631f8cfeb5a5ae4456487b56c6b7536b5aba5a38b1ed661e841e8c7b8eb97"
+  },
+  {
+    "guid": "9c7578762d4f1f94ba169a506d2a2f93",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Iw_Grey_Mat.mat",
+    "bytes": 1919,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Iw_Grey_Mat.mat",
+    "sha256": "c7890ab9eb757349164656a43f8585398e2e572189f8209e48ae386eb024faad"
+  },
+  {
+    "guid": "9e203b44b678bea4fa1fc05c89b94727",
+    "original": "Assets/ArtResource/Effects/Common_FX/Textures/FX_Trail_020_Tex.png",
+    "bytes": 28333,
+    "local": "assets/imported/Assets/ArtResource/Effects/Common_FX/Textures/FX_Trail_020_Tex.png",
+    "sha256": "36edbe8b28c0a0bf4ba9f1e7745f0bfa520804594a05ccff3387ada900bbc3c5"
+  },
+  {
+    "guid": "9e95df895247dcb4c9bb5a9c9e22b2e0",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_LowWall.fbx",
+    "bytes": 90320,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_LowWall.fbx",
+    "sha256": "ddaaa12161ca14d1ff0df6ba47ae5910d9fb6cae8aff04834c7290bdb6cd9c9b"
+  },
+  {
+    "guid": "9ea5880e18b157144b42ba4b425bdf18",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/DesertBazaar",
+    "bytes": 0
+  },
+  {
+    "guid": "9f11ac4c6e035cb47b215af9099ca190",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture",
+    "bytes": 0
+  },
+  {
+    "guid": "9f8ec9b19a6a17c499b233028e438146",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_002_Mat02.mat",
+    "bytes": 6010,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_002_Mat02.mat",
+    "sha256": "7b08d9c58aac8604125aaba8ac7e7e6acac80063a3d94bb1bec04572597fb4cc"
+  },
+  {
+    "guid": "9fbb8f7475ccb294abeeebabf00f4989",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_643/RockWand_C.png",
+    "bytes": 251577,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_643/RockWand_C.png",
+    "sha256": "35375d4a00f40d282769767e2f346471604b0ca687abeed5e6f5d2eb507e10c3"
+  },
+  {
+    "guid": "a0107bd6bd505ec4394239b4297c185a",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Castle_Mat.mat",
+    "bytes": 5992,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_Castle_Mat.mat",
+    "sha256": "fe766fec432e72e7a7310c86a68575f24314092e4a607d49903ed31001f331b2"
+  },
+  {
+    "guid": "a0a35a24ca4fefd4099fc238db6de95e",
+    "original": "Assets/645_见习法师/V1/Grenade_A.png",
+    "bytes": 51506,
+    "local": "assets/imported/Assets/645_见习法师/V1/Grenade_A.png",
+    "sha256": "ed120521d242996467a4ccec848b754e033cb069a99c11b8dac09828f29bb861"
+  },
+  {
+    "guid": "a2138ad24a0818642b8d3873d6a9715e",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画",
+    "bytes": 0
+  },
+  {
+    "guid": "a330ccfbf6e08ce4b9c707fc99f0250d",
+    "original": "Assets/20261019-跨河强渡战役/831_大炮战车/模型动画/大炮车.max",
+    "bytes": 1114112
+  },
+  {
+    "guid": "a39c03179e15a7740a3f3c3773565f81",
+    "original": "Assets/20261019-跨河强渡战役/629_散弹枪",
+    "bytes": 0
+  },
+  {
+    "guid": "a3b55e0846050bf44997a384a4e2bf51",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/NeedNot",
+    "bytes": 0
+  },
+  {
+    "guid": "a48f4f14766ab8b4d8a85f1a7305acbc",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_627",
+    "bytes": 0
+  },
+  {
+    "guid": "a49c519a14b75984485f1a11492e1d6c",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Blue02.prefab",
+    "bytes": 369009,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Blue02.prefab",
+    "sha256": "ddcde5199b5d29f9127cc788cda98f3fa13c971b7f2aaf25e51d0bc78a98f7fd"
+  },
+  {
+    "guid": "a4faa30ff97fa9f4e8476d2ae15a045c",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/皇家猎手.png",
+    "bytes": 331160,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/皇家猎手.png",
+    "sha256": "80be3b7f51d176216fa4e6542e896f333d1a5810ffc8c89a6aeafe2d04e5fe21"
+  },
+  {
+    "guid": "a59b40e0ad5366f42ab2c0932c45a7dd",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_FlowMap_001_Mat11.mat",
+    "bytes": 6122,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_FlowMap_001_Mat11.mat",
+    "sha256": "a6659e5a206d64de6052c88f171c95e22c1db519b6a606188fcaa1a153584394"
+  },
+  {
+    "guid": "a6560a915ef98420e9faacc1c7438823",
+    "original": "Assets/Settings/SampleSceneProfile.asset",
+    "bytes": 2803,
+    "local": "assets/imported/Assets/Settings/SampleSceneProfile.asset",
+    "sha256": "a9932bcba1b1b55c8939c72aca2b5cca21efc41847bd16208fe3e171c9cba89f"
+  },
+  {
+    "guid": "a7c92b0125bb3284cb9eee9bbf5c3b0b",
+    "original": "Assets/000/素材/700_剑士/蓝色.mat",
+    "bytes": 5992,
+    "local": "assets/imported/Assets/000/素材/700_剑士/蓝色.mat",
+    "sha256": "7fd1b1e85459033103610bb5c4f99df7e360373aa04a7c2dd616b07e0654e8a5"
+  },
+  {
+    "guid": "a845ac415f1dd4f4592543b8b7251b38",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/大炮/BattleUnit_831_VFX_Skill01_Bullet 1.prefab",
+    "bytes": 712635,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/大炮/BattleUnit_831_VFX_Skill01_Bullet 1.prefab",
+    "sha256": "69ddf5458221e6d52aad2f3efd409699cd473289e6dcd4239e95ffdb97a0ca02"
+  },
+  {
+    "guid": "a943d63c49bf6f944890cd25b0c2b173",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Gird.fbx",
+    "bytes": 33968,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Gird.fbx",
+    "sha256": "447a96edc2323fb2ac58b1159166bee1c6b848a519e9efe90af19a68718a7aa8"
+  },
+  {
+    "guid": "a97333e26ae1eb341b553c96ca5f5a7b",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_HighWalls.prefab",
+    "bytes": 7273,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_HighWalls.prefab",
+    "sha256": "811b3daaa4d184f8b5c821666393d283fb8e2638ef1532ef52d1daffd7cb3743"
+  },
+  {
+    "guid": "ab70d03425e79e84bbb1458b9a849ca6",
+    "original": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/旧/Shotgunner.max",
+    "bytes": 1675264
+  },
+  {
+    "guid": "abb3cf34bc2916849b874365babc8e36",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_738/Modgud_C.png",
+    "bytes": 235604,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_738/Modgud_C.png",
+    "sha256": "e80aa4a7771db0b83464335f2f218717d41ad3258771620de95edda5316b02ce"
+  },
+  {
+    "guid": "abbab246d10cc5949838c84b6623f91e",
+    "original": "Assets/730_玄铁战熊改动作/Halaer.max",
+    "bytes": 2629632
+  },
+  {
+    "guid": "abc60e6dc133ed5478874168ed692575",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/hqs01@Skin.max",
+    "bytes": 1757184
+  },
+  {
+    "guid": "ac0a0c0f9e9756a49a0ee0680a6e1771",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Floortile02.fbx",
+    "bytes": 25744,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Floortile02.fbx",
+    "sha256": "a541ff4b5cb088f2ac161d2bc52eea065ccad3d5104bb4468fc9ab5cefa2b568"
+  },
+  {
+    "guid": "ac543c38418c41447bb7a6a92c708e1b",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/特效/皇家猎手动效.unitypackage",
+    "bytes": 1110602
+  },
+  {
+    "guid": "acac5b3ad4f40924c845d701d9294ca2",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/演示视频.mp4",
+    "bytes": 2125974
+  },
+  {
+    "guid": "ad1243bb78e9648e0befcb747a76b9cb",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_621/Genichirou_C.png",
+    "bytes": 141924,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_621/Genichirou_C.png",
+    "sha256": "98e2c1648ec757b0de8a7bf1004e988f6fe8409eaae22774e278c41e55bba746"
+  },
+  {
+    "guid": "ad35c9bf962f8ed4cbf3465300220d43",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/狼牙棒.max",
+    "bytes": 2248704
+  },
+  {
+    "guid": "adaf8e4cca1ef6f48b50c4f129dc0045",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Noise_30_Tex.png",
+    "bytes": 12607,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Noise_30_Tex.png",
+    "sha256": "33c11621efbcbf0ae8fa232eec7341752d139d216da68786a093981769397074"
+  },
+  {
+    "guid": "adba0f38478cca54f9e84f348c4a350b",
+    "original": "Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture",
+    "bytes": 0
+  },
+  {
+    "guid": "adbdfbf3861939b4d9663f23bad860bf",
+    "original": "Assets/ArtResource/Effect",
+    "bytes": 0
+  },
+  {
+    "guid": "ae06c38cd789a6b4ebfec75fb07d30ae",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Shurb_01.fbx",
+    "bytes": 42368,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Shurb_01.fbx",
+    "sha256": "05a1e2fb77a3f4199fb8e34efb9ed54886ea018a37485ea83b7a8217f128151f"
+  },
+  {
+    "guid": "ae0767a492b0e7149b73d20d7a9272e2",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_DecD_C.png",
+    "bytes": 218844,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_DecD_C.png",
+    "sha256": "120c310242d340377ff1a1f108d0801437fa86beb2b203022e31b984f8fafb0e"
+  },
+  {
+    "guid": "ae238f6a3ccb482458f225e6a5b94372",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/源文件",
+    "bytes": 0
+  },
+  {
+    "guid": "ae25a4702e87ed64bb8a0652df28e2dd",
+    "original": "Assets/20261019-跨河强渡战役/831_大炮战车/特效",
+    "bytes": 0
+  },
+  {
+    "guid": "ae46df1b98e51bd479f067e749ddb556",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_738/Modgud_Mat.mat",
+    "bytes": 4317,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_738/Modgud_Mat.mat",
+    "sha256": "96e49fbce4a4edded45a565c650e6498f4b44efe30c256c65044cf02c719e6ef"
+  },
+  {
+    "guid": "aec8ab9098cdd8b4e9e836a750984f68",
+    "original": "Assets/ArtResource/Effect/Materials",
+    "bytes": 0
+  },
+  {
+    "guid": "af5515bfe14f1af4a9b8b3bf306b9261",
+    "original": "Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_NoTileNoise.png",
+    "bytes": 44236,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_NoTileNoise.png",
+    "sha256": "4908df9ffbb4e939f987df705c0bf6241c6101698942a19767e734a709fc85f0"
+  },
+  {
+    "guid": "af6394742f0786349b980c2c568f5573",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model",
+    "bytes": 0
+  },
+  {
+    "guid": "b076599b74ad8b548bfd1c494bee7583",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_704/Boreas_Mat.mat",
+    "bytes": 4696,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_704/Boreas_Mat.mat",
+    "sha256": "c5eab1fd7f1eb26587f20039e2970cb50698e24dbfd44162a9ab2bb87cf8492b"
+  },
+  {
+    "guid": "b0d08d3e4ea76814bb5f40727acea05a",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Models/FX_Knife_05_Mod.fbx",
+    "bytes": 40080,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Models/FX_Knife_05_Mod.fbx",
+    "sha256": "4cda77bbdec7e019f0f30c20c54ece01775ab461ba1107d100295238b2323d51"
+  },
+  {
+    "guid": "b0e5286780b787745a1b609733fbd54a",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_743/Beott_Mat.mat",
+    "bytes": 4312,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_743/Beott_Mat.mat",
+    "sha256": "38af1a80512f84bda5d5c193bdef0a94b2f70a6a40ea5d75b28a578d5b3c1d60"
+  },
+  {
+    "guid": "b100369cac7fbda458520262d77394f5",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_629/Shotgunner.FBX",
+    "bytes": 1150096,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_629/Shotgunner.FBX",
+    "sha256": "aca13f8827e55e2668f99fca3987f8cc987a1048f3b79c21dbe8bf41ed4013c1"
+  },
+  {
+    "guid": "b363e9284dfaa0647a58a77b15fd1902",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_743",
+    "bytes": 0
+  },
+  {
+    "guid": "b44d34fe2e24c064f838f7f7e984e1a2",
+    "original": "Assets/20261019-跨河强渡战役/841_骑士/模型动画/Knight.max",
+    "bytes": 2347008
+  },
+  {
+    "guid": "b52f879262f047c47b8c6717881fa657",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Shared/Common_FX/Meshes/FX_Circle_05_Mod.fbx",
+    "bytes": 38368,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Shared/Common_FX/Meshes/FX_Circle_05_Mod.fbx",
+    "sha256": "d6c4609646ccc8873738dc900092832b48803bb7dbef0b94fbd1c6f8c3cbaed2"
+  },
+  {
+    "guid": "b63320cf584db0c45aea08b71f3abdb4",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/XiaoBin_Blue_Texture.png",
+    "bytes": 26779,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/XiaoBin_Blue_Texture.png",
+    "sha256": "604147ab01113969a4ccca129044c36a505042c28bc089b468d20eba04e13729"
+  },
+  {
+    "guid": "b77f9e57152e32a46960f306156217c2",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/SunkenCity/Texture",
+    "bytes": 0
+  },
+  {
+    "guid": "b7a253aab4010bb4cb9eccebf25adff2",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/DesertBazaar/Texture",
+    "bytes": 0
+  },
+  {
+    "guid": "b7eabde09e72aa94480ef98357c89a7c",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/狼牙兵.jpg",
+    "bytes": 10029
+  },
+  {
+    "guid": "b887be2872d781043a6d7d69bf798b83",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_Mat_1.mat",
+    "bytes": 1962,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_Mat_1.mat",
+    "sha256": "edcfb8fed69771fe8e26745fd4fe0fcba05d2b06148894c155c6dd944dd84bfa"
+  },
+  {
+    "guid": "b99bb8196a89c484fae5d38db1fdb7e8",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material",
+    "bytes": 0
+  },
+  {
+    "guid": "b9c9d04e53f825243a15f840e1a46fba",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画/hqs01.max",
+    "bytes": 2031616
+  },
+  {
+    "guid": "ba062aa6c92b140379dbc06b43dd3b9b",
+    "original": "Assets/TutorialInfo",
+    "bytes": 0
+  },
+  {
+    "guid": "bc4dfbb75ffd28c45a727d5c3cd8e621",
+    "original": "Assets/ArtResource/Effect/Textures/FX_Glow_003_Tex.png",
+    "bytes": 21371,
+    "local": "assets/imported/Assets/ArtResource/Effect/Textures/FX_Glow_003_Tex.png",
+    "sha256": "52e6dec58a03291c3d5bce633264d47674fa256a3fcb088b7390483ffcbe470a"
+  },
+  {
+    "guid": "bca26b0abc17aed498280970bab92d68",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/增加细节",
+    "bytes": 0
+  },
+  {
+    "guid": "bcc2e6ebc6dbc5e4e91fd33d799f6cb3",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Gear02.fbx",
+    "bytes": 143200,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Gear02.fbx",
+    "sha256": "b1537b9e27f449694005a500dbda9041ede6779348aa95b4e2fa47fe1c03d7fa"
+  },
+  {
+    "guid": "bcca19a8b0a9e7f4cbe321c8e997e26d",
+    "original": "Assets/645_见习法师/动作模型/Grenade.fbx",
+    "bytes": 1004112,
+    "local": "assets/imported/Assets/645_见习法师/动作模型/Grenade.fbx",
+    "sha256": "bba5c5b4d4ba0f2a4023e42232af4c9b7776d77a74bd86127ada68c04fa46d7c"
+  },
+  {
+    "guid": "bcec4e83325fb974887207b46efec6d0",
+    "original": "Assets/645_见习法师/V1",
+    "bytes": 0
+  },
+  {
+    "guid": "bcee00707099b8c4ebe807504d881c1c",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Land.fbx",
+    "bytes": 80624,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_Land.fbx",
+    "sha256": "4b69a3de6f59eae12992523f41cac3b4161df4700022ff698a25e744dc656d54"
+  },
+  {
+    "guid": "bd476035ba622334dba646c4bb3e0b54",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_749",
+    "bytes": 0
+  },
+  {
+    "guid": "beeac0750c9f68c4fa29c34742c17f29",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner",
+    "bytes": 0
+  },
+  {
+    "guid": "bf2f96f3948ce354f993ca2a5c80758e",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_627/FlameMage_Mat.mat",
+    "bytes": 1942,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_627/FlameMage_Mat.mat",
+    "sha256": "1ab8fbfa6f2f564f4488f360defa1f49bf5422e307b1747fa971da1de7a5cd44"
+  },
+  {
+    "guid": "bf998d8c750db6943931b257ec099370",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_744/Dullahan_Mat.mat",
+    "bytes": 4322,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_744/Dullahan_Mat.mat",
+    "sha256": "d785249d5c28f9a20032918c10001ab6888912c25cc5479035e7ae00aadc18db"
+  },
+  {
+    "guid": "bfff095cdc94d394aa9426de870987cc",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/特效/狮鹫骑士特效优化.unitypackage",
+    "bytes": 1864047
+  },
+  {
+    "guid": "c09842b1aab44d847acddecd7b3cae28",
+    "original": "Assets/BattleAnimationController/Effects",
+    "bytes": 0
+  },
+  {
+    "guid": "c163456c501534c418f32f9d1855e89d",
+    "original": "Assets/20261019-跨河强渡战役/629_散弹枪/V1",
+    "bytes": 0
+  },
+  {
+    "guid": "c16edbacb0799544dab5edb8b761c55e",
+    "original": "Assets/645_见习法师/动作模型/Materials/Grenade_C 1.mat",
+    "bytes": 3622,
+    "local": "assets/imported/Assets/645_见习法师/动作模型/Materials/Grenade_C 1.mat",
+    "sha256": "0cbe1909ca2c6b6cc5f8275add6ea69c5d8d97bc7dcdb21641ab9fc756a26c10"
+  },
+  {
+    "guid": "c2ffaf33efda3e240bcb05b8764e3241",
+    "original": "Assets/ArtOfWar-II_Art/Sprites/Feature/MGGrid",
+    "bytes": 0
+  },
+  {
+    "guid": "c33f6525ca81ac949af12e6bebc0de9a",
+    "original": "Assets/645_见习法师/V1/Grenade_B.png",
+    "bytes": 50564,
+    "local": "assets/imported/Assets/645_见习法师/V1/Grenade_B.png",
+    "sha256": "c394c0e07bac45443cffcab4f63953e0e08355d5d7ef87f29bf86987898b82d0"
+  },
+  {
+    "guid": "c36741d2107e9e545a5596cdd392228d",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Castle_Mat.mat",
+    "bytes": 6280,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_Castle_Mat.mat",
+    "sha256": "02dacbb96500cc1ecc691c9a89d738293ac2087029e5dbe56ebba9989aa36ec7"
+  },
+  {
+    "guid": "c40be3174f62c4acf8c1216858c64956",
+    "original": "Assets/Settings/URP-HighFidelity-Renderer.asset",
+    "bytes": 3839,
+    "local": "assets/imported/Assets/Settings/URP-HighFidelity-Renderer.asset",
+    "sha256": "cc8be915944c9c27c3478f9931dc0baaf7c3f619cad063a9530ea90af8b542f4"
+  },
+  {
+    "guid": "c4c49b3b09831df4984c47065af3f110",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_734",
+    "bytes": 0
+  },
+  {
+    "guid": "c4ed09ed611225f42a8c55d2f6c550af",
+    "original": "Assets/645_见习法师/动作模型/Grenade_C.png",
+    "bytes": 205142,
+    "local": "assets/imported/Assets/645_见习法师/动作模型/Grenade_C.png",
+    "sha256": "6ec923bad72a9e9b18a7378e5b1bd0969ced7539097aa6ae14686ebf92d63f0f"
+  },
+  {
+    "guid": "c545241d071ccf0448e388a6c3b1f3fa",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_House01.fbx",
+    "bytes": 462864,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_House01.fbx",
+    "sha256": "3dc0391a07fc2515b7d010d242bd7d8cf4821a5c61c8bde110a131796cb0a5ac"
+  },
+  {
+    "guid": "c5bd90f8b20ed9c4db518a184460e757",
+    "original": "Assets/000",
+    "bytes": 0
+  },
+  {
+    "guid": "c617b8b05843a674ab417c8ef2e15cc8",
+    "original": "Assets/20261019-跨河强渡战役/833_铁卫战车/特效",
+    "bytes": 0
+  },
+  {
+    "guid": "c64ba5d4d37e110409a2619804d35397",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620",
+    "bytes": 0
+  },
+  {
+    "guid": "c6bc46422b6f01341a54beaf3e55edfd",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_70_Mat.mat",
+    "bytes": 6062,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_70_Mat.mat",
+    "sha256": "56aff5368393ae778d26666d6171ded574921cc5ecd9dc162eba8c4d5a487849"
+  },
+  {
+    "guid": "c6fb617a6436f69408f942ca9a1420d8",
+    "original": "Assets/Scripts/SoldierAnimationController/HomingArrow.cs",
+    "bytes": 10782,
+    "local": "assets/imported/Assets/Scripts/SoldierAnimationController/HomingArrow.cs",
+    "sha256": "6d22acf5a1e938a3db6ca90e7d04c66b71618e5793ca41503556e8ce52ae68dd"
+  },
+  {
+    "guid": "c74ec904c5b1f93418d54bbd77ca9624",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/V1",
+    "bytes": 0
+  },
+  {
+    "guid": "c785f64c3b9fc5844a74a08314799d3e",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/GriffinKnight@Skin.max",
+    "bytes": 1662976
+  },
+  {
+    "guid": "c7a55ecd222d7974f82d0ce6bf6c992b",
+    "original": "Assets/Scenes",
+    "bytes": 0
+  },
+  {
+    "guid": "c7f005c5ae53c5040b9c5fa8034dead8",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Spikes_16_Tex.tga",
+    "bytes": 122803,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Spikes_16_Tex.tga",
+    "sha256": "b9b1562b575ac52420410058e3966cd42774aee344bd0575d4c61e4611a0a5f3"
+  },
+  {
+    "guid": "c81db6fad8dacea4caa902c3f96fe864",
+    "original": "Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_550/Low",
+    "bytes": 0
+  },
+  {
+    "guid": "c92ccdd145047ad4081f04f690c5f9d3",
+    "original": "Assets/ArtResource/Effects/Common_FX/Models/FX_Hemispherical_02_Mod.FBX",
+    "bytes": 34800,
+    "local": "assets/imported/Assets/ArtResource/Effects/Common_FX/Models/FX_Hemispherical_02_Mod.FBX",
+    "sha256": "e64475fb271dbcb38502e08f3466b0e683a21e8a85b0d1fccf10498c358d93d7"
+  },
+  {
+    "guid": "ca94e17a15d08c74b8b3cc0f8b044a04",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Lights_015_Tex.png",
+    "bytes": 17010,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Lights_015_Tex.png",
+    "sha256": "2c20c2d5e8e84af13fb8dc6d68f371a513bd2596ade1431df46e367c989a9028"
+  },
+  {
+    "guid": "cc32f003b105b864998824d185b8ca66",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_643/RockWand.fbx",
+    "bytes": 1541056,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_643/RockWand.fbx",
+    "sha256": "b5c178b48f3773d3ef45d40ea1e67afece3596effa9d7efdb571b666fca36518"
+  },
+  {
+    "guid": "cc8d512554a46364897a990024447328",
+    "original": "Assets/730_玄铁战熊改动作/帧数.png",
+    "bytes": 36758,
+    "local": "assets/imported/Assets/730_玄铁战熊改动作/帧数.png",
+    "sha256": "9dc5e09daaca6d12db44c01c80867ebdd36403502b945a13a4a41e0e5fb94b7b"
+  },
+  {
+    "guid": "ccad9b0732473ee4e95de81e50e9050f",
+    "original": "Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_Ramp_UnityGradient.png",
+    "bytes": 174,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_Ramp_UnityGradient.png",
+    "sha256": "30212c7f2134d7928af2de88f5e602e9d9bbed86b8740058e97053f837439813"
+  },
+  {
+    "guid": "ccb844621b2e818428e4095bc2029b3d",
+    "original": "Assets/ArtResource/Effects/Common_FX/Materials",
+    "bytes": 0
+  },
+  {
+    "guid": "cd5f028dc8cf8964598acda1b8837a36",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_14_Tex.png",
+    "bytes": 36096,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_14_Tex.png",
+    "sha256": "768dca679a856489a5157c430d29502ba2aef76934dc5e15fbd2f33a37daf1f4"
+  },
+  {
+    "guid": "cdb8dda0fa1ee6140aec41710b291c45",
+    "original": "Assets/000/jingjichang",
+    "bytes": 0
+  },
+  {
+    "guid": "ce8a8d7f6ba36494f8fd0447402df500",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials",
+    "bytes": 0
+  },
+  {
+    "guid": "cedd7ad28801fe94c96815762d464187",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_749/Arthur_C.png",
+    "bytes": 579032,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_749/Arthur_C.png",
+    "sha256": "4568e5f62be41ba2c7c79d9ff62cbd0fd7b79d7b01ead5fca912d79073adae3a"
+  },
+  {
+    "guid": "cf5f6ffa40da31045b7f878d5509a490",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Shared",
+    "bytes": 0
+  },
+  {
+    "guid": "cf7f69aa66ed73048a344d29d7230f89",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/增加细节/Shotgunner_C.png",
+    "bytes": 174283,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/增加细节/Shotgunner_C.png",
+    "sha256": "c20926fd646bc1b36f08f3d215686bc36971ff9723f172c88d34b8db31d16a4e"
+  },
+  {
+    "guid": "cf9632c4c3e3876479a06dfd51cd629e",
+    "original": "Assets/645_见习法师/特效/645_见习法师.mp4",
+    "bytes": 2287562
+  },
+  {
+    "guid": "cfcf9469b1bd59c40b7cab0e1052a8bf",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士/动作模型/BlackKnight_01_C.png",
+    "bytes": 68635,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/794_黑骑士/动作模型/BlackKnight_01_C.png",
+    "sha256": "027e39410bfa37ea4351ce0046bccf90175e6815c82f93d101bb6aabe541aca4"
+  },
+  {
+    "guid": "cfd5e1e841037a44f8bd8fcf545dd512",
+    "original": "Assets/ArtOfWar-II_Art/Effects",
+    "bytes": 0
+  },
+  {
+    "guid": "d0191a4a14bad514aa6f93b9d2533908",
+    "original": "Assets/20261019-跨河强渡战役/833_铁卫战车/特效/铁卫战车特效.unitypackage",
+    "bytes": 216768
+  },
+  {
+    "guid": "d03b732dd6ceb194a93b1c8e7aa81ced",
+    "original": "Assets/20261019-跨河强渡战役/20261019-跨河强渡战役.unity",
+    "bytes": 30988,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/20261019-跨河强渡战役.unity",
+    "sha256": "6c4047aaf136ae288e9446b548c3d9bc582cc73d0a10cfd458e4906ba4c51d32"
+  },
+  {
+    "guid": "d0a2b45f15c507043b1e6f2589d5df4d",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Trail_016_Mat.mat",
+    "bytes": 6050,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Trail_016_Mat.mat",
+    "sha256": "bec6d238ad13ea02f3116b1d37c97d9fb531ae114a8144566377d870ae90c878"
+  },
+  {
+    "guid": "d0ce161fef83d564a952f6e98ec4de87",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/StarvingDec",
+    "bytes": 0
+  },
+  {
+    "guid": "d0e2fc18fe036412f8223b3b3d9ad574",
+    "original": "Assets/Settings/URP-Performant.asset",
+    "bytes": 3645,
+    "local": "assets/imported/Assets/Settings/URP-Performant.asset",
+    "sha256": "d4eb06c7e83b3fc718dc1b5f1fe9e5f55453c869f721f94da66690b9b3bde65f"
+  },
+  {
+    "guid": "d0ea6b4f03feaa94cad0178cd17c961e",
+    "original": "Assets/730_玄铁战熊改动作/Blue_C.png",
+    "bytes": 45744,
+    "local": "assets/imported/Assets/730_玄铁战熊改动作/Blue_C.png",
+    "sha256": "b3546fbbbf1523108a7de9871602d0919620ade56b191e97037d005705b2210b"
+  },
+  {
+    "guid": "d185d0ba665a18549abf8fd34f0bf551",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_629/Shotgunner_C.png",
+    "bytes": 109964,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_629/Shotgunner_C.png",
+    "sha256": "dd090ce0b6f53c9ed5f346d2b4c43382cf16dd8ec7840e86a3f5ff4b771d7a8b"
+  },
+  {
+    "guid": "d25cc06ffe4ee4543b2ec4dcbc52e13a",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/演示视频.mp4",
+    "bytes": 2937537
+  },
+  {
+    "guid": "d29052d27ec9b914783c4958acae9be6",
+    "original": "Assets/20261019-跨河强渡战役/833_铁卫战车/模型动画",
+    "bytes": 0
+  },
+  {
+    "guid": "d2a07591cfb48e94584396870be76b45",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Red02.prefab",
+    "bytes": 368759,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Red02.prefab",
+    "sha256": "d02f3119d05fbe78158be1059e02153c96d36450352ae788cb827a200c336250"
+  },
+  {
+    "guid": "d2fdd390440f9eb43bd3f19018af54e3",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/SnowBridge/Mesh",
+    "bytes": 0
+  },
+  {
+    "guid": "d4471cb2d42f5064abd858af344f08b1",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Spikes_16_Mat02.mat",
+    "bytes": 5927,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Spikes_16_Mat02.mat",
+    "sha256": "456c0034193f5b01e766fde9558f43e447d8cc0ea60e7665a6ac87be426ed98b"
+  },
+  {
+    "guid": "d50b33d004d278c41b2da96639018e96",
+    "original": "Assets/20261019-跨河强渡战役/629_散弹枪/效果图.png",
+    "bytes": 12911,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/效果图.png",
+    "sha256": "d9e0b90667667440c074ca2c55d3e26a737e9809c2c6bd73296081cda611367f"
+  },
+  {
+    "guid": "d579b6a495d5eff4b8d6fd749aa0512a",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Polygon_003_Tex.png",
+    "bytes": 7520,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Polygon_003_Tex.png",
+    "sha256": "42b8d24bae15a85dd36922c7f1c1bd55057919225bb20bafd191969af56e7f4f"
+  },
+  {
+    "guid": "d7c25b60cfae26c42858da07448d0775",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LandC_Mat.mat",
+    "bytes": 6515,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LandC_Mat.mat",
+    "sha256": "d024f161df70ef7fe5091ccbb6a729a87c9db5aa4756993109eeb885ac6635d6"
+  },
+  {
+    "guid": "d7ec7cec44ba45c4aa32fbe93d9ebd20",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Castle_C.png",
+    "bytes": 590309,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture/ArenaScene_Castle_C.png",
+    "sha256": "352393e48190e2b82252d9f9b69ee0ced5e5eb99859547ac1d2deb5a2c14bec5"
+  },
+  {
+    "guid": "d84f1f39583a12d4782b093ebff379e0",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_C.png",
+    "bytes": 24533,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/Material/Blue_C.png",
+    "sha256": "8a2e921b1d6a6d006cc01c86aa2a3eccd6ce241013efa54d8f7e93008a149b1f"
+  },
+  {
+    "guid": "d87ba46685c900c46bbb85886d4a0b7a",
+    "original": "Assets/645_见习法师/动作模型/Materials",
+    "bytes": 0
+  },
+  {
+    "guid": "d890d5c01227b4c42a583975c7db08fa",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Iw_Blue_Mat.mat",
+    "bytes": 1940,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/GeneralMaterials/Iw_Blue_Mat.mat",
+    "sha256": "dfed3c2657dad050d3ac3229e2727547693f0a1c93a9e0f0376fa98b8d3c47e8"
+  },
+  {
+    "guid": "d8b2497bb4b717e41a178fde2227ed98",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/V1/Flail_A.png",
+    "bytes": 97113,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/V1/Flail_A.png",
+    "sha256": "943567c84828dca38cf0e6c6f7c600ee3636456176cf1646ef50da878968bfe5"
+  },
+  {
+    "guid": "d936206daa56c734fa91c2b23417cf2f",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_05_Tex.png",
+    "bytes": 18885,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Glow_05_Tex.png",
+    "sha256": "183bea50fc5da77ed990ea9f03bbb503cd74136c2700caf12e66ff888c17b242"
+  },
+  {
+    "guid": "d9f330a8fec085240b74b3bb4226cd02",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_627/FlameMage_C.png",
+    "bytes": 208090,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_627/FlameMage_C.png",
+    "sha256": "5dc310a8eafae85359f0bc52fe43681f8c4a699a1d487c3530c8fe172b7b8149"
+  },
+  {
+    "guid": "da02630cd1ac9714081b64fb82c3276a",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/NeedNot/circle_soft03.png",
+    "bytes": 4500,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/NeedNot/circle_soft03.png",
+    "sha256": "1bcc7e463f4bfd35eb70dc1542e51c6e70ff4544ae3acb2a5db2af8b3f3bb512"
+  },
+  {
+    "guid": "da2b16117a345ca469e7fb428c9441ea",
+    "original": "Assets/20261019-跨河强渡战役/833_铁卫战车/模型动画/运兵车.max",
+    "bytes": 1613824
+  },
+  {
+    "guid": "da6520c85f1adae4aba6ff6c7fc404b7",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_638/Airbender_Mat.mat",
+    "bytes": 2859,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_638/Airbender_Mat.mat",
+    "sha256": "f504da4dc1f0f48e7cd4f20c4420348687d27b54ff264c36d31cdd9057d8b8b3"
+  },
+  {
+    "guid": "da989fab62e1d468a99fec1b0f10a332",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnitTextureImporter.preset",
+    "bytes": 20322
+  },
+  {
+    "guid": "dad64246ca562dd40b9d8fb83df68678",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Feature/CogworkWastes",
+    "bytes": 0
+  },
+  {
+    "guid": "db3ce765b495ca94387e701b9ad2a2d6",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_011_Tex.png",
+    "bytes": 12143,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_011_Tex.png",
+    "sha256": "bbc3a8a85266b4bc97f7310da78cf48c6901ae7dac193d15f5db1993c2264d70"
+  },
+  {
+    "guid": "db4646fc6144b35458885537f40b6874",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_748",
+    "bytes": 0
+  },
+  {
+    "guid": "dc29d4614ee47f441938c6d8b586c7eb",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_71_Tex.png",
+    "bytes": 40587,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Ring_71_Tex.png",
+    "sha256": "8cd5c31241718b200f18c7806d08badc3cfcbc6c1199028dfed6313572329bee"
+  },
+  {
+    "guid": "dd320934e90817941adaff9875eadff0",
+    "original": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型",
+    "bytes": 0
+  },
+  {
+    "guid": "dd6c0d6d9e6eb04428ef4ffed6178fa7",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_011_Mat.mat",
+    "bytes": 6091,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Ring_011_Mat.mat",
+    "sha256": "1fe96da850df4648a7bc067c6be3ccb9e9e1e32ca32ec0a786c64c944e1dd50d"
+  },
+  {
+    "guid": "dd93d60793dab524395fd23967b9689e",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Texture",
+    "bytes": 0
+  },
+  {
+    "guid": "ddb1ab43fc680ed4aaf13ef18c6694ff",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Yellow02.prefab",
+    "bytes": 368984,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_Yellow02.prefab",
+    "sha256": "644cb2437170e6b745392416f1dd6301b0aff37881b22bc2b5c1cee60fe8eeb3"
+  },
+  {
+    "guid": "de08bffa386b8894bb1efee361813e60",
+    "original": "Assets/645_见习法师/动作模型/旧/见习法师 新模型.max",
+    "bytes": 2969600
+  },
+  {
+    "guid": "de831db13ea501049a4ad26f9618306c",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material/CogworkWastes_Gird_Mat.mat",
+    "bytes": 2460,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Material/CogworkWastes_Gird_Mat.mat",
+    "sha256": "7177c4ebfd5fd15b0cae809e33407f0912b8ff7774b432d0b324203065fe3b5e"
+  },
+  {
+    "guid": "dea8ab6eccfaf57409afe144c662a28b",
+    "original": "Assets/BattleAnimationController/Effects/Shaders(有报错删除这个就好)",
+    "bytes": 0
+  },
+  {
+    "guid": "dec874001476bdf46b5ef2738c834b90",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_640/CristalLantern_Mat_1.mat",
+    "bytes": 1928,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_640/CristalLantern_Mat_1.mat",
+    "sha256": "a5f9e780a4eb1aec1b60252896301aeea8bb1a86200f8eacfd0185b4631f2781"
+  },
+  {
+    "guid": "df30b03830eb84d4297a4de042f4fcf3",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_738",
+    "bytes": 0
+  },
+  {
+    "guid": "df6ad644d14bead46999a6887b3d6240",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Wood_C.png",
+    "bytes": 27923,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Texture/CastleExterior_Wood_C.png",
+    "sha256": "d8faf34d72a0a1b90eb3b60a90b3b2e1344a25e826767b95509f22ea0dde8636"
+  },
+  {
+    "guid": "e0fa0ce96cbf07c44bdd0a77cb56af40",
+    "original": "Assets/000/素材/700_剑士/Infantry.fbx",
+    "bytes": 1151808,
+    "local": "assets/imported/Assets/000/素材/700_剑士/Infantry.fbx",
+    "sha256": "a81f2faedb51dd045b01ae0b594a39fa4b8768515e6ef2497184148b44e34c9f"
+  },
+  {
+    "guid": "e105ace67cb7af34088cc8bc5e3e0456",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧",
+    "bytes": 0
+  },
+  {
+    "guid": "e10fa562f363dd84281ac646fe6eb1d7",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Smoke_002_Tex.png",
+    "bytes": 15149,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Smoke_002_Tex.png",
+    "sha256": "a15c712a23b34c24e5b68ebb82e30fea83cb424b9ce85c756cb52893173a6d8b"
+  },
+  {
+    "guid": "e1260c1148f6143b28bae5ace5e9c5d1",
+    "original": "Assets/Settings/URP-Balanced.asset",
+    "bytes": 3642,
+    "local": "assets/imported/Assets/Settings/URP-Balanced.asset",
+    "sha256": "8dfcb6fe5ef5487e2f8cede2fda298fee322a153102f1c90e78c302886b91bc9"
+  },
+  {
+    "guid": "e12e58ca1f64c014f9ea009ce4b081ad",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/V1/Flail.fbx",
+    "bytes": 56128,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/V1/Flail.fbx",
+    "sha256": "64298a9585ca14ea701bf6c0b885dd806122de11af81bf5afc6099962d7ab60d"
+  },
+  {
+    "guid": "e144fbd86c02e6f4e8b7b4dbe9d958a4",
+    "original": "Assets/ArtResource/Effect/Textures",
+    "bytes": 0
+  },
+  {
+    "guid": "e1798441dcfb98d45bd744821f4e42a5",
+    "original": "Assets/20261019-跨河强渡战役/831_大炮战车/特效/大炮战车特效.mp4",
+    "bytes": 10463815
+  },
+  {
+    "guid": "e2d979de0a2bd44449eb655880a6a0fa",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Materials",
+    "bytes": 0
+  },
+  {
+    "guid": "e32e0addeaaf1fd4d86b78eef6aa07c4",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material",
+    "bytes": 0
+  },
+  {
+    "guid": "e387c5210458677419bd3a7a93e68f81",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_C.png",
+    "bytes": 85017,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer_Cube_C.png",
+    "sha256": "58af02179db80529faa69cb6ab334c7adf3ba5c13cb7e02e7d46a85e638bd72f"
+  },
+  {
+    "guid": "e4198690ec1b63342891e0cba5fd21eb",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs",
+    "bytes": 0
+  },
+  {
+    "guid": "e4a324f6fbafd5b4eb64c9ffcef7196c",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Waterpipe01.fbx",
+    "bytes": 22704,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Model/CogworkWastes_Waterpipe01.fbx",
+    "sha256": "79bbbc685025b196fb5089e717bb3093b91ef03b362abe7b8a9f0379fcae4238"
+  },
+  {
+    "guid": "e4c54591a49802f49aef58444150bf6f",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_734/Fox_C.png",
+    "bytes": 301717,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_734/Fox_C.png",
+    "sha256": "b06d5fafa661cea03ee685d9937bc8ed12fb06232a4e6b74ba0c252cedbe6901"
+  },
+  {
+    "guid": "e516292d116c1f145b875f831d12aabe",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士/模型源文件/黑骑士、.spp",
+    "bytes": 32263173
+  },
+  {
+    "guid": "e634585d5c4544dd297acaee93dc2beb",
+    "original": "Assets/Settings/URP-Balanced-Renderer.asset",
+    "bytes": 2476,
+    "local": "assets/imported/Assets/Settings/URP-Balanced-Renderer.asset",
+    "sha256": "8ddaba42cf10b34a3797d185fb1755dd65bf9bcac2d31af190d0ad465e29cb57"
+  },
+  {
+    "guid": "e69224b493f37b44e98be4491b172163",
+    "original": "Assets/20261019-跨河强渡战役/629_散弹枪/V1/Shotgunner_A.png",
+    "bytes": 49201,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/V1/Shotgunner_A.png",
+    "sha256": "58d30332b1fd249b330e1741c570026365e522ee357080c6cd5e0deea8091ce2"
+  },
+  {
+    "guid": "e6b864f51c3c08c4fa7193af8d397767",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_LongShrub.fbx",
+    "bytes": 72240,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Model/ArenaScene_LongShrub.fbx",
+    "sha256": "92ec4cafa200bd11a515d6d4caa8b39f1115b666241ee366913f4726332aeba8"
+  },
+  {
+    "guid": "e6f4bb3f2ed85f646a6623fb3f25009d",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_746/Athena.fbx",
+    "bytes": 2063728,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_746/Athena.fbx",
+    "sha256": "f679ffd317d3542e08526efbefd8563b3b595f0e9bbd48ea9b2333be6668c18a"
+  },
+  {
+    "guid": "e7ed09a3b369ca44a86e6a61f3d45111",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_749/Arthur_Mat.mat",
+    "bytes": 4320,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_749/Arthur_Mat.mat",
+    "sha256": "93a681f0cd23ff93eecbb513c663609d8cecadc9f688c9f307df11f329e61673"
+  },
+  {
+    "guid": "e8a2da2480b34334cb9f893aa47454f0",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Spikes_23_Mat.mat",
+    "bytes": 6046,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Spikes_23_Mat.mat",
+    "sha256": "0438e3279cf6aecd1d7385d1e73431b49043bb49eb02a3b979bd9a850da1da48"
+  },
+  {
+    "guid": "e9e3e73755497be46ac29f50ef7a0840",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/Shotgunner_C.png",
+    "bytes": 174283,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/动作模型/Shotgunner_C.png",
+    "sha256": "c20926fd646bc1b36f08f3d215686bc36971ff9723f172c88d34b8db31d16a4e"
+  },
+  {
+    "guid": "ea6e8ae2bef148446aa11f0c0063db27",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Feature/ArenaScene/ArenaScene_Grp.prefab",
+    "bytes": 112981,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/ArenaScene/ArenaScene_Grp.prefab",
+    "sha256": "982c22123982ee7224164136600ac279e384237f4a99a0cda25a176a55395dbf"
+  },
+  {
+    "guid": "ea93003f89061884483e3e2e3b01e2da",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/V1/Flail_B.png",
+    "bytes": 97033,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/V1/Flail_B.png",
+    "sha256": "61310f5349ece1ec530a732227418325c20d5516ef0730e713a67dc500eb0e91"
+  },
+  {
+    "guid": "eaa381583b0553d418cc72635198bca9",
+    "original": "Assets/20261019-跨河强渡战役/833_铁卫战车/特效/铁卫战车特效.mp4",
+    "bytes": 10463815
+  },
+  {
+    "guid": "eaafe4aaf79c9cc48abf11d835501405",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Feature/CastleExterior/CastleExterior_Grp.prefab",
+    "bytes": 115304,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Feature/CastleExterior/CastleExterior_Grp.prefab",
+    "sha256": "3156147ce6291b6024427c641d4255a6bfc0af8a2167825f573b20d61b9ab22d"
+  },
+  {
+    "guid": "eabc9546105bf4accac1fd62a63e88e6",
+    "original": "Assets/TutorialInfo/Layout.wlt",
+    "bytes": 15479
+  },
+  {
+    "guid": "eaca54376d625c74c83a344716bd1f5d",
+    "original": "Assets/Scripts",
+    "bytes": 0
+  },
+  {
+    "guid": "ec88ba1b45166b34ba3da814aec0c81a",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Stakes_02.prefab",
+    "bytes": 4193,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Prefab/CastleExterior_Stakes_02.prefab",
+    "sha256": "8d45c679d8ef3b3dcec2e9514ecb9d22861cb0b9f37922debb3b530678c40b16"
+  },
+  {
+    "guid": "ec9139f9056644b40a8c81635ffaf443",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_706",
+    "bytes": 0
+  },
+  {
+    "guid": "ed40846f3efc35a42b66bc92e2b2ea59",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_White02.prefab",
+    "bytes": 369010,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/Common_VFX_Glow_White02.prefab",
+    "sha256": "a4fc00f61a2707fa222a9dd9579fe7832a7773524e59a0af9eadef7fac3503fe"
+  },
+  {
+    "guid": "ed439230204f85d4a8f3570f2b6b4013",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/特效/连枷特效.mp4",
+    "bytes": 7079999
+  },
+  {
+    "guid": "ed56c5535d3994345970d4e6e515ea70",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Stakes_02.fbx",
+    "bytes": 23392,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Stakes_02.fbx",
+    "sha256": "bff60928b22e8756ebb0dbb2d6e75542b1ee9e64fe5d85828d16dc2188f871e9"
+  },
+  {
+    "guid": "edcc4e34ed97e5b4590f1a24ee0cb421",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/特效",
+    "bytes": 0
+  },
+  {
+    "guid": "ede01bfe98bcabd48a44343ee01d264a",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Shaders/All_ShadersUPR/VFX_AlphaBlend.shader",
+    "bytes": 20562
+  },
+  {
+    "guid": "ef1dd119df3c65240bcd4e8e958310ba",
+    "original": "Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_550/Low/Textures/550_TinGiant_07_Tex.tga",
+    "bytes": 238544,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_550/Low/Textures/550_TinGiant_07_Tex.tga",
+    "sha256": "c5133e6e1774d898ff4cf92bff9f751dbb16665117a7374d2383f80069fd9ae7"
+  },
+  {
+    "guid": "ef64f55762c82714e99e96db9c90ac27",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_DecD_Mat.mat",
+    "bytes": 6171,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Material/CastleExterior_DecD_Mat.mat",
+    "sha256": "869bf0bc749f910e90dad52ec606600b6849994914b653925816a66cc8012d41"
+  },
+  {
+    "guid": "ef6826e6927ac254f9bf0dc213be5cf8",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Shurb_01.prefab",
+    "bytes": 3627,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Prefab/ArenaScene_Shurb_01.prefab",
+    "sha256": "0c8628c47979284d99fd55e671ee046e72f79af3f9f43a173e975bf7aafb9637"
+  },
+  {
+    "guid": "ef7de0d241f025342830c333140951ab",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube.png",
+    "bytes": 30835,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_618/Archer_Cube.png",
+    "sha256": "b95fb9068aa0cd3f8cb4717836bb996860295e9a2926ba924d22971ab35a419d"
+  },
+  {
+    "guid": "efc97d3c6c41962458fbde81537b61ac",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_04_Mat09.mat",
+    "bytes": 6373,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_04_Mat09.mat",
+    "sha256": "5cbdc3b21b2e968efdf6daf2d27dfd4d963a9b421342ba3199e742f30a82a78c"
+  },
+  {
+    "guid": "f059f76a52d0b374c85c681ed571185e",
+    "original": "Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_DitherPattern_BlueNoise_64.png",
+    "bytes": 12046,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Shaders/Fluid_Shader/JMO_Assets/Texture/TCP2_DitherPattern_BlueNoise_64.png",
+    "sha256": "265a3e93690a80b8fd76a58359a6c538b4b300b2017606c15abfce09cc9ee843"
+  },
+  {
+    "guid": "f06978ea50207564e995a8bcbef8f729",
+    "original": "Assets/20250513-Rising-防御撤退-镜糕&Sherry",
+    "bytes": 0
+  },
+  {
+    "guid": "f0e0234c3cce98e4bb461063f8d843df",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/武器掉落.mp4",
+    "bytes": 821288
+  },
+  {
+    "guid": "f125fbf844391b1498b56af27459b16f",
+    "original": "Assets/645_见习法师",
+    "bytes": 0
+  },
+  {
+    "guid": "f233272a140af0c4584e7910ba77b1ed",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/特效",
+    "bytes": 0
+  },
+  {
+    "guid": "f23338c7879b3c744b85022fbc9e8d07",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/Common_VFX_Knife_05.prefab",
+    "bytes": 356463,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Prefabs/战斗特效总结/Common_VFX_Knife_05.prefab",
+    "sha256": "c5ae5d5e675e922ecb84b9e55586d6b021a50617788400762e3ac6f81d30d97f"
+  },
+  {
+    "guid": "f32c24ba13774464c810cc425e9e5b04",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Smoke_171_Mat02.mat",
+    "bytes": 6009,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Smoke_171_Mat02.mat",
+    "sha256": "dc1d56564e09e1571de330ad2586fc0358932cb23395f3fb7eadc3fc707831bb"
+  },
+  {
+    "guid": "f3f86520070594c4db4461989793c47b",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/FarmHome/Texture/Mining_C.png",
+    "bytes": 358558,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/FarmHome/Texture/Mining_C.png",
+    "sha256": "a3461b8f36f969546d4a9381849918d2e9fab340edf069b38e2db00a4d0f2173"
+  },
+  {
+    "guid": "f4650d5c0a63e5d46b4d9cc8713285af",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Knife_006_Mat02.mat",
+    "bytes": 5994,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Knife_006_Mat02.mat",
+    "sha256": "bce3579f26975c8273b341d5c5ea3797d5bc11dadfd9002a797506393117323b"
+  },
+  {
+    "guid": "f4b17072fd851994cbf26a0f2182ed1d",
+    "original": "Assets/ArtResource/Effect/Models/FX_Circle_003_Mod.fbx",
+    "bytes": 22832,
+    "local": "assets/imported/Assets/ArtResource/Effect/Models/FX_Circle_003_Mod.fbx",
+    "sha256": "0acb7332a46c01fd6fb54b8ecbb95c7214d6360454ef6a3290ccc5096beefff0"
+  },
+  {
+    "guid": "f52280a9dfd32bf47bb03ddbed9dceb1",
+    "original": "Assets/ArtResource/Effects/Common_FX",
+    "bytes": 0
+  },
+  {
+    "guid": "f66ccb765a18d104cb8c6ba4fc6e0fcd",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Spikes_23_Tex.png",
+    "bytes": 15966,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Textures/FX_Spikes_23_Tex.png",
+    "sha256": "23fd734a677d59221cd0445edc7b2b807cd3b51d587447e4ec90c4bc5d01c20e"
+  },
+  {
+    "guid": "f6d7e2ca6ac697848a0d3dcad1b9b513",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_748/Zeller_C.png",
+    "bytes": 476651,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_748/Zeller_C.png",
+    "sha256": "26852c11c6d6ddd5605420ae8dc434e13ede210ccca05b033fc0bb35e3fd1a1a"
+  },
+  {
+    "guid": "f7876fb10a92d9f4aab5c73fa835c437",
+    "original": "Assets/645_见习法师/动作模型/Materials/Grenade_C.mat",
+    "bytes": 3619,
+    "local": "assets/imported/Assets/645_见习法师/动作模型/Materials/Grenade_C.mat",
+    "sha256": "e922eecf70b4203a42c7d4fbe87e369f9112799dbe6b757338fb7a5c64e92290"
+  },
+  {
+    "guid": "f7c78649e92adaf4fb54a19a4a00657e",
+    "original": "Assets/ArtResource/Effects/Common_FX/Textures",
+    "bytes": 0
+  },
+  {
+    "guid": "f7d4011a6b1fb784291892ad8f570f7d",
+    "original": "Assets/645_见习法师/动作模型/Materials/Grenade_C 2.mat",
+    "bytes": 3732,
+    "local": "assets/imported/Assets/645_见习法师/动作模型/Materials/Grenade_C 2.mat",
+    "sha256": "40237184dcaaacd47c7349b437c4f166ad17c4f8721950f8231d5f0da2e2749b"
+  },
+  {
+    "guid": "f7eb6f3704208374eb580c9ad0aa9fba",
+    "original": "Assets/20261019-跨河强渡战役/629_皇家猎手_Shotgunner/V02",
+    "bytes": 0
+  },
+  {
+    "guid": "f7eec6c850904a543b112a7d98a4f9a9",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Tree_05.fbx",
+    "bytes": 25584,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CastleExterior/Modle/CastleExterior_Tree_05.fbx",
+    "sha256": "c010f66ae2b2b78cd8d6f9f0ec40a2a674b90fe4a826549ae75683b30fee360c"
+  },
+  {
+    "guid": "f84d63afd8c6d6a4396ee0d4c835bf76",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/RoyalArena",
+    "bytes": 0
+  },
+  {
+    "guid": "f85797f0ea021f74aa780a93d6ec2d5c",
+    "original": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/旧/Shotgunner_C.png",
+    "bytes": 96012,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/旧/Shotgunner_C.png",
+    "sha256": "b003ed4cae336143e5e038dc57957a66fc82076839b1b741b133f44d42c89cb2"
+  },
+  {
+    "guid": "f8a3c171157b8a843989ae75fa365ac9",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士_BlackKnight/模型动画",
+    "bytes": 0
+  },
+  {
+    "guid": "f8faae058101b4544ba77889f5f869bc",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型源文件",
+    "bytes": 0
+  },
+  {
+    "guid": "f9e47ef6d3eaac74b87009560450c4ff",
+    "original": "Assets/ArtOfWar-II_Art/Effects/BattleUnit/BattleUnit_550",
+    "bytes": 0
+  },
+  {
+    "guid": "fa70fa5ce58dc854b86a068345d0b42b",
+    "original": "Assets/ArtOfWar-II_Art/Sprites",
+    "bytes": 0
+  },
+  {
+    "guid": "fb2389038ab6d4f409f6a584ca067ffd",
+    "original": "Assets/20261019-跨河强渡战役/841_骑士/效果图.png",
+    "bytes": 26052,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/841_骑士/效果图.png",
+    "sha256": "64c19a3ef636a4bca03689638f0978aa483a80b9c105f719aec225cbea9bbd0d"
+  },
+  {
+    "guid": "fb7a79cd2a01b3149a1686bddb682607",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes",
+    "bytes": 0
+  },
+  {
+    "guid": "fba806229b400f3438fe44a4354109f4",
+    "original": "Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/帧数.png",
+    "bytes": 37480,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/637_狮鹫骑士/模型动画/帧数.png",
+    "sha256": "e8c20e8ee04a2800a42a1e60256a2e07e9d37d292bd7460bdae56442968ad7a2"
+  },
+  {
+    "guid": "fbd011b2563017b4587a2e057206437e",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Land_Mask.png",
+    "bytes": 8181,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/CogworkWastes/Texture/CogworkWastes_Land_Mask.png",
+    "sha256": "0279318d456eeced90a4de7d964d1236146391c6f6295f9ed3770f9d6fad7563"
+  },
+  {
+    "guid": "fc4c5ed5a819d964e8361e80fb2e7986",
+    "original": "Assets/000/素材",
+    "bytes": 0
+  },
+  {
+    "guid": "fcf7219bab7fe46a1ad266029b2fee19",
+    "original": "Assets/TutorialInfo/Scripts/Readme.cs",
+    "bytes": 302,
+    "local": "assets/imported/Assets/TutorialInfo/Scripts/Readme.cs",
+    "sha256": "c09c93844f93eb252a6fb39c222d169c63a63e96008fd040b9e7628c3e7ccc2e"
+  },
+  {
+    "guid": "fd0102848560a2e4aa9fec839869457a",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_643",
+    "bytes": 0
+  },
+  {
+    "guid": "fdb0ca6b4cf75794790af728002fe279",
+    "original": "Assets/20261019-跨河强渡战役/629_散弹枪/V1/Shotgunner_B.png",
+    "bytes": 47220,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/V1/Shotgunner_B.png",
+    "sha256": "1311e9cdbc1bc913b053104b046d3db7481d22bf785a4330c97958f4c1f552e6"
+  },
+  {
+    "guid": "fe461279d8c646d4aa76ea7b82b0504e",
+    "original": "Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer.FBX",
+    "bytes": 1610800,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Fbx/BattleUnit/BattleUnit_620/Boomer.FBX",
+    "sha256": "db1f2243729982a967454880ad2abb9bb5b2d39d7e2b7c3df975612e15298d91"
+  },
+  {
+    "guid": "fec627cf09bc31b4d9e1b1958d998ef6",
+    "original": "Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_05_Mat03.mat",
+    "bytes": 6194,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Effects/Common_FX/Materials/FX_Glow_05_Mat03.mat",
+    "sha256": "4530dc1c8b88e857ea569a0174142f0efa100e0fafb8a659b4a876700ba04156"
+  },
+  {
+    "guid": "ff1a34d119832c24ab1c4fc1c3badfc5",
+    "original": "Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LongShrub_Mat.mat",
+    "bytes": 6260,
+    "local": "assets/imported/Assets/ArtOfWar-II_Art/Environment/Common/ArenaScene/Material/ArenaScene_LongShrub_Mat.mat",
+    "sha256": "40ca96cabffbd2cb49c804964e99fc6db6a3188de33c66d1c8b49e5c342936c5"
+  },
+  {
+    "guid": "ff38a6a486dea944996290e2edc1860c",
+    "original": "Assets/20261019-跨河强渡战役/794_黑骑士/模型源文件/黑骑士（局内）.spp",
+    "bytes": 49865455
+  },
+  {
+    "guid": "ff71f3653a3a9b8419b58526c79e1095",
+    "original": "Assets/000/素材/700_剑士/Blue_C.png",
+    "bytes": 14454,
+    "local": "assets/imported/Assets/000/素材/700_剑士/Blue_C.png",
+    "sha256": "f6d333297306f2921e6ab8afc0ad1abb299bd3b5ef3d4c9f3a5c4a44f2515093"
+  },
+  {
+    "guid": "ffade4023498d5d4e91f107b50cddb5b",
+    "original": "Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Materials/Flail_C.mat",
+    "bytes": 3617,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/635_连枷/模型动画/旧/Materials/Flail_C.mat",
+    "sha256": "65229342fe9fb42262de4469b7ccc09f34c895092375eae438979d4c659629d4"
+  },
+  {
+    "guid": "ffcf2784aa2ac344ea22d439d300b22c",
+    "original": "Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/Shotgunner.fbx",
+    "bytes": 1150448,
+    "local": "assets/imported/Assets/20261019-跨河强渡战役/629_散弹枪/动作模型/Shotgunner.fbx",
+    "sha256": "e5f50429d05851363224bed96129c014d93172590c4e7a5827a17863c4c3ce29"
+  }
+]

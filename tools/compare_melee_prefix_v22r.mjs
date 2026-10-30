@@ -5,13 +5,14 @@ import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {spawnSync} from 'node:child_process';
 import {chromium} from 'playwright';
+import {browserOptions,pythonCommand,battleURL} from './machine-runtime.mjs';
 
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const arg=(name,fallback)=>{const k=process.argv.indexOf(name);return k<0?fallback:process.argv[k+1]};
 const variant=arg('--variant','V22R-C1-melee');
 const out=path.resolve(root,arg('--out','output/v22r-melee/prefix'));
 const reference=path.resolve(root,arg('--reference','output/v22r-burst/C1-preview/frames'));
-const url=arg('--url','http://127.0.0.1:5267');
+const url=arg('--url',battleURL());
 const width=720,height=1080,fps=60,count=159;
 const variantPath=path.join(root,'variants',variant);
 for(const file of ['params.json','simulation.json'])if(!fs.existsSync(path.join(variantPath,file)))throw Error(`Missing continuation input: ${file}`);
@@ -25,7 +26,7 @@ if(!config.meleeContinuation||!simulation.prefixEvents||!simulation.prefixShoote
 if(config.duration<2.65||simulation.frames<160)throw Error('Continuation does not contain the complete C1 opening');
 fs.mkdirSync(path.join(out,'frames'),{recursive:true});
 const errors=[],consoleErrors=[],frames=[];
-const browser=await chromium.launch({headless:true,executablePath:arg('--chrome','C:/Program Files/Google/Chrome/Application/chrome.exe'),args:['--use-angle=swiftshader','--enable-unsafe-swiftshader']});
+const browser=await chromium.launch(browserOptions(arg('--chrome',process.env.VIDEO_CHROME)));
 try{
  const page=await browser.newPage({viewport:{width,height}});
  page.on('pageerror',e=>errors.push(e.message));
@@ -82,7 +83,7 @@ print(json.dumps({k:v for k,v in report.items() if k not in ['perFrame','arrayCh
 if not report['exactData']:
  raise SystemExit('Authoritative C1 opening data changed')
 `;
-const result=spawnSync(arg('--python','python'),['-c',python,root,out,reference,variantPath],{cwd:root,encoding:'utf8',maxBuffer:1024*1024});
+const result=spawnSync(arg('--python',pythonCommand()),['-X','utf8','-c',python,root,out,reference,variantPath],{cwd:root,encoding:'utf8',maxBuffer:1024*1024});
 if(result.stdout)process.stdout.write(result.stdout);
 if(result.stderr)process.stderr.write(result.stderr);
 if(result.error)throw result.error;

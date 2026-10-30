@@ -4,8 +4,19 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "dev": "vite --host 127.0.0.1 --port 5257 --strictPort",
-    "build": "vite build"
+    "setup": "node tools/setup_machine.mjs",
+    "start": "vite --host 127.0.0.1 --port 5267 --strictPort",
+    "dev": "vite --host 127.0.0.1 --port 5267 --strictPort",
+    "build": "vite build",
+    "doctor": "node tools/doctor_machine.mjs",
+    "verify:runtime": "node verify_repository.mjs",
+    "evidence:restore": "node tools/run_python.mjs restore_evidence.py",
+    "battle:audit": "node tools/run_python.mjs tools/audit_melee_v22r.py",
+    "battle:simulate": "node tools/run_python.mjs tools/build_melee_continuation_v22r.py",
+    "video:compare": "node tools/compare_melee_prefix_v22r.mjs",
+    "video:probe": "node tools/capture_melee_v22r.mjs --probe --out output/v22r-melee/portable-probe",
+    "video:capture": "node tools/capture_melee_v22r.mjs --out output/v22r-melee/preview",
+    "video:encode": "node tools/run_python.mjs tools/encode_melee_v22r.py"
   },
   "dependencies": {
     "three": "0.180.0",

@@ -13,3 +13,6 @@ output/v22r-burst/C1-preview/audit.json
 output/v22r-burst/C2-preview/audit.json
 output/v22r-fast-charge/A-preview/audit.json
 SNAPSHOT-MANIFEST.json
+output/**/frames/
+output/v22r-melee/portable-probe/
+docs/repository-check/portable-*.json

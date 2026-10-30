@@ -1,5 +1,5 @@
 {
-  "createdUTC": "2026-10-30T08:21:20.467253+00:00",
+  "createdUTC": "2026-10-30T08:45:27.330665+00:00",
   "sourceHead": "7c20b43a44f9c9dc6b8c2653646103e45fb72bbd",
   "approvedBaseline": "C1 0–2.65s",
   "continuationStatus": "WORKING_SNAPSHOT_NOT_VISUALLY_APPROVED",
@@ -15,8 +15,8 @@
     "continuationVisualApproval": "PENDING"
   },
   "sourceChanges": "reference/working-changes-from-C1.patch plus newly added tools and documentation; original history in reference/source-history.bundle",
-  "fileCount": 2423,
-  "totalCheckedOutBytes": 1217013174,
+  "fileCount": 2431,
+  "totalCheckedOutBytes": 1217031185,
   "files": [
     {
       "path": ".gitattributes",
@@ -25,13 +25,23 @@
     },
     {
       "path": ".gitignore",
-      "bytes": 372,
-      "sha256": "737c6a331b047be86c38c9f00d02e5c6535bfbb5fdcfa3cafd4e165a043ac24b"
+      "bytes": 462,
+      "sha256": "f80e917875a54b6732623a81a29a825fdc2fef1c34f201a207900c673143813e"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 2059,
+      "sha256": "eac80419ad161c6d180715ff8a5259c9aab734acb38445b8e413488b0d52b436"
+    },
+    {
+      "path": "CONTINUE-HERE.md",
+      "bytes": 6223,
+      "sha256": "d88dc53c925519ea18c7a5da302ad9189517a37f76a05ca29cbb579155ed3ed4"
     },
     {
       "path": "README.md",
-      "bytes": 5432,
-      "sha256": "13d685d8bdac81a131a2f43d6a827219fdf92a988104368c12e29fb93b9b9cef"
+      "bytes": 5574,
+      "sha256": "04240be053143ed0a4df31dc9577f94775e2e5af82680d1a9679e621c8b25dbf"
     },
     {
       "path": "V20-ENGAGEMENT-WINDOW.md",
@@ -3579,9 +3589,14 @@
       "sha256": "e135fc7b51920c35695de948fa34568d6ca9880aa22f1841025ac75deea6edc1"
     },
     {
+      "path": "docs/repository-check/PORTABILITY.md",
+      "bytes": 1675,
+      "sha256": "0d71c7a1957d80d2472a530c78ac69185951944be78f258b38d4ab5560a1aa3a"
+    },
+    {
       "path": "docs/repository-check/runtime-check.json",
       "bytes": 1151,
-      "sha256": "6c942ec1e0954a964506a35e9a8b307ad0b2e69ae4a55be448a6a14a5f64fbe5"
+      "sha256": "d4e2f2e3c4509f921627d23f7e5efa72da89eb6f321de8239b725002e04c2ac0"
     },
     {
       "path": "docs/scene-requirements-r2/APPROVED-SCENE.md",
@@ -4935,13 +4950,13 @@
     },
     {
       "path": "package-lock.json",
-      "bytes": 36610,
-      "sha256": "fea61c0ed16879a5e9e150374993673bce965ea7722abc548fc6565828f09464"
+      "bytes": 36612,
+      "sha256": "3e6416bbd06e689c1399c577bc8593f6444679c3f4b1af1d961552a2b9fd0d80"
     },
     {
       "path": "package.json",
-      "bytes": 317,
-      "sha256": "53fec689cdaddf8c6f1464a730363d630a17a6708645d2f44bf0ba05adedc0f3"
+      "bytes": 1110,
+      "sha256": "bacad451eb047e85c8a3a515a3a92911982cb4a26e146440aaf3a48a3e9c1d29"
     },
     {
       "path": "public/native-scenes/ArenaScene-prefab/manifest.json",
@@ -5850,8 +5865,8 @@
     },
     {
       "path": "requirements.txt",
-      "bytes": 53,
-      "sha256": "5b96a8e1dd0281b91d64868a76b4cb5e7b38d5b1291ff438ec4ce6d4376c6f64"
+      "bytes": 102,
+      "sha256": "4fab078d9613b704b86182e62caaffae27e64d667a29d01c0656fa6c45f7484a"
     },
     {
       "path": "restore_evidence.py",
@@ -6320,8 +6335,8 @@
     },
     {
       "path": "tools/capture_melee_v22r.mjs",
-      "bytes": 2249,
-      "sha256": "a6d297c07a23c9ffbcf09a1c1d0a8a564606f840ffb6044fcadee4ea3554e84c"
+      "bytes": 2273,
+      "sha256": "5b86f7075177caf286472a2c126545b036ce2167299c9d27853ea0c62b29c0c5"
     },
     {
       "path": "tools/capture_native_scene_v22.mjs",
@@ -6445,8 +6460,8 @@
     },
     {
       "path": "tools/compare_melee_prefix_v22r.mjs",
-      "bytes": 6370,
-      "sha256": "3f29263d66b518d48b2724818447a75705cde76462da4b17132d5be2ebb724f6"
+      "bytes": 6346,
+      "sha256": "7601e85a8a0f8dc0b0ae2136e2857e9bcdef13e59408ab04922a50934abbee47"
     },
     {
       "path": "tools/compare_v22.py",
@@ -6494,6 +6509,11 @@
       "sha256": "f1663429a77f950a6df0372d4d1b8054c1a941ddd40503f96dc6b3f1eaceeaa9"
     },
     {
+      "path": "tools/doctor_machine.mjs",
+      "bytes": 2567,
+      "sha256": "b4bea3eae32e9109d8df6d323ce5f18de310aae81fd187792ff6fbf59466cae5"
+    },
+    {
       "path": "tools/encode_burst_v22r.py",
       "bytes": 4209,
       "sha256": "1843965a5262e1ea4ad40ac1e123c7e6344967329aee63686ba3d7fa946e598e"
@@ -6515,8 +6535,8 @@
     },
     {
       "path": "tools/encode_melee_v22r.py",
-      "bytes": 3101,
-      "sha256": "bb8739c5b23985aca89293e3f3ac56e9d4fb30c0d64641aa3916dfa13b75cdbe"
+      "bytes": 3113,
+      "sha256": "baddd165e57e9a2082c121211a97c97fd6198463bd5ae614c61866529943abb5"
     },
     {
       "path": "tools/encode_motion_v10.py",
@@ -6682,6 +6702,11 @@
       "path": "tools/local_response_v21.py",
       "bytes": 7269,
       "sha256": "0f8a950a4e3f104298d7e233da3baacf90d3222cd2c3275d8147ff3f864becfa"
+    },
+    {
+      "path": "tools/machine-runtime.mjs",
+      "bytes": 834,
+      "sha256": "9c63df46dc42ef5743596444935586f967557bf65aba313c5d20ab9ce3d9b591"
     },
     {
       "path": "tools/manifest_v16.py",
@@ -6859,6 +6884,11 @@
       "sha256": "ca4e39a819896465185c04fe629e3914ccaef15656b2a825ea288228bd66d14e"
     },
     {
+      "path": "tools/portable_media.py",
+      "bytes": 479,
+      "sha256": "faa00168a6e208d015b39a9daaa996907aceabfdf8f4ccb6cafa2f60cc7171c4"
+    },
+    {
       "path": "tools/pose_diagnostics_v10.mjs",
       "bytes": 1860,
       "sha256": "4d4a5bdf8bb23d08ad18b045bdd35653ad63383c047f963277528f7ae16fa314"
@@ -7029,6 +7059,11 @@
       "sha256": "c7ac49a6dee4108bd8319b7337c982f6c96167952c4101ad3246e3496e29b92e"
     },
     {
+      "path": "tools/run_python.mjs",
+      "bytes": 344,
+      "sha256": "af4f86d0bc083b0d2b22e28039596bbb73bbcc77c485e595b105fceb34bc3964"
+    },
+    {
       "path": "tools/scene_occupancy_v22r.py",
       "bytes": 2137,
       "sha256": "55251f08caeaa9842f6299be0452202afc6f2870a595d575dc7c70f846eac455"
@@ -7037,6 +7072,11 @@
       "path": "tools/select_overtake_v10.py",
       "bytes": 1104,
       "sha256": "49e1ad82f1e1a6c494b326ac997cb01971d0b080e2c96fe45337716393799d5f"
+    },
+    {
+      "path": "tools/setup_machine.mjs",
+      "bytes": 2775,
+      "sha256": "3888b89b6241f254d49f13246effa76c47e0b7176e37f1b3bd81d983c87c86c8"
     },
     {
       "path": "tools/single_shot_probe_v10.mjs",
@@ -12120,8 +12160,8 @@
     },
     {
       "path": "verify_repository.mjs",
-      "bytes": 1966,
-      "sha256": "0a5cf4ef403aa1bf91ed8095062305541fa54052553f8129e17e9fa81a44eddc"
+      "bytes": 1933,
+      "sha256": "d6c3e9783f6fa2b8b2dc397ccf76153dc8ba70e5a770d671d597f65258c0c922"
     },
     {
       "path": "vite.config.js",

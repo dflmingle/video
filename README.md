@@ -2,6 +2,8 @@
 
 本仓库整理本次视频需求涉及的工程、原始资产、模拟数据、对照视频与验证资料。
 
+**换电脑接手请从 [CONTINUE-HERE.md](CONTINUE-HERE.md) 开始。** 提供自动安装、环境检查、当前制作状态和给 Codex 的接手提示。
+
 **已确认基线：C1，原提交 `7c20b43a44f9c9dc6b8c2653646103e45fb72bbd`，0–2.65 秒。** 本轮新增近战是工作快照，尚未获得用户视觉确认，不应把模拟或测试通过视为正式成片通过。
 
 ## 当前需求
@@ -44,10 +46,8 @@
 ```powershell
 git clone https://github.com/dflmingle/video.git
 cd video
-git lfs pull
-npm ci
-python -m pip install -r requirements.txt
-npx vite --host 127.0.0.1 --port 5267 --strictPort
+npm run setup
+npm start
 ```
 
 C1 基线：<http://127.0.0.1:5267/v22.html?variant=V22R-C1&presentation=approved-castle>
@@ -58,7 +58,7 @@ Unity 原生场景可用 Unity Hub 打开 `unity-source/` 后选择 `Assets/V22R
 
 ## 重建与核查
 
-脚本保持原工程路径结构。捕获脚本当前使用 Windows Chrome 路径和端口 5267；换机器时需相应调整。源资料中的绝对路径用于溯源，不代表目标机器也有这些目录。
+本轮续作命令使用项目内 Python 环境、Playwright自动查找的本机Chrome和可移植字体查找，默认端口5267。详见 [CONTINUE-HERE.md](CONTINUE-HERE.md)。历史工具和源资料中的绝对路径保留用于溯源，新电脑不需要运行旧归档脚本。
 
 ```powershell
 # 恢复逐帧基线和无损压缩日志（完整像素对照需要）

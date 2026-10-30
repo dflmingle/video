@@ -3,6 +3,7 @@ import json,subprocess,hashlib
 from pathlib import Path
 import cv2,numpy as np,imageio_ffmpeg
 from PIL import Image,ImageDraw,ImageFont
+from portable_media import diagnostic_font
 P=Path(__file__).resolve().parents[1];O=P/'output/v22r-melee';D=P/'docs/v22r-melee';ff=imageio_ffmpeg.get_ffmpeg_exe()
 audit=json.loads((O/'preview/audit.json').read_text(encoding='utf8'));n=len(audit['frames']);fps=60;outputs=[]
 def encode(name,start,count):
@@ -12,7 +13,7 @@ def encode(name,start,count):
 full=encode('C1-continued-full-preview-480x720-60fps.mp4',0,n)
 tail=encode('C1-continued-from-2.3s-preview-480x720-60fps.mp4',138,n-138)
 pair=O/'C1-original-vs-continued-opening-2.65s-60fps.mp4'
-font=ImageFont.truetype('C:/Windows/Fonts/msyh.ttc',18)
+font=diagnostic_font(18)
 proc=subprocess.Popen([ff,'-y','-loglevel','error','-f','rawvideo','-pix_fmt','rgb24','-s','960x752','-r','60','-i','-','-an','-c:v','libx264','-crf','18','-pix_fmt','yuv420p','-movflags','+faststart',str(pair)],stdin=subprocess.PIPE)
 for f in range(159):
  im=Image.new('RGB',(960,752),'#222629');draw=ImageDraw.Draw(im)

@@ -1,6 +1,8 @@
 import fs from 'node:fs';
 import {spawn} from 'node:child_process';
 import {chromium} from 'playwright';
+import {browserOptions,projectRoot} from './tools/machine-runtime.mjs';
+process.chdir(projectRoot);
 const port=5278,out='docs/repository-check';fs.mkdirSync(out,{recursive:true});
 const server=spawn(process.execPath,['node_modules/vite/bin/vite.js','--host','127.0.0.1','--port',String(port),'--strictPort'],{stdio:'pipe',windowsHide:true});
 let browser;
@@ -9,7 +11,7 @@ try{
   try{const r=await fetch(`http://127.0.0.1:${port}/v22.html`);if(r.ok)break}catch{}
   await new Promise(resolve=>setTimeout(resolve,500));
  }
- browser=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',args:['--use-angle=swiftshader','--enable-unsafe-swiftshader']});
+ browser=await chromium.launch(browserOptions());
  const page=await browser.newPage({viewport:{width:480,height:720}}),errors=[],failed=[];
  page.on('pageerror',e=>errors.push(e.message));page.on('response',r=>{if(r.status()>=400&&!r.url().endsWith('favicon.ico'))failed.push({url:r.url(),status:r.status()})});
  await page.goto(`http://127.0.0.1:${port}/v22.html?capture=1&variant=V22R-C1&presentation=approved-castle`);
